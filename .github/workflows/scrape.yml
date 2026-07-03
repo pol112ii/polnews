@@ -18,7 +18,8 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # 주제 3개 × 첫 실행 링크 변환까지 고려한 여유 시간
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 

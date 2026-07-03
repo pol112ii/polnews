@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>경찰 뉴스 브리핑</title>
+<title>데일리 뉴스 브리핑</title>
 <style>
   :root {
     --bg: #0e0f12;
@@ -37,12 +37,35 @@
     line-height: 1.6;
   }
   .wrap { max-width: 640px; margin: 0 auto; padding: 20px 16px 60px; }
-  header h1 { font-size: 1.25rem; margin: 0 0 4px; }
+  header { position: relative; }
+  header h1 { font-size: 1.25rem; margin: 0 0 4px; padding-right: 90px; }
   header p { color: var(--muted); font-size: 0.85rem; margin: 0; }
+  .counter {
+    position: absolute; top: 0; right: 0;
+    text-align: right;
+    color: var(--muted); font-size: 0.68rem; line-height: 1.5;
+    letter-spacing: 0.04em;
+  }
+  .counter b { color: var(--text); font-weight: 700; }
+
+  .tabs {
+    display: flex; gap: 6px;
+    margin: 16px 0 0;
+  }
+  .tabs button {
+    flex: 1;
+    background: var(--card); color: var(--muted);
+    border: 1px solid var(--line); border-radius: 10px;
+    padding: 10px 4px; font-size: 0.95rem; font-weight: 600;
+    cursor: pointer;
+  }
+  .tabs button.active {
+    background: var(--accent); color: #fff; border-color: var(--accent);
+  }
 
   .nav {
     display: flex; align-items: center; gap: 8px;
-    margin: 18px 0 12px;
+    margin: 12px 0;
   }
   .nav button, .nav select {
     background: var(--card); color: var(--text);
@@ -130,9 +153,14 @@
 <body>
 <div class="wrap">
   <header>
-    <h1>🚔 경찰 뉴스 브리핑</h1>
-    <p>매일 아침 5시부터 밤 11시까지, 매시간 경찰 관련 기사를 자동 수집합니다</p>
+    <h1>📰 데일리 뉴스 브리핑</h1>
+    <p>매일 아침 5시부터 밤 11시까지, 매시간 주제별 기사를 자동 수집합니다</p>
+    <div class="counter" id="counter" hidden>
+      TODAY <b id="cntToday">-</b><br>TOTAL <b id="cntTotal">-</b>
+    </div>
   </header>
+
+  <div class="tabs" id="tabs"></div>
 
   <div class="nav">
     <button id="prevBtn" aria-label="이전 날짜">◀</button>
@@ -150,6 +178,8 @@
 
 <script>
 const DAY_NAMES = ["일", "월", "화", "수", "목", "금", "토"];
+let topics = [];
+let currentTopic = null;
 let dates = [];
 let current = null;
 let currentData = null;
@@ -171,18 +201,73 @@ function fmtTime(isoStr) {
   });
 }
 
-async function loadIndex() {
-  const res = await fetch("data/index.json", { cache: "no-store" });
-  dates = (await res.json()).dates;
+async function fetchJson(url) {
+  const res = await fetch(url, { cache: "no-store" });
+  if (!res.ok) throw new Error(`${res.status} ${url}`);
+  return res.json();
+}
+
+// 탭 도입 전 데이터 경로(data/*.json)도 읽을 수 있게 하는 폴백.
+// 경찰 탭 전용이며, 새 구조로 수집이 시작되면 자연히 쓰이지 않는다.
+async function fetchTopicIndex(topicId) {
+  try {
+    return await fetchJson(`data/${topicId}/index.json`);
+  } catch (e) {
+    if (topicId === "police") return fetchJson("data/index.json");
+    throw e;
+  }
+}
+
+async function fetchBriefing(topicId, date) {
+  try {
+    return await fetchJson(`data/${topicId}/${date}.json`);
+  } catch (e) {
+    if (topicId === "police") return fetchJson(`data/${date}.json`);
+    throw e;
+  }
+}
+
+async function init() {
+  topics = (await fetchJson("data/topics.json")).topics;
+  const saved = localStorage.getItem("topic");
+  currentTopic = topics.find(t => t.id === saved) || topics[0];
+  renderTabs();
+  document.getElementById("prevBtn").onclick = () => move(1);
+  document.getElementById("nextBtn").onclick = () => move(-1);
+  document.getElementById("dateSelect").onchange =
+    e => show(e.target.value);
+  await loadTopic();
+}
+
+function renderTabs() {
+  const bar = document.getElementById("tabs");
+  bar.innerHTML = topics.map(t =>
+    `<button data-id="${t.id}" class="${t.id === currentTopic.id ? "active" : ""}">
+      ${t.emoji} ${t.label}
+    </button>`).join("");
+  bar.querySelectorAll("button").forEach(btn => {
+    btn.onclick = async () => {
+      currentTopic = topics.find(t => t.id === btn.dataset.id);
+      localStorage.setItem("topic", currentTopic.id);
+      renderTabs();
+      await loadTopic();
+    };
+  });
+}
+
+async function loadTopic() {
+  const content = document.getElementById("content");
+  try {
+    dates = (await fetchTopicIndex(currentTopic.id)).dates;
+  } catch (e) {
+    dates = [];
+  }
   const sel = document.getElementById("dateSelect");
   sel.innerHTML = dates.map(d =>
     `<option value="${d}">${d} (${dayLabel(d)})</option>`).join("");
-  sel.onchange = () => show(sel.value);
-  document.getElementById("prevBtn").onclick = () => move(1);
-  document.getElementById("nextBtn").onclick = () => move(-1);
-  if (dates.length) show(dates[0]);
-  else document.getElementById("content").innerHTML =
-    '<div class="empty">아직 수집된 데이터가 없습니다.<br>GitHub Actions 첫 실행을 기다려주세요.</div>';
+  if (dates.length) await show(dates[0]);
+  else content.innerHTML =
+    `<div class="empty">아직 수집된 데이터가 없습니다.<br>다음 정시 수집을 기다려주세요.</div>`;
 }
 
 function move(offset) {
@@ -197,10 +282,18 @@ async function show(date) {
   document.getElementById("prevBtn").disabled = i >= dates.length - 1;
   document.getElementById("nextBtn").disabled = i <= 0;
 
-  const res = await fetch(`data/${date}.json`, { cache: "no-store" });
-  const data = await res.json();
-  currentData = data;
-  render(data);
+  try {
+    currentData = await fetchBriefing(currentTopic.id, date);
+  } catch (e) {
+    document.getElementById("content").innerHTML =
+      `<div class="empty">데이터를 불러오지 못했습니다.</div>`;
+    return;
+  }
+  render(currentData);
+}
+
+function briefingTitle(data) {
+  return (data.topic && data.topic.title) || currentTopic.title;
 }
 
 function articleLi(a, rank) {
@@ -219,14 +312,14 @@ function articleLi(a, rank) {
 function render(data) {
   let html = "";
   if (data.sample) {
-    html += `<div class="banner">⚠️ 샘플 데이터입니다. GitHub Actions가 처음 실행되면 실제 기사로 교체됩니다.</div>`;
+    html += `<div class="banner">⚠️ 샘플 데이터입니다. 다음 정시 수집 때 실제 기사로 교체됩니다.</div>`;
   }
   html += `<div class="card">`;
-  html += `<h2>${fmtDate(data.date)} 경찰관련 기사 스크랩</h2>`;
+  html += `<h2>${fmtDate(data.date)} ${escapeHtml(briefingTitle(data))}</h2>`;
   const total = data.total_articles ?? data.total ?? 0;
   html += `<div class="updated">${fmtTime(data.generated_at)} 업데이트 · 기사 ${total}건 수집</div>`;
 
-  if (data.weather && data.weather.days.length) {
+  if (data.weather && data.weather.days && data.weather.days.length) {
     const [t, ...rest] = data.weather.days;
     html += `<div class="weather">`;
     html += `<div class="today">(${dayLabel(t.date)}) ${t.emoji} ${t.min}°C / ${t.max}°C</div>`;
@@ -266,6 +359,40 @@ function render(data) {
   document.getElementById("content").innerHTML = html;
 }
 
+// ── 방문자 카운터 ──────────────────────────────────────────────
+// Abacus(무료, 가입 불필요) 카운터 API + localStorage로
+// "기기당 하루 1회"만 집계한다. 실패하면 조용히 숨긴다.
+const COUNTER_API = "https://abacus.jasoncameron.dev";
+const COUNTER_NS = "pol112ii-polnews";
+
+async function countValue(action, key) {
+  const res = await fetch(`${COUNTER_API}/${action}/${COUNTER_NS}/${key}`);
+  if (!res.ok) return 0;
+  return (await res.json()).value ?? 0;
+}
+
+async function initCounter() {
+  const today = new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Seoul" })
+    .format(new Date()); // YYYY-MM-DD
+  const seenKey = "visited-" + today;
+  const first = !localStorage.getItem(seenKey);
+  // 지난 날짜의 방문 기록은 정리
+  Object.keys(localStorage)
+    .filter(k => k.startsWith("visited-") && k !== seenKey)
+    .forEach(k => localStorage.removeItem(k));
+  try {
+    const action = first ? "hit" : "get";
+    const [t, tot] = await Promise.all([
+      countValue(action, "day-" + today),
+      countValue(action, "total"),
+    ]);
+    localStorage.setItem(seenKey, "1");
+    document.getElementById("cntToday").textContent = t.toLocaleString();
+    document.getElementById("cntTotal").textContent = tot.toLocaleString();
+    document.getElementById("counter").hidden = false;
+  } catch (e) { /* 카운터 API 장애 시 표시하지 않음 */ }
+}
+
 function escapeHtml(s) {
   return s.replace(/[&<>"']/g, c => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
@@ -278,10 +405,10 @@ function copyBriefing() {
   if (!d) return;
   let lines = [];
   lines.push("━".repeat(14));
-  lines.push(`${fmtDate(d.date)} 경찰관련 기사 스크랩`);
+  lines.push(`${fmtDate(d.date)} ${briefingTitle(d)}`);
   lines.push("━".repeat(14));
   lines.push("");
-  if (d.weather && d.weather.days.length) {
+  if (d.weather && d.weather.days && d.weather.days.length) {
     const [t, ...rest] = d.weather.days;
     lines.push(`(${dayLabel(t.date)}) ${t.emoji} ${t.min}°C / ${t.max}°C`);
     if (rest.length) {
@@ -311,7 +438,8 @@ function copyBriefing() {
   });
 }
 
-loadIndex();
+init();
+initCounter();
 </script>
 </body>
 </html>
