@@ -8,7 +8,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from scrape import DATA_DIR, resolve_google_links
 
-data_files = sorted(DATA_DIR.glob("????-??-??.json"), reverse=True)
+data_files = sorted(DATA_DIR.glob("*/????-??-??.json"), reverse=True) \
+    or sorted(DATA_DIR.glob("????-??-??.json"), reverse=True)
 if not data_files:
     print("데이터 파일 없음 — 테스트 생략")
     sys.exit(0)

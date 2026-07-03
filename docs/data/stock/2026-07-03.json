@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T09:00:00+09:00",
+  "sample": true,
+  "topic": { "id": "stock", "label": "주식", "emoji": "📈", "title": "주식·증시 기사 스크랩" },
+  "weather": null,
+  "top_issues": [
+    {
+      "title": "(샘플) 코스피, 외국인 매수세에 사상 최고치 경신",
+      "link": "#",
+      "source": "샘플뉴스A",
+      "published": "2026-07-03T06:00:00+09:00",
+      "latest": "2026-07-03T08:00:00+09:00",
+      "mention_count": 5,
+      "sources": ["샘플뉴스A", "샘플뉴스B"]
+    }
+  ],
+  "sections": [
+    {
+      "name": "종목·기업",
+      "articles": [
+        {
+          "title": "(샘플) 반도체 대형주, 2분기 실적 기대감에 강세",
+          "link": "#",
+          "source": "샘플뉴스",
+          "published": "2026-07-03T05:00:00+09:00",
+          "mention_count": 1,
+          "sources": ["샘플뉴스"]
+        }
+      ]
+    }
+  ],
+  "total_articles": 6,
+  "total_issues": 2,
+  "raw": []
+}
