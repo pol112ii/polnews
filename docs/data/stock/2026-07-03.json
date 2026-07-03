@@ -1,36 +1,3328 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T09:00:00+09:00",
-  "sample": true,
-  "topic": { "id": "stock", "label": "주식", "emoji": "📈", "title": "주식·증시 기사 스크랩" },
-  "weather": null,
+  "generated_at": "2026-07-03T14:33:05.409261+09:00",
+  "topic": {
+    "id": "stock",
+    "label": "주식",
+    "emoji": "📈",
+    "title": "주식·증시 기사 스크랩"
+  },
+  "weather": {
+    "location": "서울",
+    "days": [
+      {
+        "date": "2026-07-03",
+        "min": 21,
+        "max": 27,
+        "emoji": "🌦️"
+      },
+      {
+        "date": "2026-07-04",
+        "min": 22,
+        "max": 28,
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-07-05",
+        "min": 22,
+        "max": 26,
+        "emoji": "🌧️"
+      }
+    ]
+  },
   "top_issues": [
     {
-      "title": "(샘플) 코스피, 외국인 매수세에 사상 최고치 경신",
-      "link": "#",
-      "source": "샘플뉴스A",
-      "published": "2026-07-03T06:00:00+09:00",
-      "latest": "2026-07-03T08:00:00+09:00",
-      "mention_count": 5,
-      "sources": ["샘플뉴스A", "샘플뉴스B"]
+      "title": "동아쏘시오그룹 상장3사 서스틴베스트 'ESG 베스트 기업' 3년 연속 선정",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wTm5fRFVobGktS0JBNkdVMXlYRlZFa2NsQ0pvWHNhSDBwRkc0dTRoaVkxTF9PNU5xZGtfLXcwVjJHSE16eDlXYk5LTGYxb2FXbm5qN2s2dV9PZ9IBVEFVX3lxTE1Dc3hRUFJLNTFBWGhBa3FUZ1RvclNhRktFLS03eS05UTEzUUYwRWxjbmhiSmE1Z3BGdzVVbjlSSExBXzQ2TWxRdE5iYTl5U2gyU0lIQw?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-03T08:36:36+09:00",
+      "latest": "2026-07-03T13:55:12+09:00",
+      "mention_count": 16,
+      "sources": [
+        "한국경제",
+        "PRESS9",
+        "Chosunbiz",
+        "뉴스1",
+        "ksdaily.co.kr",
+        "스트레이트뉴스",
+        "디스커버리뉴스(DISCOVERYNEWS)",
+        "매일일보",
+        "머니투데이",
+        "한스경제",
+        "MEDI:GATE NEWS",
+        "의학신문"
+      ]
+    },
+    {
+      "title": "뉴욕증시, 반도체 약세 속 혼조 마감…다우는 최고치",
+      "link": "https://www.newspim.com/news/view/20260703000019",
+      "source": "뉴스핌",
+      "published": "2026-07-03T05:39:00+09:00",
+      "latest": "2026-07-03T10:14:02+09:00",
+      "mention_count": 16,
+      "sources": [
+        "뉴스핌",
+        "뉴시스",
+        "뉴스웍스",
+        "YTN",
+        "Chosunbiz",
+        "매일경제TV",
+        "연합뉴스 한민족센터",
+        "알파경제",
+        "동양뉴스",
+        "세종의소리",
+        "KBS 뉴스",
+        "TBS 서울"
+      ]
+    },
+    {
+      "title": "한투운용 “액티브 ETF 4종 상장폐지…해지상환금 지급 예정”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUdk15YmUyLUEtT09PN3dVcno1OHd2NUNvZFBPNl9zODZqaTdtd0NwRnRtbkFiRkFxdVp2T21pMUxTVy1jTmxRdVhzZ0RYd1JDMjRNRA?oc=5",
+      "source": "이투데이",
+      "published": "2026-07-03T08:35:00+09:00",
+      "latest": "2026-07-03T12:52:50+09:00",
+      "mention_count": 15,
+      "sources": [
+        "이투데이",
+        "ebn.co.kr",
+        "연합뉴스",
+        "뉴스투데이",
+        "뉴스톱",
+        "파이낸셜뉴스",
+        "뉴스핌",
+        "인포스탁데일리",
+        "라이센스뉴스",
+        "로이슈",
+        "브릿지경제",
+        "서울경제TV"
+      ]
+    },
+    {
+      "title": "[증시 인사이트] 급락장에 코스피·코스닥 장중 매도 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QcGRZQVhseThwUUpHZ2cyY2NDYUcyYUV0VXBQQ2FzcFRjZy13M0xlMG1WMWlYejdDRXN2RkJlRmYyclBqMmFYaEJiRXZkUlU?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-02T16:46:40+09:00",
+      "latest": "2026-07-03T14:05:20+09:00",
+      "mention_count": 8,
+      "sources": [
+        "v.daum.net",
+        "머니투데이",
+        "중앙일보",
+        "매일경제 마켓",
+        "아시아투데이",
+        "경기일보",
+        "YTN",
+        "뉴스토마토"
+      ]
+    },
+    {
+      "title": "'삼전닉스' 9% 반등에 코스피 5% 급등…매수 사이드카",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54OFJEdmtQVVFmVWRGOEN1Nkw4OUxhWU1oT2pnT0QxSEFReE4zZFJfNF91Qmp3aHNNSmFzY01QQ1Z3YXNCQTd4eE96VWt6TXFOdHA1aVBwWGdwNTg?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T14:00:44+09:00",
+      "latest": "2026-07-03T14:13:00+09:00",
+      "mention_count": 7,
+      "sources": [
+        "뉴스1",
+        "서울경제TV",
+        "경기신문",
+        "동아일보",
+        "조세일보",
+        "전자신문",
+        "KBS 뉴스"
+      ]
     }
   ],
   "sections": [
     {
+      "name": "시황",
+      "articles": [
+        {
+          "title": "[속보] 코스피, 장 초반 7700선 회복 등락…코스닥은 1%대 약세 지속",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mUkVZWG9zZ1BXUlgxaldaMDZzbXN3NmZ1NldqdDhwR1k2QUNEWnBRclZVTUo5Q19hLWRxVjI4ZnBzRnNSZVA3R1pqc0p1SzhISUhHdVFVdnpJWW9wNlo3WmVfbjRNVjg?oc=5",
+          "source": "강원도민일보",
+          "published": "2026-07-03T09:23:41+09:00",
+          "latest": "2026-07-03T13:43:16+09:00",
+          "mention_count": 7,
+          "sources": [
+            "강원도민일보",
+            "브릿지경제",
+            "오피니언뉴스",
+            "뉴시스",
+            "한국경제",
+            "연합뉴스",
+            "매일경제 마켓"
+          ]
+        },
+        {
+          "title": "[속보] 코스닥 8.46p(0.98%) 오른 875.18(개장)",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oQ1VvZGVYbUptcHJtTVp0Ny1ZZWhrRzFWVmVpX0d1OXh1S0xDNVNiTC0zV1B5WnFkaXdSdFNIMEtJTTZKQnZkUEQ3TFduMG1hbVNHSA?oc=5",
+          "source": "이투데이",
+          "published": "2026-07-03T09:02:00+09:00",
+          "latest": "2026-07-03T13:06:00+09:00",
+          "mention_count": 6,
+          "sources": [
+            "이투데이",
+            "서울파이낸스",
+            "매일경제 마켓",
+            "연합뉴스",
+            "뉴스1",
+            "KBS 뉴스"
+          ]
+        },
+        {
+          "title": "코스피, 외국인 순매도에 7590선 약세",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DU3Z2SGtIN2E3YkRZTDB0amFXbkpRTzc3NktadzdOSzRLUGFqTFA2ejRwUGdWaXZNMFd6ZVFLb3ROM1VkTUVyc0J2RXRLNndpVEN2cTNKYjZjbFMtd0JWZEpmaDFfblNEekNTeNIBcEFVX3lxTE1DTXoxR1JJZ2pvUTRoNVJpT3RURXFUSzlYWW1rdjctTXNWeWZqUXlFZXdfWHdDSmE3UFRqMDMyMTVkSWZKWkZZSXhteGp0NFRLREJ4R3RWZDhpNWxnUF94eVRfNnNVUjMwN2EwYXRHVmM?oc=5",
+          "source": "소년한국일보",
+          "published": "2026-07-03T09:37:42+09:00",
+          "latest": "2026-07-03T10:30:43+09:00",
+          "mention_count": 6,
+          "sources": [
+            "소년한국일보",
+            "녹색경제신문",
+            "디지털데일리",
+            "글로벌이코노믹",
+            "공감신문",
+            "비즈니스포스트"
+          ]
+        },
+        {
+          "title": "기관 매수에 코스피 7,800선 회복…반도체주가 반등 견인",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSTk4T3JzR2xGbzFTVDNSN25VTXZBOXNheXF0S0liVXNOQXhfYllJNGh2NnF0NU5lTFBXSUtkMmpHOWZKcW1fWHRPdFZTWFN3Zk9zVTI2UFgwNGhhTW1wSHNxX0NSWF9OVXozM0ZOb0HSAXRBVV95cUxQSE53Slhfc0xQMktPXy1tc1YtakZabjJtVXBnTXR3R3k5dmRjZTlBWlRBRUFUaHdKYmVaUmZ2dTBiY3RxUTZsbFF0XzAtcUZMUG9QUXN0d1haN2hURGFIVFNCdUVpVWZfdnNyWmgyQXpvVkJ2LQ?oc=5",
+          "source": "산경투데이",
+          "published": "2026-07-03T11:31:37+09:00",
+          "latest": "2026-07-03T14:28:00+09:00",
+          "mention_count": 5,
+          "sources": [
+            "산경투데이",
+            "머니투데이",
+            "글로벌이코노믹",
+            "서울경제TV",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "코스피 8000·코스닥 900선 내줬다…AI둔화 우려에 삼전닉스 급락",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85dURkSVZMX0NnYjRMQWdjSVJFaDN2RGE5dVliaUhmVDJYNW5lTWluU1ZlU3pISXJuNk1EYXB0Zl9hR0pqSlItZXItYUNDUUFOZTBwVGdFeUdXQkFjY1h5NlFCNkdfa2RfZ3c?oc=5",
+          "source": "비즈워치",
+          "published": "2026-07-02T16:23:03+09:00",
+          "latest": "2026-07-03T13:50:26+09:00",
+          "mention_count": 5,
+          "sources": [
+            "비즈워치",
+            "히트뉴스",
+            "아주경제",
+            "문화일보",
+            "서울신문"
+          ]
+        },
+        {
+          "title": "'반도체 추락'에 코스피 7.9% 급락 7,648…코스닥도 6.7%↓",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqV05ZcTRNVFlrb3RYbFlQX0FlS3MxdU1PVXVJcTBNWkpVNHF3dHAtR0xtTHpsMWZVcWhTSGg1Smh2cld6bXZNMnVaT1BtSTR0aUdZdWpZSzQxd2fSAWBBVV95cUxOUTgzUUJWYXFkMkJOUmlTb3NxZTNWTWItZlU5WFNqZlZiVVh4YVVnS2hvZmdNLUoyMlVLTmJ2Rnh5TGhWQXgxb2hBTTNndDM5MTRUQkIwbFhmMHlVZm52VUI?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-07-02T15:38:36+09:00",
+          "latest": "2026-07-03T12:10:21+09:00",
+          "mention_count": 5,
+          "sources": [
+            "연합뉴스",
+            "v.daum.net",
+            "대구MBC",
+            "KBS 뉴스",
+            "MBC 뉴스"
+          ]
+        },
+        {
+          "title": "밸류업 안 하면 특례 혜택도 없다…거래소, 코스닥 특례상장 관리 강화 - 조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFVTYXVrdnVDUlF5WU5Yc0pvbHBoUkp1OHFsZDZMWm9MZllveTlzWmtqdDRhS0R4RHZSX2JGZXdVbmp4TGlvOThhSk9BTmNwN2RrQUdvMUtKa3NCeV8xQW1XNjA4eXUzblN3cUdzZ1czcXN0YmFHc044VWc3bE5MeEJJR0NiOFV50gGcAUFVX3lxTE9QR29mdXVuUmNCY0REaExuYjFyNjI2Rkx0ZVlxSlhuM3pQa3AySDVQWlJtUFBKaEJVeHI0VHFjaGU4ZW5tZVVOeEdEU0RWcDlONk9VbWU2Q0pwQmxHU1hJVjZPTkwtbXZkZm85N1BhcGZQbHpZRUFWV0kxb2ljS0o0Z29YaDMyOF8tTzBFRkM3QTFHT242VnRDcUdxTA?oc=5",
+          "source": "Chosunbiz",
+          "published": "2026-07-02T17:22:00+09:00",
+          "latest": "2026-07-03T10:39:10+09:00",
+          "mention_count": 5,
+          "sources": [
+            "Chosunbiz",
+            "서울경제TV",
+            "부산일보",
+            "CBC뉴스",
+            "포쓰저널"
+          ]
+        },
+        {
+          "title": "코스피, 외국인 '팔자'에 하락 지속…7,400대 후퇴(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uQU1CeTFGNlJySElHTktPQjN3ZGM2bGw1azFBdDZaZGl1US1pYmIxU1k5UkJiSWJoajBjdWFWd09QTExObC1hSDhiRnZFcFk?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-07-03T09:46:11+09:00",
+          "latest": "2026-07-03T10:12:00+09:00",
+          "mention_count": 5,
+          "sources": [
+            "v.daum.net",
+            "스트레이트뉴스",
+            "매일경제 마켓",
+            "hidomin.com",
+            "mstoday.co.kr"
+          ]
+        },
+        {
+          "title": "'고용 냉각'에 美 증시 혼조…다우 최고치·나스닥 0.8%↓",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YZEZIVE5JcFhSeFlad0tpa3NOOTVFV1B3aUd6QmJ3SEliaFhxblg2WTVSLUZNMk9GenlxX3R4ekU3cDduQ2x1NERVcGNMQTdTb1FoUUNR0gGPAkFVX3lxTFBMWWxRXzdMRFNFQThsNUJWNFYwMTRhTk53bzVOMm83cEU1dG5nbHJDTF9WZUlodC1uV2VWOFhXSVZFNlZpNEdUdjJSeHlyVkNGcWVFX2ZhNWt6Q2p3N3dmelhIcVlQSGtpQXpaUE5uMVc0SDN1MEhTdlVfYUZLNG1ZTTVRcHh3MkxZbUdEOHY2dWp5Zm9OM2ktMzlUTjJpYlF3OFdUamFMd3Zmdm5UQnI4Y3VaSHVDUjZWQjQ5LUQ2V1haaWMzOWJYckJyaENBV3lqRFlVSE5fRGJJNEEzOWg3Z2JqVVY3WmJ4dTZLTUNJVFpmVU04cnlRZmNldVduTHYxOFpTMmpTTFNrTERCN0E?oc=5",
+          "source": "데일리안",
+          "published": "2026-07-03T05:00:00+09:00",
+          "latest": "2026-07-03T05:12:00+09:00",
+          "mention_count": 5,
+          "sources": [
+            "데일리안",
+            "조선일보",
+            "연합뉴스",
+            "블루밍비트",
+            "이데일리TV"
+          ]
+        },
+        {
+          "title": "코스피, 장중 상승전환해 7,800대 회복…삼전·닉스 반등",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ETTZqS3BKcFBYakZZMzZLYXRobDJyYi1icWpIY2JaMHFmTDdldFJ5VXNtSlFwUnJWQmZ2WFFDcEE0b19icHlaSEpTTGFfZ2s?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-07-03T11:09:55+09:00",
+          "latest": "2026-07-03T13:40:50+09:00",
+          "mention_count": 4,
+          "sources": [
+            "v.daum.net",
+            "연합인포맥스",
+            "YTN",
+            "머니투데이"
+          ]
+        },
+        {
+          "title": "[개장시황] 코스피, 보합권 출발 뒤 하락 전환…1%대 약세",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mdzlBSkN3Y1Uya3VjYW83S2FUYVhwWi1Vazc1ZHFlcWpWOTRRaERHQ2l4b0xPOUpDbXYxV2dmTzliZjVzb0EwTUUzUWcyakVTMHlabHEzN1dNbjJw?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-07-03T09:32:00+09:00",
+          "latest": "2026-07-03T10:14:00+09:00",
+          "mention_count": 4,
+          "sources": [
+            "뉴스핌",
+            "v.daum.net",
+            "KBS 뉴스",
+            "브릿지경제"
+          ]
+        },
+        {
+          "title": "\"키움증권, 목표가 55만…상승장 수혜·코스닥 정책호재\"-미래 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92OGRqbThGWWtrTW1BSWRQUnAxano3SXViUUk1VzNCYmU1aWRxMVJWcHNSN0JVTThhN3dBbmlWQnBsSV83SzU3d2dBN3UyZGVhbDNiYVNnU3U3NXlDZEpCUEdZUHYta19j0gFuQVVfeXFMUGlBNHRfUGtMRGdFSlFLUXFLMmppUktvTTZKaWxmcTRjYXIySGJSZDhWUkNIalNkZzlzR1RYeE5JY2NJa3BucEptbVNETWZsNzItbnVNcVFYMHZTSVhGYUwtdEJhTmdXbEtDOEI1MGc?oc=5",
+          "source": "머니투데이",
+          "published": "2026-07-03T08:28:11+09:00",
+          "latest": "2026-07-03T09:48:00+09:00",
+          "mention_count": 4,
+          "sources": [
+            "머니투데이",
+            "뉴스1",
+            "연합인포맥스",
+            "뉴스투데이"
+          ]
+        },
+        {
+          "title": "美 반도체주 하락에도…코스피, 상승 출발해 방향성 탐색 - 조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3RsdDhOcTBvWERFYkJ1dXRjX0ZoNmdXU1ZILUJfWE16dEh0Mm00MkY4Vkg2NjByWGttV2tlVnY0V2kzZ0QwcHBza0huT1ZqUU9Id1pHWE1tZWJsaXNKanh1S0hQV2F1S1djZDl3TWVPVVF1UW1YWTdxMGtRU1JjenhvTjlqSGlT0gGcAUFVX3lxTE1UVXY2bGNPQkhvbmhvWFBDbGlNM3FtTDZ6bkdubWVGaG9xRS1sR2F0dkYteEpmY19HeGJVMld5X3dxVUVTcmwtMWc4YnJyR19xU015VjZ6eF81SDZ1Y3VfbXdpajBRZl9PTUhXMzM3dTI2QjcydWZiZDhzcnh4REd4dGUzbHlrYkQ5V1l1UVZwZW1ubEZiVF95MTgtVA?oc=5",
+          "source": "Chosunbiz",
+          "published": "2026-07-03T09:17:00+09:00",
+          "latest": "2026-07-03T09:34:52+09:00",
+          "mention_count": 4,
+          "sources": [
+            "Chosunbiz",
+            "뉴스핌",
+            "전자신문",
+            "에너지경제신문"
+          ]
+        },
+        {
+          "title": "[스팟] 코스피 91.66포인트(1.20%) 오른 7739.75 출발 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Uem94cWp3aElaQ2ZxS0tVSTVNOVhXSGpsYmdPOHk4ZVh0T2o2bHRuRVFWUVRpTmRzMU1FSVdtSm9ScW9sYUNsb1JYWWFiMEUwWWVzRnF1QmNoRzdURGFycXdHVmN2ODlI0gFuQVVfeXFMUF92OXd4emVhX3BUMWZZNGhpMjlTOUtCS0dBZ0dZUkljNGE0ckQtMzBoLW4yajUzNjdQVElzeVJYNGNhT3ZTWExsMjMyalNESDJWaU52SmpUbGowWjB0NWRLS0xfOVhBVEZNcWNzd2c?oc=5",
+          "source": "머니투데이",
+          "published": "2026-07-03T09:01:20+09:00",
+          "latest": "2026-07-03T09:24:02+09:00",
+          "mention_count": 4,
+          "sources": [
+            "머니투데이",
+            "마켓인",
+            "이데일리",
+            "글로벌이코노믹"
+          ]
+        },
+        {
+          "title": "코스피, 장초반 0.35% 상승한 7674.48…코스닥 0.90%↓(2보)",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nejdwcm16RXRXVjVlekJiOHU3UDdRT1l5eDZkQmMwYW5nM2hDVVVtMk9oVG9CUTNHNm82RzlranFEV3RLSV94X0hCSno1TXF1NGFmMlJVUDh5VTNOWDBB?oc=5",
+          "source": "뉴스1",
+          "published": "2026-07-03T09:06:39+09:00",
+          "latest": "2026-07-03T09:19:08+09:00",
+          "mention_count": 4,
+          "sources": [
+            "뉴스1",
+            "v.daum.net",
+            "2news.co.kr",
+            "뉴스토마토"
+          ]
+        }
+      ]
+    },
+    {
       "name": "종목·기업",
       "articles": [
         {
-          "title": "(샘플) 반도체 대형주, 2분기 실적 기대감에 강세",
-          "link": "#",
-          "source": "샘플뉴스",
-          "published": "2026-07-03T05:00:00+09:00",
+          "title": "SK하이닉스, 美 ADR 상장 임박…폭락 속 희망 될까",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UUFlvTmV0ZEJIZHlic0JqMmhJU1VrWUhOS0tna1d3Nk51el9CbzVCeUlYSktKbUFnaVFxOUg3ZlluYVI3WnFteXNJNUM?oc=5",
+          "source": "아이뉴스24",
+          "published": "2026-07-02T19:11:32+09:00",
+          "latest": "2026-07-03T11:54:14+09:00",
+          "mention_count": 5,
+          "sources": [
+            "아이뉴스24",
+            "뉴시스",
+            "서울경제",
+            "네이트",
+            "이코노미트리뷴"
+          ]
+        },
+        {
+          "title": "中휴머노이드 유니트리 상장 승인…신청 넉 달도 안 돼 마무리",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBYTR0aXFGRW5Rc0NESER5ZVR6SmNWU0dQNkZsNXFueGNlcExDTzZieGJWNVV3S1RiMW85dTlGZktWd2hQbXcxb095NmtlN1k?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-07-03T11:11:09+09:00",
+          "latest": "2026-07-03T13:49:10+09:00",
+          "mention_count": 3,
+          "sources": [
+            "v.daum.net",
+            "SBS Biz",
+            "파이낸셜뉴스"
+          ]
+        },
+        {
+          "title": "시큐리타이즈, NYSE 상장 첫날 2억9500만달러 규모 자사주 토큰화",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLb25zLW9FOTZ0VlFTMDd1R1RZT3N2UkhZanlGVTVGSWV1cEJSdmJCRmxfblNteWc3QUZla3dJTEp0alk5YnpjYWxSUUtyUU9I?oc=5",
+          "source": "블루밍비트",
+          "published": "2026-07-03T04:48:09+09:00",
+          "latest": "2026-07-03T11:13:45+09:00",
+          "mention_count": 3,
+          "sources": [
+            "블루밍비트",
+            "데일리비즈온",
+            "이데일리"
+          ]
+        },
+        {
+          "title": "주가조작 근절 대응단 출범 1년…8일 기자간담회",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZcUZ5cTY3QWVlTnM0QUYtNy1OZENIWkhLeFZYNkVUNmxJb1FxNkVmeXFEeVp6dDhPM1Y4dnd5eldHUlVQZkRMZlFvMDROcjVVTzl3MDI4R2xFcG8?oc=5",
+          "source": "KBS 뉴스",
+          "published": "2026-07-03T11:26:00+09:00",
+          "latest": "2026-07-03T11:27:52+09:00",
+          "mention_count": 2,
+          "sources": [
+            "KBS 뉴스",
+            "v.daum.net"
+          ]
+        },
+        {
+          "title": "팔란티어, 증권사 투자의견 상향에 주가 상승…목표가 175달러",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mQ00yYXZ1eUFLMjJ3UXpTUGtMTk1sbmRTTXBPOXJsNFFicnlMYnptdlNINkJGU0lWWFZYSjlvaXNMcDBLdWJRMmdXZE9XSnZyamdiSGNzREpMbWRxY1kxamJEbHJEbEtZQVNrUC0tWUI?oc=5",
+          "source": "연합인포맥스",
+          "published": "2026-07-03T10:12:36+09:00",
+          "latest": "2026-07-03T10:58:54+09:00",
+          "mention_count": 2,
+          "sources": [
+            "연합인포맥스",
+            "Benzinga"
+          ]
+        },
+        {
+          "title": "'제2의 LG엔솔' 막힌다…중복상장 가이드라인 최종안 내주초 발표",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0lhVFJEWHpRcDNKRjNzcEU2WUhuV3kzTmJHWnZGU3pkWDZjSzg2NlV5RkhBX0pFamNMZG1MWU5pelVEQU5oSVBHbml5NWw1ME9MNDNNbkpoUEFZczRLa0MzZDM2MmRhUmY4U01FbDgyTEc2Rll0NEF0cVJ6TUJmcA?oc=5",
+          "source": "이데일리",
+          "published": "2026-07-03T06:00:05+09:00",
+          "latest": "2026-07-03T10:47:43+09:00",
+          "mention_count": 2,
+          "sources": [
+            "이데일리",
+            "뉴시스"
+          ]
+        },
+        {
+          "title": "씨티, 삼성전자 목표주가 상향…메모리 펀더멘털 건재",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ySVAzdXZJNG1GWUZIZnB2M1ZZenpHYzcxZ3pVNWRqYmU5a0x5YmNnZGt1OTMwTHdaSVBwd1lzRlF5bHYydFJQTFl3NXVPUkFIbUoyYTVJX1JTU05NRkJNSlF5WllWTkNoSGU4bnhVRDE?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "2026-07-02T20:45:00+09:00",
+          "latest": "2026-07-03T09:52:23+09:00",
+          "mention_count": 2,
+          "sources": [
+            "Investing.com 한국어",
+            "비즈니스포스트"
+          ]
+        },
+        {
+          "title": "테슬라, 깜짝 전기차 인도량 발표에도 주가 1년만에 최대 하락…왜? - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wcU13TjlONGRTSEY2TXkxMm1qZUU1eW9hNzdkRW1md0h4Nlh1d3piVGNhZVVaYkEwX3JnN3lWN1U1RHdVWDluS3NCdzVtVEE1RUcyTG9kdUFqeWg1N0x1UXRoVGZLc0xr0gFuQVVfeXFMTjNKNjd3QnVNc24ydjNQemxwVzM0czdEeGRKNkREMlFZSGpYS2lzdWdZMFdDdk9wa1JBU1VhMXhoeVFza09ncnFIa3dOWUFYLUFlRjJWems2dVVwR2EyWnZnQ09HRFk5WE9rbXo0bFE?oc=5",
+          "source": "머니투데이",
+          "published": "2026-07-03T08:09:21+09:00",
+          "latest": "2026-07-03T08:53:02+09:00",
+          "mention_count": 2,
+          "sources": [
+            "머니투데이",
+            "v.daum.net"
+          ]
+        },
+        {
+          "title": "\"주가 20% 빠졌지만 과도\"…삼성물산, 지금이 매수 기회-SK",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEQzaEZmclRwSUhtM05fZ2I3NTFCdzNGSXpnUnhkczFoMEdOdV9HVzdocGhYNXpwQ2ItOVdZVTk4NHZXSGV5T0tPWUY5LWxoaWxFQWcwRXduVTloX1k3alh5dEpleE1DTW1KMDNFdXNkcVZwclZhZ0ZxbUtsWDAydw?oc=5",
+          "source": "이데일리",
+          "published": "2026-07-03T07:39:20+09:00",
+          "latest": "2026-07-03T08:47:01+09:00",
+          "mention_count": 2,
+          "sources": [
+            "이데일리",
+            "글로벌이코노믹"
+          ]
+        },
+        {
+          "title": "테슬라, 사상 최대 2분기 인도량에도 오늘 주가 하락한 이유는?",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPaTdyRnBGRl9Nc1pPWUI1aW12YVFfOVRXRXRDaldlTFVUUTJVaGh1VGVWVkZuTmxSaUlZeWZUUUlkZDdiYlFNX1k2OHFjTTlabTNNRFlhdzVBWlkzek9sYkVEMDNiYzY0SWNLR2o5eTR3eUtaenFB?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "2026-07-02T23:50:00+09:00",
+          "latest": "2026-07-03T08:22:55+09:00",
+          "mention_count": 2,
+          "sources": [
+            "Investing.com 한국어",
+            "연합인포맥스"
+          ]
+        },
+        {
+          "title": "병합 후에도 상장유지 '첩첩산중'…조아제약, 기업가치 제고 시험대",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xQ0xnN3ZOaUVJa01wWG1wWGp3ZzVRLWlzQUpqYTdzejRmRkxtRlVKMENnQ2JVd3ptQmxRSG44alI5emx4eC12ZXRWVUp0MzQ?oc=5",
+          "source": "톱데일리",
+          "published": "2026-07-03T14:24:00+09:00",
+          "latest": "2026-07-03T14:24:00+09:00",
           "mention_count": 1,
-          "sources": ["샘플뉴스"]
+          "sources": [
+            "톱데일리"
+          ]
+        },
+        {
+          "title": "[SK 재평가]③ 상장 멀어진 SK에코플랜트, 할인율도 달라지나",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wcG11aEMwZk5MRGV5VkVKU2RIb1I4UlYta1BwSUdObHAyRVRHc1JHNUxFdTBnZW0yVGFVSXhXSFpnYldBLTE2VkQtZzJLNHROTTcteUctbVRPLVA4OHI4b0M4VHc?oc=5",
+          "source": "PRESS9",
+          "published": "2026-07-03T14:16:33+09:00",
+          "latest": "2026-07-03T14:16:33+09:00",
+          "mention_count": 1,
+          "sources": [
+            "PRESS9"
+          ]
+        },
+        {
+          "title": "'회생절차 개시' 알파AI, 주권매매거래정지 기간 변경... 상장폐지 갈림길 지속",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CLUhDNDY3cFlGSlhBQjYwQzZlUnR5aWZwVDd6ejFNS0pwVy10Y2FIX0U2SDZ6dTFxTWxKdmtpRm5QRklPem5yNnlaY3ZIMkY1YkNDSzA5Q0c0WlJTUDExQk5QSXhWN0FXcDFXRnJXSHZUSzQ?oc=5",
+          "source": "데이터투자",
+          "published": "2026-07-03T14:00:06+09:00",
+          "latest": "2026-07-03T14:00:06+09:00",
+          "mention_count": 1,
+          "sources": [
+            "데이터투자"
+          ]
+        },
+        {
+          "title": "삼성SDS 임원들, 자사주 매입…주가 연동 성과급 '직접 증명'",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhUU5CQVR2MXUybmdXMGpkaDFxMWxuNk1Dd0pSb085QS13OTNwNHpqTjRhTWQ3VXdfZ1hBVnVNNnVpUWJLZFZXNjRhVXlvSEU?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-07-03T13:58:02+09:00",
+          "latest": "2026-07-03T13:58:02+09:00",
+          "mention_count": 1,
+          "sources": [
+            "v.daum.net"
+          ]
+        },
+        {
+          "title": "오늘 애플 주가가 반등하는 이유는?",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrUVZPS2xDS3RDeWY3WjFrcDlId3FzODBGekIzLVJXT3RBbjF4N09JYUZhall1VXlac0t6aldfOW9OWmY5LWt4ZExRcDVqZzZEZ2xKZXlVY2REeDE1NXFXNHpqSXhDWHR4WDd2bTdzYUx1VkhoZm5n?oc=5",
+          "source": "Investing.com 한국어",
+          "published": "2026-07-02T23:20:00+09:00",
+          "latest": "2026-07-03T13:29:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "Investing.com 한국어"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "기타",
+      "articles": [
+        {
+          "title": "시총 200억·동전주 퇴출 규제 가동…바이오헬스 23곳 영향권",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BLXlQeHJhcE9laWF1b0UxQ3l6TTB5U0FlVkFwX1ZWMDNzcG1Ta3ZpdHJqRGZrcXhrV1lKTjdBclNWbUVCOUdlVnJwcEpxdjNS?oc=5",
+          "source": "데일리팜",
+          "published": "2026-07-03T12:00:50+09:00",
+          "latest": "2026-07-03T12:00:50+09:00",
+          "mention_count": 1,
+          "sources": [
+            "데일리팜"
+          ]
+        },
+        {
+          "title": "No.1 경제·증권 채널 : @HKWOWTV",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUpJTmw1enlxUTlPMkFxd2QzTmpCMFVST0hnSGVIYWJaMzhSMVVmZkVjTDR6ajBGXzU2VjYzc243ODFWeDlUeHlRRHRDZmVNN0RRc3ZaRGxnaG5HTVZrYlJYZEFyTUhEUkc5Tkg3TG5wTTJTVkJkbHBfel9QQ0hMZUZQOUpaZGdXeG9EUnRRVGdYU2tadE9TSVM4ZFYxd3JIQzBN?oc=5",
+          "source": "한국경제TV",
+          "published": "2026-07-03T11:38:40+09:00",
+          "latest": "2026-07-03T11:38:40+09:00",
+          "mention_count": 1,
+          "sources": [
+            "한국경제TV"
+          ]
+        },
+        {
+          "title": "트럼프 지난해 상호관세 발표 뒤 빅테크 주식 '저가매수', 이해충돌 의혹에 외신 주목",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6RUl4RmozNmNBbVZxOFRKLUZ0eHVaa1ZlaGhobjE5ckR0V3o4MEl6ek0yLXNSYl9XcExTdlQyRFVxbWtFOEdhOFIyaHpyOXp4bE9JOEhDck9xODNoeXRUMEk1Q2Y3OG90RkhXZTQxOVo4SDA?oc=5",
+          "source": "비즈니스포스트",
+          "published": "2026-07-03T11:36:39+09:00",
+          "latest": "2026-07-03T11:36:39+09:00",
+          "mention_count": 1,
+          "sources": [
+            "비즈니스포스트"
+          ]
+        },
+        {
+          "title": "2026년 7월 3일 금융시장 동향",
+          "link": "https://kbthink.com/investment/trend/daily/260703.html",
+          "source": "KB Think",
+          "published": "2026-07-03T09:23:03+09:00",
+          "latest": "2026-07-03T09:23:03+09:00",
+          "mention_count": 1,
+          "sources": [
+            "KB Think"
+          ]
+        },
+        {
+          "title": "닛케이, 1% 넘게 떨어져 다시 67,000선",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiWDFkdk1VV3hVMGdPODlHLU1LV2lwaml4c3lJeV9kLVZla3RvUnlGbHRvZ0NqSHhCdWJWREktc3VzaWJUSXFXajJ2eXpvdmdXWnRza01hUG5GSHBUZzJhQTJrQlByZmFzZW1VWnpnQnJMQQ?oc=5",
+          "source": "KB Think",
+          "published": "2026-07-03T09:22:34+09:00",
+          "latest": "2026-07-03T09:22:34+09:00",
+          "mention_count": 1,
+          "sources": [
+            "KB Think"
+          ]
+        },
+        {
+          "title": "美 반도체주 이틀째 추락, 순환매로 소비재·제약은 강세...‘삼전닉스’ 오늘도 떨어지나",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnkxamg2ZWZnUzR0VFAtVkRuNjU2RVpfM1diS1dzMGcyMjZ1UFRhTnpDdUJqUTlpSFAzVkJ0Y01rT25uY19fVTR5UldpQlZjdzJuYjJ3YTJBdXhwVjY3SmtZblZGdERxQjc5bU1FbllXMVNpd0h6bzNUUEdyTHBvOA?oc=5",
+          "source": "조선일보",
+          "published": "2026-07-03T08:36:00+09:00",
+          "latest": "2026-07-03T08:36:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "조선일보"
+          ]
+        },
+        {
+          "title": "테슬라, 팔란티어, 로빈후드",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uRHJxdG9sbVZvY1dSeGk4WG1seW1rWlFaVWtXU3FiLUxYNkpXSllzbUl3b1pfVHYzTFZaYUxadDBXdzFQd2d2YWk2N2ZZUDBzUGlDcnoweFppZHA1LVFyc3JXZ2ZIbUFPOVdLNFlvVkM5WDg?oc=5",
+          "source": "마켓인",
+          "published": "2026-07-03T06:29:07+09:00",
+          "latest": "2026-07-03T06:29:07+09:00",
+          "mention_count": 1,
+          "sources": [
+            "마켓인"
+          ]
+        },
+        {
+          "title": "트럼프, 관세 유예 전날 애플 등 주식 327건 매수…뒤늦은 공개 논란",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pa1FwUWQ0cmxEVS03RmhtTjhEbGVFQWlyTzVlYW1fM0QyYlRmclRYbkh3dk9URUtnQ1JoZ25pQ1NiX0VHMW9wVnFqOTdxRE9IM1dMd0g2NzhJeDJScWJUYtIBeEFVX3lxTFBUVFJOb0N3Q0Y1WU81ZVRYUlp6OFF3MGczUGxDOFBMQ3pTcFp3VUgwX0pmZlRiVnFNbWpDbTFqaE1DUnhwbFBJdWk0WTZaQVhwOUlqMEF4MFJaX3h2Q056czB2a09Ma2VnNm5PS0xHT0dOTDFyYi1kYg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-07-03T05:09:05+09:00",
+          "latest": "2026-07-03T05:09:05+09:00",
+          "mention_count": 1,
+          "sources": [
+            "뉴시스"
+          ]
+        },
+        {
+          "title": "전 세계가 ‘빚투’ 몸살…미·일 신용융자 최고치 찍었다",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rZEducEdzUnliLV9wREJta3FYTmdjTkFoV2F4UnNQaHVtb0dXNG42VjJjMi12ajNJRks0cEc3YS01MlV2R0ZKXzUzejZBTW8?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-07-03T00:04:06+09:00",
+          "latest": "2026-07-03T00:04:06+09:00",
+          "mention_count": 1,
+          "sources": [
+            "v.daum.net"
+          ]
+        },
+        {
+          "title": "\"종말의 시작에 불과\" 경고까지‥반도체 수요 정말 꺾일까?",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80d3ljS2tNeVVMSms1NHFGTWU3VWNMcnplS044a1BDLVlqMS1GeEctTndJTjlEMEVnS2xLWGswUlJUalhEa01lOV9BWFJUS19hQkNISENDTi1VV1B3b1hieV9vemUtbGFVUnRwMkw5TW5JeVVkX1BPVg?oc=5",
+          "source": "MBC 뉴스",
+          "published": "2026-07-02T20:19:20+09:00",
+          "latest": "2026-07-02T20:19:20+09:00",
+          "mention_count": 1,
+          "sources": [
+            "MBC 뉴스"
+          ]
         }
       ]
     }
   ],
-  "total_articles": 6,
-  "total_issues": 2,
-  "raw": []
+  "total_articles": 443,
+  "total_issues": 248,
+  "raw": [
+    {
+      "title": "코스피, 5%대 급등해 다시 8000선 회복",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IY2g1SjZZRjAtdjFZYVpzWVlES3hZcHd1RmVLbFdubDEwdlFQVUlyWEhfTDhiV253TjREMVFpcVRVR19BUlBNajZ4S3NNaEwyZkVDZ0NiM2twTTNfY1ZLbTEzcTk3X1RUUXJwZ2E3QVpFUQ?oc=5",
+      "source": "한겨레",
+      "published": "2026-07-03T14:28:00+09:00"
+    },
+    {
+      "title": "병합 후에도 상장유지 '첩첩산중'…조아제약, 기업가치 제고 시험대",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xQ0xnN3ZOaUVJa01wWG1wWGp3ZzVRLWlzQUpqYTdzejRmRkxtRlVKMENnQ2JVd3ptQmxRSG44alI5emx4eC12ZXRWVUp0MzQ?oc=5",
+      "source": "톱데일리",
+      "published": "2026-07-03T14:24:00+09:00"
+    },
+    {
+      "title": "코스피, 반도체 급반등에 5% 상승…하루만에 8000선 회복",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVYnUzOERxXzNmQ0RLVTVPdHI0dy1kc2VvV2FWZWdVX3BZT1JTNzhHNm9JUkZZYWdFZ0VKcFduTmNGbUxHYW40bWVYQkcxVlFlZ2xLbEtkekl0c1pBel8wNW93QnQ?oc=5",
+      "source": "서울경제TV",
+      "published": "2026-07-03T14:21:08+09:00"
+    },
+    {
+      "title": "[SK 재평가]③ 상장 멀어진 SK에코플랜트, 할인율도 달라지나",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wcG11aEMwZk5MRGV5VkVKU2RIb1I4UlYta1BwSUdObHAyRVRHc1JHNUxFdTBnZW0yVGFVSXhXSFpnYldBLTE2VkQtZzJLNHROTTcteUctbVRPLVA4OHI4b0M4VHc?oc=5",
+      "source": "PRESS9",
+      "published": "2026-07-03T14:16:33+09:00"
+    },
+    {
+      "title": "[증시 이대로 좋은가②]코스닥 30주년 여전히 찬밥 신세인 까닭은",
+      "link": "http://www.s-d.kr/news/articleView.html?idxno=80303",
+      "source": "미디어펜",
+      "published": "2026-07-03T14:16:10+09:00"
+    },
+    {
+      "title": "코스피 급등세에 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaLXlBcXdGdFlRZ011WXNaY3pmbU9YMFlHS2l6YlVJWGZaR3R5eFh3Wnc1b3pCQXAyVlNvMXNOdGtka3FxRDVtOFIweEJSTjlDaW41WVJxdU9rMjA?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T14:13:00+09:00"
+    },
+    {
+      "title": "코스피 8000선 회복…급등세에 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1paGdPSnRxVm4temgxdTJCVnFYSUVHclI0R3pxUk1PVkFVU1piQnd4TW03V21LSV8ydUNiaHdmRXBPamVKa3dNbU9IM3pOZw?oc=5",
+      "source": "전자신문",
+      "published": "2026-07-03T14:06:41+09:00"
+    },
+    {
+      "title": "[속보] 코스피 급등에 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80NW94ZU9pS3hsNjlNcm0xUXdBTDZ2WW93d3pkWl9aSkdNZ2JUNGRrVXNqS1lsZ3JOaDJYQVhzTk1iQkdncGVEWlB2NDNGUUN1ODJ6UXkwU3NJeUJSX3lSTHhZa2RWU3BOUWhBS1NYWQ?oc=5",
+      "source": "조세일보",
+      "published": "2026-07-03T14:05:38+09:00"
+    },
+    {
+      "title": "코스피, 8000선 탈환…매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XT2xuS3hJT3FPaU51cEU2YzEwUFU3ZHJQNElaRDFxVlhKX3F3QWluWUtUQU9maE9TZVd2bVZTbnQxbHNXbXBuam80MlVoSW15RDVYU1d5RHBkU0NJb3NoXw?oc=5",
+      "source": "뉴스토마토",
+      "published": "2026-07-03T14:05:20+09:00"
+    },
+    {
+      "title": "[속보]코스피, 급반등에 매수 사이드카 발동… 장중 8000선 회복",
+      "link": "https://www.donga.com/news/Economy/article/all/20260703/134230834/2",
+      "source": "동아일보",
+      "published": "2026-07-03T14:03:00+09:00"
+    },
+    {
+      "title": "[속보]'널뛰기' 급등장 코스피 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtcmVuRkVHM25JOFFNYkxKdThMUTBkb3c0WFlvUnI4ellYekxnb2x2dGJNeTJ3NzdLMlVacnFTbnJLampIRlRwQnM1YnRVRW45SDRIQ0FSWFhFUFVuZmhyRHh3?oc=5",
+      "source": "경기신문",
+      "published": "2026-07-03T14:02:04+09:00"
+    },
+    {
+      "title": "코스피 5%대 급등에 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFYTRiMGVBZE5nQzYyVnc2dURJbS1CdWMyc0xXQThXUmRxTElidEd3M2hCWEhER2Nsc0EwdWxlU0hJc1lQcHpkLW5rOUFaQkMxTXhpZ3psUmc3LUF6Rkx6V0xTaTU?oc=5",
+      "source": "서울경제TV",
+      "published": "2026-07-03T14:01:59+09:00"
+    },
+    {
+      "title": "속보 코스피 급상승에 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kS2N5bkJVQUtQclNPenNhb0JFMF81VUs0Y3Itb3JPRWhGVm9VNE1pcWNZZkNwWG8zaU5CTGhESkVubl9tNHhXem9DMXV5XzJmNGY5SXJUVy1henZnMkE?oc=5",
+      "source": "YTN",
+      "published": "2026-07-03T14:01:00+09:00"
+    },
+    {
+      "title": "테슬라 중국 부품 공급업체 주가, 2분기 호실적에 급등",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fMWNRc0VkTzdYVFRiRHdSNTFRam5Gd1lJR1hlTWljb1Jzc29pV0kwZjhnbEtMYVhoSndfQnppWlB3T3dkUVZuRDFSSEt0NDRFOXdadGhFV1A2X3pHT1gtZHNYLWxxQlJ6US1sTnNmcW0?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T14:01:00+09:00"
+    },
+    {
+      "title": "'삼전닉스' 9% 반등에 코스피 5% 급등…매수 사이드카",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54OFJEdmtQVVFmVWRGOEN1Nkw4OUxhWU1oT2pnT0QxSEFReE4zZFJfNF91Qmp3aHNNSmFzY01QQ1Z3YXNCQTd4eE96VWt6TXFOdHA1aVBwWGdwNTg?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T14:00:44+09:00"
+    },
+    {
+      "title": "'회생절차 개시' 알파AI, 주권매매거래정지 기간 변경... 상장폐지 갈림길 지속",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CLUhDNDY3cFlGSlhBQjYwQzZlUnR5aWZwVDd6ejFNS0pwVy10Y2FIX0U2SDZ6dTFxTWxKdmtpRm5QRklPem5yNnlaY3ZIMkY1YkNDSzA5Q0c0WlJTUDExQk5QSXhWN0FXcDFXRnJXSHZUSzQ?oc=5",
+      "source": "데이터투자",
+      "published": "2026-07-03T14:00:06+09:00"
+    },
+    {
+      "title": "[interview] 코스닥, 지금이 기회?…마이다스 '액티브 ETF'로 승부 거는 이유",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmxKVmVtajdZQVV3Rnp1LTlqWTBOOGlSTFdZcE4zWk55RkVGWkFRY19Rc3VWYmJFdlVldDFvdDB3Ul91bHlwbDFXOVF4TmFoSVY4Y25Id2hoLXk1WE91Y241a3FJRkpwdFczN1RhWUpuRU5yMmx2Wjg5MmM2dmFZcQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-07-03T14:00:00+09:00"
+    },
+    {
+      "title": "삼성SDS 임원들, 자사주 매입…주가 연동 성과급 '직접 증명'",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhUU5CQVR2MXUybmdXMGpkaDFxMWxuNk1Dd0pSb085QS13OTNwNHpqTjRhTWQ3VXdfZ1hBVnVNNnVpUWJLZFZXNjRhVXlvSEU?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T13:58:02+09:00"
+    },
+    {
+      "title": "[속보] 급등장에 코스피 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OMXVNdkNOdktwTVdiWDQ0T1N2b05jRG5Db1dMNUk3dXRSQWMtZGlCZnVBN1FmcHJfOGwwTmROV2R6OUxaUUJlNldYUXV6QTA?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T13:57:01+09:00"
+    },
+    {
+      "title": "[속보] 코스피 '널뛰기' 끝에 8000선 탈환…매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42NHRkaS15UWlHbjNRLVhsM0dTc3AzLTY1d04tTnVtcE5NQTZRWmVVR21TSDRrVldYVVVQcXFpX2tqUWRHWlB1VDNQSHA3Skx1V0N3X3c3MHNoazA?oc=5",
+      "source": "경기일보",
+      "published": "2026-07-03T13:55:26+09:00"
+    },
+    {
+      "title": "[카드] 동아쏘시오그룹 상장 3사, ESG 베스트 기업 3년 연속 선정",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIRnJkMlhzMTdTT1poM3lQcG03TFZkSlM3Xzk1ZVhETWJxdFI4cTdXZmpmeGUzVV9iZ3REOVlpODIyU2lZVW9YR1JhWFBsY2F5UVZpZnV5b21EVFdGMWFXZg?oc=5",
+      "source": "프라임경제",
+      "published": "2026-07-03T13:55:12+09:00"
+    },
+    {
+      "title": "8000피 회복한 코스피…오후 들어 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56VXNkUmFzT3FNbTBzeS0yeUdTRVZCSGRVR05ENWtHaURsYTJrN2dZVVpYY0dtTXBmRnd3TkpPMWxkNHpKcGtmaWFfdTVfQ0dULWMxTFNWa2t1amVUVlhwVnVZeXk2dWlSM0JxMjVR?oc=5",
+      "source": "아시아투데이",
+      "published": "2026-07-03T13:53:15+09:00"
+    },
+    {
+      "title": "[속보] 급등장에 코스피 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fNWRnVnJGbFZTTEwzSkk3WHZ4U19qbzBtV1hnOUh4TFV3M2lJTFp3M1kxRWJINThRZ29JZG5JdG53bFNMZGdSSVNMWlAyZ3c4NGc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-07-03T13:52:47+09:00"
+    },
+    {
+      "title": "[속보]코스피, 급반등에 매수 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LTWstM3ZsWFRkdm5jLUZzUFFsR3dkRHlEeWF2bC1weVBEMGlVdmtqdTM0QkM5MWQ3Z20wVFlqb0ZkWjZkVlhRaTF2dlNkclZ4NVJWOElR?oc=5",
+      "source": "중앙일보",
+      "published": "2026-07-03T13:51:25+09:00"
+    },
+    {
+      "title": "[속보] ‘삼전닉스’ 9% 불기둥…코스피 8000선 탈환에 ‘매수 사이드카’",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hUDJzSUV2MGppOHJib3pxbWdNOHpPd3VqQ1JkTDlmQ3JHa3hhbmpCSXlFQmZSZDEyNlVoVEVYSzNGYnpGdnFzbDdBZ0Y1WEtDX19uTVBOaExJTlhMYmVyTVB2b3BEbV8xYmpXZTgwMkFDb3Y0REg1NENkbmVkZw?oc=5",
+      "source": "서울신문",
+      "published": "2026-07-03T13:50:26+09:00"
+    },
+    {
+      "title": "'휴머노이드 로봇' 중국 유니트리, 상하이증시 상장 승인… A주 최초",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZSHM0MGxDZzd5RkU3ZE9BbmFqQmhSSV9VYjJlMml0aFpiNkNYNXctTmZVUmNabTVTZXI5bW1Vc09MRm84QlpZblZHZmt2VF9FODk5UTRyNk90dw?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T13:49:10+09:00"
+    },
+    {
+      "title": "[속보] 코스피 매수 사이드카 발동…장중 8000 회복 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqUFgyanJJOXp1MjZ2Tm43RmNoZnItUGoxWUJfcXBwZmlNZU1nN0tORVZqMUdmLWFUUC00UXRKN2VFR0d6OUNNaXU1S1hwS0kzTVlLeEd2bzVpSkxOdDlpTHBWdElwQVB60gFuQVVfeXFMT2NjNjgwWDctTV9nUDFaZE1xM2hKNG95QlF0MzZMWU85d2VHaDNyX1cyVlhYTlZBbkNoSDFJMFVOMXd6QmtTMExOVDlKV3M0Y0xSWldaalBmYTI5Vms1bDdWNjNDSHFLVnRZV3RKSFE?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T13:48:08+09:00"
+    },
+    {
+      "title": "[서울데이터랩]코스닥 거래상위 종목 혼조…삼기 상한가, 져스텍 25% 급등",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0QnZTNm54Q2Q4NU05ZGFySlBpMkpyUDFhWWl6Y1F3ekp1anlTckpRV1BINXdUcDdteFYxWFhOM2xDd0Z0SWwzMGxZYTBUbEdEWDhFSFYwMjZTY0dpdzdSQUh0Ri1EY1F2TzdTX2lWN2dJRDhkUk9TWWYzZ0JUdw?oc=5",
+      "source": "서울신문",
+      "published": "2026-07-03T13:48:07+09:00"
+    },
+    {
+      "title": "[서울데이터랩]코스피 시총 상위주 혼조…삼성전자 6%대 급등, 2차전지·조선주는 약세",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VZnBlZTR1UTBObmR2V2lDMFFJQXVjeG1SOVNSU29oQVUzU2Y1aWZBS1VHeVFoYmIwZUs5UGJsMm9LQW9YVnc4a2VXLXZPSUhjUHptOXF1d2VzS0R4NmNSTzd1aERGOE9lTHVMVFozOFktbC14Yll6ejk3SFo1Zw?oc=5",
+      "source": "서울신문",
+      "published": "2026-07-03T13:47:57+09:00"
+    },
+    {
+      "title": "[서울데이터랩]코스닥 시총 상위주 약세 우위…주성엔지니어링 14%대 급락, HPSP는 6%대 강세",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94RGQ3cTJwV1g0bWFka1U1QlBCX2xSNWx4cWxtYzJmd2JSVTlyNXNpdklyem93RkRNYnk1UWgzMWhRSERtV3lPLXEwLV9aTDlQUWM2V25xSHUweHl4emxKVVRIRQ?oc=5",
+      "source": "twig24.com",
+      "published": "2026-07-03T13:47:57+09:00"
+    },
+    {
+      "title": "[속보]메타발 수요 우려에 삼전·닉스 급락했다 반등…코스피 4%대 회복",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TcGdWU0JoWVY0S2ZMQkhsS1A5ODg2NDE0Y2VkTTZuQlZWeWgzSXlYaXBvWV9vdnhEMmZ3VDdYOEhzTTVoZ2R6WTRkek0wcHVy?oc=5",
+      "source": "문화일보",
+      "published": "2026-07-03T13:47:21+09:00"
+    },
+    {
+      "title": "코스닥 밸류업 공시 732곳…\"기술특례기업 최우선 지원\"",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVb3lKUHdKWGZDcUNrNzVQQzN5emNfS3g3QmVDSEl4WHVrMnZpN1NmUFFjVFI2MnpZMldlc01WM3FuR0xoNGxFa3RYRkFMaktOVmFQblptMWJMbUpac2pycmhPQkhndGdEOGkxMDdaNA?oc=5",
+      "source": "뉴스톱",
+      "published": "2026-07-03T13:47:21+09:00"
+    },
+    {
+      "title": "[이슈&논란] 코스피·코스닥 급락에 AI·반도체 투자자들, 비트코인과 금은 '대체자산'으로 자금 이동중",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VYmg4c2dOSWphSE82VEVfSThqbHZTYk1LMHF6dEd0VXJUaUhFX0tvdmlKNG5HN1c3VkdKVmxFMWhtUWFqZE9DdENKZVprSTZWLTBwR3pFMG1iXzh5bjVySQ?oc=5",
+      "source": "뉴스스페이스",
+      "published": "2026-07-03T13:46:56+09:00"
+    },
+    {
+      "title": "[속보] 코스피, 7400→8000 ‘껑충’…삼전닉스 8% 급등 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlA1LU9PcWtRY2lJUGpzM1Nxdmx6c0p6bmNoTTdBUEJTTF9ONG50X2UxVTNuUXdPcUgteHlrRjNYV2VtSWJfcElkRGZQQktHazJ2dnllRlpxOU1VU21MSzg3ejA5eWdmQVJkMXVxYVFaX1pZVGtCNWxVb1Z1RjREd2V3R3VReV9K0gGcAUFVX3lxTE04VF8zc285dUFhN2RGbFhwZTVtSE9rZGtHeGh1Y0EwZndScmxWQTVwLUc4WnZkNjRWTzZFRU1kY1JZNDR5R00zSWNvV3NSNVdxUy0xSnFXVDdwdVUtMUFRaHk5NjhVRVhyY2VKSzBQdThISUdLUHE1NGk4VXBKaUdVbkVPOHNoTWpnMXdlMFc5YTlDQWdnMjdBWHhxXw?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T13:44:00+09:00"
+    },
+    {
+      "title": "[속보] 코스피, 장중 8,000선 회복…4%대 급등",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mbUN6Zm5VemlaLXVIa3BOWFZUaUJySE5kWl9HM3JUV3NNUHFhaG1NOGpCYmltTUZuTTF6b1UyR0ZHQmxfRnBKTlhsNmlWVXcxdmJqU3NQRnlQMGvSAWBBVV95cUxOdVllR2xPeEV2a01mUnFhRGozTld5cXNieGVsQ2ttWnRKN0NORFVna0tNWVNTcFNOTUJ1eHEtajNZa1FLSDF6TkpCa1ctMnFSbTJ5aUhLR2RRZEVHZDlWTmg?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-03T13:43:16+09:00"
+    },
+    {
+      "title": "[속보] 코스피, 장중 8,000선 회복…4%대 급등",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yMzhoN0ZHSzlvY0dfWU52TnhsZTJKZFpva3ZQR01sdmR2eVQtT0owbzFNXzlzLXRZbkNNU2dvM2ppREFUM0REYW1Cakt5LXFKVHc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-07-03T13:43:16+09:00"
+    },
+    {
+      "title": "[속보] 코스피 장중 8000 회복…상승률 4.62% - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iMVlWVUZsQjI1U2ZLNGdFZjg3MFJBQzhrR1RjZUNtRFlDcnlyM1IzZ3RqS1VOVk10SEYwMFFORmhfMVplQ3gxRFNnYnJrbUVJcUg3VTM5cDNxNXh4dTJWVzh2YmJCb1Zu0gFuQVVfeXFMTjc0b2NiWlVkVnd3TGN3NDBTTWRiWDd3UW44VldGQ1VOYkVNM2tJcG94Xzc1a3JJaUlsUDJYUUtKaklKS3d2aDlVNGY5Y0xWWFY1eXdxMV96UTVmN0p6ZGRiQ2NJNk1yRW5uZ3VreGc?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T13:40:50+09:00"
+    },
+    {
+      "title": "코스피 장중 8000선 회복…4%대 급등",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JTjE0TTZ4U0lvYmxIbHNrck5kYnhUelctdHFJQzRhZzZQOWVhREh5ZFBwSTdCcjZNcTY3RGJ3cS1YLXRNbmZPTElCbkNUb2hhbEpILUxIOHBiUdIBVEFVX3lxTE1ZRmN3QUFKanNTQVhpblo2ZUhSSEdwZGhxZ1Q5ZzRvb2tFR2h5OTZJMXZCV0RGMkdOWWh5bHNCSEUxRUdudVNTeUxsc01XbV92NGJjWQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-03T13:40:33+09:00"
+    },
+    {
+      "title": "[속보]코스피, 장중 8000선 회복",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8600879",
+      "source": "뉴시스",
+      "published": "2026-07-03T13:40:01+09:00"
+    },
+    {
+      "title": "\"코스닥, 만년 꼴찌 꼬리표 떼자\" 거래소, 밸류업 지원 확대",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR3RJWVMxcmdRLUpsYkplLXM3QUpXZFdpa1N0bzQ2dllGdUhnaHl5QTIwWk5KRUpKYjVkQnhidDg1NmVOQXpkdWx2NzV6U1Z0bjZyWnRIRWRZMHZQREZtc1dNVXpQVjFGdWtFNzJoR1JvdllXbnIxQ2JTU05kRVZoMQ?oc=5",
+      "source": "이데일리",
+      "published": "2026-07-03T13:32:53+09:00"
+    },
+    {
+      "title": "코스닥 허위공시 처벌 강화…벌점 10점이면 상장적격성 실질심사",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RdUZYaVZEaUtNTWZWUDdBbTd2dWs2Nzl5bHp1bmJlamtaYzEtXzJQVE9LbjZrMDQ0bHF3TXd1VGxXRF9CZ3c2M1ZhVFJqLU5tczJoYUtzeUpVTzRQRUlwNEQ1NGY?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-07-03T13:32:26+09:00"
+    },
+    {
+      "title": "오늘 스미토모 화학 주가가 급등하는 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPTlNaaG5mdnRXRzA1TkN5SnFxVnhFTEt4a0MyYzRkSzJ5VU1ONTJWaEtuT0RUN193ZHc2YTFoclRCTm5qOTBrQldOQ1FiTWphX2tIOE1CMzkycG1XQ0JraU4wdHRKeUtCNnpCNXFBOEpHNWhIWmlR?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T13:29:00+09:00"
+    },
+    {
+      "title": "스미토모금속광산 주가, 오늘 급등하는 이유?",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1abHFoZ0hBZXBBWnRGZUctQkFZalZTQWdpczgwLTRPTGlZQnMyU1RENHgzN0VKVGJfYWp6WVByQldNdWxSRzFHZlk3aEJlVUxhdXgyYnNBN1Y3bmhpbnlCdlBVaG1uTTROVV8tU2NEbGRVUjBJNWJJ?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T13:29:00+09:00"
+    },
+    {
+      "title": "30주년 기념행사가 장례식?…수급 마른 코스닥, 앞으로 더 ‘우울’",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43MzZjS2RCV1cwV21CdUpydEpEZWU4RHhtc25wM3owQ2NaeUZLZHlvYzdlTjk1TDhnSndrMERQTGV5UE96Z3V6WVpHaEROU3d6bEdnbTEyVWJTWVZWYUktaXJ2NFdCbWhfVlE?oc=5",
+      "source": "대한데일리",
+      "published": "2026-07-03T13:23:01+09:00"
+    },
+    {
+      "title": "동종업체 주가 부진한데…의류 OEM 한계 깰까",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tTURhdlUxY1AtdVJGVVhIUWtOcGhGR0tTbHE0NHhqdU5GOW42bE1vUDRxRkxrMjZBZFNhT1NZSnE2RHVuZFNubU4teTdyVDZBTWNONW9OUDlCLXp2NjRUMGpYaGdma084NEE?oc=5",
+      "source": "더스탁(The Stock)",
+      "published": "2026-07-03T13:22:26+09:00"
+    },
+    {
+      "title": "亞증시 혼조세…키옥시아, 급락 후 저가 매수에 7% 급반등 [Asia오전]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUVpxMkRGaXZpVG11WDhLUVgteVQ5VUpQZzNBeXkyNnNKcWV4TFdIWExfQlpaczE2ZVE2UVhuZktLZjJZTGkxLVNLQlpISkMzTThn?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T13:22:00+09:00"
+    },
+    {
+      "title": "코스피, 변동성 딛고 3.5% 급등...코스닥 2.4% 하락 '희비'",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xaXJQWWFjcDBHN0VhSnNTaE9OcVpnNFhIQ3FYdklFUF84N29lQlN1R2k0QTZsZmlvOFFUY255QnR2cUZPOVpzcnVEaW51TjZoaHFadQ?oc=5",
+      "source": "이투데이",
+      "published": "2026-07-03T13:19:00+09:00"
+    },
+    {
+      "title": "\"300만원에서 65만원 떨어졌는데\"...애널들은 주가 420만원 간다는 SK하이닉스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUF9LZ2hDWTNZNU9abjFFVm05T1FJM1h4MmxzRWRhSm13VldfS20tVkswWHdlUDFEWktvQjZpcTFWa1FaT2FySElnZjYyNUU5TDh0aVZMMElmZw?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T13:18:58+09:00"
+    },
+    {
+      "title": "WSJ \"삼성·SK하이닉스 비중 60%…한국 증시 AI 반도체 의존 심화\"",
+      "link": "https://economist.co.kr/article/view/ecn202607030007",
+      "source": "이코노미스트",
+      "published": "2026-07-03T13:18:00+09:00"
+    },
+    {
+      "title": "오늘 덴츠 소켄 주가가 급등한 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PTWVqeHJxYnhkNTFEODV2eERzNHRwODJnMl8yTWpmRHRFLUgta0RNcHlCTkZ0RU40RzBtTmNlT3hZdHRxVTF4NF9IbkcydjVsN3pLR3VMcE1jMDc1N1BEeVJ2b1RBNGZXYjJFZjhNYnVKNjUteGp3?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T13:18:00+09:00"
+    },
+    {
+      "title": "코스피, 기관 매수·삼전하닉 반등에 장중 7900선 회복",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVFTX0JwbzlMcnhjcHQ1Nmdjdzc2bng5eEF0UThqOXFfaWQ1MEF6emFwajJQVGJsVU5RU25LdzY2Mk9IX09YZElGTXBLclpPc0RHUmRkUERRaXNreGdtc3IwSEhzT0l2VDZhVmI2UVFBNU84d0dpcTYtY1hka3hid3lrcjJHVExB?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T13:13:32+09:00"
+    },
+    {
+      "title": "BofA \"美 증시, 지금은 약세론 주장 불가능\"...경기민감주 랠리 주도 기대↑",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NRXp3bk1NVnFvUzFTZ1JmSzNUajZWYWdvcW0ybVAwSnI4dnBkeUdscFE3LVRrZGctQzRtb1VMY002ZElxZnQ1U2pB?oc=5",
+      "source": "코인리더스",
+      "published": "2026-07-03T13:12:00+09:00"
+    },
+    {
+      "title": "증시 양극화는 '현재진행형'...코스피 3.6%↑, 코스닥 2.4%↓ [fn오후시황]",
+      "link": "https://www.fnnews.com/news/202607031258535288",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T13:08:44+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, 서스틴베스트 'ESG 베스트 기업' 선정",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlaHZNcE1ZMFBjYnF4Y25PMnZqUkpDNDlMSE9IRDlKb0xMQ0pEc09EN1JXR0NSRnlVU0RIWWM4ZjJwaGl0MUVBclFDZEdFVEZtby1MZGlZZ2xNckc3cW1qMUhKSXpISjduajRoZUhR0gFyQVVfeXFMTUZkUE9oT2Z1SEo2YVg0LWxZcmtiYmVVd0VhX3VoWnNkTVpwMHh6S015b2JsLTEzdjdRc25VTmNRd3Vja282cHJMelhvVThzOE1kdG81cE9ic2NmTGo2STJJaUkyV1hQbU45R3RoS29QWER3?oc=5",
+      "source": "폴리뉴스 Polinews",
+      "published": "2026-07-03T13:08:26+09:00"
+    },
+    {
+      "title": "코스피 7,846.81 코스닥 840.45",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwVnJMX0RSQmhKQnBNb3ZXUWRVQXgzTDFhaE1LT2t5TU9MZEtRQURqb1F1TEJBSEphV0pwVVZQRFJCV1pBTHNGbHVFeHJna25EbC1OYmVzdWVhR1U?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T13:06:00+09:00"
+    },
+    {
+      "title": "‘삼전닉스’ 코스피 비중 60% 차지 …WSJ \"AI 투자 둔화 시 한국 증시 충격\"",
+      "link": "https://biz.chosun.com/international/international_economy/2026/07/02/L6TJISENLNAXNOWSL4ONWLHI5Y/",
+      "source": "JTBC",
+      "published": "2026-07-03T13:03:26+09:00"
+    },
+    {
+      "title": "[중국 특징주] 반도체 설비기업 '화탁정과', 6년만 과창판 상장 재도전",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsM2RKTDNseDFkUTBoQ1Ztb1hwemFXQ1ZzbHY0VHNoMmZQTm9NcC1zWXpiUlR2Zm9jZVpMYlJiS1QtOW14bEt4V2ZnM21ZdGVrUEFZWVlMZDZ4Ni16?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T13:03:00+09:00"
+    },
+    {
+      "title": "반도체주 반등에 아시아 증시 회복…유가 약세도 투자심리 지지",
+      "link": "https://www.sentv.co.kr/article/view/sentv202607030012",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T13:00:00+09:00"
+    },
+    {
+      "title": "'삼전닉스' 코스피 비중 60% 차지 …WSJ \"AI 투자 둔화 시 한국 증시 충격\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tUlpfYVYzY3Z6TjdGRmtQNWotZFlVZmI3UG9nSjB2Tm9YSUw4eHFhVmJ0LXNRSzFtLU1nUEp1VzFQcEJDd0xZVTNCT1NlN2M?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T12:59:46+09:00"
+    },
+    {
+      "title": "한투운용 \"액티브 ETF 4종 상장폐지 예정\"…상관계수 규정에 발목",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fX1VOOFlHRVpGMHJBbjdxdmNydU9kSlROYXd3UkhMYVRIbTIyTzRCdG5YQVF6U1Btd09vWEVyZEF0Z1BIU28zMUItcXNURm05NG1LNHVTSC1ocUlVOVdTUl8xTnFNdlRYbks4?oc=5",
+      "source": "뉴스저널리즘",
+      "published": "2026-07-03T12:52:50+09:00"
+    },
+    {
+      "title": "[홍콩 특징주] 中 2위 메모리 기업 '훙신글로벌', 홍콩 상장 추진",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WWF9BQnFEWDNvUmRtRWFPYTJYV0NCak9FY2dNRFNhM0s2LXVieFptMG1SVUc4RmVUR0FMSE1DMU9xWWZQaS1zNFFkV3VuRnI5WjdqSDkyalotYjFy?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T12:38:00+09:00"
+    },
+    {
+      "title": "NH투자증권 \"신세계, 목표주가 42% 상향...백화점 재평가 본격화\"",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RQkpxT0ZEakNkNVlRLW03ZFE4WXFmbWg5c3ptLWtMVEF4WWY1UkthN0hlRkRuRWRMb0xhSUtCRE5vV2pZdFRtWFZhRERZTDZURm43aWRzelNXZDBDUmREdEIybEM?oc=5",
+      "source": "PRESS9",
+      "published": "2026-07-03T12:20:47+09:00"
+    },
+    {
+      "title": "AI 과잉투자 우려 완화되나…코스피, 3%대 하락하다 상승전환",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/07/03/UEVFSZSFZNCRHFEJ6CHHBOZMBM/",
+      "source": "한국경제",
+      "published": "2026-07-03T12:19:37+09:00"
+    },
+    {
+      "title": "반도체 급락 후 급등‥요동치는 코스피",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95aHExQ2JYNmpFSTdaci15ZmFaYTBHT1J2WkxESkFrWmhQZnNhczBza3JWbUpvUWhja3AxSE9EaW95TW1QNGR6clpXd3ZaaTQ?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T12:10:21+09:00"
+    },
+    {
+      "title": "반도체 급락 후 급등‥요동치는 코스피",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sc2lEVDFuaGkxRDQtWFRqVjU4Y2xCcHZvYllVR0xPNGpFTkVvWUtlTGFYNmRhaXVYbHJhd3hCTjVOODRubGt4M0RQN09ncE1xR0ZjV3ZMSk4xdjFSUGY3OXNwVU55Q1V2bUczLURjSEg3dmF5TDJ3Sg?oc=5",
+      "source": "MBC 뉴스",
+      "published": "2026-07-03T12:05:37+09:00"
+    },
+    {
+      "title": "허위공시 벌점 10점이면 실질심사 직행…거래소, 코스닥 공시제도 손질 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMS1NY0ZDcE5CcnJWNk5OS1g2S1d5Nk1VM05MWU9TQWU1US1mUVY3Qm9reVU2emJlamNPLUVzZUotXzVZNG9hY0NMSE5Db1J5QUk2eEN1Q3ZsQ0ZZdXlwbWVwZGdLanN0RkV0S2pCdTVLd2lTNWp5UWdub1d4anE1dHplal9leXk10gGcAUFVX3lxTE0wVjRnbkpUU1pZcjhBRTVaeXc2dEt4a1h3ZHdvb0ZsZXJrTWdDbFh4b0p5eTFkRmR2YWFqRmV5Y05TTXFydXJaQnhZOWQxRXF0U3FoRUJENW5IcFBPRUNmRktnRXIxaFR2bTFZN0pDakxGNWZDWXBvNHd2b21iY1pXTVdTSVpXU0RuMXNKNi0tTkYzd2xpNi16WjJmLQ?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T12:01:00+09:00"
+    },
+    {
+      "title": "시총 200억·동전주 퇴출 규제 가동…바이오헬스 23곳 영향권",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BLXlQeHJhcE9laWF1b0UxQ3l6TTB5U0FlVkFwX1ZWMDNzcG1Ta3ZpdHJqRGZrcXhrV1lKTjdBclNWbUVCOUdlVnJwcEpxdjNS?oc=5",
+      "source": "데일리팜",
+      "published": "2026-07-03T12:00:50+09:00"
+    },
+    {
+      "title": "코스피 7700→7300→7800…반도체 반등에 '널뛰기' - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6Z18tMnpZem9xT1k4a2loNm0yTGZ6eHI5QkhPTUdvS19saktibmNUS0FGUmhEaWJuaVdaZ240MkZiLU9fUGx4Rk9YSWRBZ1BQQWs3MFhLeVRselNpMnFFUGl4ZmxUZ0Jm0gFuQVVfeXFMTjRhQUU4a2VVSjZyazNab2VESmdxQ1JJOGU3T1RZSVA0MVQ2bl9obVlweXZuRmFINFVzUjRscWpyRUZFdFgtNXZXcjc4dHZjdlExMWI2MXEzX2JGX3lkTlk5bWFJd1pkLVZILUN4UWc?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T11:59:08+09:00"
+    },
+    {
+      "title": "키움증권, 코스닥 활성화 정책으로 점유율 회복 기대 By 알파경제 alphabiz",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43MExwTDNrVkZGd1FDYkZoMHR1U25GVmJoVkdhRFNPUnVKeXo0VFBiNWx0cHp0bHM2Ty1sSXMwVkh0ajNHLW01WDN0QnpuMExZeERodXk2eVpVQV8xZ28zdG55TThJS2piX2szWEJScDI?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T11:59:00+09:00"
+    },
+    {
+      "title": "오늘 선코프 주가가 하락하는 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tRU5mSktHVkZjSFpDRHBTT3p5QklINnlDZ0d1d25VNEtQaGtCcjZyaU5SUEhJX3A2NVpCYVI0T0FHb1ROd25iNGNMcDZZVXhfZlFqN3lNNzlNMW03NXlROG8zQjh0enFyeVE4WVBEQkZMVGZNQmJv?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T11:57:00+09:00"
+    },
+    {
+      "title": "中 IPO 대어 화룬신에너지, 상장 첫날 137% 급등",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2UDRQZWN6V0E1elhUcGZIcGdNOS1sdllPY0ZzZnV2RjRRSkx2ZW1UZE9kSlBsb0dMOUdNVHB0eFJYeFhYUVFRUXZzY0R1eVQySTBQdzBiZjhaT2FaZnVVTdIBeEFVX3lxTE1JenBwdTRGUWpNY3VLSjJTRkFGREVVbUFhSnVVWmsyNmJ3bDNGZ3VNY3BjcXlpQlBiemFmTTV3MWlfekZCR3FVSFUxVFlrVFdxWWRJUXpueG5yVTFCT21jRUlaWklBdWFhQTYwVGhaU3EwME5kVUtHVA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T11:56:47+09:00"
+    },
+    {
+      "title": "ACE 액티브 ETF 4종, 상관계수 미달로 상장폐지 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZdGM4eENmWHVucXhSZEd1RTB6VWlTZzRtOXFQbkZiYWN0aTR0ZkdJTmMyVm82endnWVc5NVVvZUM2R1VidlhseW0xczVOekRFMUpncEhOQkVhMUdiN0FoNDBJajNZMVlY0gFuQVVfeXFMTVdjMHJxX3FjbFlSY1M5TkRZcDlSZWxTNnI0aXZRMUpDNlBfX1d0eTNUejlOTVQ1MGNkMU1PRWFwZnBKRW14dU9KUjVmQ3kxeFI5dWJzNktBOHQ5TkotQ01RYmxCUHFBTXl2STBrM2c?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T11:56:30+09:00"
+    },
+    {
+      "title": "[재무분석] SK하이닉스 ADR 앞두고 주가 하락…ROE 하락 부담도 숙제",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfc2RNZkdld1BUdUpQME1iOGpXd21SM2ktcUxlaWwxeEIyMlNCRXN6Z2xxUWJFOXhsV0xOYmhIU3pKNmctRWpWaWwxYTNOMWdjNmFHNjE5UVZxUkJtVlhXaTJ6dUtldTBmT2VHUlRKZTFGTlhtMnZn?oc=5",
+      "source": "이코노미트리뷴",
+      "published": "2026-07-03T11:54:14+09:00"
+    },
+    {
+      "title": "기관 '사자'에 코스피 상승 전환...삼전·닉스 다시 강세",
+      "link": "https://www.ytn.co.kr/_ln/0102_202607031147577294",
+      "source": "YTN",
+      "published": "2026-07-03T11:47:00+09:00"
+    },
+    {
+      "title": "코스닥 신속퇴출 가동과 금융시장 주요 흐름 등 이시각 주요뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrM1FwMkJMem1IRXJSSjlZU01vLVo5Uk5uOEpkOVdQRkJWTlRRd0IwSHVNcWdfMjRhWERzNERMb0lyclh6NEFSVTVCcjZvaDlKSkZnOFhCbW90V09sYnFWNmpwd085ck5UUWMwR0FoN3TSAXRBVV95cUxNVExYc3BTbjJzN0xFZG91NEo2VkxaTGY2bFBneTNRWENHcjhSVC10MFhXY3YwRDJkek03TURpdVZkZldrTzJEdkxRbWV0WVZzQm5PVlZUVUJ2WFhURUxLREtfdDE2dmNYSVNoYjEyT1phZkxxMQ?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T11:45:52+09:00"
+    },
+    {
+      "title": "SK하이닉스의 미국 증시 상장 앞두고 ‘단일 종목 레버리지 ETF’ 출시",
+      "link": "https://www.newsis.com/view/NISX20260703_0003694531",
+      "source": "Benzinga",
+      "published": "2026-07-03T11:43:58+09:00"
+    },
+    {
+      "title": "No.1 경제·증권 채널 : @HKWOWTV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUpJTmw1enlxUTlPMkFxd2QzTmpCMFVST0hnSGVIYWJaMzhSMVVmZkVjTDR6ajBGXzU2VjYzc243ODFWeDlUeHlRRHRDZmVNN0RRc3ZaRGxnaG5HTVZrYlJYZEFyTUhEUkc5Tkg3TG5wTTJTVkJkbHBfel9QQ0hMZUZQOUpaZGdXeG9EUnRRVGdYU2tadE9TSVM4ZFYxd3JIQzBN?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-07-03T11:38:40+09:00"
+    },
+    {
+      "title": "트럼프 지난해 상호관세 발표 뒤 빅테크 주식 '저가매수', 이해충돌 의혹에 외신 주목",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6RUl4RmozNmNBbVZxOFRKLUZ0eHVaa1ZlaGhobjE5ckR0V3o4MEl6ek0yLXNSYl9XcExTdlQyRFVxbWtFOEdhOFIyaHpyOXp4bE9JOEhDck9xODNoeXRUMEk1Q2Y3OG90RkhXZTQxOVo4SDA?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-07-03T11:36:39+09:00"
+    },
+    {
+      "title": "[기자수첩] 국가공인 카지노 '한국 증시'... 개미의 피눈물은 누구 탓인가",
+      "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=02751926645510912",
+      "source": "퍼블릭뉴스통신",
+      "published": "2026-07-03T11:34:18+09:00"
+    },
+    {
+      "title": "[올댓차이나] 홍콩 증시, 美 금리인상 관측 후퇴에 상승 개장…H주 1.47%↑",
+      "link": "https://www.joongang.co.kr/gmc/article/25441947",
+      "source": "뉴시스",
+      "published": "2026-07-03T11:33:45+09:00"
+    },
+    {
+      "title": "中휴머노이드 유니트리 상장 승인…신청 넉 달도 안 돼 마무리",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1abmw3Q1g4Y0czTllxVFNXQVprMFdxUDJ4RVVtV05RbUk1bWlMOG11cnM2Q2FadE9xa1JUc3A2eDA3Wk00X1dScVFsT0J0cjMyaU000gFYQVVfeXFMUFY0d3lzWEZKMF9pUThMdVBHQ1dGVVdTTXl0UVp6QmNuSEpaWVg0bVY2YUQ2WDU4bThSZ1BodUtlSXBpajBBb3ppM3hTNEhWTHdHTk54OHFEWA?oc=5",
+      "source": "SBS Biz",
+      "published": "2026-07-03T11:33:00+09:00"
+    },
+    {
+      "title": "AI 과잉투자 우려 완화되나…코스피, 3%대 하락하다 상승전환",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBma2N2QW1yOWI1RXZfalM0NHNBZ05tZGRTMWw2WWdLeTdtRFFxalFWdl9ucmptMnJwQzJraXRCQVE1ZTl5Zm44SmkwdERDYWtsWXc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-07-03T11:31:48+09:00"
+    },
+    {
+      "title": "기관 매수에 코스피 7,800선 회복…반도체주가 반등 견인",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSTk4T3JzR2xGbzFTVDNSN25VTXZBOXNheXF0S0liVXNOQXhfYllJNGh2NnF0NU5lTFBXSUtkMmpHOWZKcW1fWHRPdFZTWFN3Zk9zVTI2UFgwNGhhTW1wSHNxX0NSWF9OVXozM0ZOb0HSAXRBVV95cUxQSE53Slhfc0xQMktPXy1tc1YtakZabjJtVXBnTXR3R3k5dmRjZTlBWlRBRUFUaHdKYmVaUmZ2dTBiY3RxUTZsbFF0XzAtcUZMUG9QUXN0d1haN2hURGFIVFNCdUVpVWZfdnNyWmgyQXpvVkJ2LQ?oc=5",
+      "source": "산경투데이",
+      "published": "2026-07-03T11:31:37+09:00"
+    },
+    {
+      "title": "[장중수급포착] NH투자증권, 외국인/기관 동시 순매수… 주가 +6.56%",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tOTRkNkR0Nm1CM252cTFLd0x0c0dfa0ZtX2xVZUdoaGNzZDFDb0h4WjhnYjJ5RjlmOWtKeng2WEl4WmhUNXhYTVp2OHR5RTBfY1NyaFBqUFJic0Zs?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T11:30:00+09:00"
+    },
+    {
+      "title": "[장중수급포착] 대신증권, 외국인/기관 동시 순매수… 주가 +6.26%",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYdElKMEl6R2JQRWN2WHNoTVc0RjYyakp3OUtwUXFwWXFIZUREaE5YUW1EOTc1VmUzRWd4MWVoX0RsWGNsbUJZSmtuNmJ5Nk9SM2Z2VkdQejQyNkV6?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T11:30:00+09:00"
+    },
+    {
+      "title": "[장중수급포착] 삼성증권, 외국인/기관 동시 순매수… 주가 +7.32%",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWd2x6RWlTRFg3OFdvR05EZFc2RktRdnZ6b05LV2ZfM3J5SW8xa1NteHJTNEJFalRQNm41RkpGbzNOVGU2ZExuWmxaVXp4TDBsWkJoSUlvQXlRbFd2?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T11:30:00+09:00"
+    },
+    {
+      "title": "[장중수급포착] 지오엘리먼트, 기관 12일 연속 순매수행진... 주가 +6.30%",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40clQ5UXNIZWNvXzhqcU0wRUN5WVMyOG8wOGpNSkVneW5pdl8xMXQxcDRBMmRfcThtQmphMW5iOHJfQVRvYXZNb0RjdGhaWWxCTTJfNzgxTnA2UmZR?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T11:30:00+09:00"
+    },
+    {
+      "title": "개장 30년에도 갈 길 먼 코스닥…밸류업 정책으로 `개미지옥` 오명 벗을까",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rWG0xWHlSNFQySnRiRmxkWnNIQ1JGUHFPSE5DT1JMSGNFdjFFXzdfNnE3aUJVVHhiMzFtVThWZUNlQWZVQ0plQkRFaHoydGtnS0lPU3BNR1ZfeGlTM0pjVHpB?oc=5",
+      "source": "매일신문",
+      "published": "2026-07-03T11:28:39+09:00"
+    },
+    {
+      "title": "주가조작 근절 대응단 출범 1년…8일 기자간담회",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UaF9nQlJwbDBiLUhZdzRDbVhfZFYzNjJjRmh3bDdVZUlRZUxodXVMQkRTTGVfczd6bTJyWERab2JITWI1Z2NZcElNM2Z4ekU?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T11:27:52+09:00"
+    },
+    {
+      "title": "7월, 50여 종목 상폐…‘코스닥 재평가’ 기대 커진다",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Xamw2SXZEd09QVWVBOUhuR09uX2U4X1F4aFFRTFBoVWF3NUJWLWhwazd3bF9CcXc2RS1aZG9PSlQyOExPR3J5ZVE1eFVual85MzZjMHM5cmVMZVU?oc=5",
+      "source": "에너지경제신문",
+      "published": "2026-07-03T11:26:46+09:00"
+    },
+    {
+      "title": "주가조작 근절 대응단 출범 1년…8일 기자간담회",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZcUZ5cTY3QWVlTnM0QUYtNy1OZENIWkhLeFZYNkVUNmxJb1FxNkVmeXFEeVp6dDhPM1Y4dnd5eldHUlVQZkRMZlFvMDROcjVVTzl3MDI4R2xFcG8?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T11:26:00+09:00"
+    },
+    {
+      "title": "주식 초고수, 하이닉스·스퀘어 쓸어담았다…ADR 상장 효과 기대 [주식 초고수는 지금]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vT05xRVhWZ29fUjhwbmNjVnJUMnhrX2ZjM1hwZjdyRnZtcEhFWU4temFhSGNyN0dIcWl4cTN5ODEwdHNGdGt6VGVtNnkzeHA3Y0tZ?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T11:26:00+09:00"
+    },
+    {
+      "title": "주식 초고수, 하이닉스·스퀘어 쓸어담았다…ADR 상장 효과 기대 [주식 초고수는 지금]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YNGhJR2h2ZTlITVpBaXhyQVBQRGQxdnJDNXZqV1JiRTVyUUgxNkFVYTBweDYwOHlKY3RSNGI5bTAxNFNFRFh4Um55UGNmV2lHRkHSAVNBVV95cUxOQlAyUFN5bmRqelpvbG5iQnNHM1RpNEZpeGNxWW1sa3JuV3RlbFEtMFBOVmg0dTViTUJ0LWRPYmpCeGVyOXZUazdqdEhlLTRuX3JTSQ?oc=5",
+      "source": "서울경제",
+      "published": "2026-07-03T11:25:34+09:00"
+    },
+    {
+      "title": "[심층분석] 美 반도체 약세가 흔든 한국 반도체, 주가 낙폭 이상의 구조적 위험",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBdkdzbWRCZldqTmpCZlNQd2xua2dFUzRpckFZeDEzdTNfUHBmUDlXNUNyWjQwazV2WmhOREV5d010NUc4U3lUSi1obHBNMURuOUFPOWpLSGFiOW8?oc=5",
+      "source": "데일리연합",
+      "published": "2026-07-03T11:20:05+09:00"
+    },
+    {
+      "title": "멀미 나는 코스피…7400 찍고 7800으로 ‘V자 반등’ - 조선비즈",
+      "link": "https://www.hankyung.com/article/202607034034Y",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T11:20:00+09:00"
+    },
+    {
+      "title": "키움증권, 코스닥 활성화 정책 수혜 기대...목표주가↑",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Uc3N6WGN5LW11b05jZUY5UkJWd1M4eHloc3pOQ0hkNUota29XR2RKXzRxTTBsVlBGS3BtX2dxN2RUNU1DdDBrZmprOS11XzdOM3JVSEpILUVGV1BVb0t4YVI0TGNubWF0dG04?oc=5",
+      "source": "ksdaily.co.kr",
+      "published": "2026-07-03T11:18:54+09:00"
+    },
+    {
+      "title": "‘2부 리그 낙인’ 공포 커지는 코스닥, 세그먼트에 엇갈린 시선",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hSUxmbWpWNzVJdEhYZk94N0ZsOEpaeWJZRFdCeWVHOEN1RHJyeW53TW41aTdDbEc0cUNfMm45VU5WM0trM0FJT1NxSjdQWjB0OXVnd0pnSdIBkAJBVV95cUxNS3ZOaG9qMXZoRXFGazlGdzRlOTZTQ0tpNkdfRnhJd09OanVYMUsxejB4ZHQ1c3ZTdjU2QlQyZ0pETmoyWTlKRlZuSm5oOXZic3RzY1FEc05UR0pQMERlWkFuM180YS1yaE03QWxsMDVPTldKMnR2THNKTXNXU3Z4UTFPdUh0Z0xJaWlwY1lqYjl5b2k4T2lEbjVTSV9TWnN2eFBFRUE0T1M2Nm1jVXRtcGNaMS00VnJQci03M2lGb21zZEtuQldZOS1vTTRab2lPaXVFam43RURFUjdVNWFUS2thVmFmSDhyQnNDSHN0S0lIQU9jRVIwRWdlT1lZWlFIczJNX25sUXl1Zlk3dll6cA?oc=5",
+      "source": "데일리안",
+      "published": "2026-07-03T11:17:00+09:00"
+    },
+    {
+      "title": "클링 AI, 20억 달러 자금 조달…콰이쇼우 테크놀로지 주가 급등",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uMFhpa21xMjJIdUt5cTVvV1pIamhLaHB3OHRydEhKa3BMWkFidWxUeEhBTVlFQ0laV3RLcktLOWVSS3lRaTJTSGdFRXZKNDJLVjdGSnpZQzh4WVdrVlB4eXdrSHZsM2VCM2JmeDRRNGw?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T11:16:00+09:00"
+    },
+    {
+      "title": "상장 첫날 자사주 토큰화한 시큐리타이즈…美 첫 사례",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjBXWWM1Q3dpbWJkb1hGUjdneHdKZE9OSWloUlYtTlJ5aGptMWp3Y0dTb3dsbE9Tek92Y1RDZmdyXzVNMGo5amhnRW5QRFJuaUkwSFVwTkwxS3g4bC00bzViTlIyNHRnSVhoXzg2VFRiWkNwVXdiZlN6dGlnckdPdg?oc=5",
+      "source": "이데일리",
+      "published": "2026-07-03T11:13:45+09:00"
+    },
+    {
+      "title": "현기증 롤러코스피…7300대까지 밀렸다가 7800 돌파[장중시황]",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Id3FqOVRpMUl4QlY1N3IzLVVMeUk3RGdjNGpQUmphemFpeW8yVlpUc3p5YTBHZUhzU1M1ekRuU2N1SDAzclRtRV9DQkUxMlNLcVI1M2NiR0owNldjRHNF?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T11:13:07+09:00"
+    },
+    {
+      "title": "호주 선코프, 연간 보험료 성장 전망 하향…주가 급락",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yTmpBV1NKdTVZeU95OEk2UEQwSVlTTHpEYmRTbk1zNHlNcWhvRklKbkRNa3NMWm96VERCR29wM3MyZlhsX1hDVTVQdGNaV1lyZVl2TXJTcUhEeEFmellxTmkxVUtXTEtsNnJ1Yi1ablY?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T11:13:00+09:00"
+    },
+    {
+      "title": "코스피 반도체株 투심 회복하며 2% 넘게 반등…7,800대 중반",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yVTJxbzNhV3BiVmJCckRsTEdzdENObTBZaWk1RVdwNkNuVVlTXzhKMDFBa2lIRVJ1dEdVSmtnYnBhbU9pNVY4NXF5czZkRldvcFQzOWN2RVVLYXg1M2J3OFRmWFRQOWJJWlNGemJzS24?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T11:11:56+09:00"
+    },
+    {
+      "title": "국채선물 강세 출발…예상 밑돈 美 고용 반영 속 주가·환율 주시",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wNkVoQVlJYlFtSDFPQ3JKWjVQMVlqN28zMTZzTEp1b0ZyUDhiTjRHcXR3azhPRnVJT3g0X0ppVDgweHktYUhlQUpQQUxCbUF6cUJ2Xy1xZ3VSTWwxS0ZhZmNfeFBrMGlMaFVhZ1pBdnE?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T11:11:23+09:00"
+    },
+    {
+      "title": "中휴머노이드 유니트리 상장 승인…신청 넉 달도 안 돼 마무리",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBYTR0aXFGRW5Rc0NESER5ZVR6SmNWU0dQNkZsNXFueGNlcExDTzZieGJWNVV3S1RiMW85dTlGZktWd2hQbXcxb095NmtlN1k?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T11:11:09+09:00"
+    },
+    {
+      "title": "콘텐트리중앙 주가 장중 29%대 급락, 장중 한때 하한가까지 내려",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VQ2Vwc3Bva3ZMSHdlQ3dOV0lKd1ViUFBUemdOUlJFTHA4SzVVTmtVdmxTUmxWVUV0dlRfYjlqSzNlOU9UdmV0SUZINk9WbTVVc2JBcjNRWHp3RnU3VDcwY3dRcm9pV0hCS3pBNm43c01mYWM?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-07-03T11:10:16+09:00"
+    },
+    {
+      "title": "코스피, 장중 상승전환해 7,800대 회복…삼전·닉스 반등",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ETTZqS3BKcFBYakZZMzZLYXRobDJyYi1icWpIY2JaMHFmTDdldFJ5VXNtSlFwUnJWQmZ2WFFDcEE0b19icHlaSEpTTGFfZ2s?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T11:09:55+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, ESG 베스트 기업 3년 연속 선정…지속가능경영 경쟁력 입증",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wOGdENlJWQ0RmNzFhOXRDVnpPM2pJaWtISnhNRS1kbG9MT2s1OEZ4MVQ5SjlHcXJnLXhfLUlXcS1pOU95SDVBcVBreTRyTHRvMVhmUmpraldkVzZ0emN3d1NvZmptalpockw4?oc=5",
+      "source": "뉴스인",
+      "published": "2026-07-03T11:08:45+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, 서스틴베스트 'ESG 베스트 기업' 3년 연속 선정",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RcTlvNzNSNWp3b1hnSDU0OC1XR250cE56Z19tSGpiNzJYVEwwMXdKdzFkUHd0Yms1V2FnTFBNWmtaUzQyR0p2ajJQR0ZuMldRTEdQV1ZCX25uX3RzYjlheml0NkQxYlU?oc=5",
+      "source": "청년일보",
+      "published": "2026-07-03T11:06:33+09:00"
+    },
+    {
+      "title": "“SK하이닉스, 실적 모멘텀 강화… 주가 상승 이어질 것”",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PUl9OZkI3eWpmVGFwVUUwam9lVzY0ODJKSmY3eFFEQ1Z0bkhjUVRLUVdaVDJnZlh2Y084aWdVeldBYVMzTHI4eDYtRFI4dkI4elhzVXhISzRublg5QU5kRTNhZDhEc2llNGpqSXNB?oc=5",
+      "source": "주간동아",
+      "published": "2026-07-03T11:05:12+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, ‘ESG 베스트 기업’ 선정",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03SlRFbWtQLU5QXzVqMmtFcjlFeUl5bWRZcHAtNWtRd1VDbnNjT0JFRnNnR2w5VWhmUWtVcXZXaWhxQ2dVeFJhUVNwTEtkcEU4R1c3U3U2Nkh2NmZFcjFKQTc5cER2Z0s4N2c?oc=5",
+      "source": "의학신문",
+      "published": "2026-07-03T11:01:35+09:00"
+    },
+    {
+      "title": "증시 변동 '뇌관’ ETF…이찬진, 신규 상품 출시 및 판매 금지하나",
+      "link": "https://www.newsfc.co.kr/news/articleView.html?idxno=79699",
+      "source": "금융소비자뉴스",
+      "published": "2026-07-03T11:00:00+09:00"
+    },
+    {
+      "title": "DA 데이비슨 “팔란티어 주가는 투자자에게 ‘선물'”···투자의견·목표가 상향",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPLXpsUjlscEV6MEVRZ3J5TUo4NWZSZTBlTG5tQW5vTDVoc2libkZONG1keVRyVXZyeG5ZOWREalktaFlnYTdMM0llRjdEYkZFOHl0VUNwbkZ6WkM0YW1jSE0yZHNicXdEVnBGMlNqbkFMb19kU1I3VWZsWk5RU3g2bThRMDUyMVNIVTFYZHBhOEkwWGdZLWRtNlVGRzlSZnB4TTlEVHNhNjByWlU2clZ5ZVI4bVNOS2xWMnNvbndBRUVBbW5ROHBCSEVwb1NSdnJxZ3AxZURlWmhvR3lRRjFGLWVmd0t3M1FGSkNoU0hPSWdtRmFTcGMxTjV2Q0Q4ZWEtclBCZzZsVHEwMHFFWWR3bGZ6Q1hyYlI5N3RaSHk4ekJoMXoxMWhXb2VmMXZGNVdFRl9wS2RCWXpZSW9wYzQ0?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-03T10:58:54+09:00"
+    },
+    {
+      "title": "금호전기 등 저(低)주가 상장사들, '퇴출 위기' 탈출 위해 '몸부림'",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fTlZOM0c5NnVwSjZVMHdsMHBlTEt4WHBLYmdMY3dmRDZESVlDbENINGFIdkR3TjhkeExzWjVBS1V5ZnF3TWVNTk0ySW9UaDk2d0c3cEF2ckhUQTE4NWdvNFBaU0Z6UUJFa0E?oc=5",
+      "source": "금융소비자뉴스",
+      "published": "2026-07-03T10:54:00+09:00"
+    },
+    {
+      "title": "코스피, 급락 딛고 7800선까지 상승…장세 널뛰기 지속",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DbkVsOGNjaEhNWFRKa3VudlplSHFkOEQ1bGs2cXdCVWlySlBTZmN4RHRGeVNXQkktOFo1b21QOGY0cnFQQ2hMdHR6NWtVTFNsb081a9IBTEFVX3lxTE1vbGtybE03aWZNOFVlV0g0U01FN3F3Rkw4Yk1YTHBoQjlGWExwRVFmZnhnT2tFcTNQUVA5ZVpybERpQzNmZHJHZXVRU2U?oc=5",
+      "source": "mbn.co.kr",
+      "published": "2026-07-03T10:52:01+09:00"
+    },
+    {
+      "title": "코스닥 신속퇴출 속도전…상폐기업 거래 지원도 검토",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhb0N6V0E3QU02WlA0Y0hXbWRBLXBDLW1qOWxYUXEzZ2lDcXAzY3BtM0tabVZVLXNwaDVtYUEyRmNCRWRQTEtqNnFqNVh2cTNxVG9JNkw0RDJvVVV0QTVoNXFBMUJtWVkwaFpRT2JOQzY?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T10:50:00+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, 3년 연속 ESG 베스트 기업 선정",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OTzlaM2tmVFl5TkRZTlZ1N3doMjVTUElPenROOC1WQkNPSXh1QU9RUkJUY0daSkYxNlVITHB6a2ZxTzh6QWszZmdUMk1kczZLTnBxMFl5Zw?oc=5",
+      "source": "MEDI:GATE NEWS",
+      "published": "2026-07-03T10:49:00+09:00"
+    },
+    {
+      "title": "애널리스트 “코어위브 주가 하락은 매수 기회…’메타 우려’ 과장됐다”",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPZlN5b0d0UFQyeG1lclBKNjRKTHJia0dxSkV0dWsxaFVPYXBxVmRJZTdCcGQwbks5c1RBYkNPY3dFMXhaRlF6X2VmNDZqX2ZqQl9PcUVJbkJXcElSU3RvR283d0U2VDkxUDFQX2NIbzdXcUg1QkJHQ2E0MEpDUG9OcDE2Tk91YUtsMEJRcXJQeVNqWHdKdm5PdWJuUmtnRlZvWU0yQ1ljNTRqN1g1LWRtRFFrWFFZRTFhMzBGTGlzVkFNVWJEcDhaUlZYWENaeUJoVUpmWENyRWhEazcwWDNmdm1jVGNESVdXYndZRW02clU0eHROelJzUmwzUFMwdHNISHpIbzVxeV8zMVVsVlVaMXRzNzhtdjVmQ29pVURsNEF6MGxpR3lNa1h4U1VCNTJCLXpFWUsycWdkZVVMQjNoU3lJSGs1Tk50eml2ejd5bFQwTzZP?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-03T10:48:52+09:00"
+    },
+    {
+      "title": "'중복상장 금지' 가이드라인, 이르면 내주 발표…7월말 시행될 듯",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44OUpvR2pMeWwycU1CR2tGT2V3b1VQZXJKZmhYRThwNnNxeU1aRnk3cGxiblZPMjZ4cDNBS1VDMWFZWDJ2d3VKZDZPa3phQVJMakozSU50MGlndGpuYnVQc9IBeEFVX3lxTE5zOVVQNnRSWEFwSHZwa2piY2doVG1IbWNkeHB3UnpkOEZTc01zbHBCQXNrb2pLTTVuY0xNMXgtYnRGbGRDMTVrbGR3M2l1cURpei1FbnEyNFByS202aFFEejVSV3ZwTkQ3Z2hERkRUM1JvWnlSLUFOOQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T10:47:43+09:00"
+    },
+    {
+      "title": "골드만삭스 \"엔비디아, 지금이 매수 시점\"… 목표주가 285달러 제시",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KQVNkamtEMDZiR1U5YlhGcDNKTXB2cDR2ckg5akZ1M0dFVS1tZU5Ia0pTWDJYYlFEX1dNZURjaEMtT0U2YXgyWDVMb2xMbmJRY1BTejk2YUMwSnVSN2xxdXF3?oc=5",
+      "source": "초이스스탁",
+      "published": "2026-07-03T10:47:05+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹, ESG 경영 성과…상장 3사 베스트 기업 선정",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHaWZkdVhsbURBN0VEdjFCdzdZNmI5NWhjRVRScVBYWmNVa1BhWlZKUnNDbkJkRzRFWE16QkxEX1ZzVFlpb2ZTZi0xZHphQ3VSU19tc0VKS0VfMzdMcXFFQVVKcTVRUDBVNzNEQdIBb0FVX3lxTE14Um1vNUtXdjJTTDJkbzRGdGxjdDRoRnRTRm5yTHo0c3A4VXpIR3o3MUV2aXdCTlliVEw3cUMyU0Y2NVNyd2dVVjA4RnBpUDUwMGoyZlktUU9wbjE2T0tpQjdfLVcyNWVlQ2drSkpnaw?oc=5",
+      "source": "한스경제",
+      "published": "2026-07-03T10:46:32+09:00"
+    },
+    {
+      "title": "한투운용 \"액티브 ETF 4종, 상관계수 미달로 상장폐지 예정\"",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Zl9MVThOU3FpdEdOUlJKNVFGWmRBZ2RadE1IMWhoc2dfTlJobEVQV2tvVXNkREdfWndDYzFZM1gxZFRVN0NaaEdsNFFiN1RCRWQ4R2lHWkdDNlJaNjhV?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T10:44:53+09:00"
+    },
+    {
+      "title": "K뷰티 수출 역대급인데 주가는 '나 홀로 소외'∙∙∙반등 신호 켜졌나",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYk45cnhVS3cyUC0yODFHZ05yVHZSMnF4SnNjUGhxQWo0UjJKdEpXQ0FLUzdqOVBxamhHcEk3dEU5cFJpbUZrSHFPVFlRRi1lYmtBU2FGSmdqcXh5RWZJVDFUcGJWTFlKaGdmZ1Vxdw?oc=5",
+      "source": "리드경제",
+      "published": "2026-07-03T10:44:12+09:00"
+    },
+    {
+      "title": "샌디스크, 목요일 주가 14% 급락한 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNOFlVZVpZem5NVVRDSUpYR05aU1EybXVMZV9uaHE4cEFZcFczTWE2WTREQ3VSb2RxZXBzOWRfd19VUnZsNHFyVmx4QnVtQ0tVSW9vbjJlUGR1N1dYU0pHdnZoX2RWbnowek5GQmt0Yk1LZkpCLS1VUVRKSjVFUGliRWZJX3V2UGw4WGYzQ0tGQTU5djQ4NUpNU2x1a2NXd2YwVkI5cXdiUy1mZk9yZUFfMnh5N0FIanFKR0l6MHVGdkhNenlyY1RRU3JSSi12aE1ZVERmVGk0WXRXVHhfN2hSc3lvR2g3SXgyejFkel9NbFh3SzJ5b0Q5cHRXMjE1VHBxdEgya3Jzek5mZXZKVHVoUGRn?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-03T10:43:52+09:00"
+    },
+    {
+      "title": "[주목 e-주식] 韓증시=‘가장 접근 쉬운 시장’ 재편화…\"외국인 투자, FDI부터 통합계좌까지\"",
+      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=46003",
+      "source": "이코노미톡뉴스",
+      "published": "2026-07-03T10:42:51+09:00"
+    },
+    {
+      "title": "파라다이스 주가 장중 13%대 내려, 6월 카지노 매출 감소 영향",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wX2tQaHFBbkNyTkNVQ2JLOE1Pak04UWdaV0pPU3ZGYzIzUzJ4VFlDVnJ5dXMzOXBVT3hwOE9PaWdwVjhqOHZlWHpJc25jNVIyU3RVUVFhQlZPTnFHejhJX243WlM4SE41eUZjTzAyYmdhS0U?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-07-03T10:41:06+09:00"
+    },
+    {
+      "title": "7,300선까지 밀렸던 코스피...반등해 7,700대 거래",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03SDNkYnlCR25wd18xS3hlYTQ0TEtVUi0tTkJ3dDEzY1REbExEeGVDQzIzbE1pRnhuQ2JjNkhKLWFKdWxHWFlHRFpqREQ0cEpnSnE4cVE4NHlxS0hMYnc?oc=5",
+      "source": "YTN",
+      "published": "2026-07-03T10:40:00+09:00"
+    },
+    {
+      "title": "[현장] \"코스닥 밸류업 지원 확대\"..거래소, 공시 신뢰 강화",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FVXhVVThaTzZYMHQyZFRDTmJqWHVmYkFrX0h5MVRqdmZXWF9lbHZqaDRfOTktM3JyVDYycTFjN3pvb2RXcEZ2OEFYMnJ2ek11QzhtZlZHQnFtdl9SOElETTdfUXM?oc=5",
+      "source": "포쓰저널",
+      "published": "2026-07-03T10:39:10+09:00"
+    },
+    {
+      "title": "포스코, 계열사 지분 3.6兆 매각하는데…주가 우려vs투자 기대",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbGZkTUg3MFNrWWdRUS1vZTNFSV9CTHB2RVNlYjF3QkJ5UDJ6S29lcU40NzlzT01TNmZEbDBIRnZXMkYtSGFUcHRQMmxRSWhNVDdiSS03NTU3TDdubmRMTzAyNWNUTnREc1BhM0tGUmU?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T10:37:51+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, 'ESG 우수 기업' 3년 연속 선정 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83bUNoZnhNa2NTdlNNTm5rY0VlS2JCbzZqOTlUWmJfYTBkUzJXbnp1V0N0NWpoZU0xZTcyUnZ2Sm9sUmVYS3dQWnN6cWV1MEVBWTFPRnUycnlfQjlrTExHUUx1M3VvWUNKQVHSAW9BVV95cUxOejFWdnNjNUVUTXRvLXNlYmRIOGYxbWhzcDFSdlp2QzVzWE96bktYOGN6aGJfVVlrVThKaTRFREVuRmxCdElrRUptaTR3UC10VlVlWGlrcGpxNjdIcktsZjBad1hPVF9ZbkxQUTNrS0U?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T10:34:34+09:00"
+    },
+    {
+      "title": "[증시타임] 美 반도체 숨 고르기에도 저가매수 기회?",
+      "link": "https://www.yna.co.kr/amp/view/PYH20260703021100013",
+      "source": "v.daum.net",
+      "published": "2026-07-03T10:33:07+09:00"
+    },
+    {
+      "title": "한투운용, 액티브ETF 4종 상장폐지…7일부터 순차 상폐",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rZDEwQTFQSHpXY3FfUnpBaC1CZ3dzV0h4YWZsZjdDN3BxcGVoMkVlX2FYNzA4UFFQcEt6WE5HYWRlangzVWtWLWthTTdCcnQwV3RSRDlCUGN3VTdic2JjWHlJN3M?oc=5",
+      "source": "서울경제TV",
+      "published": "2026-07-03T10:31:40+09:00"
+    },
+    {
+      "title": "코스피 장중 외국인 매도에 하락 전환 7510선, 원/달러 환율 1544.5원 출발",
+      "link": "https://www.hankyung.com/article/2026070338306",
+      "source": "비즈니스포스트",
+      "published": "2026-07-03T10:30:43+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장3사, 서스틴베스트 'ESG 베스트 기업' 3년 연속 선정",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hdW5EYlltVUotWmNwZkFjM3hibVA1UG1DYTFTeXgwOFFyaEJsOVUtd2hRWWpCNEdxQ2hITVBfYUtlUHc1TzBjX2dnUEpKSHpHSEdaNkJ0QWJQdktKT2c5eER5cms?oc=5",
+      "source": "매일일보",
+      "published": "2026-07-03T10:27:08+09:00"
+    },
+    {
+      "title": "AI주식상승확률분석 : 지엔씨에너지 (119850) 주가 전망과 상승확률 분석",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDR0N1QWxZbnI4d0s2WnRtN1VGcXBwSk1kaVdzUk53dkpfNUtHalc2cUdfenE2VlBVM25ySnJJWU11ZUxkd3NUeVc1SGJqeDJzVFItQ3lMRk1KUUJ2WExNcA?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T10:26:00+09:00"
+    },
+    {
+      "title": "신한지주 KB금융 주가 장중 4%대 올라, 시장 변동성 확대에 경기방어 매력 부각",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MYXVPYkM3WkpsTkJnYUNibHFtQXZzTEtwVXRTZkhqODdvQTZTNXltbDhtb291cFFObGZnZTFQbkVWajlvV0NIUVprTGQ2czdEZ015OEMteHhNMXd4WkRTcUNmOTFTeUhKYzZYSDYyZ0ZtWFk?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-07-03T10:25:21+09:00"
+    },
+    {
+      "title": "7700 회복했다가 7400 깨졌다가…멀미 나는 '롤러코스피'",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=441485",
+      "source": "한국경제",
+      "published": "2026-07-03T10:22:54+09:00"
+    },
+    {
+      "title": "\"코스피 하락세, 외국인 매도에 7,400대 주춤… 반도체 대형주 희비 교차\"",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CWktiejRNYkE3OE5vMy1ueEVvVkZRa2ptM2NHNm5Jajh4c0xMbzNxNEVBNUZrY2tVaHpjUzFfMVZ1LXhDVGN0RUhldXAyV3RocmVHaDBHdkxmTVZfcnNqdldGbEc1TFFi?oc=5",
+      "source": "공감신문",
+      "published": "2026-07-03T10:21:52+09:00"
+    },
+    {
+      "title": "외국인, '750조' 더 팔까 … 코스피 보유율 41% 돌파, 리밸런싱 우려",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zTmF6bEsybloxMGRvSkJqc2ljTGhwZHZkbk1TczdwWVNLNGJfWXdiSEIzX0lieG1pQzZuZ1NIYXcxZFpDTm1iajBaVmd1aHJ1Z1Y1dEoxRzhMMjRob1dpQW9uLWpjZXdtZUppMk1meU14VElSVUIwV3JKQdIBgAFBVV95cUxOQ1RZY3RURF9TYk5pdUo2Qm1hLVhrV0hyZDhOTE1idWE1d1BPaWlsUkh6bF9mNVpVdEg4amZ3d0xIcV9MRHNQVGZyNXVVNWZ5ZzE0WU1NYXRzWkxjeEtoR0RHRmRfNlIxVWpYY0NWejg2blFKMFRhSFlBQjE0aEdtbw?oc=5",
+      "source": "뉴데일리",
+      "published": "2026-07-03T10:20:40+09:00"
+    },
+    {
+      "title": "‘코스피 불장’ 못 참은 금감원 직원들… 규정 위반자 10명 적발 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2JUQktFbnBFOEdQajNCb3pWc3pIYXFMY25ndmJycThZdmEwUE9odnRWbHFuM0pDRzdodVdxeDZlUzZIRWhhWS1aUzh3UEtHYXRLUjJxQVVIVG1VMjJwOUJOTTBySGNSaERWQlhpMkllZkZZT0hfVHkxM3JOaG1ub9IBlAFBVV95cUxOV2Ewb1M0S2ZmV3ZsNTBIa005bjJHSHdlM3loR0x3elc1MVd4aFFWSFFXY29uRXI4bFpHeWFuaWdzTFFpeTlpQ3ZTLVNjQWZ1dXZtY0tKQllHMEJjalFrRnRpRnFjQmtwZkx2bVhYYVhjT0tUQTdpWTRRakpKV0VaNEJuSG9OUmZ0MmZnVXVpcURjQThr?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T10:20:00+09:00"
+    },
+    {
+      "title": "국내증시 하락 Comments",
+      "link": "https://www.ytn.co.kr/_ln/0104_202607030623216476",
+      "source": "KB Think",
+      "published": "2026-07-03T10:18:29+09:00"
+    },
+    {
+      "title": "中 증감회, 유니트리 상하이 IPO 승인…상장 '눈앞'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uRjNNSTBCZFFvVURIdGxqN0xMRGEteGVlbzJxQnVoNzN3bnRFS1loRkdvaUpKZUEtRUpvSkFxbWVRQTlXam13MHdiMDdubFlWOTBwY1Y0UE40dU9Bd2hJbdIBeEFVX3lxTFBQRlV0X1RBbjh1SFRvZmkwT0tNeHZaWTNUbGJ6aWdGcjZHdWtaUTZHRE1yU00xVDNuM2g5QjJWblU1SkQ0VU5HVWlmS3o3VlZxeDh1QUMxSmRjaGNiQUR0QkxBV2hxc2ozbExSa01GWGxwV0FTcHJQLQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T10:16:54+09:00"
+    },
+    {
+      "title": "한투운용 액티브 ETF 4종 상장폐지…6·8일 거래 정지",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLNUxKbDNyMlp3YWNTRGplSmhDanlpOFFEMmZVYkd3T25HX1B4ZXpELTMwU3ppdF9WWUdBczQ3Nmh1M2JtbFdxa3oyR1lzb25IS1EyUk1XM0Npdw?oc=5",
+      "source": "브릿지경제",
+      "published": "2026-07-03T10:16:00+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체 추락속 혼조 마감…나스닥 1%↓",
+      "link": "https://kbthink.com/investment/deepdive/tip/260702.html",
+      "source": "서울경제TV",
+      "published": "2026-07-03T10:14:02+09:00"
+    },
+    {
+      "title": "[포토] 상승 개장한 코스피·코스닥 하락 전환",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HY0JnbmxJMXpHOXpPc0hxLUJTMjBYQmpFSEUxMEZoOHRETzdnVlA5UHBURDdpeXZqcGRDaEJuOVlrNTVReW9EdDZIUkt1dndpNDhiV2N0d2pnQQ?oc=5",
+      "source": "브릿지경제",
+      "published": "2026-07-03T10:14:00+09:00"
+    },
+    {
+      "title": "미국과 유럽 증시 모두 사상 최고치를 경신했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZRlQ1ci1xM2o5dTFWMmJGWmJHVDZ6ZG4yUTRlODl1WTBDMHB4TS1aWTFHdl9ZTHFESUktcUdfdVRrUFV1cXNCSGtxV2dMbXUySFZzcGhibnlxM05zWUpWb0ltN0lQVEZIVktsVXowMFR2ZU9mbjdv?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-07-03T10:13:28+09:00"
+    },
+    {
+      "title": "'예측시장 플랫폼' 개척…주가 부진 털어낸 로빈후드",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hRTVLLXR1Q0hzQThGWTBYb2R1azNEdTB1SlBPWVowNldzWVFQUEEtSUJYSFFMa3BDb2ZyS3Mta1ZsZE5pU3VtblBRUUlJN09rSnVzT0w2elN6d9IBVEFVX3lxTE5zTDFaMlBuX20wc3ZEREg4T01JX05NbHhnS1VkV1d0Y3R5Y2dDT2RaNGM3X1VYMnU0RkJza1ZVamIyNF85LU15RWxfNXZkbjlHckNPWA?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-03T10:13:00+09:00"
+    },
+    {
+      "title": "팔란티어, 증권사 투자의견 상향에 주가 상승…목표가 175달러",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mQ00yYXZ1eUFLMjJ3UXpTUGtMTk1sbmRTTXBPOXJsNFFicnlMYnptdlNINkJGU0lWWFZYSjlvaXNMcDBLdWJRMmdXZE9XSnZyamdiSGNzREpMbWRxY1kxamJEbHJEbEtZQVNrUC0tWUI?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T10:12:36+09:00"
+    },
+    {
+      "title": "코스피,외국인 '팔자'에 7,400대로 하락...SK닉스 210만원대",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTEZlWWZKbWV6djZlUkxGOTlXRVZLdWxER24yRC1BZDRLSzBTci1yY1F1VjhrYllQTWhWNmlQMGtoZURXTXQxYTJibDlNbktpTHZrOXZqc2w0NkxIUGJUSGRUVVlTd0ZOS1VQUVJR?oc=5",
+      "source": "mstoday.co.kr",
+      "published": "2026-07-03T10:12:00+09:00"
+    },
+    {
+      "title": "키움증권, 코스닥 활성화 정책으로 점유율 회복 기대",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CSVlJRXlnZnc4dmE1dk1PdzJ1TnBVR2ZpMUlqeVFySFdtUnNNeEZXUC1rWi1fUVJvMUZnS1BWdlFyOHdXWlJRUHphajZKVnF1VVlhRkpaWnU1aS0xazM2Q1NET0t1VTN5M09SczNR?oc=5",
+      "source": "알파경제",
+      "published": "2026-07-03T10:09:25+09:00"
+    },
+    {
+      "title": "출발증시 1부",
+      "link": "https://www.wowtv.co.kr/Broad/ProgramMain/Index?menuSeq=644&programCode=P3893&broadWatchNumber=150184",
+      "source": "한국경제TV",
+      "published": "2026-07-03T10:07:31+09:00"
+    },
+    {
+      "title": "코스피, 7400선 후퇴… 장 초부터 외국인 1조 순매도",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTVFQ1hxV3AtdlYtb0gyZGtZcTBYdWZ1Ung2TEJlb3hTMWlhY09vOTJYVEVMN0U4ZWl3LUJxeHczWHkydWZlT0Mwc2QyS1VVQ25aRVRJOWxpYk40MkxSUjlzT2JMd0tVV3U5cmU3cXFKaE1fVVJCNlQxVy1kS2k4Y01PcmZpbUZF?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T10:05:30+09:00"
+    },
+    {
+      "title": "일반주주 동의 확보한 다산·덕산…`중복상장 규제` 문턱 넘을까",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rbm8wSnpKc0E3aFRHSWhySDVIeTE2TjQwSTBiX2NYcjJ4T0paTnh2TTBmZjl5NTZjZWNfZkxoY2J1VWk3dEdhNy1ZclhmTk4wQl8xSnlYa05ncnJhVWU0RmlB?oc=5",
+      "source": "매일신문",
+      "published": "2026-07-03T10:04:52+09:00"
+    },
+    {
+      "title": "코스피 또 7400선으로…외국인 '11거래일 팔자'에 3%대 급락",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56VEZvVWV3bU02elAxeUFPUTBldFVGeGJaRHBpZXBlenQxSF82YVdBa29PdkJaRUJueXVjQlhiYUJTQ1huY3ZSbXF1bHlSVVIybGZEMDh3b3Q0TEd0S0FkQmlsTkFYN0lSVVE?oc=5",
+      "source": "hidomin.com",
+      "published": "2026-07-03T10:04:14+09:00"
+    },
+    {
+      "title": "코스피, 상승 출발 후 하락 전환 7400대…외국인 11일째 ‘팔자’",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFU3UwVXdyTzl0NEN1TUJwbDFvSld6b0wtcXpva3BIUzhSLVEtdm5lUXJLa3BHRlBpNENtQVhieVlZTlBBMllJbm1Ra0xmeUtyVUE?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-07-03T10:03:45+09:00"
+    },
+    {
+      "title": "7300대까지 내려앉은 코스피…코스닥도 3% 이상 하락",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZMzEtN0gtNWloaVU0VGdsRl9haTVWNHJWSXgtQ1gtVXpzUjdrTkppOU9VUGYwYVgtcTN4N2JoZ2dCaG1nNkNfVGdHM1BHWDg?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T10:03:09+09:00"
+    },
+    {
+      "title": "[롤러코스터 증시]실적 랠리가 던진 질문...자본시장은 달라졌나",
+      "link": "https://v.daum.net/v/20260703100117075",
+      "source": "v.daum.net",
+      "published": "2026-07-03T10:01:17+09:00"
+    },
+    {
+      "title": "코스피·코스닥, 외인 매도에 동반 약세…7600선·850선 위태",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NVm5CWE1INWhSVC1pemhBRGFSYjg2SkxKRWpJQnNyMHE4eFFIVVhKWHFtZjJrMW1ZWTMzU0o3VmhfMXczWFZjcm96YkdBSnZKRTVEOFFHLXlxYkV5dXlsWXpuS0M?oc=5",
+      "source": "디지털데일리",
+      "published": "2026-07-03T10:00:49+09:00"
+    },
+    {
+      "title": "IQM, 나스닥 상장 완료…초전도 양자컴퓨터 개발과 상용화 가속",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vVC1TSWtLejVpUTlJU3ZWSmktTFpyYjI1UFR1ZFJxZWttMmNtVnRwN2dyRExSMWNKaTdRMVljUnQ5eVFvTWc0ZmlIMnFYTG1QN2drZWtlbnBGZGZlS2pLb1dnSXNQMFY0RTlocGNuVQ?oc=5",
+      "source": "양자신문",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, ESG 평가에서 3년 연속 우수 기업 선정",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pc0gzT2s4Wi0yWUxteUVZZU0wLVI1RUdvTzJjTnVjVVBkS2FZTVFwa2N4TmFkaFBWcWJyTWZLWVZzT1Zvc3VDUGtULTg5OFdWcml0YW5lSGhycVZDLTBvSmd3eTV2eC1XTFlqdk9hc2dnUQ?oc=5",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)",
+      "published": "2026-07-03T09:57:55+09:00"
+    },
+    {
+      "title": "은행株, 증시 급락 속 나홀로 강세…신한지주3%↑ KB금융 2%↑",
+      "link": "https://v.daum.net/v/20260702162201660",
+      "source": "뉴시스",
+      "published": "2026-07-03T09:57:50+09:00"
+    },
+    {
+      "title": "코스피, 7500선으로 밀려…외국인 매도에 반등세 꺾여",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54Vmo4WW1mamMtckgtS1V6a1hocEpPNzhuVFRlVGVZX1RxN3Z5a294VW83dC13bS1TVDgtemZuVnVrZHlTdFpodUpPdXVXUkJmQ1hQS1Vua2JnYVJ5UWtpUU9ZNnFpWmVi?oc=5",
+      "source": "녹색경제신문",
+      "published": "2026-07-03T09:57:42+09:00"
+    },
+    {
+      "title": "코스피, 美 반도체 급락에 2%대 약세…7500선 등락[개장시황]",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01OENxcXJPTGF2NkQzSHZFdkIwNmRZT1RxRXZPVG9xZkN5OUdMc1hxaVVtZ1d0Ri1VeXM4Tmg0Tjg4U0RvbVZCVUNWSGRnVEFIUHQtT1FNZmhWV095MGpR?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T09:56:15+09:00"
+    },
+    {
+      "title": "한국투자신탁운용, 액티브 ETF 4종 상장폐지",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aeTIzTW1tMEZQenZicFRreXluTnpjR0xEangta0EwUVowcmdzbUZ5RlJBUjlBeUJWT2s1MlNGZDc1T1pUVDJTOGR1WXBTa3dfTUxaTmQxRmlCYVIyd3dvcnF0eEliTnlsZVNsVWVNRXY2c2UxOUFaMUdR?oc=5",
+      "source": "로이슈",
+      "published": "2026-07-03T09:55:45+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, ESG 평가서 3년 연속 최우수",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TdHhVSEt2RjhUV2NtMGQ2MGJ0RThJNXNORHEyRHpXMlhpeDNfZV93dENXNzFUZERkWjdPTGQzSDRCbUJOR3pGVDl4RkdMalhqaE4tOFBTcmJrcFdOZjNpSWxzc1JPdzlfVzE2bHlqYmxjSk3SAXdBVV95cUxNcEZMVjRVRkdtb3ZXQXc2SWVMcmMtQnYyM2VhVHppYjR6RG9IQ3NtRDNUaUxyanpXLUllWGVtTFJMRXA4SWR3OEpLa05QRFRMa3dtUkVlcTBrSVpaSzVLaER3OHBEOVlkLUpIZ0FWX3I2NEFVa3EzOA?oc=5",
+      "source": "스트레이트뉴스",
+      "published": "2026-07-03T09:54:17+09:00"
+    },
+    {
+      "title": "코스피, 장중 7400선까지 밀려…외국인 11거래일째 ‘팔자’",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VVmh4ZnNNWDVZUS11Wm5kRDh4b1JLN05ZZW95YVNFTmFQQlVQVk1iSzF5UUc1WXlMOTVWb0huT0dlTV9UNWhYUnJyekszYkFyeHk3YjNlcWRSak00VzVqVnoxc25ndmZEQi1rMFB6dEIzQk3SAXdBVV95cUxQTXdJbHZEdEVsWGV1WFJBbjc5aWZhTldHd2xGZ2NBa2xlamZJTkVBOFozNkNyY2lkVERYTUdzWks1Zi1oUVl4MHRBTzFuMUt4ZjZPT3c4dFItNVJzRlN6TzhlMEF2eTlvcnpYeXRrOEpPaWtXa3I1Yw?oc=5",
+      "source": "스트레이트뉴스",
+      "published": "2026-07-03T09:53:18+09:00"
+    },
+    {
+      "title": "하나증권 \"LG전자 목표주가 상향, 2분기 관세 환급으로 실적 기대 이상\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YNWEzblh2Y2lGUTh1R2U1UVRYQ0gxNGtEencyRE9RTlUwckFIR0FBNlJIWWU1V0puQUI1ZENVRk1EX0JBR2hUV0huT3VVTmlIVGZPcndWanlmbVNfZWstX3pNeGtuck5fMkM0U3kwTmQ5cnM?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-07-03T09:52:23+09:00"
+    },
+    {
+      "title": "코스피, 7,700선에서 상승 출발‥원·달러 환율 1,550원 아래로",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kNUtoNXFpVDlSUlJ5eW42WC02T2RyNXBvdkdkZXVTM3BIUjN5UnZld0NPQ3BnNGZhcTZVNndNbFVrN2x3OE9veFdPMWE1NWM?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T09:52:11+09:00"
+    },
+    {
+      "title": "대웅제약 주가 장중 8%대 올라, 위식도역류질환 치료제 관련 기대감 반영",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iRU93TFMxOGctaWRXbnMtMFk5bXNGMTJHcUZ1UktoY2JnVXRpenBxNUF0U2k0WnUtVDJwa0RCSVpMMmk2Sk5sdFprNmx5b0JpejlSV3lKeS1ia2hpWnBubkROdVVZR2NDZzBTMHB3bVV4eWs?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-07-03T09:51:22+09:00"
+    },
+    {
+      "title": "코스피 7,513.75 코스닥 831.24",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdjlhWEtwVmVlLURBVnNTaWRHbHlPeDdiZEVDdjAtQVN3X2xOMktLVTVIaHlYcE1zOXdpLVVMUmtBWDQwRlJFbVIwenBYSUVUOVhuY3A0WjFRR2M?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T09:51:00+09:00"
+    },
+    {
+      "title": "[MK시그널] 파미셀, AI 반도체 소재 사업 재평가 기대감 등에 주가 상승세... MK시그널 추천 후 상승률 20.51% 기록",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51cXVnNDB1VGlXdV96ZWc1eGczV1ZYUHpkWDR6Y29QSkZlaHlFWjl4bnBueTZzMWM3eVVtR0ZtZ0VhMVZlQUI1VTdOVnJEQUdiSEE?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-07-03T09:49:18+09:00"
+    },
+    {
+      "title": "코스피, 7,700선에서 상승 출발‥원·달러 환율 1,550원 아래로",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6834735_36932.html",
+      "source": "MBC 뉴스",
+      "published": "2026-07-03T09:48:52+09:00"
+    },
+    {
+      "title": "“키움증권, 코스닥 활성화 정책 수혜주…목표가 55만원”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13OERvZF9KLXZsd3RnTE9iN2daTWVjNWRHYlRxY1pTV094aEVvN3NmMHZqdTBNY2pTZHd4TWc3ZU91RF9YTlZ3VFBjbEQtcXhBWi1WZzFleGg4TzhIcFE?oc=5",
+      "source": "뉴스투데이",
+      "published": "2026-07-03T09:48:00+09:00"
+    },
+    {
+      "title": "한투운용, 액티브 ETF 4종, 상관계수 미달로 상장폐지 예정",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zM21FWWEwUGdzLWcyenJkNmQ3TjB5MklvRUNRdVBRU1hKLVFWWHhlX2ZveTdjUm01dm4wNk1UanA4YjA2SGFsM09IX2ZoVEZfLVJRMU9FUnVpM3VMU1RCbEplaWN4Q3BFclFR?oc=5",
+      "source": "라이센스뉴스",
+      "published": "2026-07-03T09:46:25+09:00"
+    },
+    {
+      "title": "코스피, 외국인 '팔자'에 하락 지속…7,400대 후퇴(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uQU1CeTFGNlJySElHTktPQjN3ZGM2bGw1azFBdDZaZGl1US1pYmIxU1k5UkJiSWJoajBjdWFWd09QTExObC1hSDhiRnZFcFk?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T09:46:11+09:00"
+    },
+    {
+      "title": "흔들리는 반도체 투심…코스피, 장 초반 7500선 공방",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTYUZsMmRWeWN2TnBYaVVrMmw3RURmMnVCdjVmS2hhWkxwSkdwZjZscEt4SFZoMUpJeERMTFAybGpNSnBmYTlXZlhBU1dRX0xrSzA1aUctaU1OMEVEazllMENjT3M?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-07-03T09:46:04+09:00"
+    },
+    {
+      "title": "미국 증시, '독립기념일'로 휴장",
+      "link": "https://www.yna.co.kr/amp/view/MYH20260703002500038",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T09:44:55+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장3사, 서스틴베스트 ‘ESG 베스트 기업’ 3년 연속 선정",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56WEJIQm4tUmxRZUdzdXNubUhUVkV3VUM5NFRGdnF5M1BhQk9tZ3E3anB3amRNTy1KV2dGZTZ6UTUyRTY1emI5cHZKYVo4TElhTUppMlljYlN3czlER2RKeDVNRUwzRDdoWW5r?oc=5",
+      "source": "ksdaily.co.kr",
+      "published": "2026-07-03T09:44:46+09:00"
+    },
+    {
+      "title": "상승 출발한 코스피 하락세로...장 초반 삼성전자 '강세'",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsQ01GdUZrc3l4QWRYR2RVMC1ONGRERGxCT1ozTmQzaWQtei0tWjgxQUM4YlZEZ1ZBSUQzQ2FSZG1mVkZhTXhrS2p6enRGRWdmTWFfaV9jcUU4V1pzc3c?oc=5",
+      "source": "YTN",
+      "published": "2026-07-03T09:44:00+09:00"
+    },
+    {
+      "title": "비에이치아이 목표주가 하향에도 실적 성장 기대 여전",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuYjY2QjdkQzl6WklHdjJSdVdlSTU4R3FhTWstdjAyeUw0QkF4NUwwcWxUSmRZUkVOUG5qejhxUmZaMmhjcmVpVmtqVlM0UWd5b0hMRmh30gFbQVVfeXFMTXB3S3NLMEZuMHJrbW55M19OTmRkR1AxSUFWR1Mwc01nbnE4UUp6VWNVa1RzYlNPNldsWXNTelFWNVFwT0tVZnRzUEtTZjFxZmpNM3U5ZXJCa2tXTQ?oc=5",
+      "source": "tokenpost.kr",
+      "published": "2026-07-03T09:43:59+09:00"
+    },
+    {
+      "title": "한투운용 \"액티브 ETF 4종, 상관계수 미달로 상장폐지 예정\"",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tT1plTU0wWjhvbkJoTUdDV3NOTFpuZUp0ejdoUy16WUtlUmlfVnNtVU5BNGY3ZEhYZzBLRTc2bVNIdVpoZkN6SWVCUkNHN0czVDJpUUpuQnRrLVh0TU9nd2c2YklIcHRNUS1XUHAzWFM2N3pQS3c?oc=5",
+      "source": "인포스탁데일리",
+      "published": "2026-07-03T09:42:06+09:00"
+    },
+    {
+      "title": "오늘의 증시",
+      "link": "https://imnews.imbc.com/replay/2026/nw930/article/6834731_36996.html",
+      "source": "MBC 뉴스",
+      "published": "2026-07-03T09:42:04+09:00"
+    },
+    {
+      "title": "코스피 하락 전환…코스닥 2%대 약세",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jQ1hCcVlXcjBmV09NbGRieVlGYy1waFpRNnRicld2QnotSVRhcUlsb0g1X0U4ODZoS1AwYjd6MXBPQWM0dmRZQmtJdFdjSVFzaEpvc0hIZnRSNG8?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T09:42:00+09:00"
+    },
+    {
+      "title": "\"슈퍼사이클 끝?…SK하이닉스 ADR 상장이 보여준 진짜 신호\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GWU1XZmw3RGtKaUxVZldFV1p5LW5VOGJ0SXRLbUhkNW10NlJQUjdJQk1JSlRvU1JEQ1VUWmF2bGxPYXd5WmN6VjlXbW53eGlkbHdfVFExUXlXVUNTcnJENtIBeEFVX3lxTFBnUHNfT0otcGtZZFBrelNraUxwbmkwR01SNjRxc1c3ckZtV0hjR3diYnhDTUdkNTdGbmw2bjNEcFJDWEpyandDVXJ0eHJUaUdTVmtndmhrSy0tT2xfVklvN2prN1BucVhaTUh6ek1RcXJoOEhwODZwWQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T09:41:37+09:00"
+    },
+    {
+      "title": "'오늘의 증시는'",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423171",
+      "source": "연합뉴스",
+      "published": "2026-07-03T09:41:35+09:00"
+    },
+    {
+      "title": "[AI MY 뉴스] 3일 중국증시 '변곡점 장세, 섹터간 차별화 심화'",
+      "link": "https://www.newspim.com/news/view/20260703000188",
+      "source": "뉴스핌",
+      "published": "2026-07-03T09:41:00+09:00"
+    },
+    {
+      "title": "코스피, 장중 2%대 하락 전환...코스닥은 3.9% 급락 [fn오전시황]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GenRJbHRnVzFJcnpKSmFQMEhrRzc4a2RkZUM4WEdWZEVUdmQ4elZyNThMR2Q0YjMyTElzdS1XWWFZNEhQUldKdWRMQ3hmdFlobmd5b2dqay00UQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T09:39:11+09:00"
+    },
+    {
+      "title": "반도체 차익실현 압력 지속… 코스피·코스닥 동반 하락 출발 [개장시황]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55NHBzczdNNEFjdEZpQm8tc1NlVUJjQlhBVDVNVURmbjVkNmtfNWp1eGZiUERmdjdVNzh5ellIS1lWcVFQMWR2Z1Q5RGpxTDg1SDdEc1hURzJEUdIBVEFVX3lxTFBWNnR2Qllrb213ZVBSSWh3M3dTRjY5amNyMm0zcUhORDIzZjFxeFZpMTB6MXYzRTdRN2JsaE9KX1pBTEFlc3R0di0tWXBQZkJFUUcwbw?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-03T09:37:58+09:00"
+    },
+    {
+      "title": "코스피, 외국인 순매도에 7590선 약세",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DU3Z2SGtIN2E3YkRZTDB0amFXbkpRTzc3NktadzdOSzRLUGFqTFA2ejRwUGdWaXZNMFd6ZVFLb3ROM1VkTUVyc0J2RXRLNndpVEN2cTNKYjZjbFMtd0JWZEpmaDFfblNEekNTeNIBcEFVX3lxTE1DTXoxR1JJZ2pvUTRoNVJpT3RURXFUSzlYWW1rdjctTXNWeWZqUXlFZXdfWHdDSmE3UFRqMDMyMTVkSWZKWkZZSXhteGp0NFRLREJ4R3RWZDhpNWxnUF94eVRfNnNVUjMwN2EwYXRHVmM?oc=5",
+      "source": "소년한국일보",
+      "published": "2026-07-03T09:37:42+09:00"
+    },
+    {
+      "title": "코스피, 상승 출발 후 하락 전환…코스닥도 3%대 약세",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lckNFdk84bEZkYlhiNkpWZEVJSE9jMUptb25fdlh1X0RNeDBoY2t1TDFtYWI4S2E3QkFIdTVHbWJWZVI0aDhCRkZHX1VfTEE?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T09:36:30+09:00"
+    },
+    {
+      "title": "상관계수 미달에 한투운용 ETF 4종, 결국 상장폐지 수순",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zU1Z4S0FwY0ZFYllLWWVHWjAxYUVfZUtURTBlaFhBa0pLbkFweWh2RGQ3UDhZZnJ3VTZ2RVdMSmZjR3FFQ0pPWlltaEUwX01SdnZETm5NLS0yc0xx?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T09:36:00+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, 'ESG 우수 기업' 3년 연속 선정",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQdk81VEhPVkowTWt3d3pDZ1UyNGJYZXJJUTQ4cEdDVlJCUGZSdW1MRndyNl94NEJ4VkJaYTlXM1ZmLWFHellORmZNTS1EMEJSX1F5dDRQWnhyamNPREpRcw?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T09:35:10+09:00"
+    },
+    {
+      "title": "코스닥 2%대 하락, 코스피는 상승 전환",
+      "link": "https://www.chosun.com/economy/stock-finance/2026/07/03/ALPASWL7KJCWVEJMJBTTYU62WQ/",
+      "source": "조선일보",
+      "published": "2026-07-03T09:35:00+09:00"
+    },
+    {
+      "title": "코스피 상승 출발 후 혼조…코스닥 약세 전환 [개장시황]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsdlRBZTVWRmJJWWV3MjRkYVdMeGZITnRIYUZObGRjV0pmb2ZiYjN4bjdDMXhKd0F2emxLLXEtWmtndTRnakk1cmRQeWlqOVVPWkFfamRVUWozVGs?oc=5",
+      "source": "에너지경제신문",
+      "published": "2026-07-03T09:34:52+09:00"
+    },
+    {
+      "title": "동전주 퇴출 요건 1일 시행 이어…거래소, 2일 특례상장 규정도 개정",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91bW9SZE1QLUpMSTlGMkN0QkFjNG1pUjRieWMwR3lzNklNQzBhc3oxOW1XZDFfVC0zd1F2VHFDVWl1UHZFNENvU3BrUDRBUjJuOXlFb2pkWG9GUVJOWm5FUFRuem44SVl3S2VYZ2Nn?oc=5",
+      "source": "마켓잉크",
+      "published": "2026-07-03T09:34:45+09:00"
+    },
+    {
+      "title": "어플라이드 옵토일렉트로닉스, 목요일 주가 13% 급락한 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNTWQzZHpjLXRZa3hLRHQxWFRpNlR6aUlGME1HZ21fVnhSWlVfaW0tek5UYno4dE1jV184QVhMZUJoM1dRSnVyWWt3UGstMG9WNzBhVHdScktMdUlodFBvdndaNFhVYUhPSnB3UHFNMlk4cDlNdHlPOE5qRzNwc0w3ak9UZUgtdU5UQXBCX3BrY0RhT3lKN1U2eUJKbWxwWktWSmRVNVFjdHNFNllYQm5aQXlvOXU5WVQ2c3k5cGVKSEgxbFFralZadzB5ck9XdV9NUElJSlowR3lXS0V1ZHo2LXNEbUE2cV9MWG5qX05oTjJtZ2pZbElQOTJRVU1Zd2V5eGplZlhja1JsWHhGdU5pNjQ1c2RBQzJEV1FSM0RPZGhYdWZhYlZMazZQbHJOY3BrWkY4RnJNeWtORVNCUE85ZENURENodjc2ZW90VVQ2SC1BTkpxcG85TTJB?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-03T09:33:47+09:00"
+    },
+    {
+      "title": "코스피, 장초반 7700선 등락...美 반도체 급락에도 '삼전닉스' 반등",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kbF9WdjI4OG5JYXY2ckxsRU1qQlRwUXZ5Wk9NZ2M1V1FGcVpXckU4SDE1VHhxVHZMbFh6eG5aa29DM1NIX2dSU1pXZlYzQkhFeG9OU2d4OXFuazRNNnRfR0c3aUlFczVIdFI0Qy1oN0Y?oc=5",
+      "source": "오피니언뉴스",
+      "published": "2026-07-03T09:33:38+09:00"
+    },
+    {
+      "title": "초반 상승세 보이는 증시",
+      "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=162473",
+      "source": "뉴스1",
+      "published": "2026-07-03T09:32:08+09:00"
+    },
+    {
+      "title": "[개장시황] 코스피, 보합권 출발 뒤 하락 전환…1%대 약세",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mdzlBSkN3Y1Uya3VjYW83S2FUYVhwWi1Vazc1ZHFlcWpWOTRRaERHQ2l4b0xPOUpDbXYxV2dmTzliZjVzb0EwTUUzUWcyakVTMHlabHEzN1dNbjJw?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T09:32:00+09:00"
+    },
+    {
+      "title": "코스피, 1%대 상승 출발 후 하락 전환…반도체 매도 압력 지속",
+      "link": "https://www.etnews.com/20260703000045",
+      "source": "전자신문",
+      "published": "2026-07-03T09:31:24+09:00"
+    },
+    {
+      "title": "개인·기관 매수 vs 외국인 매도...코스피 보합권 등락",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TRUJXdGVNVWVaUEpjX2hUZDBhdFdjeXVHV2cxM0VjeExjTTU2ME1fN2lQdXNBNnRvTk9WSnRoRi1maXZ4WV81MVhiMkpQQTJmYXo1QmY3MFc1VTh5Nk12cmhoREhjRVdseUQwR3Q1SlhBem9OTWg4TFRXVkpGdw?oc=5",
+      "source": "서울신문",
+      "published": "2026-07-03T09:30:31+09:00"
+    },
+    {
+      "title": "SK하이닉스 급락에도 목표가 줄상향…\"AI 투자 확대 지속\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cjNBa0NXRHd3d2hRMjFfM2FfRUxwSHBPYkNjWDRhekFZVW5DRDgwU0Z5UXJkdU9iTVhEN2lRZW1vd3E5UG1CazJfbzV6cXc?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T09:29:46+09:00"
+    },
+    {
+      "title": "코스피 상승코스닥 하락",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SbmNIczBZUVpPemViclUwbUlHOWNDTm1qUlA4NWVYcFB0TUVlLWhCUVF5SHpoeXNHZzJxSUNvcElhS3ZtTktobDgxaWpycFAtRWd5YmMwNkVpcnVy?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T09:29:00+09:00"
+    },
+    {
+      "title": "\"저가매수 기회\" 개미 '줍줍'...코스피 '혼조' 출발, 7600 공방전 - 머니투데이",
+      "link": "https://kr.benzinga.com/news/usa/stocks/sk%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%EC%9D%98-%EB%AF%B8%EA%B5%AD-%EC%A6%9D%EC%8B%9C-%EC%83%81%EC%9E%A5-%EC%95%9E%EB%91%90%EA%B3%A0-%EB%8B%A8%EC%9D%BC-%EC%A2%85%EB%AA%A9-%EB%A0%88%EB%B2%84%EB%A6%AC/",
+      "source": "머니투데이",
+      "published": "2026-07-03T09:28:55+09:00"
+    },
+    {
+      "title": "한투운용 액티브 ETF 4종 상장폐지…상관계수 미달 영향",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KM0RXbE11RXBqR190UE1xMkh0QnBjSjNUdzZvbGU1S1dwYWR6eFlNZlNRVWlZNF9fNTJVdTVSOE51N2NrVXNyMW16bUtxUS16aFhvX2MwY3g1UQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T09:26:40+09:00"
+    },
+    {
+      "title": "美 고용둔화에 안도한 월가…“연준도 증시도 시간 벌었다”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82ZFJJdUgzZjZRWVB1MFZLdk9YMW5CZXNUOEpQdktrcXpSX3FiOVJkQlRKSXREelZHMzZDMEt6bUlsRWRkS0MyY1J2dGFMcmFpTWZYSnNn?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-07-03T09:25:49+09:00"
+    },
+    {
+      "title": "코스피, 1.2% 오른 7730선 출발...삼전·닉스도 강세",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnZlVXM0dkJtYkdYazNHY3hfZkI3bnlIZXVjN3drQnpQVF9PZ0ctcnJ4YmMyUUw0dzl3VVYyM0pZRUxudGN6RVhaNGlKMk5ENmE1WG1ZR25qdWxsSEZ0SHpuVndQUXFnOUpKNXpPc1N6b2kya1FFS2dJUXV1VUZVNEhqWEJwc0dT?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T09:24:02+09:00"
+    },
+    {
+      "title": "[개장시황] 코스피, 장 초반 상승세…7700선",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NQ01SVUY4cXRvNDNyN1VwSUdldXBCdjBYX0VtTzM0TkdVM21wclhVMnpIRmRvTkFSRHp2MEN1UlIyd1UyS3JsTEFLOHdfS1BmZ0g3ajZJX3NPUQ?oc=5",
+      "source": "브릿지경제",
+      "published": "2026-07-03T09:24:00+09:00"
+    },
+    {
+      "title": "[속보] 코스피, 장 초반 7700선 회복 등락…코스닥은 1%대 약세 지속",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mUkVZWG9zZ1BXUlgxaldaMDZzbXN3NmZ1NldqdDhwR1k2QUNEWnBRclZVTUo5Q19hLWRxVjI4ZnBzRnNSZVA3R1pqc0p1SzhISUhHdVFVdnpJWW9wNlo3WmVfbjRNVjg?oc=5",
+      "source": "강원도민일보",
+      "published": "2026-07-03T09:23:41+09:00"
+    },
+    {
+      "title": "코스피-코스닥 상승 출발",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UdTNhNlNLTExzdUdNcGlSdjRnUC1JaVZHaU5Vbk13WldQOWp0RUhEUzY4TFNlMWJlMkJxUzRzcWpIUW16TGNnNjIyaw?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T09:23:34+09:00"
+    },
+    {
+      "title": "2026년 7월 3일 금융시장 동향",
+      "link": "https://kbthink.com/investment/trend/daily/260703.html",
+      "source": "KB Think",
+      "published": "2026-07-03T09:23:03+09:00"
+    },
+    {
+      "title": "\"화려한 코스피 9000 시대, 대다수 마음에는 깊은 박탈감\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55UmJGVHRVLVR3NlhFTklwYUlaVkRmSTZXTUFvVkhqcXFLUHRnZHc3TXo0RGZzMHozbEZqNG9XQzZMSHgzeUc2YUhsVHgtOGc?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T09:23:02+09:00"
+    },
+    {
+      "title": "닛케이, 1% 넘게 떨어져 다시 67,000선",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiWDFkdk1VV3hVMGdPODlHLU1LV2lwaml4c3lJeV9kLVZla3RvUnlGbHRvZ0NqSHhCdWJWREktc3VzaWJUSXFXajJ2eXpvdmdXWnRza01hUG5GSHBUZzJhQTJrQlByZmFzZW1VWnpnQnJMQQ?oc=5",
+      "source": "KB Think",
+      "published": "2026-07-03T09:22:34+09:00"
+    },
+    {
+      "title": "코스피 강보합 출발 후 7,700선 공방…반도체주 충격파 소화",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EczBhQkgzU21ka1lDV09BQVg3cURrczlKcFNKR0pFcFA2ODNZc1R0ZlB4X0Z0U0lYUTZFN085b25kRkwySkZJcEl0bk5kbzZYTmJCUExLdTNtdDB5YUR0VjVqbEloeXRFR2tCdlM4c3k?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T09:22:04+09:00"
+    },
+    {
+      "title": "코스피, 장 초반 보합권 등락…코스닥, 낙폭 확대",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qN0lkYk9Qd2ZnalNqVDc4b0d2cTNMRTBlY29pY0tBWVFkYzVTbkM5TUQ0NEwxNGZwUzRoaFkyTjE2NXpxc0YzY3MwQUtyaW1ub0dEcVA0R2dsTGF0LWFjdQ?oc=5",
+      "source": "뉴스토마토",
+      "published": "2026-07-03T09:19:08+09:00"
+    },
+    {
+      "title": "한투운용 액티브 ETF 4종 이달 상장폐지",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZFR2ek5oS29qclRKRGdsbVFRaXUyWkk0OUtUSHd3RUNnUVdJVUJfRHRPMDJHLW9jMVVOcUs3bmhoNGxlMmplUFEwaHJGdkROTC1QTEEwNlgwb2N2OGlCNVRiOWJLMmt1OWNhMjNzdw?oc=5",
+      "source": "뉴스톱",
+      "published": "2026-07-03T09:18:48+09:00"
+    },
+    {
+      "title": "코스피, 7700대로 장 시작… 코스닥은 하락",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CZ3lacUllWUEzWVNiMlFJYW4wYzh0dWwwV3hUT1E2TVRwd09xX2VRUFBRTTFiRi1pZWFGTVMyb0dkRHMxNEdSTWR6UEpPMzFuOWZLTmtZNHFtQjhpODFFNE8xdW9WS1VnN3Q3VnVFbURJMG5w?oc=5",
+      "source": "부산일보",
+      "published": "2026-07-03T09:17:48+09:00"
+    },
+    {
+      "title": "美 반도체주 하락에도…코스피, 상승 출발해 방향성 탐색 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3RsdDhOcTBvWERFYkJ1dXRjX0ZoNmdXU1ZILUJfWE16dEh0Mm00MkY4Vkg2NjByWGttV2tlVnY0V2kzZ0QwcHBza0huT1ZqUU9Id1pHWE1tZWJsaXNKanh1S0hQV2F1S1djZDl3TWVPVVF1UW1YWTdxMGtRU1JjenhvTjlqSGlT0gGcAUFVX3lxTE1UVXY2bGNPQkhvbmhvWFBDbGlNM3FtTDZ6bkdubWVGaG9xRS1sR2F0dkYteEpmY19HeGJVMld5X3dxVUVTcmwtMWc4YnJyR19xU015VjZ6eF81SDZ1Y3VfbXdpajBRZl9PTUhXMzM3dTI2QjcydWZiZDhzcnh4REd4dGUzbHlrYkQ5V1l1UVZwZW1ubEZiVF95MTgtVA?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T09:17:00+09:00"
+    },
+    {
+      "title": "로빈후드 주가 4% 가까이 상승···AI 에이전트 및 블록체인 확장 발표",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQdlJodnFpZlpHLW52NVpublJsZGgxUkNmZFJlU24zNWJ4VFFTanVuLThfUGdHa0NsMU1nd29oLUQ1Qjd6Sk5SVm5jWkVRYlZTSDl4enNrTjZEQ1lJSWQ1cE9BcTM0WEgzVUUyUW9jd1BkeXg2RW9tdlFybk5oYzA0ZVp2RnZqYXlTSjVRSHo4M1Y2c3JRaG9BUUVhejBPeHNkRGFLdmk2Z29RNDJycEVucVc3dnZpcDBuOXN5bkN0b2ZLRzJDa2FFYXBEWE4xQy1rV0tuNEtvYmdBTU9BUTQ1ZWZNWGRIX18za1ZKMl8zUmRzalUtRml5Y2hPbXVSaURoSjdOOUtTNm5vbWxjNkpzTzgwdjFFRWFSb1dwMkh2UXowd0NtdmkxRXNzaU9POW83YnB0RExlWHo1NGFtUzZNc2V3aEprZw?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-03T09:16:38+09:00"
+    },
+    {
+      "title": "코스피, 개인·기관 매수에 상승 출발했지만…보합권 못 벗어나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NOHVZQzVsM21OZGxlN2xsUHNVcThBdi1ndGpqS0lIOE9vakZaLW9HV2ZCcEg5YnVrMnJORGVOampTM1FoVTl2M18tWjFnaGo2UjFpWkRQc3NVUdIBVEFVX3lxTE1mVUoyamJVU3ZDN3h4ZzFCM09tcHlYVHhPYzRwSDZfcmlZRWpXZ2RPdFB6VV8zMnlVVFhuem9kT0JyT2hpMHJzdmp4YU9MTUF4QS0tRQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-03T09:14:38+09:00"
+    },
+    {
+      "title": "[0703개장체크] 美 증시, 반도체 및 AI 관련주 차익실현 투매 지속 By 인포스탁데일리",
+      "link": "https://v.daum.net/v/20260703103307614",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T09:14:00+09:00"
+    },
+    {
+      "title": "코스피 장 초반 반등, 코스닥은 하락세 지속",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wMVdFX0FYZ1E1TjdBdFAwRnJ6QmdseVNLYndyUWJFbjNPb1NlSFdLaHBBN3A2eXpJdEpKYjNwN2k1UnpTV2VLakh2cjFJb25LUm9wNnU5aUFsNE84MThMV0gwQl9objZC?oc=5",
+      "source": "2news.co.kr",
+      "published": "2026-07-03T09:14:00+09:00"
+    },
+    {
+      "title": "“이젠 전기차 잘 팔아도 주가 안 올라”…실적 대박 테슬라의 굴욕",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVUTlVeTBvZjJMeXBhTUw2MnBDV01UMXk2eDlpV1NRWkdnRXBWSTYwaEJmcWh6bGhQemJUSDRHRDg3eDZISU9PVzByUGUyNDNiWmc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-07-03T09:13:51+09:00"
+    },
+    {
+      "title": "‘깜짝 실적’인데 엇갈린 주가…테슬라는 울고 리비안은 환호",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ndWF0ZkloNFVFY2dCdUFMX3VqQlNEdFNnNkdwV055QVR4RTV5RF83QUNnOXZzb1NIc1VSQjY0YlMweGdYZW4wUkdwZldmTnBLdnc?oc=5",
+      "source": "매일경제",
+      "published": "2026-07-03T09:13:51+09:00"
+    },
+    {
+      "title": "\"코스닥 활성화 수혜주\"…미래에셋, 키움증권 목표가 55만원으로 상향",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tREYya2dQWEdjZm02amRJRk41T1hkUXFsdkhsNnNkUW1TdjhyMGprQ2V5ZllsNmsyMjBrODFKdVY1ejd1UGRudmVFaXA2UFpyZ1QtYkVfYnlxcmRiWk9YTzRMOUU1TFY5OW15eTYyMVI?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T09:13:26+09:00"
+    },
+    {
+      "title": "포스코홀딩스, 리튬·지분매각 선언에 증권가 “주가 재평가”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tdXdUNTJZMDlUcURPUndVU0JES0VKcTJfdExneFVVZkxpdjRfMGE5Q1Z1LWlSVDkycjQxYlFLWGtDX0lKWV91VXludnpXNWVwZmc?oc=5",
+      "source": "매일경제",
+      "published": "2026-07-03T09:13:06+09:00"
+    },
+    {
+      "title": "미국 고용 둔화에 안도한 시장…연준과 증시에 '시간 벌어줬다'",
+      "link": "https://www.theguru.co.kr/news/article.html?no=103902",
+      "source": "더구루",
+      "published": "2026-07-03T09:11:58+09:00"
+    },
+    {
+      "title": "美 2위 샌드위치 체인 저지 마이크스, 증시 입성 추진",
+      "link": "https://tv.edaily.co.kr/News/NewsRead?NewsId=01731846645510912&Kind=257",
+      "source": "지디넷코리아",
+      "published": "2026-07-03T09:10:36+09:00"
+    },
+    {
+      "title": "한투운용 액티브 ETF 4종 상장폐지…‘초과성과의 역설’ 수면 위",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtdmsyMjBSbU4ydDN1cTZUMmNENFlMU2ZpTG5sS0FDdExiWW55dm0tZmFzRUtwT2dScTFRclRpcWNjVUlrdy1MdEZNLV9pWmcyTTZwdFREY25YTk52YWc?oc=5",
+      "source": "뉴스투데이",
+      "published": "2026-07-03T09:10:00+09:00"
+    },
+    {
+      "title": "\"강세장 정점 아직 아니다\"…하반기 증시, 얼마나 오르냐보다 변동성 감내가 관건",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/03/2026070300028.html",
+      "source": "뉴데일리",
+      "published": "2026-07-03T09:09:17+09:00"
+    },
+    {
+      "title": "코스피, 장초반 0.35% 상승한 7674.48…코스닥 0.90%↓(2보)",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LcUJPZjlZNVJuckRFZElQcG53SFlHaU5hd2hIalU2eExhSC1tWWxsUDdtMnhBcVhaZVRxRWk1Mmd1eUtiVFNueUt4MTk3RUU?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T09:08:02+09:00"
+    },
+    {
+      "title": "코스피 급락에 '줍줍'…초고수들 삼전 팔고 '이 종목' 샀다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OV3NjQmxDYkhWNEJXVzh3cFdWVUtyeHk1bEludHpyUVE3U2NyMlVLVi1oc2YwanFqRUVQWEEya25FdlMxN1AzdkJQNm5pU0xqaFpuc1dRZ2NRUdIBVEFVX3lxTE1MS2xYYTNQOUo3dl9CQWFqa1c3bkhQMXdZdWtlMUxiWTZTenlrVzdldmVKM1RKSVNfVE5uZ1ByRl9zakxjWVNSVHMwa2xvSlBESko5dw?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-03T09:07:59+09:00"
+    },
+    {
+      "title": "빗썸 창업주 이정훈, '코인 상장 관여' 정황…책임 물을 장치는 없었다",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uSjc0eXN5dGlXNzc2NGxyakJ1MW1RMTViX0d4NU9rSGZlb3hUV0hRQURNb1FTLTRwMmVadlRIRExVYW4wYUJUekVhQzlKUkJTU0JFeDVxUWZSakxWYUItX0VIdmR6MEVSRGtwTm9nWWg?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T09:06:59+09:00"
+    },
+    {
+      "title": "코스피, 장초반 0.35% 상승한 7674.48…코스닥 0.90%↓(2보)",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nejdwcm16RXRXVjVlekJiOHU3UDdRT1l5eDZkQmMwYW5nM2hDVVVtMk9oVG9CUTNHNm82RzlranFEV3RLSV94X0hCSno1TXF1NGFmMlJVUDh5VTNOWDBB?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T09:06:39+09:00"
+    },
+    {
+      "title": "칼스버그 인도, IPO로 1兆 조달 목표…비공개 예비심사 서류 제출",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56dHQ0aW42NGZjXzNBWENhRWF4TWR1bmwyNzFBRTlEbkFSd0tjSHJVZWhwY0xJUGVMdzExNFd4M2IzTEp6cVpBNGE0dG9FeWdiTkZUa0dn?oc=5",
+      "source": "지디넷코리아",
+      "published": "2026-07-03T09:03:59+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, ‘ESG 우수 기업’ 3년 연속 선정 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGwxZmZFUk96STc3SzdXWUxycnVTVEVpcHFwN25nSzBoVWh4Um1aNUJVUHd0RlBTWGdEUFVzem5jOXBMaTkyUXBHTjRXUHlEczVDOWxBczhIR29GMWJCM3ZfYkpiVFIzekFwUk5ycVQtallCa3Q2QzBZX0FGZDBzdDk2Z2U4TDDSAZsBQVVfeXFMUGU1NktXQ2sxRTM4em5rMFA4Y0VXWjJMV3VhVDNEd2NRdzkwbHVydnBLRkpHd0g5TWZOYkxNUTFwMHFwcU9DVGFhWC1hV09IZk9NRDRKYnJMRXJpVjR2LS05S0JVRDZER2M2Szc4dlZZLXdxYklWOWlqTzZIa2JqSFFXMHpkN1lDR2NCQ3RFTlE4WElWUlNRUUtROGM?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T09:03:32+09:00"
+    },
+    {
+      "title": "[코스닥] 8.46p(0.98%) 오른 875.18 출발",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TQXJRbUN6aXJDRUgtZUxtOVBMRTg4WEprV1pDcHJaeDIteDNZckhEMEhMd2pGODlfV0VuQ1BHYU91MC1TT3ltZ2Z5c1Byb3NpZHhvX0pQeGc1LVFCSjVR?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T09:02:33+09:00"
+    },
+    {
+      "title": "NH證 신세계, 백화점 호황·외국인 소비 확대…목표주가 42%↑",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16NHg0YUZ4YXFIaWNCaTBIaDE0TkVVSVlBOW8wZlpjN0RaVGZLVGh4NEFCMTJSdmRxUW1kZGdtUDZVTW1ZQlIyUk5GSXNwRFZwVHJRUllFXzAtZ9IBWEFVX3lxTE9mR0RScXIzV3RaSmZROXIxaDMzZko1dy16bzR4dXpwa2VSOVNpdzRxUmFVbnJ3MG9xOEw5TEc2LV9MZE1pZmdvT1BvZXpPX2J5ZGtza1VsUzc?oc=5",
+      "source": "아주경제",
+      "published": "2026-07-03T09:02:33+09:00"
+    },
+    {
+      "title": "[코스닥] 8.46p(0.98%) 오른 875.18(개장)",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Wa0NVM0t1Sm1OVzNiS1lsSFJ1OHZsaUNSU1ZTUm1WWG9hQTMtRzB4Mkl5d2hycGcxS0ZETEFBclE4cGJ5RjUzQUxXc05paW9tRkE?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-07-03T09:02:21+09:00"
+    },
+    {
+      "title": "[코스닥] 8.46p(0.98%) 오른 875.18(개장)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxbExPbEJRT2ZtcC1mUkQycTc3cF9vdkctelRFbkR1WmF3YThOMjFoNlhKYXdYdXg2UkFfVW83SGhxalFvb3hNLThHRVZNN25LWWUwUkE3ZXpOeWvSAWBBVV95cUxOTXJHaGtORFdRc2hLd2ZCLWptUVhkR1pBcXg5TFVNTnZGUmlyTEdtMnNqenJQVGtLTUhUQnV1dFNkQlBFRDg1UUhQQ2ozSU1wZ3pDMFF0c3JZZHpuNmxoTmw?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-03T09:02:21+09:00"
+    },
+    {
+      "title": "[코스닥 개장] 8.46P(0.98%) 오른 875.18",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xYVRPVDduaU1qUWM5clE3RmgxQzVQbHRPNTZ3bjRnTUR0Vmg4Xy0yZGV1ZWNHWHJvY2Nfc29URUZXNVpiMTZMc1FtM3VXSmZIOXV6NVR3b1owQXNrZHoxVUYtNHFOWWFoM2c?oc=5",
+      "source": "서울파이낸스",
+      "published": "2026-07-03T09:02:01+09:00"
+    },
+    {
+      "title": "[속보] 코스닥 8.46p(0.98%) 오른 875.18(개장)",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oQ1VvZGVYbUptcHJtTVp0Ny1ZZWhrRzFWVmVpX0d1OXh1S0xDNVNiTC0zV1B5WnFkaXdSdFNIMEtJTTZKQnZkUEQ3TFduMG1hbVNHSA?oc=5",
+      "source": "이투데이",
+      "published": "2026-07-03T09:02:00+09:00"
+    },
+    {
+      "title": "[롤러코스터 증시]폭등했으니 폭락해야 하나",
+      "link": "https://v.daum.net/v/20260703090141282",
+      "source": "v.daum.net",
+      "published": "2026-07-03T09:01:41+09:00"
+    },
+    {
+      "title": "코스피, 1.20% 상승한 7739.75 출발…코스닥은 875.18",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fTkRVWEhwazFzaU85c25JeGNkdW5SUHZvVFBwQ01jazE5TmZLSmlZUHpfS3NoMm1ENUZjcS1yQ21zWmUwTVplbUNrMm02NXJqQnBaOG1HWmhMNUN3NDEyQzVHaUY1YUpXNFF3akZYWWx2X0U?oc=5",
+      "source": "마켓인",
+      "published": "2026-07-03T09:01:41+09:00"
+    },
+    {
+      "title": "[속보]코스피, 1.20% 상승한 7739.75 출발…코스닥은 875.18",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRU5MQ1F1Q05zM1dqRVRia3hLR3NacGx2OEw4R1l5QVhMaEJyQUtsaUQ1Z3hlTFh0RUlsSmdBeHpSVTBRdGsxWVROams4c0U5MElHQkp2cGJrUV9teHlwMHlJdkRkSVRpLThwcURRdXZsdmlrOUg3Mm5SbnZsVW8tZQ?oc=5",
+      "source": "이데일리",
+      "published": "2026-07-03T09:01:41+09:00"
+    },
+    {
+      "title": "[스팟] 코스닥 8.46포인트(0.98%) 오른 875.18 출발 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ydWtKOW9EdGxQQ1V4M2d3M0FLeElkZjdZNnkwTzA4U21hLThma2ZjOGt1TWdpQ1hfUWdZeElESExQN1EtZDA3azRIOGJnWWM5ejdlZE9yMVM3Vm5FSDJGdVl0Rm95OUp20gFuQVVfeXFMUDg2Z3RyU1RveUJNT2VLakxTbzdnU3VaTi10TW9fbVFVTVV3eGdyNHZtU05zelluWHRiNmtscjh2MUhsSGdwSFUwQXZ2RFQyWUlmeHVBZVd5NXd1NXpTRmRlRTRZRFhndEpBb3NCa2c?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T09:01:39+09:00"
+    },
+    {
+      "title": "[스팟] 코스피 91.66포인트(1.20%) 오른 7739.75 출발 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Uem94cWp3aElaQ2ZxS0tVSTVNOVhXSGpsYmdPOHk4ZVh0T2o2bHRuRVFWUVRpTmRzMU1FSVdtSm9ScW9sYUNsb1JYWWFiMEUwWWVzRnF1QmNoRzdURGFycXdHVmN2ODlI0gFuQVVfeXFMUF92OXd4emVhX3BUMWZZNGhpMjlTOUtCS0dBZ0dZUkljNGE0ckQtMzBoLW4yajUzNjdQVElzeVJYNGNhT3ZTWExsMjMyalNESDJWaU52SmpUbGowWjB0NWRLS0xfOVhBVEZNcWNzd2c?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T09:01:20+09:00"
+    },
+    {
+      "title": "[코스닥 30돌㊦] '옥석 가리기'부터 국민성장펀드까지…재도약 시험대",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBRjRIcFl5UDU2TXNCSmtVeXdSQU5haGI5V2JoNWNJY2RCVXBQa1ZNT01Ha3poYkZNY0w5cHNKU2NEeTdFRmJsVGswR3BiTjdNRlNQU1ctUlhhQWcwTG9xUFhFRGVsS1M2ZlNoZlROTdIBc0FVX3lxTE81Nl9rMDUySDB6LTJ3WjFjbzM1QUQzWE8zVFBBczNUN29YMEZJR0pnZjFiMmkycDQ0MW0xS1daVTNmZERWSmFuSl9aSDFFdlptdDZlTmIwYkYtYjlFUHZxNW5ZWEE0clpwZnM4Q28tcm9Gdkk?oc=5",
+      "source": "뉴스웍스",
+      "published": "2026-07-03T09:00:00+09:00"
+    },
+    {
+      "title": "[미국 증시] 美 주식 7월 3일 휴장 이유는?…재개 일정 살펴보니",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NM3NKSG9KaXZ0dDlpa3U3b3lCOW04aDlBZUE0eWxQb1UwNHh3NlY4VkZiQXNFZndBbTYzbTdJOGRMTW5HVllrTXNaODZPQmU5cHF4Z1BCbnRIdlNfZElEQzJRcW5pLXdK?oc=5",
+      "source": "CBC뉴스",
+      "published": "2026-07-03T09:00:00+09:00"
+    },
+    {
+      "title": "코스피 급등에도 바닥 기는 게임주… 저평가 탈출 시도 성공할까",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnhGZE1zajVCcVJSR2o0NWhxY3FyQzd2aHZXRUJPZEFDbDA4bXNLTXhnZ1ZqNVk0ME0wNFAwNHhpb0paV3dmZVRuQ216RERiYmhfT2RVMHN2SlJEdHdnbVlJU0F6aU1RMG5pR2xDX0hHZXNqTU0zdmEySjk5bVd1dVVqTQ?oc=5",
+      "source": "조선일보",
+      "published": "2026-07-03T08:57:00+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장 3사, 서스틴베스트 ESG 우수기업 3년 연속 선정",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0NFdLYjhTMV9pU2NKcUcxNXpJUE80Slo5NFBFWUdkbEFLVm1Ea0V6N0k4VU9lOExHMDc5SzByaFd3SVpzTnZpZFVXVFRxSlZfdVp5OTJrR1lOckQ1SHZrMXlXR28?oc=5",
+      "source": "PRESS9",
+      "published": "2026-07-03T08:56:59+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체 추락 속 혼조 마감…다우지수 ‘사상 최고치’ 경신",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2059318",
+      "source": "강원도민일보",
+      "published": "2026-07-03T08:55:49+09:00"
+    },
+    {
+      "title": "한투운용 \"액티브ETF 4종, 상관계수 미달로 내주 상장폐지\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OeE93bjFlQllJcGVTS3otRlVGSEdaOFN4ajJyamc5b0hWX3MxV0R2ZXNWTkNhaEZEYXMyWkxHcmNNZmgybjAtRTdxanJEUnNXZVVpTkdCNlJBSUnSAWBBVV95cUxNUHo5cGFVSW9rd2hJMlRWVEFodHY2SVZlbTBtZm0xSnV4QnpQVVR6bkVXNWhBcEE1dlVJR0ZlX3J0TFBYZXRPVGRtc19lOWpKeklOYWhudVRFNVAwdGdVbU8?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-03T08:54:52+09:00"
+    },
+    {
+      "title": "테슬라, 2분기 차량 인도량 급증에도 주가 급락…왜?",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DcXQwb0VNS2p4ckdVR0FyMGdGMTZKcloxdzhkRGdKQjhzMzdtWVJCYXkxbWt5ZVd2cUpCS1BqSGljX294V2JWYkVkMDU4bU0?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T08:53:02+09:00"
+    },
+    {
+      "title": "[리포트 브리핑]POSCO홀딩스, 'CEO Investor Day 후기: 주가 반등의 Trigger' 목표가 500,000원 - 한국투자증권",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QZmlUZTI1NDI5dGNRb3ZXYjBkcGN4aXhCdWtqUXBIMmU5QVdUaUI5SXhudjRPNHh4cG5MQ1d5MGxzdl9MUHlDLWgzaENyU3pkUzAxRGdLYV9lSEpG?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T08:52:00+09:00"
+    },
+    {
+      "title": "'상관계수 미달' 액티브 ETF 4종 상장폐지…초과수익 많이 내도 안 된다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81eERaNThCY1lwdGk4eVhPLWItZE1yaVR0b2pQRHVDaThCUFg2ZGJqNjltS0NHdHFqalF6dV82YVU0Z3JEV01MUHMtWEtZcWYxd2k5UmVFNkZUR0RxWjdSZDBidFdSRHpO?oc=5",
+      "source": "ebn.co.kr",
+      "published": "2026-07-03T08:47:18+09:00"
+    },
+    {
+      "title": "SK증권 \"삼성물산, 주가 조정은 매수 기회.. 밸류에이션 매력↑\"",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWF3TF9pSVVxX09nZGVuVk1DcWNQWDJCZzhLb3A0VWJwdnJQelRWN2QzenRFOHA0aC1GLWU4dmpZM3ZibEl0MGpnVGx0RDRLVldsMnJ3NzR5M2JCV0NnRkdkUElZWmk5WXlPdTdlS2J4WFMycFlDMTdkMFNWek5KVXdDSF80VmdU?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T08:47:01+09:00"
+    },
+    {
+      "title": "무신사, 몸값 10조 원 나스닥 상장 시동… 아시아 오프라인 영토 기습 공습",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGxTWW9kM2V3N2R1RUI0aXpOLS1oLXA0UW93Rm1fR01LSkh0OXozNHY5MEJZQzZFWU1NTTRYa0xRaGhsdG9fUXQ1OU1RbmI5U3BPdVFlR0hKMHJzRFZXSmJ0OEJLN1I2eWwyWkZRMzZjbUNmTnhLbGNGbzJWVVJQYldaUFU5OTJH?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T08:44:33+09:00"
+    },
+    {
+      "title": "애플, 목요일 주가 5% 상승한 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSFZHb2dOT2NXdVJDeDloYmFQTzVqcXotRWZ4bFlrQkxqUmZrdkpaUjg0QVB0LWxad2NuX2ZrT1VGNDh4RzhTbUhDNTZTWEc1SGFCUDR1Q1pJckxQM0VjZ3hzNHZ0cnV0R3dkRGttNTF5YmQ4bEZsT256b0d3LV9zQjZYZFdpX2tFQVlEZmJ3Umd3ZmkzMjdwMDBEY21ibFVIUzMwQUl2ZUpRZzFBVmJkalU3N2xrNF9pMDREZmhKemtoUFpnNk1KNktwSHc0dUNQanlSclBFV2otS2tsam9KWGVZSFhHSHdsazdGVWNRMWlpb2ZMNE9rQko2OHVrUXduZnc?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-03T08:43:43+09:00"
+    },
+    {
+      "title": "다올증권 \"대웅제약 2분기 실적 호조…적정주가 상향＂",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKTkp3cXpIS0JSUmxyNHAxMk1PZjdGRE5lMzBvMm5TWmtuQTJXSUoxZWpIcjZqR0c0OEFZYldRZHJ1ZlRLYmoxVzktSWs2eERNRDNSNW5UVnhZRTjSAWBBVV95cUxOVkQweWxuZHpMS0dzeF9jUVZ2RkMzNTl4aFN1dGFpaV9DS3NGX0dkNmtEVU9tbTJEWVlzTTktOU1pZkl4OTgxdUpxMnI2c2lydzlHS2plN0pidXpnRTRhMDU?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-03T08:43:13+09:00"
+    },
+    {
+      "title": "KB증권 \"SK하이닉스, 실적·주가 상승세 안끝나...목표가 420만원\"",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLU8tTjhidUxmdTM4aUNTcFVPVFYwdXYxR0twaGhHT3M1UnZBRGFzSy1xY3FOcXgzR3hDRG80S1EwS0RSVzVUNjJSVmhOcXZKRXZhYXN3Mmtnd0hUMk1ydFNnX2lXbUJrUDYxak96V3oxOTc2WGdfNURfOHh1NE1VWDl6b2FkN2Rp?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T08:41:37+09:00"
+    },
+    {
+      "title": "[뉴욕 증시] AI·반도체 매도세 및 우량주 매수세...뉴욕 3대 지수 혼조 마감",
+      "link": "https://www.g-enews.com/article/Securities/2026/07/202607030526311060e250e8e188_1",
+      "source": "한양경제",
+      "published": "2026-07-03T08:40:20+09:00"
+    },
+    {
+      "title": "애플, 폴더블 아이폰의 예상 출하량 증가에 주가 상승",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DTGFDWmFCanplZmcxbEJFaW53UFc3TjVtdXAzc29NdHNScnF4dGY1bWRsSG1VV0VESEtKSnlSdGxvT2RpUXM3NWc1d2FTckdKSGRjOFhlOUhJNHp5LXFHeWVPRVh1d2JnYllHcXRfNlJudw?oc=5",
+      "source": "KB Think",
+      "published": "2026-07-03T08:39:14+09:00"
+    },
+    {
+      "title": "아이렌, 목요일 주가 10% 급락···거버넌스 반발에 나스닥 매도세 겹치며 타격",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONHlRamZTc0FCYzBZWlJqWW5fWnFYVW43N0ZMLVNOWUo0Q2VvMndxMVdMQmVSR0dxTi1LOWZObGMtN3BTYmYybmdDYTZUN0FvT1hUTGh6d3VtMTlMdTRiT09CVDNtRHZVTHJkOE1Uenp4bDN0Ujk4bTRqMnNaYjliTndGQkRMOGdsT3R6RXV2bzl1Z0tfNzBabTlOZldWd1J5U3ljLTJ0NlczTkFvZFVpc29jWWFvVUFwUzg5VFhRV05kN1BtTno4bjNSTWxyX01iU3dBTThmdlhrR0FGdkc0eDFoU1ZzV1FuNTBoY3pKZ0hORXZ1c3pST1ItZlRldGhGSnhuZ01FbWpBSWdZbHhnSUFpSE9iSDZ5T0hkQ3cxSDVNd0Y3Z2poNTdDdVdYM2dLS19BS3MyZzVKcVFXZk9WT1pjOA?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-03T08:38:40+09:00"
+    },
+    {
+      "title": "동아쏘시오그룹 상장3사 서스틴베스트 'ESG 베스트 기업' 3년 연속 선정",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wTm5fRFVobGktS0JBNkdVMXlYRlZFa2NsQ0pvWHNhSDBwRkc0dTRoaVkxTF9PNU5xZGtfLXcwVjJHSE16eDlXYk5LTGYxb2FXbm5qN2s2dV9PZ9IBVEFVX3lxTE1Dc3hRUFJLNTFBWGhBa3FUZ1RvclNhRktFLS03eS05UTEzUUYwRWxjbmhiSmE1Z3BGdzVVbjlSSExBXzQ2TWxRdE5iYTl5U2gyU0lIQw?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-03T08:36:36+09:00"
+    },
+    {
+      "title": "美 반도체주 이틀째 추락, 순환매로 소비재·제약은 강세...‘삼전닉스’ 오늘도 떨어지나",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnkxamg2ZWZnUzR0VFAtVkRuNjU2RVpfM1diS1dzMGcyMjZ1UFRhTnpDdUJqUTlpSFAzVkJ0Y01rT25uY19fVTR5UldpQlZjdzJuYjJ3YTJBdXhwVjY3SmtZblZGdERxQjc5bU1FbllXMVNpd0h6bzNUUEdyTHBvOA?oc=5",
+      "source": "조선일보",
+      "published": "2026-07-03T08:36:00+09:00"
+    },
+    {
+      "title": "한투운용 “액티브 ETF 4종 상장폐지…해지상환금 지급 예정”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUdk15YmUyLUEtT09PN3dVcno1OHd2NUNvZFBPNl9zODZqaTdtd0NwRnRtbkFiRkFxdVp2T21pMUxTVy1jTmxRdVhzZ0RYd1JDMjRNRA?oc=5",
+      "source": "이투데이",
+      "published": "2026-07-03T08:35:00+09:00"
+    },
+    {
+      "title": "블루 아울, 사모신용 환매 규모 감소…주가 4%대 급등",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yVzRzaWV4SWM3NzhyWUt5OVZvMjB4d1F0OXNyRFpVUE1qQW1WODBRai00OTBiZ3k0bWtkcG9ORXBrc3NSeG4wdFJBMXZPYUx1U0wwX3p4TVptUkRFbVVJN0pDbWZESDlyUldzV21JTU4?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T08:34:47+09:00"
+    },
+    {
+      "title": "미래에셋證 \"키움증권, 코스닥 활성화 수혜주…목표가 55만원\"",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IelFmNzdkak9Wclk2QTJxLWZBNU9BNDViT012Z2V5Qmo4WWNUSEJlbHpLMnNtbm5vdHpKT3BnNGx0Q1l6RmJxcEE3WmEwRTVjcm1aaW5HbXF3a0dvaEU4?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T08:33:52+09:00"
+    },
+    {
+      "title": "[AI MY 증시전망] 코스피, 반도체 충격 딛고 반등 시도…낙폭 과대 매수세 주목",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537147&seq_800=20530022",
+      "source": "뉴스핌",
+      "published": "2026-07-03T08:31:00+09:00"
+    },
+    {
+      "title": "반도체 수요 위축 우려에 코스피 또 경보",
+      "link": "https://www.mt.co.kr/stock/2026/07/03/2026070309271072728",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T08:31:00+09:00"
+    },
+    {
+      "title": "[증시 포인트] 하락 출발 예상...장중 반발 매수세 유입 기대",
+      "link": "https://www.opinionnews.co.kr/news/articleView.html?idxno=141007",
+      "source": "오피니언뉴스",
+      "published": "2026-07-03T08:30:22+09:00"
+    },
+    {
+      "title": "212조 몰린 삼전닉스 레버리지... 상장 후 수익률은 마이너스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uTVVtLWRsVjhvUnNqeHZTUmRTWktaSGdjMXNLYTgwR0IwcmxSZVJDUFhYck40Mkl4RzA4bFRta2dKbEdWYm5QQW1HM2NMU2lUNU9FVQ?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T08:30:16+09:00"
+    },
+    {
+      "title": "\"키움증권, 목표가 55만…상승장 수혜·코스닥 정책호재\"-미래 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92OGRqbThGWWtrTW1BSWRQUnAxano3SXViUUk1VzNCYmU1aWRxMVJWcHNSN0JVTThhN3dBbmlWQnBsSV83SzU3d2dBN3UyZGVhbDNiYVNnU3U3NXlDZEpCUEdZUHYta19j0gFuQVVfeXFMUGlBNHRfUGtMRGdFSlFLUXFLMmppUktvTTZKaWxmcTRjYXIySGJSZDhWUkNIalNkZzlzR1RYeE5JY2NJa3BucEptbVNETWZsNzItbnVNcVFYMHZTSVhGYUwtdEJhTmdXbEtDOEI1MGc?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T08:28:11+09:00"
+    },
+    {
+      "title": "테슬라, 2Q 차량 인도 시장 예상 상회에도 주가 하락",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoSW54X09lMGJvcFhndFR3NHlKdDl0bm8zd2RTSm4tU29KR3N1OUxId3pyTzZRTTdRRW5SX25Ta1dxX0lBb2ZsY2VBZnZLelVPeVpBOGNuUFZ3RllwN0dwV2JVRkwxMThHVkdGUnljcmw?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T08:22:55+09:00"
+    },
+    {
+      "title": "[D-BIZ 암호화폐 동향] Securitize, NYSE 상장과 동시 솔라나·애벌랜치서 자사주 2.95억 달러 토큰화",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1semZuWm1TWmxJSFAxVEw0amlGYzhOU3Nhek1fNFJJdEgyOTA0ZVd0LS1aaVdrR3JFRk5hSGFBX05lRnpOTXFrdmU4M2RnemozbmUtb0g1dHlKR0FjRlFPYzBYRjVyRXRVNzNlUQ?oc=5",
+      "source": "데일리비즈온",
+      "published": "2026-07-03T08:22:26+09:00"
+    },
+    {
+      "title": "고용쇼크에 금리 부담 완화…반도체 매도세에 뉴욕증시 혼조",
+      "link": "https://www.ttlnews.com/news/articleView.html?idxno=3122544",
+      "source": "마켓인",
+      "published": "2026-07-03T08:18:15+09:00"
+    },
+    {
+      "title": "\"끝나지 않는 外人 코스피 리밸런싱\"…이달에만 7조 더 팔았다",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlZEd3cU1za1hGd29vOFpDWm9wa19xQ0V6ckZQODF4dW1RUkRfZVZRd0JwVFNqOWI4eFFiV3FwQTRFZ0pTbzdUeE01VVZzRUNLaEh3S1FpbVBaU1VTcWJrZlMwdU1uLWwwUjZaeFp4T3Y?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T08:14:00+09:00"
+    },
+    {
+      "title": "테슬라, 깜짝 전기차 인도량 발표에도 주가 1년만에 최대 하락…왜? - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wcU13TjlONGRTSEY2TXkxMm1qZUU1eW9hNzdkRW1md0h4Nlh1d3piVGNhZVVaYkEwX3JnN3lWN1U1RHdVWDluS3NCdzVtVEE1RUcyTG9kdUFqeWg1N0x1UXRoVGZLc0xr0gFuQVVfeXFMTjNKNjd3QnVNc24ydjNQemxwVzM0czdEeGRKNkREMlFZSGpYS2lzdWdZMFdDdk9wa1JBU1VhMXhoeVFza09ncnFIa3dOWUFYLUFlRjJWems2dVVwR2EyWnZnQ09HRFk5WE9rbXo0bFE?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T08:09:21+09:00"
+    },
+    {
+      "title": "[마켓뷰] '8천피' 무너진 코스피, '추가 하락 vs 반등' 주목",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQWGM1RWxDbEhfWEVUbHlORjdBTWhBeEFCMDU0NG56eEdaalVkMFM4VXVuMmhibXFiT09LX01ZUlJDVmJzYVkwamZPNDd6LUcyNkE?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-07-03T08:04:45+09:00"
+    },
+    {
+      "title": "\"이럴 수가...내 주식이 상폐라니!\", 코스닥이 무너뜨리는 30년 관행",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQT19oY3pNdnlfbXpiMTVYUXVBOFl4QkE3aGltaEpBdlZTdEM1am1sN2U0SVRhby02ZHNnY0dpQ2ZfT1dWNXhnYmhUSXQ0OExZcFpjWWNSWEtwT2dCeDZETkZEWjVkRlBYU2kxSFFDMTJSRjdPaWpia1lJMUxuQ0lpOVpmaGk2XzhJTFB2UEx3UmlhcmJXR0J5NnZUWFRHQmc2VzhmNWE2aGxneE9QWC13VVVXOHNRbG51UWNoOTBmcHJ5UVU0VzJMMGxoZnpMa19QWnItSlpTZ3RiZVRSWnFsUVRQRGhTNFdhdHlXcG50U1BhVU9YRXYzWXUtN0ZWM09fVjhGQ093cU5pbUtfM19adHpBYjc5angyaUxyWF9mbWktZU1YQVd6d2NBMzlKNGZRRW1wLVFnZw?oc=5",
+      "source": "테크42",
+      "published": "2026-07-03T08:00:00+09:00"
+    },
+    {
+      "title": "뉴욕증시, 메타發 쇼크에 반도체주 폭락",
+      "link": "https://www.ajunews.com/view/20260703075041461",
+      "source": "뉴스톱",
+      "published": "2026-07-03T07:57:32+09:00"
+    },
+    {
+      "title": "'SK 투자' 론디안왓슨, 뉴욕증시 IPO 신청",
+      "link": "https://thetracker.co.kr/View.aspx?No=4135485",
+      "source": "더트래커",
+      "published": "2026-07-03T07:56:24+09:00"
+    },
+    {
+      "title": "[아주증시포커스] 메타 쇼크에 증시 급락…코스피 8000선 무너졌다 外",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423118",
+      "source": "아주경제",
+      "published": "2026-07-03T07:52:25+09:00"
+    },
+    {
+      "title": "뉴욕증시 혼조…다우 사상 최고치·반도체는 이틀째 약세",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=91762",
+      "source": "뉴시안",
+      "published": "2026-07-03T07:49:57+09:00"
+    },
+    {
+      "title": "[3분증시] 뉴욕증시, 반도체 부진 속 혼조세 마감",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12cXJfLXNGVklVMkVvbkdDUDE4akpyZzNzUUpDM3JPRHM3T3hkTHVqR3AzRTRqemU4VXBJQkRUUGk0MG5qbGNSUEJKNEtHbzRiUUM0dHN2UzROMnlCemVoSERfZXhCNUUzYzBoNnVqWGFCR0pf?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "published": "2026-07-03T07:46:36+09:00"
+    },
+    {
+      "title": "메타發 충격에 급락한 증시…유안타證 “AI 투자 축소 신호 아냐” - 조선비즈",
+      "link": "https://www.yna.co.kr/view/GYH20260702000600044",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T07:45:00+09:00"
+    },
+    {
+      "title": "[모닝 리포트]\"국내 증시, 반도체 약세·야간선물 하락 변동성\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzNzlXQXdLaVYwSnRRUEJ1eVNPamdNNUlQV1h3UG01enZjdVNNUU55M3J5Z1hfNndlLWpjR1ZHSHhhQlh0bkZRYnhqaS1McTZJZDJwak5ZLWJ5ZWNaWC1nU0dlMzFFMjYxblFPSmNFZkRJZEFNMlktag?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T07:45:00+09:00"
+    },
+    {
+      "title": "[모닝 리포트] \"국내 증시, 반도체 약세·야간선물 하락 변동성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260702134200073",
+      "source": "뉴스핌",
+      "published": "2026-07-03T07:43:00+09:00"
+    },
+    {
+      "title": "[0703개장체크] 美 증시, 반도체 및 AI 관련주 차익실현 투매 지속",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94Y3BUM1FDcFo2a0JoWFR2aGVhOWlEUXNaUjBUbHlwSGpQMlB3OFpvbkhEY2FLejZPaTllN2dnRUwtZW1FVDc2dnB6MElmUXREYmVYdTRzZjlvX1pzM2QwcDV0N1ptNldLOUEyOWxpZnQzMmprS2c?oc=5",
+      "source": "인포스탁데일리",
+      "published": "2026-07-03T07:41:18+09:00"
+    },
+    {
+      "title": "\"주가 20% 빠졌지만 과도\"…삼성물산, 지금이 매수 기회-SK",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEQzaEZmclRwSUhtM05fZ2I3NTFCdzNGSXpnUnhkczFoMEdOdV9HVzdocGhYNXpwQ2ItOVdZVTk4NHZXSGV5T0tPWUY5LWxoaWxFQWcwRXduVTloX1k3alh5dEpleE1DTW1KMDNFdXNkcVZwclZhZ0ZxbUtsWDAydw?oc=5",
+      "source": "이데일리",
+      "published": "2026-07-03T07:39:20+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체 추락속 혼조 마감…다우 최고치·나스닥 1％↓",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423148",
+      "source": "TBS 서울",
+      "published": "2026-07-03T07:34:00+09:00"
+    },
+    {
+      "title": "[월간 ETF워치]단일종목 레버리지 ETF 독주…'증시 블랙홀'",
+      "link": "https://v.daum.net/v/20260703073118418",
+      "source": "v.daum.net",
+      "published": "2026-07-03T07:31:18+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체 추락 속 혼조 마감…다우 최고치·나스닥 1%↓",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8601160",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T07:29:00+09:00"
+    },
+    {
+      "title": "'몸값 22조' 유럽 전차 명가 KNDS, 증시 상장 전격 연기했다",
+      "link": "https://www.g-enews.com/article/Global-Biz/2026/07/202607030727307460e8b8a793f7_1",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T07:27:34+09:00"
+    },
+    {
+      "title": "LS일렉트릭 목표주가 33만원으로 상향…한국투자證 “데이터센터 수주 확대” - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUtVQjBwWVhKd0t2LUE1OGdhS0M5ZDJadWVjazdkcjZiYTVHOWpja1FuN1NoTU1uUU80NlRhR1pwbnpXNHR0MFFiSTc4blB6M0NIeU1GX2tuTnFPWURHbFI0eUlzVzBhLXQ0N01DMTJFVU1HS1MtZl9tZVdFMzlYaDV2X1lUSU5l0gGcAUFVX3lxTE8yb0xveG00eFVJeWZyMG9EZkpNd1Fibnc5QWtqejhueVZVOGVmUXhkdkl2T01ZWVduV1p5S2lQU3JZekQ2Ym9LV3haMFFueGt0REJzNFp1cS1vYkhBSjY2aVZaSXcwbVg0d2xnR1lQcjNsUlNZMWZuRy1YeTZ3ZzcyUENubkVhSHVRNGRHaXB5M0w2RmdRdVAzRW9PUg?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T07:26:00+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체 급락에 혼조…다우 사상 최고치 경신",
+      "link": "https://www.sjsori.com/news/articleView.html?idxno=87273",
+      "source": "세종의소리",
+      "published": "2026-07-03T07:25:45+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체 약세에 혼조 마감…다우는 최고치 경신",
+      "link": "https://www.mediapen.com/news/view/1108055",
+      "source": "동양뉴스",
+      "published": "2026-07-03T07:22:00+09:00"
+    },
+    {
+      "title": "미국증시 고용 둔화에도 혼조…반도체주·테슬라 약세",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHTjlnbjRXelUwemFFVklVT0phamt5SGR6RHhRNktnT3RCWE9nSHYtNWNnTFdab0I5dUZ2cjFnanNwYWozenhXUmp0bm9XeVloOUswdm1MMDFEdnd3emlna2VMVDlTNmFNVkY1RFBkRHhjUQ?oc=5",
+      "source": "TopStarNews",
+      "published": "2026-07-03T07:21:03+09:00"
+    },
+    {
+      "title": "[증시전략] 나스닥 20% 랠리의 '착시'…반도체 몇 종목이 올렸다",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423155",
+      "source": "v.daum.net",
+      "published": "2026-07-03T07:13:21+09:00"
+    },
+    {
+      "title": "거래소, 코스닥 특례상장 관리 강화…밸류업 공시 기업에만 상장폐지 유예",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54Z1hueE5YOFJYM0cxc3pUT3hpN1J4UnhYZkdZMS1hSFVqT2FRSzBrX1Q4b3l0elhWYkFFd1NlaXhLUmphRmlxQ1htSkY5SGtMZndfZjNjbDRKQW8waFhyVUNPZEFIRlli?oc=5",
+      "source": "CBC뉴스",
+      "published": "2026-07-03T07:10:00+09:00"
+    },
+    {
+      "title": "역대급 증시 불장에…미국서 매일 1,200명 '주식 백만장자' 탄생 [뉴스더보기]",
+      "link": "https://v.daum.net/v/20260703071321271",
+      "source": "연합뉴스",
+      "published": "2026-07-03T07:00:08+09:00"
+    },
+    {
+      "title": "연기금·외국인 수급 엇갈리나…하반기 증시 분수령",
+      "link": "https://www.munhwa.com/article/11599957",
+      "source": "이코노미스트",
+      "published": "2026-07-03T07:00:00+09:00"
+    },
+    {
+      "title": "[개장] 뉴욕증시, 연이은 반도체주 하락에 혼조..다우 최고치",
+      "link": "https://www.news1.kr/photos/7990226",
+      "source": "알파경제",
+      "published": "2026-07-03T06:56:22+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체주 급락세 지속 등 영향 혼조세 마감⋯엔비디아 1%대 하락-샌디스크 14%대 추락-테슬라 7%대 급락-애플 4%대 급등",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MdjVOQWh6dklQUG9RVkpjX21XeDFVY0FqVXJuOENjWk42NjdTOWNBaXFxT0xDcEx0T2Z2cnowWlh4WGxDQ01hMGVzWmNrcHJ4cFN1REdIME51eGhtTUF0TlVhTEtjS0ZwQ0JtTDNIRQ?oc=5",
+      "source": "이코노뉴스",
+      "published": "2026-07-03T06:51:55+09:00"
+    },
+    {
+      "title": "[YTN 실시간뉴스] 반도체 한파에 코스피 7,600대로",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYWC01NExmWXVGbGFXQmV4WlVOWkNJWXhkSTZNbTYyOHAwdG9oQkpoM240aVZyeEdsX3RXQVRVRmM0eWRlZE8wekphSFJXdy15Q0Y0RXpLNXVIYTZQVlE?oc=5",
+      "source": "YTN",
+      "published": "2026-07-03T06:51:00+09:00"
+    },
+    {
+      "title": "[뉴욕증시] 금리 압박 줄어 다우 신기록, 반도체 폭락에 제자리",
+      "link": "https://v.daum.net/v/20260703064945893",
+      "source": "v.daum.net",
+      "published": "2026-07-03T06:49:45+09:00"
+    },
+    {
+      "title": "제도권 들어온 커프리스 혈압계…스카이랩스 상장 후 과제는 '매출'",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoV294SWcwR2ZFQkZsdkJSakVpSGRsdm1XYXhJc1VUNHZEVDhRelBlQUdNcy1PajNyWm5oOHdfSjdBV29jbThRbDJUMi1BVkk3dWVRVUFQUldwX1V0Wm9GNUJ2V3diV3h0d3lMOU9xONIBc0FVX3lxTFAwNVQ2clBpTEVHenRHbnVYUFRaSnRONGVXSHNXZlFsMHM4OGUxVW9FMXJyNExwV2JmTGJnOE5XMm9aSHZIaVUxWjZObko3NVJwRzJvQTc0NlN4Nm9Ubk0xWWVGS3ppbTBvYVplMjY1bUdVQnM?oc=5",
+      "source": "청년의사",
+      "published": "2026-07-03T06:49:44+09:00"
+    },
+    {
+      "title": "[글로벌증시] 뉴욕증시, 반도체 추락속 혼조 마감…다우 최고치",
+      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1376595",
+      "source": "연합뉴스 한민족센터",
+      "published": "2026-07-03T06:48:23+09:00"
+    },
+    {
+      "title": "[7월 3일](미국 마감) 엇갈린 애플과 테슬라, 반도체 차익실현",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUlqVV9JMVlqSjJyX05rcmRqdUNCYUJRdnVBM3VCT19RN2c2ZVdHNDJSZVJtdWdtWHd2VDlhSnBYZFRJUEVoOUpLY1dxREFLLTA0aE9KXzdpRkh5Skx0Y092MVdQYWRxTzhjVU0taTVqUVQwczdsZFp4dnljMlZCTXVST1hxYnBqMU9wZGZ2TjMtdw?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-07-03T06:46:00+09:00"
+    },
+    {
+      "title": "[단독] 유명 커피 프랜차이즈 믿고 코인 대박의 꿈, 끝내 상장은 없었다…강남서 투자사 대표 수사 [세상&]",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jLXY5bC1DcmV3a0N6cGJXQWJJdTg4OTlXblE3UWZyVWdZSndfRlFUQjg3Vk93RlA3ZlZXaGpmMDZKTTJ1SmI5SFJZT2pndGRKbzBnejRn?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-07-03T06:45:00+09:00"
+    },
+    {
+      "title": "[오늘의 글로벌마켓] 뉴욕증시, 반도체 급락 속 순환매 장세...3대지수 혼조세",
+      "link": "https://www.opinionnews.co.kr/news/articleView.html?idxno=141002",
+      "source": "오피니언뉴스",
+      "published": "2026-07-03T06:44:41+09:00"
+    },
+    {
+      "title": "이틀 연속 반도체 추락에 뉴욕증시 혼조 마감…나스닥 1%↓",
+      "link": "https://www.newsis.com/view/NISX20260703_0003694780",
+      "source": "매일경제TV",
+      "published": "2026-07-03T06:43:00+09:00"
+    },
+    {
+      "title": "[하반기 증시 전망①] '1만피' 바라보는 코스피…상단 최고 1만5000피",
+      "link": "https://www.newsian.co.kr/news/articleView.html?idxno=91734",
+      "source": "뉴시안",
+      "published": "2026-07-03T06:36:49+09:00"
+    },
+    {
+      "title": "'운명의 주간' 주가 5.48% 급등한 獨 TKMS…120조 캐나다·21조 국방부 연쇄 빅딜 카운트다운",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamJMZ0RkaVdrTEtwTnhCb25jOUp4NWZtNzFDLVlKZkZuS2Z2aklfV3dyVEFmNC14eHotYUM4bkFMeVpWRXBSM2ZQdjRBcmdoVU12ZlFOMXRSVUxnX3J5M0NpZ2dGVjBiOHZ3ZC1jMjM2dHpUZ3JjMHdWQ1pGNzRfbU9oNnJYb3hu?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T06:35:01+09:00"
+    },
+    {
+      "title": "유럽증시, 미국의 금리인상 우려 완화 등 영향 일제히 올라⋯독일 2.16%-영국 1.67% 상승마감",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KbGtibnRtaTg1c3NYTjBwQmdwN3Utdko1WVFZVlJDMzNhOTdXRERfQXdtVkhzbXlWVEJrbVU5TERXV3pfOGJ0cG1Ea1F2NWNHQ0JIbm5MVll0cENYa05ua3AzUjNTZ19YMkQwRzZ3?oc=5",
+      "source": "이코노뉴스",
+      "published": "2026-07-03T06:33:37+09:00"
+    },
+    {
+      "title": "뉴욕증시 반도체주 또 급락…샌디스크 주가 14%↓",
+      "link": "https://v.daum.net/v/20260703063005483",
+      "source": "v.daum.net",
+      "published": "2026-07-03T06:30:05+09:00"
+    },
+    {
+      "title": "테슬라, 팔란티어, 로빈후드",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uRHJxdG9sbVZvY1dSeGk4WG1seW1rWlFaVWtXU3FiLUxYNkpXSllzbUl3b1pfVHYzTFZaYUxadDBXdzFQd2d2YWk2N2ZZUDBzUGlDcnoweFppZHA1LVFyc3JXZ2ZIbUFPOVdLNFlvVkM5WDg?oc=5",
+      "source": "마켓인",
+      "published": "2026-07-03T06:29:07+09:00"
+    },
+    {
+      "title": "센트러스 에너지, S&P SmallCap 600 편입 소식에 주가 상승",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Q1oxOWVSd2lFOVNHdy1qQ0R6aWZjVXdvR0xNOXhfOWIxeERESzNPQU1nWmlydGVZZHZMdWJfMWZUS1NrbDhXbklkNHZHbFZqclJubzR0LVJDNjNiSHdUUThmM0xVNGpHLTlvb280clBPZmhrRV9B?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T06:26:00+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체주 차익실현에 혼조 마감…다우는 사상 최고치 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXNzODJHckdiN2taVWJfbVJOOWdkeW54ZXNGVkgyamh3TE01a0hNN1BidnI5Z1M1WlpvWjd2dDRWLUpwZWtVcXZOamtkR3RKODRFVGZDZGhBSVJ2UDM0V1JNcXZpSGRBU0xfNm1UMTJpb2t2M2VyLTZlRGxvUGs4UVZUdkIwck03a2FzZmp2ZzRzUmJhWGlnWDNOZ1BZZ9IBsgFBVV95cUxNZUVXZ2tIVEN6cG56dnpncGlaa08xbmNZeXpQLVRLRTlLNUtIUF9wdGZKbE9ta3BYVzhSNGM3a0F6ODlCSS1jUVFRT0YtRHowX0ZVWXhZY3I4MXIwTnZsak02Nm5BZEFIbVFyWm9kdkxXV1NfMGpQTlgyOXpHOUJQZWlibVM0ampBS3gybkZMbmJuN3NQLUNZRnMxaFJMNXFXZ1N2SEZseHJHVnRWVVl4NjZR?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T06:24:00+09:00"
+    },
+    {
+      "title": "뉴욕 증시, 반도체 추락 속 혼조 마감...다우 최고치",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423227",
+      "source": "YTN",
+      "published": "2026-07-03T06:23:00+09:00"
+    },
+    {
+      "title": "할로자임 주가, COO 퇴임 소식에 하락",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1WnBSM0hodktjaTllZ052VU5tVERXUktYS0FuWmJkT016RlNyMm5vR2w4d1NVbXRFXzZtejVGTF9MZGlvNjBTY0t2LXBBQUNXZmpuVUxhcnA1X01fbmdqYVFudmNxd0hqTkJBZTJuQjhkNl9hMktj?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T06:22:00+09:00"
+    },
+    {
+      "title": "[미국 특징주] 마이크론, 트럼프 \"위대한 기업\" 극찬에도 주가 내리막",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KWUxvUmRHQmpxOWxCOHNZcXBodm1MeDAtaTM4TEdKcHowTWtiU3Vpb3hjYlhTSFF4TE5YZ1lwanpNajFyRnROQXVwWEJhMG51dEFnVkE0dFBpUEJU?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T06:22:00+09:00"
+    },
+    {
+      "title": "[美증시 특징주] 반도체에서 제약주로 '빅 로테이션'...머크·J&J·암젠 주도",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hemtsQ0l5Y2x3TGhDc09tdlBUQkE5Sm05bDI2OXNWYm5ES2Zmdm9paHczLWc3UTBPNlVHS0VMZTVwajk1X09nMFhhVGJyNk01TERYNdIBWEFVX3lxTE1CclZCLUV5MEVScC1KSVdRTkhIWG5LRnhuOUtlLWJqVDZPdkMxZ29EWkdadWtRYnlKMlBNd2JRUWRxMjUyUGE2ZmQ2ZEt1MHY1c1QyVGpzMU4?oc=5",
+      "source": "미디어펜",
+      "published": "2026-07-03T06:21:39+09:00"
+    },
+    {
+      "title": "캘런 JMB, 나스닥서 상장폐지 경고 통지... \"12월 28일까지 주가 1달러 회복해야\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXajhJdDJGTE1PV1dQUVRGeVpYQ1lXTUNyMldnWFBPaGhreXpUS0c2RjlZU2xDVS1FWnlEd2xCLXhPSjVhQ3QteUQtdVBSQURGQ1RZUlZFYUNoMXE0alY2MTlsTXVGNHNTVmJzVFotcEZ3THc?oc=5",
+      "source": "데이터투자",
+      "published": "2026-07-03T06:21:11+09:00"
+    },
+    {
+      "title": "[N2 모닝 경제 브리핑-7월 3일] 美 증시, 다우 1.1% 올라 사상 최고…고용지표 부진에 혼조",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1naUZwRUQ0RnZiR0d0Q3VhQzdiM05lUVI5R2tvOWdnUENmQXZaYThaNjl6dFY4WFJid0lhR1AtVVJTWnFHQTNqb01yUVVEYjl5d1R2bkVxc3I2bjRqdEE?oc=5",
+      "source": "뉴스투데이",
+      "published": "2026-07-03T06:17:00+09:00"
+    },
+    {
+      "title": "K-바이오 키운 코스닥…기술 수출 꽃 피우고 ‘옥석 가리기’ 시험대 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2w4ekdZemlzMlQ1LS1PQnRMY182aTQtai1WSUF1T3BGaE5PNTdxbnZjTFlWZml0QUZnemtWVnAzaXJmNmVWeHFxVllXc2Rwd1c4V0tseENvRkpYMHVWcDhtME1rNHpia1FDUEdYa3ZTQ3FyQnBtV05sSDZEdXhhX043aW9CR2_SAZsBQVVfeXFMUDBWX1FSOTJPVEhrSnV5RVhMODZSYUFyVGRNVG16MDU5SzRVc05TVEYtczRuX3JTWFVBSnNlRlNxVjVtQkp1N1o1QVZncFJPNFRsSWdzWlNlTzg5cnJuOVYxOUEtNlZPUWUtNkNZQUs4V2xnUjZGUWtvcmZiOFlxOV81YmJqY21CaGdGa2tkbFFoYXNzNDR3YlBrRjA?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T06:13:00+09:00"
+    },
+    {
+      "title": "핑거모션, 나스닥서 상장폐지 경고 받아…'주당 1달러 미만' 요건 미달",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00eXlQYXcxN25jdHowSkJDZVBfSmxNRkRwbWR5RV9qdU9jOG1DUXdIWEo2bmhSYWdfaVhSWWJlVDIzc1lKOHdJTTc3Q2NUb1RlMlM0LUtCQzFqb1VZa0h4aTRwdUg1OXRWVlFSbEVELXFfWFE?oc=5",
+      "source": "데이터투자",
+      "published": "2026-07-03T06:07:10+09:00"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(2일) 주요공시]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mY29zaTVoRGhQamdlWjBxWUpod2xXYWZ4VlM3cW9YMnNIeml3ZEYxY0V3MnNxemQ5cDJ4RUwwNHJHejE0WjM1WkRhQlFsMEN2VzBLc21NemR1QTTSAWBBVV95cUxPeVphVVJabGZneDFyM1NpYTltRDJEcHFPRXhUVHZaT1BnZ2s2aDZib0wwWGtDcmdPOFBleHpWTTR0RjNLQ1ZySmtJQ3BYeW1TT0xDb2U0aDg1OXFsSDBjRl8?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-03T06:05:00+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체주 약세 속 '혼조'…다우는 '사상 최고치'",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=845964",
+      "source": "뉴스웍스",
+      "published": "2026-07-03T06:04:43+09:00"
+    },
+    {
+      "title": "“150조 팔고도 아직 안 끝났다”… 외국인 차익실현, 개인은 언제까지 받을까 - 조선비즈",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/07/03/GPH65S2ZEJGLRA7EG46BWIDYMA/",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T06:03:22+09:00"
+    },
+    {
+      "title": "코스피 7.9% 빠진 날…'투자 고수'들은 이 종목을 샀다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mektKbFhEX0NqNHV3T240WFA3RS02RE9wbThHZjVzWUxWd19UZ3hmdmtuNFo2a2dkdU1kVzVKUDZOeW9aaERqS3RvRzFfSlU?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T06:02:16+09:00"
+    },
+    {
+      "title": "200만원 넘던 주가 5개월 만에…\"도대체 바닥이 어디냐\" 눈물",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcWoxdlVaMkw5bTFlREcxSkprTHpMa0U0OXJDNVJFSWs0dTJiYV9vV0JiMHoyVFVwQVdMUThQNEt2djBnV2k2ZWFzR1lXWGRxSTNBSzFsbjgxQdIBVEFVX3lxTE5wSFlCanRlUVVxSEF1SGNFSVBld1lZYXBsZjY2QnpOZ0lwY2RHbEpzTm1QMVVUQjZyMzVFcjJ0NS1lZ0w0TTI3VElROGJyUWxCNHJlNQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-03T06:00:06+09:00"
+    },
+    {
+      "title": "'제2의 LG엔솔' 막힌다…중복상장 가이드라인 최종안 내주초 발표",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0lhVFJEWHpRcDNKRjNzcEU2WUhuV3kzTmJHWnZGU3pkWDZjSzg2NlV5RkhBX0pFamNMZG1MWU5pelVEQU5oSVBHbml5NWw1ME9MNDNNbkpoUEFZczRLa0MzZDM2MmRhUmY4U01FbDgyTEc2Rll0NEF0cVJ6TUJmcA?oc=5",
+      "source": "이데일리",
+      "published": "2026-07-03T06:00:05+09:00"
+    },
+    {
+      "title": "정부, 중복상장 가이드라인 초안 발표 임박…유형별 차등규율 적용",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEJfbEtzT0swSklod0VSUFRtMUVjYmNwOGFseUU2ZDlxRXFoN2ZjdF96U3BVWFM3ei1tN1k3YXlmSjRRcU1qT3FsUUVBRnUyUTliNVllS2xmdFIwU2EzZ2F1NHRMVHk3bTMzLVZ0a1Z2a004dXp2MWdTMjNDU3V6MQ?oc=5",
+      "source": "이데일리",
+      "published": "2026-07-03T06:00:05+09:00"
+    },
+    {
+      "title": "증시 축포 쏠 때 2000년생 회생법원으로…돈 벌어 갚아도 '밑 빠진 독' - 머니투데이",
+      "link": "https://www.g-enews.com/article/Global-Biz/2026/07/202607030456068555e7e8286d56_1",
+      "source": "머니투데이",
+      "published": "2026-07-03T06:00:00+09:00"
+    },
+    {
+      "title": "상반기 코스피 제약업종 외국인 주식 보유액도 줄었다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tZTIyOWJRSHJHM3BrZVFudlphQkRVR2w1STR6N1lWTHZjdDB3YUF0Zm1VWFNVbGN2MkZrbmNtWHZhZmdKRThSSG5zRTJEalVxamFYUTZHSjB0djBXM2ZaY2pqZUt1ODVIQ3c?oc=5",
+      "source": "의학신문",
+      "published": "2026-07-03T06:00:00+09:00"
+    },
+    {
+      "title": "[0703주요일정] 美 증시, 독립기념일로 휴장 예정 등",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DT0xvZzhySHZ5a05COGdSd3k0Vng1UUF3ZmFIN0RDX1lJUGJoUFdBczgwbk9pVDdYZVdQNUUtanh6dDIyRWNnN0VxblctUW0wcDJ2TjRqWHRfYXdRbVg5SkFLbWJ1WkVaeDJ5R0kzWlp5Q2ZhT2c?oc=5",
+      "source": "인포스탁데일리",
+      "published": "2026-07-03T06:00:00+09:00"
+    },
+    {
+      "title": "한국거래소, 특례상장기업도 '기업가치 제고 공시' 안하면 상장폐지",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tVkpUV2ticXZkSzBHYkNoMGFrTTNFbzZtUHRiWmJNdGdubmdOVGFwOGt4SFh6YU5LUUxOajRnYVBzVG1IcDB6THZFNUtHX2ZSbFJUZ1NmUzlyQQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T06:00:00+09:00"
+    },
+    {
+      "title": "테슬라, 판매 예상 웃돌았는데 주가 7.5% 급락…1년 만에 최대 낙폭",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LUkFReFpFMVg2LU5BLVkzYS1wd1BITFBGVGZoUUhBdE90cjVDajlTRW9IbFlGYWNTM0hmSElub3VMbEdYdVRyOEE3YV9DcUp4Xy15WFVjcS1vS25Ld1l5elFJbG5zVlk?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T05:59:22+09:00"
+    },
+    {
+      "title": "[뉴욕증시] 어디까지 내려가나 반도체주…혼조 마감",
+      "link": "https://kr.investing.com/news/stock-market-news/article-2004772",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T05:54:00+09:00"
+    },
+    {
+      "title": "AI 파이낸셜, 나스닥서 '1달러 미만' 상장폐지 경고 받아... \"주식 병합 고려\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1UzlDVi13enZFXzBaUFdyNWc1VnJPQlpweVl1Um1QV1paS01YdXlCS1Nzbm9tMWR1RWlvcGVvSWNJNTBnMFBzOEl3SGEyZnBtclpJSjFOUTJZUmFUWFNxTHE0M09VMUtDaTZZVGZKVHd4THM?oc=5",
+      "source": "데이터투자",
+      "published": "2026-07-03T05:52:09+09:00"
+    },
+    {
+      "title": "뉴욕증시 혼조 마감…6월 고용 부진에 금리 우려 덜었지만 반도체 급락",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJVnhfbXpBWmJCemhhUUJpMlU1V1psU0hZMXI1SFdqbkRsMHpKUjFtSmlJM0R0bUhwUmN5SHI3TERnWHBBUXBNNXVOc2RiRXc1VVpfNnk0RW9OM3lFMXBOQdIBeEFVX3lxTE5ONHl2NTR4SmlNWnROYVVsS01BbmJDb1I5aDdSRUtzVGkyLTVaYzF2N3lJTnZLbUdKVjZMb3hPcm1DOU1WN3B6dE5rY1FrUXVLUFdPYndKMnFMYlJrTVdiRW5XYkdyT2ZqaTVWOXNRelhCT2tKSGFocw?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T05:49:13+09:00"
+    },
+    {
+      "title": "스네일, 나스닥 상장 유지 위해 1대 5 주식 병합 단행",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1Mk5mam9HdnU4SFZVR2luNURxUXZmODlKc0swWDJrbEVYSlVLaS1QbzFZazdwUFFIU2VPSXZ6ajZ6aWt5VHNueWVRQjBNMVp3TWtuVmlMVWRjVmVyUHBjVjNVTGlFTXR6UlBYdERsS0tPbms?oc=5",
+      "source": "데이터투자",
+      "published": "2026-07-03T05:44:04+09:00"
+    },
+    {
+      "title": "'삼전·하이닉스'에 쏠린 비극…코스피 7600선 붕괴, 개미들 '패닉'",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BWEl6ZENRSUJvb1Z4WWFXZ2tZUXIxWnRScUlVRW9keVZKd2stR3dNbU4wV29lMW43VnlLaTNlQ1QxMHJmXzc0OUR6YUw3d2c?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T05:41:45+09:00"
+    },
+    {
+      "title": "[美증시] 반도체 폭탄 매도에 나스닥 하락, 헬스케어 선전 다우는 상승",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Yd1Rxd3IzRXh0NVk1emhVU2ZfYVZMNVVtQ1lYemN3RUJuckpxb1VSVWllX0JZQ3JJSE5FMzNlVjlPek1nbmpBSWFJeDNONWVIZHBRddIBWEFVX3lxTFBtTWZQQ1RqeEdxYjJEVUxScV9ibWc0QkhoOWhzUGM3VEp4emZwR1N5bDREU2otNkR4S3kzRWRBT2RrcFNqSkUwelc2dmlVMHh5aWtjNFdaeEM?oc=5",
+      "source": "미디어펜",
+      "published": "2026-07-03T05:40:38+09:00"
+    },
+    {
+      "title": "‘삼전닉스’에 60% 쏠린 코스피…“韓증시 구조적 불안”-WSJ",
+      "link": "https://www.mt.co.kr/stock/2026/07/03/2026070215262325915",
+      "source": "문화일보",
+      "published": "2026-07-03T05:39:42+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체 약세 속 혼조 마감…다우는 최고치",
+      "link": "https://www.newspim.com/news/view/20260703000019",
+      "source": "뉴스핌",
+      "published": "2026-07-03T05:39:00+09:00"
+    },
+    {
+      "title": "Alarum Technologies, 자회사 FBI 수사로 주가 급락",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90ZkFDOFBFOERFdGVtemJ0SzFEdUVUX09YTWJMVS04WlpfcUc2TTdNaW9BNjRKZGJfZ2JJeENvaGJJVXUyT3A1YUtMNTU4eFVINGpyZjhzOUlTQUI2TEZRQmRsYW1HVWNWX3BMeGhhNWtZbDBmQ0M0?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T05:38:00+09:00"
+    },
+    {
+      "title": "[뉴욕증시] '고용 쇼크'에 다우 594p↑...반도체 폭락 나스닥 207p↓",
+      "link": "https://www.hanyangeconomy.com/news/articleView.html?idxno=9311",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T05:30:21+09:00"
+    },
+    {
+      "title": "반도체주 이틀째 하락…뉴욕증시 혼조, 국제유가는 강보합",
+      "link": "https://www.ddaily.co.kr/page/view/2026070305282297307",
+      "source": "디지털데일리",
+      "published": "2026-07-03T05:28:34+09:00"
+    },
+    {
+      "title": "허트빔, 나스닥서 '1달러 미만' 상장유지 경고 서한 수령... \"12월 28일까지 시정 기한\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ldFA0Ujd3Z20xNTQxSTEtUWR0YUg5UFNGNGxyMXNOM2RYMkRVdDJWQ2FRNldvTHpuVFJYT2xVNEZUdHdIZnRWWkVSYVpvNjZQXzlrRFlSeWNHQV9lbkZGN250QTRhWUxMZjV3eXRkcjE1Zm8?oc=5",
+      "source": "데이터투자",
+      "published": "2026-07-03T05:26:08+09:00"
+    },
+    {
+      "title": "실적 발표 앞두고 ‘SK하이닉스’ 주가 급락…증권가 목표가는 더 올랐다",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50XzZoVmFuX2JBQndZTFVuTGFkVFRXeW1TWktMSFJPWUk5c1c3ZFZqRkUtVTdxTEdsdkYzbHRQQ1I2bG5hOUxXVkFmU2hnd0VSdktobnY2bGVGVThHZVJTTjdYWQ?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-07-03T05:25:11+09:00"
+    },
+    {
+      "title": "코카콜라 주가 84.14달러로 사상 최고치 경신",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0eHo4T3dDVGZGYWdWbEs3MkFoTENYUFlha2xoR1NaVXJsb2dhUlBud04wTGVtVjhnV3JZUDdraS1XYTk0QmdCc214UUtKVUVKSndpRWZwRy1RMTN2Y3NLOHhfOVFHd2hqN2ZBYjVod3g?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T05:18:00+09:00"
+    },
+    {
+      "title": "베린서스 바이오테라퓨틱스, 나스닥 상장 유지 유예기간 180일 연장…주총 안건도 모두 가결",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVUdtWkxSS0ZaUFNKR2xWblZiVms5YmVZVEJJaDAxS0thWG55RUhpZ1Bkbl85a1llTWwxVUY4c2RSbFBaNk5WLWZNNmMwNmNPYWN5eE1mVjRESXg0OGM4c0tBZjlKRUZ5YkszcFZCVG13cTA?oc=5",
+      "source": "데이터투자",
+      "published": "2026-07-03T05:14:04+09:00"
+    },
+    {
+      "title": "[속보]뉴욕증시 혼조…반도체株 하락에 나스닥 0.8%↓",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=82848",
+      "source": "이데일리TV",
+      "published": "2026-07-03T05:12:00+09:00"
+    },
+    {
+      "title": "뉴욕증시, 혼조세로 마감…나스닥 0.80%↓",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnX3VvcG9zWHlFME10U1BOc2ZSZnJhZXJvaWg3b3VsNlByeWFpMk51bkQxd0hiVG5xUXNyYmJ3LWxXTkYxaXhSQ3dYWmozM1JR?oc=5",
+      "source": "블루밍비트",
+      "published": "2026-07-03T05:10:31+09:00"
+    },
+    {
+      "title": "뉴욕증시, 반도체 추락속 혼조 마감…다우 최고치·나스닥 1%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260703004900072",
+      "source": "연합뉴스",
+      "published": "2026-07-03T05:10:28+09:00"
+    },
+    {
+      "title": "美 고용 지표에 엇갈린 뉴욕 증시, 다우 1.1%↑ 나스닥 0.8%↓",
+      "link": "https://www.chosun.com/international/international_general/2026/07/03/YUACFYWKJRAL5L55RR5A6L4H3Y/",
+      "source": "조선일보",
+      "published": "2026-07-03T05:10:00+09:00"
+    },
+    {
+      "title": "트럼프, 관세 유예 전날 애플 등 주식 327건 매수…뒤늦은 공개 논란",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pa1FwUWQ0cmxEVS03RmhtTjhEbGVFQWlyTzVlYW1fM0QyYlRmclRYbkh3dk9URUtnQ1JoZ25pQ1NiX0VHMW9wVnFqOTdxRE9IM1dMd0g2NzhJeDJScWJUYtIBeEFVX3lxTFBUVFJOb0N3Q0Y1WU81ZVRYUlp6OFF3MGczUGxDOFBMQ3pTcFp3VUgwX0pmZlRiVnFNbWpDbTFqaE1DUnhwbFBJdWk0WTZaQVhwOUlqMEF4MFJaX3h2Q056czB2a09Ma2VnNm5PS0xHT0dOTDFyYi1kYg?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T05:09:05+09:00"
+    },
+    {
+      "title": "덴츠소켄 상장 폐지 추진… 후지쯔 등 TOB 참여 검토",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeU9QVFRwZ2dVT3l2b0ZuU2dCbHhyeXVISkFScmFlVVRYMVA3T0VCSUUwTzdvRHI2MGkzUTBWV3F6MEVKU1NWSFUxakYySE9ZU0cxLThROG92MC0tTkd5eUUxejBOSl9rVldPaS1tTVdMcnFYemNxYmdMRTM1NmtiZW1seWNpSXM?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T05:02:40+09:00"
+    },
+    {
+      "title": "글라우코스 주가 52주 신고가 경신, 148.12달러 기록",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbTQ4R0lMdEc0RG5yZmF4bDduNDJIRG9iNXpNWmYwSmVoeUtQWkd1eS1EazJpNTNKZTRXdDNHcXNmOGFWLTY2Zmg0MUNRYTY4amlnMThsZUJTcUlsdlZRYUo4WVNlM0JOVVVXeGhqVjc?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T05:02:00+09:00"
+    },
+    {
+      "title": "나테라 주가, 279.63달러로 사상 최고치 경신",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hcEFnNFJKQWhtVWRqbXA0cTE4M3QzMWhNajNnbXhjaGpNU19CbFhNQkYxY1B2aEY2OUZRelI0VmJkMDBFcENOSDVYVk51Rl9zNENsVVZ5Zk1qRXZyUGQ4TERWR0Jmd0FCczg0ZEFpNGk?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T05:02:00+09:00"
+    },
+    {
+      "title": "코스피 급락에도 7월은 통계상 ‘상승의 달’⋯“실적 눈높이가 복병”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fTTJaSFdxbmh1NHM1WjNLaEJwNHd0V0hUVFNabE0wcGFBWHdYQXZYSXhScTdGeW1Qa0RmNVNVZWVIbUUzMElQSV9xNEpQRFU?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T05:01:04+09:00"
+    },
+    {
+      "title": "'고용 냉각'에 美 증시 혼조…다우 최고치·나스닥 0.8%↓",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YZEZIVE5JcFhSeFlad0tpa3NOOTVFV1B3aUd6QmJ3SEliaFhxblg2WTVSLUZNMk9GenlxX3R4ekU3cDduQ2x1NERVcGNMQTdTb1FoUUNR0gGPAkFVX3lxTFBMWWxRXzdMRFNFQThsNUJWNFYwMTRhTk53bzVOMm83cEU1dG5nbHJDTF9WZUlodC1uV2VWOFhXSVZFNlZpNEdUdjJSeHlyVkNGcWVFX2ZhNWt6Q2p3N3dmelhIcVlQSGtpQXpaUE5uMVc0SDN1MEhTdlVfYUZLNG1ZTTVRcHh3MkxZbUdEOHY2dWp5Zm9OM2ktMzlUTjJpYlF3OFdUamFMd3Zmdm5UQnI4Y3VaSHVDUjZWQjQ5LUQ2V1haaWMzOWJYckJyaENBV3lqRFlVSE5fRGJJNEEzOWg3Z2JqVVY3WmJ4dTZLTUNJVFpmVU04cnlRZmNldVduTHYxOFpTMmpTTFNrTERCN0E?oc=5",
+      "source": "데일리안",
+      "published": "2026-07-03T05:00:00+09:00"
+    },
+    {
+      "title": "재즈 파마슈티컬스 주가 243.39달러로 사상 최고치 경신",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91WUNINmtRX3RzMC1uOVRtb2JET19mR29EUFliY0plY01DYnpTNTE3bDVRbm9Ydm5WRTNqYWxNX0g3YlB3cldZdWVpd29yRXpvNW02dVNQX05mRUptYjFNRVFDcEtKcE1mR1NXZmdpSWY?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T04:59:00+09:00"
+    },
+    {
+      "title": "'구조적 엔저'의 이면… \"엔화 약세 진범은 일본 증시 랠리에 따른 외국인 환헤지\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423131",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T04:58:56+09:00"
+    },
+    {
+      "title": "시큐리타이즈, NYSE 상장 첫날 2억9500만달러 규모 자사주 토큰화",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLb25zLW9FOTZ0VlFTMDd1R1RZT3N2UkhZanlGVTVGSWV1cEJSdmJCRmxfblNteWc3QUZla3dJTEp0alk5YnpjYWxSUUtyUU9I?oc=5",
+      "source": "블루밍비트",
+      "published": "2026-07-03T04:48:09+09:00"
+    },
+    {
+      "title": "메타發 ‘AI 인프라 공급 과잉’ 공포에 삼전닉스 주가 급락",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwVUlNaWRaTldjUUZEUGpaQUlDS2NoZGFwUlpEOERzQjNYZHpEXzBtMVVsV3Y2cG9zVDVoUHhKM1d4UHVzLXdMZUM3VjZkM0hoWFo3Z3BsZHVBODdMeERBODlGNy1RRHhoQ2RKZklXbFgzMkdzVWfSAWZBVV95cUxPS0pRd2JyeVBxbnJqNUpSUnpxZjI2ZEw1OGpMR1l3ajl2VG9SWGRhTVluNU5MVlQ1N1R0cGl4QzRHdGRUMl94UnU3by1CODhTZVpqakIzb2MyX0VXSmtBc3pFT1hLMmc?oc=5",
+      "source": "동아일보",
+      "published": "2026-07-03T04:30:00+09:00"
+    },
+    {
+      "title": "\"삼전닉스만 잘 나가\" 코스피 149조 팔더니…일본서 95조 산 외인, 왜? - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02T0x3cU80R0dwdUloZzVpVGRHMmktcDRqSE85NWFaOEZKcXZNVUo4ZUN0cENTVjJzWDJmMlctU1ZDcTM0NzQ4dF9RMWhKTE5EOGtBQXItWXRJTk1kdDlBRTJVbDRFMXda0gFuQVVfeXFMUFJ1WWhoeE0tT2ZQT2MzSjVOMllOM2ZWOVp5YVlISWxNU3N5MWFZT0RoQ25lN1pXYWpBajUxWFR1MktBSmFKc3VKdzlYUmV4a2VQM0Z1cnBXbU5NWnJxRGxUY2tnYVJGUEZxSm9XVUE?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T04:19:00+09:00"
+    },
+    {
+      "title": "유니버셜헬스서비스, 美 정부 병원 수가 인상 제안 소식에 주가 급등",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zeUhRY01FbURENkpHaDNVQ1drb3l0bk9GeUlxWVQ0bDlkclQ1MnV4VUV1dWtycE8zU2U3WTBIbWVndmJzZGFSb1FxYkFmOG1kQXdOUjR5RlNlc1VtaDU3TUFuM0ZlMTJkdkMwR1FYR2Vab1E?oc=5",
+      "source": "마켓인",
+      "published": "2026-07-03T04:12:04+09:00"
+    },
+    {
+      "title": "\"신뢰와 혁신은 공존 못 해\"…코스닥 30년에 던진 벤처 1세대의 쓴소리",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82RExOUi0wRGdDUjAyZmhoamRXTW1DbFNRTEJlNFk3OFhUcHRfTTVvVUNKWjVSdF8yTjJUMmZxQWVLUWRvUXZYcTh1d05NT2l1SGticmpBc2xneGpHaUE?oc=5",
+      "source": "뉴스투데이",
+      "published": "2026-07-03T04:11:43+09:00"
+    },
+    {
+      "title": "내셔널베버리지, 주당 3달러대 대규모 특별 현금 배당 공시…주가 13%↑",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrRDd0QW9WdXNfX1ppc0pidWlVVGl3eWVHSGh6S0laT3JqTk9yRTh0TFh5bnljNjQzY1puOE5JS2V3UzdDN1VqTG9oZ2lBSnJRblV4eU1vTVdZZ01nQUdRblBFclBpTVpfa0hYd3JxZDVETnM?oc=5",
+      "source": "마켓인",
+      "published": "2026-07-03T04:09:51+09:00"
+    },
+    {
+      "title": "오픈AI 상장 지연 시 HBM 수요 둔화 우려… 국내 반도체 투자 분수령",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmRmNF9YUllnMjd3VmcwZURZWWpKVlZSMm0wVWhKZ0NLam80MlZ6cmJRNjkxUmpLMk5WWkZZNWUwYVV3S0ZjVDNsWTJ5TVJjSmF4ZWtCOFdlRTF6bUF5MVlDbm04d2lIYkJEODhwM0lzWTVEY3kwT04tVnNldDNDdUhlbjVuVkM1?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-03T04:05:00+09:00"
+    },
+    {
+      "title": "마운틴 프로빈스 다이아몬드, 7월 17일 TSX 상장 폐지 계획",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02VE1oU1RLam1BMlJjMFRWcmdLX0Q3cW9IV2NyM1htUXBwdlBySTc1ZE5FeUV4REtuU2o1MDFEaXlIT3ozc2JjSzh6TmNBRlYtZDNwMUNwMnRicGlRUjYtRDZ4NzZBR0MxLWhVN3puNUQ?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T03:54:00+09:00"
+    },
+    {
+      "title": "로빈후드, 미즈호 글로벌 온라인 브로커리지 '초대형 승자' 평가…주가 강세",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CX0xpaHJ4UzFpWktHRTVmenNDVFlYcVVkV0ZHWFhVM3FOQ0VWSzFWWkx6NTdXS3dKRUtiTWs5Sm8zTi1vVW4tME1Oc1RfWDNublBoaE5aaWVQaFVzMVRZWTRFVnlSYklkaWpHalVwZE5RQ1U?oc=5",
+      "source": "마켓인",
+      "published": "2026-07-03T03:41:57+09:00"
+    },
+    {
+      "title": "\"美 금리인상 안해, 증시 빠지면 사세요\"…전문가 집은 업종은[부꾸미] - 머니투데이",
+      "link": "https://economist.co.kr/article/view/ecn202607020027",
+      "source": "머니투데이",
+      "published": "2026-07-03T03:30:00+09:00"
+    },
+    {
+      "title": "저지 마이크스 서브스, IPO 신청…미국 상장 시장 합류",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IV09BWktTOHVqMDQwaTdEWldkNVF1b1VrUHZsbzBjTE55QmU5RFluTUhMZDdUWnJ2V1ZvSlNoanhPQjVEYUE2U0g3d0R2NlVsSHVTRFBzcjNvOWVzN3BmRUtzd1BkaGhOZUU4SVFUalk?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T02:36:00+09:00"
+    },
+    {
+      "title": "프리덤 브로커, 테슬라 목표주가 인도량 호조에 420달러로 상향",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhVlU5blNfcGQyN0VKaTQ5clI1Zmg2YVFfeDNCZVNwbERRZ1kzc1YzcmU5bWdtV3NYYU96d05mcVlMc0Jia1Y1Z1RRUXJUT3psenB2eTNNVlVTTXRSbVhCSlZmNjF2TVhBcVVtQURMeWR2S0Zi?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T02:23:00+09:00"
+    },
+    {
+      "title": "테슬라, 2분기 차량 판매 호조에도 주가 6%↓",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wd21EQWFoLU1XaEl5cTZaclpBRllBeWdVNkh0enY4RHBYMDVWZnA1cXFRNDhnQnRNd2stcVFKYWpJczF6ZkNtaE5IOHprR2RvNndvN2tvV3BHWTRfU1Z0alNLejRPajc3UlhyVndXQjM?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T02:10:08+09:00"
+    },
+    {
+      "title": "유럽증시, 예상보다 부진한 미국 고용지표 소화하며 일제히 상승… 독일은 2.2%↑",
+      "link": "https://www.newspim.com/news/view/20260703000011",
+      "source": "뉴스핌",
+      "published": "2026-07-03T02:00:00+09:00"
+    },
+    {
+      "title": "TD 코웬, 제너럴 밀스 실적 호조에 목표주가 상향",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zd2dIcnp6ZGJLRUg2czZfUTlIckp1RFZtUlZpSWxQeEtDbm0zd0FzTWZMOUJUMVB5M1VzekJ5b1hvYnVHUTBOTWZ6VXlSRkNLQjk3V2JYZXp2LTdVRks0NFl3ZGFTOHpucTVDZ0o5MVI2Vnkt?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T01:54:00+09:00"
+    },
+    {
+      "title": "샌드위치 프랜차이즈 저지 마이크스, 뉴욕증시 IPO 신청",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02NzlCOTVVUnA4WmF6Y0J4WXctX25wU3I1RXA5cEEzWGJ4dlJvNVBFQWwtaGh6QmRfZGlvUUwzX2g4empxMXdQT29EOTNSSzA1RkJaWjU3a1lBYy1w?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T01:32:00+09:00"
+    },
+    {
+      "title": "번스타인, 유나이티드헬스그룹 보장 결정에 가던트 헬스 목표 주가 상향",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3U095VUp4N3dsSldrLTlqQTdlZ0ZOSjR4dnVPdUpKcUtKRzF0dG8wRmFDUTRneENtaWVaY1JYRlliQXR4Z24tclhIbzhuOVJOaFp0b3VLTXVTaENXWkh6ZTZyS29IdGRmV05McV9QeGpMVU12?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T01:30:00+09:00"
+    },
+    {
+      "title": "[0703주요일정] 美 증시, 독립기념일로 휴장 예정 등 By 인포스탁데일리",
+      "link": "https://kr.investing.com/news/stock-market-news/article-2004612",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T00:31:00+09:00"
+    },
+    {
+      "title": "전 세계가 ‘빚투’ 몸살…미·일 신용융자 최고치 찍었다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rZEducEdzUnliLV9wREJta3FYTmdjTkFoV2F4UnNQaHVtb0dXNG42VjJjMi12ajNJRks0cEc3YS01MlV2R0ZKXzUzejZBTW8?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T00:04:06+09:00"
+    },
+    {
+      "title": "테슬라, 사상 최대 2분기 인도량에도 오늘 주가 하락한 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPaTdyRnBGRl9Nc1pPWUI1aW12YVFfOVRXRXRDaldlTFVUUTJVaGh1VGVWVkZuTmxSaUlZeWZUUUlkZDdiYlFNX1k2OHFjTTlabTNNRFlhdzVBWlkzek9sYkVEMDNiYzY0SWNLR2o5eTR3eUtaenFB?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-02T23:50:00+09:00"
+    },
+    {
+      "title": "벤딩스푼스, 상장 후 급등 뒤 차익실현…7%대 하락",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tZE1ULWRycTdJQ21uUnQtMW9JTFU0NHBIczBESVIxMGdWaDY1OFlacGdhY0ItNHpFajZodDA2d3lJVHJ5anloUXBPX0ZnZlYxSFFZYVFPWmdTOWFyTWcteXlkZ1FsSmhHNVAtc19aR2dFcGc?oc=5",
+      "source": "마켓인",
+      "published": "2026-07-02T23:20:18+09:00"
+    },
+    {
+      "title": "오늘 애플 주가가 반등하는 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrUVZPS2xDS3RDeWY3WjFrcDlId3FzODBGekIzLVJXT3RBbjF4N09JYUZhall1VXlac0t6aldfOW9OWmY5LWt4ZExRcDVqZzZEZ2xKZXlVY2REeDE1NXFXNHpqSXhDWHR4WDd2bTdzYUx1VkhoZm5n?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-02T23:20:00+09:00"
+    },
+    {
+      "title": "美 고용 둔화에 뉴욕증시 상승…연준 금리인상 전망 후퇴(종합)",
+      "link": "https://v.daum.net/v/20260702230631669",
+      "source": "v.daum.net",
+      "published": "2026-07-02T23:06:31+09:00"
+    },
+    {
+      "title": "[경제]반도체 한파에 코스피 7,600대로...하이닉스 14% 폭락",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5laGxPOHlUbU02VmdURzU4dDVmRE9rUFpJY2htc1J6UzgzSDA0T0VXRWJkU09aOFVzeWhFSmwyV1pqa1VfV3lwWG44dUVCbzVid0FKU1lDbHlWSXBFc082dzF1bnFhNlQtbURpRGVwZw?oc=5",
+      "source": "YTN",
+      "published": "2026-07-02T23:02:00+09:00"
+    },
+    {
+      "title": "뉴욕증시, 일제히 상승 출발…고용 지표 악화에 금리인상 우려 완화 - 조선비즈",
+      "link": "https://news.jtbc.co.kr/article/NB12306411",
+      "source": "Chosunbiz",
+      "published": "2026-07-02T23:01:58+09:00"
+    },
+    {
+      "title": "미국증시 고용 둔화에도 상승, 반도체주·테슬라는 압박",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XNjFGbi1OZDNyR1JMaVFJR0xyYUZvSnkyWHIwX2tXRnhZcmF5VVdUVXJ0QWRqMVd0OF85VnVGQk5pd2RHVU1rZG5ldlZsOWJ1LURoVGdhUnR4U1YzY1V2eEozNUhTVmpveHNIbzBtbHNwUQ?oc=5",
+      "source": "TopStarNews",
+      "published": "2026-07-02T22:47:48+09:00"
+    },
+    {
+      "title": "뉴욕증시, 비농업 고용지표 소화하며 상승 출발",
+      "link": "https://kr.investing.com/news/stock-market-news/article-2004611",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T22:42:56+09:00"
+    },
+    {
+      "title": "코스피 8% ‘뚝’…급락장에 초고수들이 저가매수한 ‘톱3’는?",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmT3VtdlB0Nk5qNkU4UTM5V2pySWdQMmdmbkJWNmJYSjQwck5RUmRFVzJwM1pfbnRfQmFlSkltakZqNnRSWkhsa1FRZ29DaUE?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-02T22:27:19+09:00"
+    },
+    {
+      "title": "메타발 ‘상투’일까, 일시적 ‘조정’일까…급락 중인 삼전·닉스 주가 어디로",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZVJXWENJTG5paTZZOE4wYnQ2aGRkaGFwdnBNZDFxOEwyeW5UZGZFcElqbldqckNEckZtdlBYeXdTMVF6eUFTX2RlZ0hrelVrd3d2S3gxSTNMZ9IBX0FVX3lxTE5mS25RdEM2eUsteVZaU2tIUUE0NmFZbTI1a2V2dkVtSkR4Vm9mUFRSeXM4a1BiOGJScWpRSW1WWWVvdFZCUE1ILWIyRGhYY0N4c1FCSUs5VUZxU2tTX2s4?oc=5",
+      "source": "경향신문",
+      "published": "2026-07-02T21:39:00+09:00"
+    },
+    {
+      "title": "코스닥 머니무브 본격화…국민성장펀드·연기금에 쏠린 눈",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03TENwSnVPOUpHUk1qc0tXZE0zX0pDaE5ZRW5qamIzQ0FzR0Z0UDhKV1Nqd0xIdTU5TTVTdDIwTlJmLVlZM1JGaTI4Wnd5a19QWnBkYXNPN1FiaXhnSmdJdA?oc=5",
+      "source": "뉴스토마토",
+      "published": "2026-07-02T21:36:32+09:00"
+    },
+    {
+      "title": "씨티, 삼성전자 목표주가 상향…메모리 펀더멘털 건재",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ySVAzdXZJNG1GWUZIZnB2M1ZZenpHYzcxZ3pVNWRqYmU5a0x5YmNnZGt1OTMwTHdaSVBwd1lzRlF5bHYydFJQTFl3NXVPUkFIbUoyYTVJX1JTU05NRkJNSlF5WllWTkNoSGU4bnhVRDE?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-02T20:45:00+09:00"
+    },
+    {
+      "title": "코스닥, ‘동전주’ 퇴출·특례상장 꼼수 끝…50곳 상장폐지 예상",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94WkRjdUZiWnhvMzZ4MzdUZ2xBbHBZS1FFSDU1MmZUajJISEZ0Rkl1VDBncEtrOHl0UE1yVDJzNU9oMGVmOVZvVkhTS3J3Y1pBd3FjMl9vbV9rQdIBX0FVX3lxTE50UVd1LVRBVWV3NHZpZHJCSHdJZzlEYVRfd3FvOTk1R2xMdzlSc2lkdHFQSHJzVm9RMmhTWDctQzNYWHNNNUNNZ0NkZHVVOV9XMTQ5aUwxQ3RBTVgwS3Fr?oc=5",
+      "source": "경향신문",
+      "published": "2026-07-02T20:30:00+09:00"
+    },
+    {
+      "title": "\"종말의 시작에 불과\" 경고까지‥반도체 수요 정말 꺾일까?",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80d3ljS2tNeVVMSms1NHFGTWU3VWNMcnplS044a1BDLVlqMS1GeEctTndJTjlEMEVnS2xLWGswUlJUalhEa01lOV9BWFJUS19hQkNISENDTi1VV1B3b1hieV9vemUtbGFVUnRwMkw5TW5JeVVkX1BPVg?oc=5",
+      "source": "MBC 뉴스",
+      "published": "2026-07-02T20:19:20+09:00"
+    },
+    {
+      "title": "코스닥 부실기업 퇴출 강화…거래소 “올해 50곳 안팎 상폐 예상” [코스닥 30주년]",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmdlkwa2M5R3ZZT1hPM1VJcTZDNGZ3Vkx0VVAxdTBIenNBZ1dMUTdMV00yM2lNWE5qaHhHcWFtanZuNEl3M2xsVlFKdlc1S2FUVG41Vl9nSWpfY1pTUldyVktGaXBLU1lNanZPNzUyQ0o2UFR4Z1A4SXpDc2I?oc=5",
+      "source": "한국금융신문",
+      "published": "2026-07-02T20:11:48+09:00"
+    },
+    {
+      "title": "SK하이닉스, 美 ADR 상장 임박…폭락 속 희망 될까",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UUFlvTmV0ZEJIZHlic0JqMmhJU1VrWUhOS0tna1d3Nk51el9CbzVCeUlYSktKbUFnaVFxOUg3ZlluYVI3WnFteXNJNUM?oc=5",
+      "source": "아이뉴스24",
+      "published": "2026-07-02T19:11:32+09:00"
+    },
+    {
+      "title": "IRS 금리 전반적 하락…증시發 위험회피 심리",
+      "link": "https://www.mt.co.kr/society/2026/07/03/2026070222080343254",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T18:48:37+09:00"
+    },
+    {
+      "title": "[현장] 코스닥 체질 개선 속도… 부실기업 퇴출·혁신기업 상장 지원 By 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAydjQ5U1pyQ0dZSFVXM3hERjJ1aVhCTnZNOHJuNHR1V3pubU02UHY0OFZHLTJGWU1NVnNMR3BBUEpsRVI3UEtOMGFtaUxtVVFDZGREWE5vU01KTkVodmpjMHJKN0JsRGljclFETFlOMmI?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-02T18:45:00+09:00"
+    },
+    {
+      "title": "[이슈PICK+] 코스피 2배 뛰었는데 코스닥 제자리 걸음···규정 강화에 체질 개선 기대감 By 투데이코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15RVN1OGxCclE5NVdfQ0RYVWM0bThvX3VEWlhTMld0Z3IyeWxHTUkybnJLUkY2M3NtNGxUQmNpNlJBRFdHUkVSVzZsbm9lX095TDQyeUlOM2JPbGZNM0xEQlhGUzIzcjNoeUFFR25KcVg?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-02T18:44:42+09:00"
+    },
+    {
+      "title": "[채권-마감] 증시 급락·물가 안도…국고 3년 4.4bp↓",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423146",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T18:40:53+09:00"
+    },
+    {
+      "title": "KRX ‘기술특례상장 기업’ 사후관리 강화",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nbkwwY19jWFFwRzloZlc1UEtpczJRVjQ2SDljdjVOOW9USGxQM2dYVTFEcldNSldKMFplUkRWNEc5aVExS2dLZXhnVFVFMnpwMlF6RHgta1oxVl9lMXlvVzZsMGxPQTQzV0M4aEpydW5mZEJn?oc=5",
+      "source": "부산일보",
+      "published": "2026-07-02T18:33:34+09:00"
+    },
+    {
+      "title": "#291 노보노디스크(NVO), GLP-1 성장 프리미엄은 어디까지 주가에 반영됐을까",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaHZSVV9rUlI4RVY4YTVJaUhPNzd5TjdOelRrNlZ4X21sSVZ3T3JpWDhJMmp0ckhGSVFNN2I4NDdiOER0UUw1M1d3djVmMjc5T0FOc1ZMQkJoZXd4VFhVdkZpd3FrYjl3Y0FpNzQ3SEZva3AxRkVkS1hHaFhoY3RyVEllSlg5cGJodGhienJmZzk?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-07-02T18:30:00+09:00"
+    },
+    {
+      "title": "레몬헬스케어, 코스닥 신규 상장…6일 거래 개시",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGcC1VS05YczZtVkRnSTRxbHdUSjg1REVlZTlDd1RqY0E4UDZTX0RqbVc2UWc2VS01eERjbzRteXpVVTBIRWYtYjBqazB0RDJuSXFBRHVyLXl4UTJCeU4zMNIBYEFVX3lxTFBGcC1VS05YczZtVkRnSTRxbHdUSjg1REVlZTlDd1RqY0E4UDZTX0RqbVc2UWc2VS01eERjbzRteXpVVTBIRWYtYjBqazB0RDJuSXFBRHVyLXl4UTJCeU4zMA?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-02T18:29:10+09:00"
+    },
+    {
+      "title": "[주식] 코스피 8000선 붕괴...코스닥도 동반 하락",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnOUJMUWwtTG5xRm1xdTVaZUU4MExMREQ4dzFISXRmdGt0ZzZuS1ItZ1BrY1hpeXFOMDZNTm5RS3hQeEMxa3hnZUMwSnFfYlhQYURIckVpcmlJUTZPMmloSVlzU0x6TEJCc3Zv?oc=5",
+      "source": "히트뉴스",
+      "published": "2026-07-02T18:21:34+09:00"
+    },
+    {
+      "title": "상장 바이오 추정 이익·공모액↓·할인율↑…깐깐해진 IPO 문턱",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xZWJDMWQ5dVFJa0oyWThmUHRucklJY1U4LVBtOGhWcjdXWFdPcXJJTFc1ZFpKdGtqRFBPRV9HVF9ySmxPNkNoWTgxVXM1YVdSTmhZYW53?oc=5",
+      "source": "데일리팜",
+      "published": "2026-07-02T18:18:05+09:00"
+    },
+    {
+      "title": "거래소, 코스닥·자본시장 밸류업 목적 상장규정 개정",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWGJMZEl1VkJBU1lwYlY5cG1GNTUta2hnSlpZaUlERW1wcnBjWHBiQ1BteUJVVmZzaUVxemFhdnBiNmZQTzVoMEVzdkJqaGlRTUI1eWFWS2I5S0lYOTZnMUszUmg?oc=5",
+      "source": "서울경제TV",
+      "published": "2026-07-02T18:11:24+09:00"
+    },
+    {
+      "title": "레몬헬스케어, 오는 6일 코스닥 상장",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yYklWXzhLSHZKTXBiNnA4eHREU1N0Y29pLXc1OWczeTdBLTNwbzc0TzJJUEJfeWFEWUxGelhmdk13VnBUUE5HRC1fU05oZUNiMlJaQjdvSzR1TElD?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-02T17:59:00+09:00"
+    },
+    {
+      "title": "[그래픽] 아시아 주요 증시 등락률",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/07/03/PCIEWOCDKNAVVI6GWTVWJLW7QY/",
+      "source": "연합뉴스",
+      "published": "2026-07-02T17:50:47+09:00"
+    },
+    {
+      "title": "30돌 코스닥, '다산다사'에 방점…부실 털고 첨단 키운다",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LTkY0dzZraDJDQ2FHTGhFMWhrWnlOZDJRM2JxVHdHNzBqcHdOT3U2aDFzemV2Z1BleUtZdWszcWZzckFHODdIdGp1SDNmaDJQOHlWeFFuUGNISTZva1RVWkltSlQ?oc=5",
+      "source": "서울경제TV",
+      "published": "2026-07-02T17:48:12+09:00"
+    },
+    {
+      "title": "코스닥 30주년…동전주 퇴출로 시장 체질 바꾼다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BZlFodXRMYkJYQWNtZGI1ZTFsU0lGLWJaNVZzeENfcl9KMEZWaU1tWGdIbmJlbXM3UTkzWl9ZcHIydHBYWlFDdHYtbTBwZTg?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-02T17:46:08+09:00"
+    },
+    {
+      "title": "코스닥 30주년…동전주 퇴출로 시장 체질 바꾼다",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VY0UycGJsdlkyV21FV2FNSGRwNjdqeFlOd1JfOVdNeE81VVdtWVVFcV9pS3R4eGNmbHZTLTNBaV81OHctU3BKcExoUzgtSDdnUFc3SFEwc0p4b29CWmFtLWRmWXY?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-07-02T17:42:33+09:00"
+    },
+    {
+      "title": "[퇴근길머니] '반도체 쇼크'에 파랗게 질린 증시…'빚투 개미'의 눈물",
+      "link": "https://v.daum.net/v/20260702173035667",
+      "source": "v.daum.net",
+      "published": "2026-07-02T17:30:35+09:00"
+    },
+    {
+      "title": "코스피 7,648.09 코스닥 866.72",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wSmhWUEV2OTBQal9DU1ZQVktCV1FKTG1mc1ZIMGJBMUpyU1FFbFFuR19lMDdtVFhCTUgyN19xMkxySUdsUjJfLU5fMnJ5RWFyaE1YbzEwaWFKS0k?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-07-02T17:25:00+09:00"
+    },
+    {
+      "title": "'검은 목요일' 국내 증시…코스피 8% 가까이 폭락",
+      "link": "https://zdnet.co.kr/view/?no=20260703090543",
+      "source": "인더스트리뉴스",
+      "published": "2026-07-02T17:24:40+09:00"
+    },
+    {
+      "title": "대장암 혈액 검사 '쉴드', 미국 1억명 품었다…가던트 헬스(GH) 주가 랠리",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpRVA0aVdacUVUSVdkSkRweGhWNzZYWk85Mm8wM214b0tFQ2FDYlJneW1haVJLbmlXVmVoM200d0hROVpJTk1VYlNubHZBSC1uckpMekVNeVRoZXN1b3d1bXFGd2ttclZaaUxNRlg1MTA3RHFkV2c?oc=5",
+      "source": "인포스탁데일리",
+      "published": "2026-07-02T17:23:02+09:00"
+    },
+    {
+      "title": "밸류업 안 하면 특례 혜택도 없다…거래소, 코스닥 특례상장 관리 강화 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFVTYXVrdnVDUlF5WU5Yc0pvbHBoUkp1OHFsZDZMWm9MZllveTlzWmtqdDRhS0R4RHZSX2JGZXdVbmp4TGlvOThhSk9BTmNwN2RrQUdvMUtKa3NCeV8xQW1XNjA4eXUzblN3cUdzZ1czcXN0YmFHc044VWc3bE5MeEJJR0NiOFV50gGcAUFVX3lxTE9QR29mdXVuUmNCY0REaExuYjFyNjI2Rkx0ZVlxSlhuM3pQa3AySDVQWlJtUFBKaEJVeHI0VHFjaGU4ZW5tZVVOeEdEU0RWcDlONk9VbWU2Q0pwQmxHU1hJVjZPTkwtbXZkZm85N1BhcGZQbHpZRUFWV0kxb2ljS0o0Z29YaDMyOF8tTzBFRkM3QTFHT242VnRDcUdxTA?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-02T17:22:00+09:00"
+    },
+    {
+      "title": "AI가 갈라놓은 아시아 증시 [오늘의 블룸버그 차트]│Global Money Club",
+      "link": "https://www.newsis.com/view/NISX20260703_0003694893",
+      "source": "중앙일보",
+      "published": "2026-07-02T17:19:49+09:00"
+    },
+    {
+      "title": "[亞증시-종합] 기술주 조정에 대부분 하락…홍콩만 상승",
+      "link": "https://www.newspim.com/news/view/20260703000067",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T17:14:07+09:00"
+    },
+    {
+      "title": "주가 급락에 김기현 \"이 대통령, 빚투 조장하던 인사들 문책해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBbjE3bGVzbGlYQ1M0N1A2SW9ybUhINFVmSTFXQkVMQXhBV1BrRS1mYzhVZVN1RVh4cGlKV1ZhaFJseWtfcndmUkhsV0hNZUU?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-02T17:08:00+09:00"
+    },
+    {
+      "title": "“주가 따라 성과급 달라진다”… 삼성SDS, 성과급 개편안 두고 진통 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUJDcHRlbGFiSlRqa2ROdDFFWEUyaFBic3UwT0VoYzJ0ZHVkTklOOWl3bUliTHJScEFDXzNLNTBTbEh5cWxJN1BSR3pEOTZwRW1zajc2UEg3WGc1R2dEWS1rMDZwYlZxemFhcy1IaVpoWFpaOFJJUWNWcnI0QS11b2pn0gGWAUFVX3lxTE84Q2czT2x2WlFkVFNPeUUxekZzd0tiS2VSZ1NpWXZRT2hnRjc1cVVHaW5vbDZvTTRhS2VHNE9pdFM1MEVMaUJBMHFhZlhXYkFfTV94Z0doV3p1aVZBVnFnc25zQ2h6NzNRd3FXQVNobmdJcWp2Qkc5aVpXeG81UXhQLVdsTFVOdVNjRUtnNWR1cVBqdlhudw?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-02T16:54:00+09:00"
+    },
+    {
+      "title": "'中 IPO 대어' 화룬 신에너지, 상장 첫날 주가 장중 198% 급등",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vR1VhMHRvM09iNmFCTWVrV3dlM0duZWgxOXRlX1JsLXZBdzZSc1BhemxFRDZtb05iRFRETGhSNjhsUGdHakZXajNNN2RIVTJPLXU0LVl2aG1saVRFRm9ld9IBYEFVX3lxTE9vR1VhMHRvM09iNmFCTWVrV3dlM0duZWgxOXRlX1JsLXZBdzZSc1BhemxFRDZtb05iRFRETGhSNjhsUGdHakZXajNNN2RIVTJPLXU0LVl2aG1saVRFRm9ldw?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-02T16:52:13+09:00"
+    },
+    {
+      "title": "[증시 인사이트] 급락장에 코스피·코스닥 장중 매도 사이드카 발동",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QcGRZQVhseThwUUpHZ2cyY2NDYUcyYUV0VXBQQ2FzcFRjZy13M0xlMG1WMWlYejdDRXN2RkJlRmYyclBqMmFYaEJiRXZkUlU?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-02T16:46:40+09:00"
+    },
+    {
+      "title": "삼전닉스發, 증시 급락 : 초변동성 속 장세는 예측불허",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXYmF6eTZ0QjZ4Mnk1OGtsS2luWFN5QXE5R0ZuVjhLZ2dUN0JKcXpZeWNQUlluMEFxRU5FcWxXM2QyM2RDQVZEUHJYNElxR2pvYzdwOGdQcGNJdUhiblkxNQ?oc=5",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-02T16:45:00+09:00"
+    },
+    {
+      "title": "[현장+] \"바이오텍 코스닥 상장, 종착점 아닌 시작점…적자 감수하고 기술력 입증 필요\"",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6aUdma2JFNkFqX25UNHN4MVdabFhCTS1WSmxWbW9abjZUT0tJS1V3SElHR0pvTmxWUldzQ2VVNmVuOERwNHA5SUp4TGhPMjY2SjQ2dHdBYTg0SThYUVZoNWNGSmo3UzI5?oc=5",
+      "source": "녹색경제신문",
+      "published": "2026-07-02T16:37:36+09:00"
+    },
+    {
+      "title": "'반도체 추락'에 코스피 7.9% 급락 7,648…코스닥도 6.7%↓(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wY3ZsTE9MUUVoTmRxdGZIUFBSaW0zTkRfTTFieThWcEphNFZxRDJhcDVEdlJHcmJSVWRIbDF5QkVkRUEzbWlFYTlNNDVXRmw5RllYaEJyOHowYWPSAWBBVV95cUxQSWZQdVBTLXJzWjdrd3RhdFI3OXZIY3VPM3cxLVRWMERxV0V5Vm1KbTZIVE95STVSVURqT3RwNjY5RGRfM0NOQXlpbnJEQjBZWFBhTDR0WWhQSkpURjA4Q0w?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-02T16:23:39+09:00"
+    },
+    {
+      "title": "코스피 8000·코스닥 900선 내줬다…AI둔화 우려에 삼전닉스 급락",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85dURkSVZMX0NnYjRMQWdjSVJFaDN2RGE5dVliaUhmVDJYNW5lTWluU1ZlU3pISXJuNk1EYXB0Zl9hR0pqSlItZXItYUNDUUFOZTBwVGdFeUdXQkFjY1h5NlFCNkdfa2RfZ3c?oc=5",
+      "source": "비즈워치",
+      "published": "2026-07-02T16:23:03+09:00"
+    },
+    {
+      "title": "뜨거워진 日증시에…해외 투자자·자국 개미 함께 몰렸다",
+      "link": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005871298",
+      "source": "v.daum.net",
+      "published": "2026-07-02T16:22:01+09:00"
+    },
+    {
+      "title": "유럽증시, 美고용 발표 앞두고 혼조…유로스톡스 0.01%↑",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno=422424",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T16:21:19+09:00"
+    },
+    {
+      "title": "뜨거워진 日증시에…해외 투자자·자국 개미 함께 몰렸다",
+      "link": "https://www.newspim.com/news/view/20260703000031",
+      "source": "연합뉴스",
+      "published": "2026-07-02T16:20:50+09:00"
+    },
+    {
+      "title": "[중국증시-마감] 반도체 투매에 2%대 하락",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423122",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T16:06:27+09:00"
+    },
+    {
+      "title": "8,000 무너진 코스피, 7.9% 급락···코스닥도 6.7% 하락",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NYW5kSWVJRVBlUDN3akdOSHpyT0NDRzNqMWhIVzNfS0N6VHJIZnBNdFNoTTFBNXlScVBteXZFVEUtdmtBbFNTODJvRXA?oc=5",
+      "source": "대구MBC",
+      "published": "2026-07-02T16:06:08+09:00"
+    },
+    {
+      "title": "'반도체株 직격탄' 코스피 7600선 마감…코스닥도 휘청",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tVUtFVmVDVGFGU2Fpem9CY3ROUzFUUER1aDIyYVp4aE94OWhNeDlaYXczZVJWN0ZPVkZFR1RvVHgyRV9xM0pTWmllaGU0cTQ?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-02T16:02:00+09:00"
+    },
+    {
+      "title": "[증시_마감] 코스피, 外人·기관 동반 매도에 7.89% 급락…코스닥 6%대 하락",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423110",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T15:54:00+09:00"
+    },
+    {
+      "title": "'반도체 추락'에 코스피 7.9% 급락 7,648…코스닥도 6.7%↓",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqV05ZcTRNVFlrb3RYbFlQX0FlS3MxdU1PVXVJcTBNWkpVNHF3dHAtR0xtTHpsMWZVcWhTSGg1Smh2cld6bXZNMnVaT1BtSTR0aUdZdWpZSzQxd2fSAWBBVV95cUxOUTgzUUJWYXFkMkJOUmlTb3NxZTNWTWItZlU5WFNqZlZiVVh4YVVnS2hvZmdNLUoyMlVLTmJ2Rnh5TGhWQXgxb2hBTTNndDM5MTRUQkIwbFhmMHlVZm52VUI?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-02T15:38:36+09:00"
+    },
+    {
+      "title": "코스피, 外人 매도 폭탄에 7.89% 급락 마감…코스닥도 6%대 하락",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42RnR3a2ZNTFQtaGp1dDhLX0t1d01WTl9uamlfQnVWQ2VaYUZvT2dDOGdGaGd2UlJXTVd6VEdVV2tTcEx1Y29JNUQtVUREaGtkMmhaaXI0bHV5YVhnckZnWDZ4VEdCcWo0Rlh6SUtGeG7SAXRBVV95cUxPQ3NUVFNEeXJkenAtMTByazQ3UGI1ZGFtaWYyUi12R1VYNFdZaGh1b3BNUHNHUHFnQ3QtODk1MC1hSjczVllwNlh3eDRVbXZFNjJoRjVkTG5fMVVENXg4SEpvdUtBX2FqMk1LWGg0OU14bG1maQ?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T15:37:10+09:00"
+    },
+    {
+      "title": "울주군, 2026년 상반기 적극행정 우수공무원 5명 상장",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUVVOamhDN3dFWTZuek5rWTBreWo4ZFdxWmpQb3YtYTVjOHMxcjNjTE9oTHVsbXZ4UVpNcjhKM2ZMajV0TWFtUnEtUXlEbEhoZWJRdWVOUWtUZEnSAWBBVV95cUxOMmNadTg1V2YzYS1DUHVfMURfRTRtVC05ZUdhbTlDX3N1TEJrdVB4Y2JrcUNBcjl5eEV0UWZhM2tLSG9GMU1ManBCUzFnZ3NETGY5UWR6RzRLWF9sSzhVUVY?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-02T15:34:12+09:00"
+    },
+    {
+      "title": "타임폴리오 \"국민성장펀드, 코스닥 재평가에 도움…레벨업 기대\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hWnB2UHozdnFsbGhhV1lYNTA3akFJaHpKaU8yUi1tclEyRHlfdXFNSVF6blBsVEo3TjZfcWhYWkhBNXFiY2thcWNiTDJ6OW1qcDBrVFUxMlRmQm5GMnBCSDZUczJFbS1sZVdmdV91T0I?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T14:56:46+09:00"
+    },
+    {
+      "title": "삼전닉스도 '메타·애플發 악재' 쇼크…주가 7% 이상 하락",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoVXhsbGlkdENZYlp1S1dGSk9KZzVPbjlGYzVFbXVkMkM2d0NrZmxkVlQxdFlXNTJUSXg1bm9HRDNuNzdVaHRKaEczak1yd3czendtTVFB?oc=5",
+      "source": "지디넷코리아",
+      "published": "2026-07-02T14:51:05+09:00"
+    }
+  ]
 }

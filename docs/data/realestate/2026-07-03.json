@@ -1,36 +1,3026 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T09:00:00+09:00",
-  "sample": true,
-  "topic": { "id": "realestate", "label": "부동산", "emoji": "🏠", "title": "부동산 기사 스크랩" },
-  "weather": null,
+  "generated_at": "2026-07-03T14:33:05.409261+09:00",
+  "topic": {
+    "id": "realestate",
+    "label": "부동산",
+    "emoji": "🏠",
+    "title": "부동산 기사 스크랩"
+  },
+  "weather": {
+    "location": "서울",
+    "days": [
+      {
+        "date": "2026-07-03",
+        "min": 21,
+        "max": 27,
+        "emoji": "🌦️"
+      },
+      {
+        "date": "2026-07-04",
+        "min": 22,
+        "max": 28,
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-07-05",
+        "min": 22,
+        "max": 26,
+        "emoji": "🌧️"
+      }
+    ]
+  },
   "top_issues": [
     {
-      "title": "(샘플) 정부, 수도권 주택 공급 대책 발표",
-      "link": "#",
-      "source": "샘플뉴스A",
-      "published": "2026-07-03T06:00:00+09:00",
-      "latest": "2026-07-03T08:00:00+09:00",
-      "mention_count": 6,
-      "sources": ["샘플뉴스A", "샘플뉴스B"]
+      "title": "[서울] 은마아파트 사업시행계획 인가...재건축 본궤도",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90bngtRzFMeFZQMDU2c2FDSVBMaU1pS2N0ZlFNbjV0Z3lmSnRIMTVTWnVIOWRFaEZDTUtsWjRRQTZLSVQ5Q3hMakhzNV9hemhVOHV0TmM4Q3ZaVGJ6QUE?oc=5",
+      "source": "YTN",
+      "published": "2026-07-02T15:12:00+09:00",
+      "latest": "2026-07-03T14:28:47+09:00",
+      "mention_count": 20,
+      "sources": [
+        "YTN",
+        "연합뉴스",
+        "KBS 뉴스",
+        "주간조선",
+        "MBC 뉴스",
+        "한국방송뉴스",
+        "한겨레",
+        "경향신문",
+        "국민일보",
+        "economicsignal.co.kr",
+        "글로벌뉴스통신GNA",
+        "이뉴스투데이"
+      ]
+    },
+    {
+      "title": "롯데하이마트, 부동산 계약 단계로 고객 접점 넓힌다",
+      "link": "https://www.seoul.co.kr/news/economy/2026/07/03/20260703500081",
+      "source": "이데일리",
+      "published": "2026-07-03T08:22:17+09:00",
+      "latest": "2026-07-03T13:38:40+09:00",
+      "mention_count": 18,
+      "sources": [
+        "이데일리",
+        "연합뉴스",
+        "매일일보",
+        "더팩트",
+        "스트레이트뉴스",
+        "이투데이",
+        "서울경제",
+        "뉴스웍스",
+        "팝콘뉴스",
+        "파이낸셜뉴스",
+        "디지털데일리",
+        "이지경제"
+      ]
+    },
+    {
+      "title": "경기도, 4일 수원서 전세사기 피해자 대상 권리구제 설명회 실시",
+      "link": "https://www.newsis.com/view/NISX20260703_0003694316",
+      "source": "이코노뉴스",
+      "published": "2026-07-03T07:20:00+09:00",
+      "latest": "2026-07-03T13:35:26+09:00",
+      "mention_count": 18,
+      "sources": [
+        "이코노뉴스",
+        "네이트",
+        "월드장애인사랑뉴스",
+        "뉴스1",
+        "뉴시스",
+        "프레시안",
+        "이뉴스투데이",
+        "웹이코노미",
+        "데일리안",
+        "더팩트",
+        "뉴스핌",
+        "아시아뉴스통신"
+      ]
+    },
+    {
+      "title": "압구정2구역 통합심의 첫 통과…최고 66층·2381가구 재건축 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GZHVTb0xESG9iUFFEVXFRaTFjRXRHeWRVUTFMcC0yay1ZbHBwTkF6Y2ZYdm1NUndSNE51QnZXZmkyMDNaaUZTbWJwMlNHQjBPdlBsMFcyWGJfeGZyTzN0WUpYXzdHMFNVWUHSAW9BVV95cUxNemt6VmhmTEFRRlRMeFFhWHRURzlIV0Y4MFRSM2lCYnFqNEdoUWY2VFJmWlVpeTFaQWpTOTFvb2ZaR3JBcnZiUDA1bFczRFBQc1VTT1Mwd2kzdGFLdXlnRzhnbUlyQ1JlMk9NSUZkZTQ?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T10:00:00+09:00",
+      "latest": "2026-07-03T13:39:00+09:00",
+      "mention_count": 15,
+      "sources": [
+        "머니투데이",
+        "뉴스1",
+        "뉴시스",
+        "파이낸셜뉴스",
+        "이데일리",
+        "경향신문",
+        "한국주택경제신문",
+        "에너지경제신문",
+        "한겨레",
+        "v.daum.net",
+        "MBC 뉴스",
+        "기계설비신문"
+      ]
+    },
+    {
+      "title": "[속보] \"李대통령 잘한다\" 54%···부동산 정책 '잘못'은 46%",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MQmRkanQtRkE0VlNJRElLUWtRQ2ZYM1ZIM1FLZU85ejYzSjNxd1FldWg2MTduekR0clM5bDI5SXpYTmVlckh1d0FFdThKeWktcXp6UzJNbTZJM0RRTTBmMkpINDQxNUY5UmxSeQ?oc=5",
+      "source": "한경매거진&북",
+      "published": "2026-07-03T10:24:00+09:00",
+      "latest": "2026-07-03T13:43:00+09:00",
+      "mention_count": 11,
+      "sources": [
+        "한경매거진&북",
+        "v.daum.net",
+        "조선일보",
+        "동아일보",
+        "경향신문",
+        "뉴스1",
+        "조세일보",
+        "네이트",
+        "이코노미스트",
+        "중앙일보",
+        "YTN"
+      ]
     }
   ],
   "sections": [
     {
+      "name": "정책·규제",
+      "articles": [
+        {
+          "title": "\"정부 부동산 정책?\"…2030 부정평가 절반 넘었다 [한국갤럽]",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0VxbVpONTAwNDkwSi1GejlWdXBITnFVWnJ6SF8tRUhWZEVIWGVEemxSZ19TekFBM1g2Sngzb3hNR3lIc2pTS1QwNnV1U1ZVckJYN1U0dFVoRnZGc1BsenJvLWRrZU90TEY5R1lyT2doNURyTFRWQW5kVDFYaXRTdFF5OEl6Z2Y3ODc4Nl9vc0l4bk5wY0E?oc=5",
+          "source": "news.sbs.co.kr",
+          "published": "2026-07-03T11:35:00+09:00",
+          "latest": "2026-07-03T14:24:35+09:00",
+          "mention_count": 9,
+          "sources": [
+            "news.sbs.co.kr",
+            "이세종경제",
+            "글로벌경제신문",
+            "미디어이슈",
+            "화이트페이퍼",
+            "빅터뉴스",
+            "네이트",
+            "디지털데일리",
+            "내외일보"
+          ]
+        },
+        {
+          "title": "부동산 정책 부정 46%…집값 상승 전망 55% (한국갤럽)",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16122167",
+          "source": "TopStarNews",
+          "published": "2026-07-03T10:25:36+09:00",
+          "latest": "2026-07-03T12:01:08+09:00",
+          "mention_count": 7,
+          "sources": [
+            "TopStarNews",
+            "gukjenews.com",
+            "문화일보",
+            "비즈니스포스트",
+            "채널A",
+            "이코노미스트",
+            "뉴스토마토"
+          ]
+        },
+        {
+          "title": "못 잡은 집값에 또 규제…李정부 부동산 정책 시험대",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uTzZxeDBPeDdSdnc2bXJLSFp2Q0QwVWxaM3VyZGlPWkkzR0RNSWU5Z2drOTF1T3ZBVGlQX2tweFdDVG5VMi1ydEoxSFZ2UHBxdFhLLWd2QnM1UdIBVEFVX3lxTFB3T0pJdDY2Y2hfWTJaaUp1SzctNWlmaDExb2xIWW1jbUdvbFh6UUtXTllmYkE0T094RjRKR0JScVNuTk9OaG4xVUlVZS1vNWRFeFhsSg?oc=5",
+          "source": "더팩트",
+          "published": "2026-07-03T00:00:03+09:00",
+          "latest": "2026-07-03T12:41:39+09:00",
+          "mention_count": 5,
+          "sources": [
+            "더팩트",
+            "v.daum.net",
+            "뉴스프리존",
+            "네이트",
+            "KBC광주방송"
+          ]
+        },
+        {
+          "title": "이재명 지지율 54%…민주 41%·국민의힘 26%, 부동산 정책 평가는 26%로 하락 [한국갤럽]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NR3hEMk5pT2Franh0QzBzRThhTm5MQkk1LWt1UXM2YnNQdDZxTFR3VHVJS0xnUmhmUUoxNXJDS1lzZmdqOVhZd1FiWGZSdGJLUU1UWkxpZnY4ajRjVTZmblZRdW9BQQ?oc=5",
+          "source": "이로운넷",
+          "published": "2026-07-03T10:30:53+09:00",
+          "latest": "2026-07-03T13:01:52+09:00",
+          "mention_count": 2,
+          "sources": [
+            "이로운넷",
+            "mediadj.kr"
+          ]
+        },
+        {
+          "title": "與 \"서울시 재건축·재개발에 매몰…'멸실 없는 공급' 필요\"",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHTmJpY0tLWDByWVQ3T0p3LVppOVl2ZUxxNmxWdnNSOXVRNFFveEpLTllyNEFvRWxSVm82dGVBY0JmWkJHOXEyejhkdENISXVuVHE5NTRGTDItdllPX2R5VFpIeFFBZmRXUFBiRk1QQm0?oc=5",
+          "source": "연합인포맥스",
+          "published": "2026-07-02T15:59:36+09:00",
+          "latest": "2026-07-03T11:52:10+09:00",
+          "mention_count": 2,
+          "sources": [
+            "연합인포맥스",
+            "숙박매거진"
+          ]
+        },
+        {
+          "title": "규제효과 본격화되나…화성·동탄 아파트값 상승폭 2주 연속 둔화",
+          "link": "https://v.daum.net/v/20260702222552982",
+          "source": "한겨레",
+          "published": "2026-07-02T19:12:00+09:00",
+          "latest": "2026-07-03T06:00:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "한겨레",
+            "세계일보"
+          ]
+        },
+        {
+          "title": "부동산정책 긍정평가 51%→26% 뚝…“전세 장점 많고 필요” 54% [갤럽]",
+          "link": "https://www.mt.co.kr/estate/2026/07/03/2026070310252153653",
+          "source": "한겨레",
+          "published": "2026-07-03T13:51:00+09:00",
+          "latest": "2026-07-03T13:51:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "한겨레"
+          ]
+        },
+        {
+          "title": "자산과세 정상화 토론회…\"보유세 중심 전환·종부세 실효성 강화\" 제안",
+          "link": "https://m.ekn.kr/view.php?key=20260702023098638",
+          "source": "시민의소리",
+          "published": "2026-07-03T13:32:48+09:00",
+          "latest": "2026-07-03T13:32:48+09:00",
+          "mention_count": 1,
+          "sources": [
+            "시민의소리"
+          ]
+        },
+        {
+          "title": "서울 아파트 공급 감소…신축 부족 속 '더 웨스트 마곡 데시앙' 부각",
+          "link": "https://www.hankyung.com/article/2026070226951",
+          "source": "지피코리아",
+          "published": "2026-07-03T11:45:53+09:00",
+          "latest": "2026-07-03T11:45:53+09:00",
+          "mention_count": 1,
+          "sources": [
+            "지피코리아"
+          ]
+        },
+        {
+          "title": "대기수요 쌓인 '공급 가뭄' 지역 분양 재개…청약 경쟁률 '두 자릿수'",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CbjVtbGhyRUN0UVBHbUFLVGVjN0QyQ1RZS1BJajRxYW9UTlR5b1FwaWZueXZKelVDeE41T0FUUTBCUExFZF81eS1zampObHI2OEZsREhJNWRGVnM0V1djSdIBeEFVX3lxTE5jd20wN3pDdXUzLW9aMVVkbGRjSGJJODlTNldkUmE3cjNYSWh0OUN5OFpsZFB5RXBIM3BXRzhmRUVjdktUTVdQcHIzQTg2QlJXbXVHWVY3SXNBbVoyaFExbl9zSDJtMUMxcF9BUHh5dG9QSHB2TXJrRw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-07-03T11:05:07+09:00",
+          "latest": "2026-07-03T11:05:07+09:00",
+          "mention_count": 1,
+          "sources": [
+            "뉴시스"
+          ]
+        },
+        {
+          "title": "2026 OECD 한국 보고서 \"부동산 세제 개편·유산취득세 도입 권고\"",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=845984",
+          "source": "nbn 시사경제",
+          "published": "2026-07-03T10:43:35+09:00",
+          "latest": "2026-07-03T10:43:35+09:00",
+          "mention_count": 1,
+          "sources": [
+            "nbn 시사경제"
+          ]
+        },
+        {
+          "title": "베트남 부동산시장, 하반기 기상도 ‘흐림’…고금리·과잉공급 등",
+          "link": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005871468",
+          "source": "인사이드비나",
+          "published": "2026-07-03T10:00:00+09:00",
+          "latest": "2026-07-03T10:00:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "인사이드비나"
+          ]
+        },
+        {
+          "title": "이성훈 LH 사장 취임…주택공급 정책, ‘선언’에서 ‘실행’ 단계로",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BcXl1MVUzQkhtRnVOVWJqamhUcDVZN0xDd1doZVJuSURjT0hPUWs2cWh3TWNVdnBlTDZhdHhPc3pJZHNJTVpaOXVlVzBfTGdfQlBydVFJdDQ3RTZoQlM3LUVsN19FbGZf?oc=5",
+          "source": "녹색경제신문",
+          "published": "2026-07-03T09:58:54+09:00",
+          "latest": "2026-07-03T09:58:54+09:00",
+          "mention_count": 1,
+          "sources": [
+            "녹색경제신문"
+          ]
+        },
+        {
+          "title": "“대출부터 청약까지 핵심만 콕 짚는다”… '청년 실전경제교육’ 추진",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WWjd6cTg3Z1F2RWpWdHZ5OTVOZ2tEYlhaRkVMRm03Smdfa25HZlYzZW5qU2ZVT05mR3V4QzhkeTlGbmE4NFVMeXJ5Nlo4UmdYdkEzbFFBYzVvbHF3M3hzb2NYMXRTVFNtVHc?oc=5",
+          "source": "영등포투데이",
+          "published": "2026-07-03T08:40:00+09:00",
+          "latest": "2026-07-03T08:40:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "영등포투데이"
+          ]
+        },
+        {
+          "title": "한 발 빠른 '김용범 페북'…더 강한 부동산 규제 나오나",
+          "link": "https://news.bizwatch.co.kr/article/real_estate/2026/07/01/0034",
+          "source": "비즈워치",
+          "published": "2026-07-03T06:36:03+09:00",
+          "latest": "2026-07-03T06:36:03+09:00",
+          "mention_count": 1,
+          "sources": [
+            "비즈워치"
+          ]
+        }
+      ]
+    },
+    {
       "name": "시장·시세",
       "articles": [
         {
-          "title": "(샘플) 서울 아파트값 3주 연속 상승",
-          "link": "#",
-          "source": "샘플뉴스",
-          "published": "2026-07-03T05:00:00+09:00",
+          "title": "OECD \"韓 부동산, 보유세 비중 낮아…'거래세→보유세' 전환해야\" - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jM21sRTBWRDhrNHFUQTNsaFdRZ09QNGZvLWp3RVVsYUtDS3FQcTJDeU9FWG9GQVE0UjJVT1FnSDNyX1RkZ2Q4b0xQWTFublNDMFQ4MFpLSEdrWnFFZktOajZnUGFsbEdJTFBz0gFwQVVfeXFMTndhMXVQVURKOHdaTzRvUlcwSkRXbFlUM3gwX0Q4YUtkcEVrRGZESXlZNEdGQkNOMTBVRVRTUXdhRnBmMW9leWQzLVBUQjJLSm5obUhWTmNxUlUwZElMQ0Z3RU1EazZhUjBzUnlqTG9zcw?oc=5",
+          "source": "머니투데이",
+          "published": "2026-07-02T15:00:00+09:00",
+          "latest": "2026-07-03T00:30:07+09:00",
+          "mention_count": 8,
+          "sources": [
+            "머니투데이",
+            "연합인포맥스",
+            "에너지경제신문",
+            "v.daum.net",
+            "한겨레",
+            "경향신문",
+            "YTN",
+            "서울신문"
+          ]
+        },
+        {
+          "title": "서울 아파트값 '숨 고르기'… 상승률 소폭 둔화",
+          "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200233.amp.html",
+          "source": "핀포인트뉴스",
+          "published": "2026-07-02T14:49:15+09:00",
+          "latest": "2026-07-02T17:06:40+09:00",
+          "mention_count": 7,
+          "sources": [
+            "핀포인트뉴스",
+            "브릿지경제",
+            "뉴스엔톡",
+            "MBC 뉴스",
+            "v.daum.net",
+            "비즈니스포스트",
+            "센머니"
+          ]
+        },
+        {
+          "title": "기장군, 다자녀 전세자금 이자 지원 확대…2자녀 가구도 신청 가능",
+          "link": "https://m.joongdo.co.kr/view.php?key=20260702010000751",
+          "source": "중도일보",
+          "published": "2026-07-02T15:12:58+09:00",
+          "latest": "2026-07-03T10:24:22+09:00",
+          "mention_count": 6,
+          "sources": [
+            "중도일보",
+            "데일리한국",
+            "이뉴스투데이",
+            "헤럴드경제",
+            "메트로신문",
+            "프레시안"
+          ]
+        },
+        {
+          "title": "KB신용정보, 주택금융공사 '전세보증금반환보증 권리조사' 사업자 선정",
+          "link": "https://www.newspim.com/news/view/20260702000902",
+          "source": "뉴스핌",
+          "published": "2026-07-02T15:58:00+09:00",
+          "latest": "2026-07-03T10:08:00+09:00",
+          "mention_count": 4,
+          "sources": [
+            "뉴스핌",
+            "글로벌이코노믹",
+            "환경일보",
+            "웹이코노미"
+          ]
+        },
+        {
+          "title": "전남 아파트값 0.06% 상승…비수도권 8개 도 중 상승률 1위",
+          "link": "https://www.donga.com/news/amp/all/20260702/134224001/1",
+          "source": "동아일보",
+          "published": "2026-07-02T14:43:00+09:00",
+          "latest": "2026-07-03T07:30:00+09:00",
+          "mention_count": 3,
+          "sources": [
+            "동아일보",
+            "v.daum.net",
+            "뉴스후플러스"
+          ]
+        },
+        {
+          "title": "서울 아파트값 0.27% 뛰어…화성 동탄은 1.46% 폭등, 양극화 심화",
+          "link": "https://www.fnnews21.com/news/articleView.html?idxno=53725",
+          "source": "청년투데이",
+          "published": "2026-07-02T14:48:22+09:00",
+          "latest": "2026-07-02T16:56:42+09:00",
+          "mention_count": 3,
+          "sources": [
+            "청년투데이",
+            "뉴데일리",
+            "에너지경제신문"
+          ]
+        },
+        {
+          "title": "삼성·SK 대규모 투자 여파, 서울·경기 아파트값 ‘상승’ 충청권은 ‘보합’",
+          "link": "https://m.ekn.kr/view.php?key=20260702028158703",
+          "source": "동양일보",
+          "published": "2026-07-02T17:53:10+09:00",
+          "latest": "2026-07-03T14:25:29+09:00",
+          "mention_count": 2,
+          "sources": [
+            "동양일보",
+            "뉴스1"
+          ]
+        },
+        {
+          "title": "전국 아파트 매매 0.09%·전세 0.11% 상승…수도권 상승세 지속",
+          "link": "https://homedubu.com/10809/",
+          "source": "국토매일",
+          "published": "2026-07-02T16:36:00+09:00",
+          "latest": "2026-07-03T14:17:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "국토매일",
+            "데일리안"
+          ]
+        },
+        {
+          "title": "“전세실종에 매수 행렬” 길음 래미안길음센터피스 84㎡ 국평도 20억",
+          "link": "http://www.econonews.co.kr/news/articleView.html?idxno=440608",
+          "source": "헤럴드경제",
+          "published": "2026-07-03T11:35:11+09:00",
+          "latest": "2026-07-03T11:36:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "헤럴드경제",
+            "네이트"
+          ]
+        },
+        {
+          "title": "동작구, 전세사기 예방한다… ‘청년 맞춤형 부동산 교육’ 실시",
+          "link": "https://www.newsfire.co.kr/news/articleView.html?idxno=1410058",
+          "source": "뉴스파이어",
+          "published": "2026-07-03T10:22:44+09:00",
+          "latest": "2026-07-03T11:30:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "뉴스파이어",
+            "핀포인트뉴스"
+          ]
+        },
+        {
+          "title": "서울 집값 상승세 둔화…중저가 아파트는 더 올랐다 [퇴근길 30초 경제]",
+          "link": "https://news.nate.com/view/20260702n32498",
+          "source": "네이트",
+          "published": "2026-07-02T17:53:00+09:00",
+          "latest": "2026-07-02T18:00:49+09:00",
+          "mention_count": 2,
+          "sources": [
+            "네이트",
+            "한국경제"
+          ]
+        },
+        {
+          "title": "재건축·역세권 매수세 계속…서울 아파트값 73주 연속↑",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036914",
+          "source": "신아일보",
+          "published": "2026-07-02T16:12:17+09:00",
+          "latest": "2026-07-02T16:49:42+09:00",
+          "mention_count": 2,
+          "sources": [
+            "신아일보",
+            "직썰"
+          ]
+        },
+        {
+          "title": "동탄 옆 동네 집값도 들썩…서울 아파트값 강세 지속",
+          "link": "https://news.skbroadband.com/news/articleView.html?idxno=231055",
+          "source": "SBS Biz",
+          "published": "2026-07-02T15:23:00+09:00",
+          "latest": "2026-07-02T15:42:16+09:00",
+          "mention_count": 2,
+          "sources": [
+            "SBS Biz",
+            "v.daum.net"
+          ]
+        },
+        {
+          "title": "PF 익스포저 169.8조로 감소…연체율 4.65%로 상승",
+          "link": "https://v.daum.net/v/20260703000224222",
+          "source": "KB Think",
+          "published": "2026-07-03T14:29:14+09:00",
+          "latest": "2026-07-03T14:29:14+09:00",
           "mention_count": 1,
-          "sources": ["샘플뉴스"]
+          "sources": [
+            "KB Think"
+          ]
+        },
+        {
+          "title": "전세·월세·매매 '트리플 강세' 집값 향방 가를 변수는 세제 개편",
+          "link": "https://www.pressian.com/pages/articles/2026070308524097925",
+          "source": "프라임경제",
+          "published": "2026-07-03T14:20:08+09:00",
+          "latest": "2026-07-03T14:20:08+09:00",
+          "mention_count": 1,
+          "sources": [
+            "프라임경제"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "분양·개발",
+      "articles": [
+        {
+          "title": "\"소규모 단지도 재건축 될까?\"…서울시, 사업성 무료 분석 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00eDk5dTYyNHBKNUlDV3dpb2FMeE93LXVjbk9mUjhNTWtHX05ZTnhIUEVKM2lDOGhpXzRmdWYzOTlIZGFQYWV1RFNXU2lTRU1meFBiN1pHUFpMVngtS2VQMDllSWhPNjlXVXfSAW9BVV95cUxOOGRycUpkWlFzM0k1dGRRMUZPOC14M0tEOVI4OU9lczJ5NmQ1bWhxdWs5dy1EZ293SVhSM2MwbXNPb0xlcndEcVN3U1QxUm05a3VEVVV2Z1NEWWM1VWc1bXRyQjR4cWlfeS1iOUhSVzA?oc=5",
+          "source": "머니투데이",
+          "published": "2026-07-03T11:15:00+09:00",
+          "latest": "2026-07-03T13:40:45+09:00",
+          "mention_count": 9,
+          "sources": [
+            "머니투데이",
+            "뉴스핌",
+            "뉴스1",
+            "파이낸셜뉴스",
+            "데일리안",
+            "서울뉴스통신",
+            "기계설비신문",
+            "TBS 서울",
+            "의정신문 서울시티"
+          ]
+        },
+        {
+          "title": "펜타힐즈W 1단지 청약 흥행 성공",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtVmc4TzFDQ1g4NVBIY3ZLLVl5bk1yU1lsTThrUzNycXpISzBNVmFFanZfcEhIYUJ4eUtrTmkzS0dTMmVaUF9icVJ6dU5vNXhpak5hSjNZN1dJdGYzSzhV?oc=5",
+          "source": "경상매일신문",
+          "published": "2026-07-02T14:45:52+09:00",
+          "latest": "2026-07-03T13:27:03+09:00",
+          "mention_count": 8,
+          "sources": [
+            "경상매일신문",
+            "경북신문",
+            "경북일보",
+            "대구일보",
+            "뉴스1",
+            "대경일보",
+            "대구신문",
+            "오늘경제"
+          ]
+        },
+        {
+          "title": "대우건설, 美 부동산 본격 진출… 뉴저지 주거개발",
+          "link": "https://www.hani.co.kr/arti/economy/property/1266389.html",
+          "source": "아주경제",
+          "published": "2026-07-03T09:24:03+09:00",
+          "latest": "2026-07-03T13:34:01+09:00",
+          "mention_count": 6,
+          "sources": [
+            "아주경제",
+            "헤럴드경제",
+            "비즈니스플러스",
+            "매일경제",
+            "머니투데이",
+            "ebn.co.kr"
+          ]
+        },
+        {
+          "title": "강동구 삼익맨숀 '재건축 7부 능선' 넘었다…39층-990가구 재건축 임박",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qbFhPTlVQVm5laGlteGlEaDZOTk1yb3hsaGwyYm1SUUttbXZ1TGFyWks5eHd1THgzLTRISVZPLW5qR1Nqa3VKRmpKR3JpUGoyQVVzZ2kxUkMwSU9V?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-07-03T10:00:00+09:00",
+          "latest": "2026-07-03T13:34:25+09:00",
+          "mention_count": 5,
+          "sources": [
+            "뉴스핌",
+            "이데일리",
+            "머니투데이",
+            "기계설비신문",
+            "디벨로퍼뉴스"
+          ]
+        },
+        {
+          "title": "서초 신반포16차 재건축 통합심의 통과…468가구 탈바꿈",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pamJrd3ZWbUp3QlVhRzFxYnBKQUdmTXZvMFl2U3ZOQURmbURLMFVWaFVDMUtJc2tJaGdNOWZJelRkTlY2WHYzMUZRd05iNFBVdnc?oc=5",
+          "source": "뉴스1",
+          "published": "2026-07-03T10:00:00+09:00",
+          "latest": "2026-07-03T11:29:19+09:00",
+          "mention_count": 5,
+          "sources": [
+            "뉴스1",
+            "뉴스핌",
+            "이투데이",
+            "생생비즈플러스",
+            "기계설비신문"
+          ]
+        },
+        {
+          "title": "DL이앤씨 ‘e편한세상 분당 퍼스트빌리지’ 분양…20일부터 청약 - 조선비즈",
+          "link": "https://www.smarttoday.co.kr/ko-kr/articles/109185",
+          "source": "Chosunbiz",
+          "published": "2026-07-03T08:42:00+09:00",
+          "latest": "2026-07-03T10:33:36+09:00",
+          "mention_count": 5,
+          "sources": [
+            "Chosunbiz",
+            "Korea IT Times",
+            "아시아투데이",
+            "연합인포맥스",
+            "뉴스웍스"
+          ]
+        },
+        {
+          "title": "레메디 공모 청약 경쟁률, 1707대 1 기록",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5COUJWRTl5dkJtcnZodEV4U0ZUYnA3OERFb0NteUF4aHNqNGs0dG9FQTdPY2NFUHlqdklSbnRuODVfMFNqeExUUURfbzJIaFlrUm5fb0RuOEVWNUIt?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-07-02T16:36:00+09:00",
+          "latest": "2026-07-02T17:46:01+09:00",
+          "mention_count": 4,
+          "sources": [
+            "뉴스핌",
+            "약업신문",
+            "컨슈머타임스",
+            "뉴스톱"
+          ]
+        },
+        {
+          "title": "압구정 현대·대치 은마·잠실 주공…속도 내는 강남 재건축",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54WnZIVTk2X1dCaFptVEo2Mmo5QzhsSTBCTFRkcU5UdWVteU85QXRLVmxOVHpjdjdyMW1QRHIxT1JhNzZ0em9tblZ5N2g4My1RQUlzUHpR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-07-03T11:35:54+09:00",
+          "latest": "2026-07-03T14:22:20+09:00",
+          "mention_count": 3,
+          "sources": [
+            "헤럴드경제",
+            "v.daum.net",
+            "핀포인트뉴스"
+          ]
+        },
+        {
+          "title": "중랑구, 공동주택 재건축 신속추진 전담조직 신설",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxcmhYaGtPM040Qk1fajFhYVVMSGl4b3JLVlR6M0wtVWdXQ21wUjZQNl85c2I4ME1sUWMxTmljb1VmUUtZSGEzLUstU3Y5QldvdVBzMzVB?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-07-03T08:00:38+09:00",
+          "latest": "2026-07-03T11:08:38+09:00",
+          "mention_count": 3,
+          "sources": [
+            "헤럴드경제",
+            "팝업뉴스",
+            "뉴시스"
+          ]
+        },
+        {
+          "title": "[오늘의 청약 일정] ‘트리븐김해’ 견본주택 개관 등",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40dDVEUEJWZ2J5LVZxTm1PYWhoN1Y4STBleE4xWlVDcDhPNnR6aS1FNVA4UFR6VW1BZERzb0VFa2lyZUg5bmZJZ0NvaGoway1YU0p1a0pGc0xHSnB1?oc=5",
+          "source": "supple.kr",
+          "published": "2026-07-03T06:00:00+09:00",
+          "latest": "2026-07-03T10:59:55+09:00",
+          "mention_count": 3,
+          "sources": [
+            "supple.kr",
+            "네이트",
+            "김해뉴스"
+          ]
+        },
+        {
+          "title": "레메디 일반청약 흥행…증거금 5.3兆 유입 [시그널]",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000809",
+          "source": "서울경제",
+          "published": "2026-07-02T16:52:05+09:00",
+          "latest": "2026-07-02T23:12:54+09:00",
+          "mention_count": 3,
+          "sources": [
+            "서울경제",
+            "아이뉴스24",
+            "매일경제"
+          ]
+        },
+        {
+          "title": "“5850가구 중 일반분양 300가구?”…은마 재건축, 분담금이 더 관심인 이유",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQy1fbE9oQ0NvY2FxMVlKZ1ZQcEVBRllmc3R4YzJSaFFlV3MxYzRVamtfRVdmRDhWQndmbU15czhfWUVJVW1QaV9NcnZUeFpsSTZFV1NQY2ItMEE?oc=5",
+          "source": "에너지경제신문",
+          "published": "2026-07-03T10:37:15+09:00",
+          "latest": "2026-07-03T12:34:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "에너지경제신문",
+            "네이트"
+          ]
+        },
+        {
+          "title": "[인터뷰] '재선 성공' 신상진 시장 \"분당 재건축 2조원 지원\" 속도 낸다",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zSFBrak1URzdEeWswMXpMU2x3VjNhbzdtRXdRdmg5Q05YNHRrMS0xSVBxUmh4RUt6WDRxekYxUGdGd3c1c2wzbUs4LVlqQTg?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-07-03T08:32:16+09:00",
+          "latest": "2026-07-03T11:10:06+09:00",
+          "mention_count": 2,
+          "sources": [
+            "v.daum.net",
+            "데일리연합"
+          ]
+        },
+        {
+          "title": "10대 건설사 청약 경쟁률, 非10대 건설사보다 4.5배 높았다",
+          "link": "https://www.hankyung.com/article/202607033536i",
+          "source": "한국경제",
+          "published": "2026-07-03T09:35:10+09:00",
+          "latest": "2026-07-03T09:36:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "한국경제",
+            "스마트투데이"
+          ]
+        },
+        {
+          "title": "명일 삼익맨숀, 통합심의 통과로 재건축 속도↑…990세대 조준",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tQ3Zfb3ZWYmx2MWU2VHVhbERyWVA0Xzk5Tm5WZ3g2M2lmd3dsaXN2NDZKN2MwX25DNTB3azltejhEeXljUVRocHUxdGFScVNUZkpsVzAyU09LckE5NWJvdV9yZ0NtYVNX?oc=5",
+          "source": "하우징워치",
+          "published": "2026-07-03T14:12:05+09:00",
+          "latest": "2026-07-03T14:12:05+09:00",
+          "mention_count": 1,
+          "sources": [
+            "하우징워치"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "기타",
+      "articles": [
+        {
+          "title": "대우건설 20년 만에 미국 부동산 시장 재진출",
+          "link": "https://www.fnnews.com/news/202607030912372757",
+          "source": "뉴스클레임",
+          "published": "2026-07-03T09:26:52+09:00",
+          "latest": "2026-07-03T14:20:00+09:00",
+          "mention_count": 7,
+          "sources": [
+            "뉴스클레임",
+            "뉴스락",
+            "이투데이",
+            "동아일보",
+            "소셜밸류",
+            "인더스트리뉴스",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "한국투자증권, 글로벌 부동산 투자기관과 CEO 네트워크 행사 개최",
+          "link": "https://www.metroseoul.co.kr/article/20260703500074",
+          "source": "메트로신문",
+          "published": "2026-07-03T11:14:59+09:00",
+          "latest": "2026-07-03T13:54:11+09:00",
+          "mention_count": 6,
+          "sources": [
+            "메트로신문",
+            "뉴스핌",
+            "현대경제신문",
+            "PRESS9",
+            "열린뉴스통신",
+            "파이낸셜포스트"
+          ]
+        },
+        {
+          "title": "논란의 주간 아파트가격 동향 발표 …폐지 vs 개선?",
+          "link": "https://news.mtn.co.kr/news-detail/2026070216402568427",
+          "source": "MTN 머니투데이방송",
+          "published": "2026-07-02T17:42:13+09:00",
+          "latest": "2026-07-03T13:38:02+09:00",
+          "mention_count": 2,
+          "sources": [
+            "MTN 머니투데이방송",
+            "한국건설신문"
+          ]
+        },
+        {
+          "title": "갤럽 조사에서도 대통령 지지율 반등... 부동산 민심은 악화",
+          "link": "https://www.khan.co.kr/article/202607031036001",
+          "source": "v.daum.net",
+          "published": "2026-07-03T12:03:14+09:00",
+          "latest": "2026-07-03T12:50:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "v.daum.net",
+            "네이버 프리미엄콘텐츠"
+          ]
+        },
+        {
+          "title": "[단독] 민선9기 서울시 주택부동산수석에 김세신 도시계획상임기획과장 내정",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84Wk1LeFFIempWOWZJUUhOaEp1Z2VqTGJjSDBPV1lYV05keU5BY2s5SVJhYnFMb1RCaFc3UE1aYlZ3WlJzc2ZDSnlEUHpOYTlLUnNUaDBCZU8yVXVTWGpHbi1MeHNwaWRMeGc?oc=5",
+          "source": "네이트",
+          "published": "2026-07-03T10:28:00+09:00",
+          "latest": "2026-07-03T10:29:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "네이트",
+            "매일경제TV"
+          ]
+        },
+        {
+          "title": "LH 신임 사장에 이성훈 靑 국토교통비서관…10개월 공백 마침표",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfMDd0Uk1mR0FmZEs5NnQ0MngwUHJHeWg1TzlKSm9ZelpNV3I2bjNRM25fRS1Jb2JlUlluc3dHQmNyaFE5ZVBfaEZ6TnU2U2sxV1dyYVNsV3I4d9IBVEFVX3lxTE5ObXFHeGlfUUtlcy1RbENVZUNUSEpieVdBX3ZxXzVIbWQ2U09TWHpWOWp6RmhyVnE0UFlSRmgtOFZ2eExSNUlpNDZYYUN5SVp1R2cxTg?oc=5",
+          "source": "한국경제",
+          "published": "2026-07-02T23:23:05+09:00",
+          "latest": "2026-07-03T08:32:45+09:00",
+          "mention_count": 2,
+          "sources": [
+            "한국경제",
+            "핀포인트뉴스"
+          ]
+        },
+        {
+          "title": "서강석 구청장, 1호 결재로 잠실5단지 사업시행인가",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DVm90Rm1pZ19XRC1qN05nV2xtSE93X3VlaWVNYklhY2tCWGY1WjBoNWk4aHlPaGxFX3pUN2NKQUdfckdEQ2pGaEJ3TmQyY1JDTC1VZV9jYVVYQjJqSnd4c3JVNENHSXFB?oc=5",
+          "source": "한국주택경제신문",
+          "published": "2026-07-03T14:20:17+09:00",
+          "latest": "2026-07-03T14:20:17+09:00",
+          "mention_count": 1,
+          "sources": [
+            "한국주택경제신문"
+          ]
+        },
+        {
+          "title": "잠실5·은마 사업인가, 20여년 표류 끝 본궤도",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZmlERHExYUVZRVZaM0FoVzRpNnF3WDhESzZCMWpfVU1oTGROMUVrTGM1R2hGX2M1SmNKT3gtazU5MFBCUlV4TnREclNHZm43MV9hNE9rWG9wLVE0bmhWaVpJTEk5cm94RC02YlFXMA?oc=5",
+          "source": "뉴스톱",
+          "published": "2026-07-03T14:02:31+09:00",
+          "latest": "2026-07-03T14:02:31+09:00",
+          "mention_count": 1,
+          "sources": [
+            "뉴스톱"
+          ]
+        },
+        {
+          "title": "[중국 특징주] 경영난 부동산 대기업 '완커', 새 총재로 지방 금융관료 임명",
+          "link": "https://www.newspim.com/news/view/20260703000507",
+          "source": "뉴스핌",
+          "published": "2026-07-03T13:23:00+09:00",
+          "latest": "2026-07-03T13:23:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "뉴스핌"
+          ]
+        },
+        {
+          "title": "국내 부동산 선별투자 시대…한투증권, 글로벌 운용사와 협력",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=206702",
+          "source": "SR타임스",
+          "published": "2026-07-03T13:19:00+09:00",
+          "latest": "2026-07-03T13:19:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "SR타임스"
+          ]
+        },
+        {
+          "title": "베트남 부동산社 빈홈, ‘하노이-꽝닌 고속철’ 투자…빈스피드와 맞손",
+          "link": "https://ichannela.com/news/detail/000000537745.do",
+          "source": "인사이드비나",
+          "published": "2026-07-03T13:00:00+09:00",
+          "latest": "2026-07-03T13:00:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "인사이드비나"
+          ]
+        },
+        {
+          "title": "미래에셋, 스페이스X '0주 배정' 보상 고심…고객 달래기 통할까",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vQmxNN1JyUjRLeUlJRlR4YWVMcE5qcjdTbmxfa0NFZ1VoUXJ2cWYyV2lRNV9XelZ4RlZEalZKRGpla3pFUk1WcnQwZWU0a2x0Sm41SjNtMWY4UdIBVEFVX3lxTE9rczZvMWpzZ3hJelhPZHRrU08xRDV5NDh0THQzSFZxZW1GSDZldG1zeG5FWWVfQ050TmN1UlB0c1RvTElBR3ZRMjZlNEhvbHFxa2VpZQ?oc=5",
+          "source": "더팩트",
+          "published": "2026-07-03T11:57:20+09:00",
+          "latest": "2026-07-03T11:57:20+09:00",
+          "mention_count": 1,
+          "sources": [
+            "더팩트"
+          ]
+        },
+        {
+          "title": "[CEO 직썰] 김성환 한국투자증권 사장 “ 부동산 PF·대체투자 분야 경쟁력,지속 강화할 것”",
+          "link": "https://www.sisain.co.kr/news/articleView.html?idxno=58091",
+          "source": "직썰",
+          "published": "2026-07-03T11:39:55+09:00",
+          "latest": "2026-07-03T11:39:55+09:00",
+          "mention_count": 1,
+          "sources": [
+            "직썰"
+          ]
+        },
+        {
+          "title": "[부동산 레이더] DL이앤씨·호반호텔앤리조트, ‘공간 특화’ 매장으로 차별화된 경험 선사",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021540459640768",
+          "source": "더밸류뉴스",
+          "published": "2026-07-03T11:24:33+09:00",
+          "latest": "2026-07-03T11:24:33+09:00",
+          "mention_count": 1,
+          "sources": [
+            "더밸류뉴스"
+          ]
+        },
+        {
+          "title": "[머니테크] 반도체發 훈풍, 수도권 이어 지방 부동산 시장도 분다",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606301729419720395",
+          "source": "대한경제",
+          "published": "2026-07-03T10:34:28+09:00",
+          "latest": "2026-07-03T10:34:28+09:00",
+          "mention_count": 1,
+          "sources": [
+            "대한경제"
+          ]
         }
       ]
     }
   ],
-  "total_articles": 7,
-  "total_issues": 2,
-  "raw": []
+  "total_articles": 347,
+  "total_issues": 140,
+  "raw": [
+    {
+      "title": "PF 익스포저 169.8조로 감소…연체율 4.65%로 상승",
+      "link": "https://v.daum.net/v/20260703000224222",
+      "source": "KB Think",
+      "published": "2026-07-03T14:29:14+09:00"
+    },
+    {
+      "title": "은마아파트 재건축 본궤도···오세훈표 공급 속도전 막 올랐다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4b0U4U2JrUFB6ZU1OT2pMY3M1OWRvcF9XZl9tT0VmYUFWTUswTVItMk03dWZXQTlScXRzU25JSjlyOXlXMVVMREV0YTc5UU4ydEcxRmhUOWI0dDEzbFAtYnJHWXVWWFJO?oc=5",
+      "source": "뉴스웨이",
+      "published": "2026-07-03T14:28:47+09:00"
+    },
+    {
+      "title": "경기 아파트값 상승률 전국 1위…서울은 0.21%↑",
+      "link": "https://v.daum.net/v/20260702154216540",
+      "source": "뉴스1",
+      "published": "2026-07-03T14:25:29+09:00"
+    },
+    {
+      "title": "이재명 정부 부동산 정책 ‘부정 평가 46%’…국민 55% “앞으로 1년간 집값 더 오를 것”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvRjNHQzlGckNqaXVZMGhkOXZXX3hsdUlDTkQwSDNncjJoYmwtaGRTMXRDU3Q5R0ZCU2ZTUUR3ZExfZDd0SzlYeTh5MjU5SHZBYXY5bkJVeUFpMkJzX013LVFLZ29CYlExUVVjYlRkdw?oc=5",
+      "source": "내외일보",
+      "published": "2026-07-03T14:24:35+09:00"
+    },
+    {
+      "title": "은마·잠실주공5단지 사업시행인가…강남 재건축 ‘속도전’ 본격화",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MTFo2eWpjVUUySWNOaFNvaDJLWjFocjBBbnlyUWN0YzZ4OEhUeWpQV2NKVURYa1Jhb08xWDBZZlZUaW5Udnh3ZjMzUnhwN3RrT0tWUndhS2hlVTBCX3dkMlk5dldIQTREUzFXZ0lCQ0IzeVnSAXdBVV95cUxOdXYzYV9kS00wOVZ5cUtUSVhpeThESENqcDRtTXdYZ3VtWHQ5UERJbThYckU0dFhadFF5YlFMaEIydDUwTkpKY2lVdllrYWlsT3g5XzlUZFFwMVRFNG5NUkxjeG5xR0t5cVFtRFlTT3FSR3FPZHNvSQ?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-07-03T14:22:20+09:00"
+    },
+    {
+      "title": "서강석 구청장, 1호 결재로 잠실5단지 사업시행인가",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DVm90Rm1pZ19XRC1qN05nV2xtSE93X3VlaWVNYklhY2tCWGY1WjBoNWk4aHlPaGxFX3pUN2NKQUdfckdEQ2pGaEJ3TmQyY1JDTC1VZV9jYVVYQjJqSnd4c3JVNENHSXFB?oc=5",
+      "source": "한국주택경제신문",
+      "published": "2026-07-03T14:20:17+09:00"
+    },
+    {
+      "title": "전세·월세·매매 '트리플 강세' 집값 향방 가를 변수는 세제 개편",
+      "link": "https://www.pressian.com/pages/articles/2026070308524097925",
+      "source": "프라임경제",
+      "published": "2026-07-03T14:20:08+09:00"
+    },
+    {
+      "title": "대우건설, 뉴저지 주택개발사업 투자…20년 만에 미국 재진출",
+      "link": "https://www.yna.co.kr/view/AKR20260703023200030",
+      "source": "한겨레",
+      "published": "2026-07-03T14:20:00+09:00"
+    },
+    {
+      "title": "대우건설, 美 뉴저지 주거개발 투자 확정…20년 만에 북미 부동산 시장 재진출",
+      "link": "https://v.daum.net/v/20260702183351033",
+      "source": "인더스트리뉴스",
+      "published": "2026-07-03T14:18:51+09:00"
+    },
+    {
+      "title": "[주간부동산시황] 뜨거운 수도권…전국 아파트값 상승폭 확대",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=744196",
+      "source": "데일리안",
+      "published": "2026-07-03T14:17:00+09:00"
+    },
+    {
+      "title": "대우건설, 미국 부동산 개발 뉴욕서 다시 시작한다…20년만에 미국 재진출",
+      "link": "https://www.bigtanews.co.kr/article/view/big202607030009",
+      "source": "소셜밸류",
+      "published": "2026-07-03T14:15:23+09:00"
+    },
+    {
+      "title": "명일 삼익맨숀, 통합심의 통과로 재건축 속도↑…990세대 조준",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tQ3Zfb3ZWYmx2MWU2VHVhbERyWVA0Xzk5Tm5WZ3g2M2lmd3dsaXN2NDZKN2MwX25DNTB3azltejhEeXljUVRocHUxdGFScVNUZkpsVzAyU09LckE5NWJvdV9yZ0NtYVNX?oc=5",
+      "source": "하우징워치",
+      "published": "2026-07-03T14:12:05+09:00"
+    },
+    {
+      "title": "국민 55% “집값 오를 것”…李정부 부동산 정책 부정평가 긍정의 두 배 [한국갤럽]",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=138983",
+      "source": "디지털데일리",
+      "published": "2026-07-03T14:07:43+09:00"
+    },
+    {
+      "title": "잠실5·은마 사업인가, 20여년 표류 끝 본궤도",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZmlERHExYUVZRVZaM0FoVzRpNnF3WDhESzZCMWpfVU1oTGROMUVrTGM1R2hGX2M1SmNKT3gtazU5MFBCUlV4TnREclNHZm43MV9hNE9rWG9wLVE0bmhWaVpJTEk5cm94RC02YlFXMA?oc=5",
+      "source": "뉴스톱",
+      "published": "2026-07-03T14:02:31+09:00"
+    },
+    {
+      "title": "2030 세대 절반 이상 \"정부 부동산 정책 잘못\"…30대 긍정 평가는 15% 불과 [한국갤럽]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LYjFZb2JVbmhHeFhFdFVVMHRFcHF0TFJVN041c1QzTW80RnFCc0c1dVBNQjFHR20tNVJwQ0FsRG1MM2M0Y0lMekZjRzFycjJiblgw?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T13:57:00+09:00"
+    },
+    {
+      "title": "한국투자증권, 글로벌 부동산 운용사 CEO 초청…투자 협력 확대",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=265017",
+      "source": "파이낸셜포스트",
+      "published": "2026-07-03T13:54:11+09:00"
+    },
+    {
+      "title": "부동산정책 긍정평가 51%→26% 뚝…“전세 장점 많고 필요” 54% [갤럽]",
+      "link": "https://www.mt.co.kr/estate/2026/07/03/2026070310252153653",
+      "source": "한겨레",
+      "published": "2026-07-03T13:51:00+09:00"
+    },
+    {
+      "title": "2030 민심 떠난 이유 '부동산'",
+      "link": "https://v.daum.net/v/20260702193637538",
+      "source": "빅터뉴스",
+      "published": "2026-07-03T13:49:08+09:00"
+    },
+    {
+      "title": "정부 부동산 정책, 청년층서 싸늘한 평가…30대 부정 응답 56%",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HZm1jNjVlNzVJWFdGcFBWRVRXZDZMb1VyRnlDNExPV2tUOGhBRHpkZHNPUmlqZVh5Y1N3OTRZWGkyYmdaVnZyQi1BaFdBM0xRNzBoeG5YanFDVUs1V3FrQVotVmdQN0RHanhfOEJKUdIBc0FVX3lxTFB4YmZXZi1qeFNrVGtkQnNCZ3Y1bXM2QWFYZHRpMHM0aHhDcFFVVnM4Sm41RGk3a2dHVU16ZFAwRUNjQWpDbG9DTlplZkNsY3RPNkh3ODVoTm0wQ2lRMTQ2R0JRTENiVmEwSDh3Y1hlLW1oM0U?oc=5",
+      "source": "화이트페이퍼",
+      "published": "2026-07-03T13:45:00+09:00"
+    },
+    {
+      "title": "이 대통령 지지율 54%...\"부동산 정책 잘못\" 46% [한국갤럽]",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423203",
+      "source": "YTN",
+      "published": "2026-07-03T13:43:00+09:00"
+    },
+    {
+      "title": "서울시, 소규모 재건축 사업성분석 지원사업 실시",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42emJSMFpzNU5zRnYtWllSUXlqRG9BYUJtU2VEY2l5bFdiV3d1RF8wYmpYVXBUS3RqN2VsWHRSdFdOTVZFMDBGN2k0U3haT0g1ZDF3ZHlpaTV3S0p3Uzd5MTZCS1paZTRIVFhSeE1QQQ?oc=5",
+      "source": "의정신문 서울시티",
+      "published": "2026-07-03T13:40:45+09:00"
+    },
+    {
+      "title": "압구정2구역, 통합심의 통과… 한강 품은 2381가구 대단지로 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGdoTmpUU3Z6NDdkT1BrZnVCWGNfTjBYUUhUd1JFT1BuYXRlVERkRG5RUkRqMEdUaTFzMzR1aFNsYmE1TV9MUmU4R3ZrZVQ3QUZ4Qk5ab1ptS2oyb0JaZ2tzTjZJM0tBbHVjc3Nta184aU00TmFjUnBzTEJ2ck10TUlJOE9aQmlmeXFISHIycktNTHpxNGdRatIBrAFBVV95cUxNbFk0dG5fREZWMkswTk41djhDTTRUeHQwRGtZZ0ZWMDk1bU0xWlIyLTdTYzd5QUoxRGpGZDFVQ05Hd0lWM0N5ZHVma3JyT2o5OHdjeXd6aG91N2ZnOHNNSUV1MXNRZ0FvT0lVdmE5UmJZMFB2UUlsYkkteEFUMnlZRWdIbjVJa3FMcEd2YzFtLWt2Qm03bENkS2FmOTdqakd0cjZHSllHek9fdG5I?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T13:39:00+09:00"
+    },
+    {
+      "title": "롯데하이마트, 프롭티어와 맞손…부동산 거래부터 가전 구매까지",
+      "link": "https://www.ddaily.co.kr/page/view/2026070314073382919",
+      "source": "전자신문",
+      "published": "2026-07-03T13:38:40+09:00"
+    },
+    {
+      "title": "한국부동산원, 전국주택가격동향조사 6월 5주 주간 아파트가격",
+      "link": "http://www.conslove.co.kr/news/articleView.html?idxno=88882",
+      "source": "한국건설신문",
+      "published": "2026-07-03T13:38:02+09:00"
+    },
+    {
+      "title": "\"집값 못 잡는다\" 46%…국민 절반 \"앞으로 더 오른다\" 예측 [갤럽]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRQmxTZ2FxME5GalpmenpzYzNlVk9aWk5zWTJha1Z3T2MxYm1aVUYtQzJLbFlMY3FOR3RLVnFLMnJjY1VZYklxcHJhaWZDZ1VJekZKNWV2dW44czA?oc=5",
+      "source": "경기일보",
+      "published": "2026-07-03T13:38:00+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자 권리구제 법률교육 개최",
+      "link": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1039335",
+      "source": "내외뉴스통신",
+      "published": "2026-07-03T13:35:26+09:00"
+    },
+    {
+      "title": "명일 삼익맨숀 재건축, 최고 39층·990세대 탈바꿈…통합심의 통과",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtb3BQRHNyUjRBN2JjVU1OM1J4LTRub2prM0ZLRkxXSDVwV3dod2lBak0zM292N0xiWHdLRmdmSzJwMWdIV0YwbDBvTTB5SlpNWlVJYjBLV1lfS0tjTnEzWEV0RTQ5RnU3?oc=5",
+      "source": "디벨로퍼뉴스",
+      "published": "2026-07-03T13:34:25+09:00"
+    },
+    {
+      "title": "대우건설, 뉴저지 주거개발사업 투자…미국 부동산 개발시장 재진출",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1387884",
+      "source": "ebn.co.kr",
+      "published": "2026-07-03T13:34:01+09:00"
+    },
+    {
+      "title": "은마아파트 찾아 사업시행계획인가서 직접 전달한 김현기 강남구청장",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54Y3BCbEVEdkNfTi1YcGNzQkU2N1JsUl9RLXAxT2xmRWtJckhhbHRSWmpNaDBZSjVPaWxZRDVqYVFhX0Q0d0EwYjZhdE1GdklOQ0RzR2lBV3pncWNfc2tOZ1ZzSy1ETFE?oc=5",
+      "source": "강남내일신문",
+      "published": "2026-07-03T13:33:12+09:00"
+    },
+    {
+      "title": "자산과세 정상화 토론회…\"보유세 중심 전환·종부세 실효성 강화\" 제안",
+      "link": "https://m.ekn.kr/view.php?key=20260702023098638",
+      "source": "시민의소리",
+      "published": "2026-07-03T13:32:48+09:00"
+    },
+    {
+      "title": "강남 1세대 아이콘 ‘은마아파트’, 재건축 7개월 만에 사업시행 인가",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sMXpDUW5vZG1KTDRPY1BkNzZVaXE4dzJxRlFYWGl6YndLU0lvTXhIeUo0bXY3a1RHY04teThQMXRmVjY1SU9YV2l4YnJYYVNETW5YRldEakRlNW1EaUE?oc=5",
+      "source": "환경과조경",
+      "published": "2026-07-03T13:29:00+09:00"
+    },
+    {
+      "title": "대구·경북 분양시장 펜타힐즈W 청약 4,202건 기록",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lTDhyc0tOeTdCWWtmVEludFVzeWRPY2tRcUhzN25haTEzdHEzMEM1OVM5dkhCNjBndEhZZUxBdVdtTkF3akJYa3hrNHU3V1pZa05TTlV2TVktMnA4MnpwS1FqMDBrSTJCX2lYSjBTcmVFTlk?oc=5",
+      "source": "오늘경제",
+      "published": "2026-07-03T13:27:03+09:00"
+    },
+    {
+      "title": "”조합장 성과급 안돼”…준공 후에도 갈등 겪는 재건축·재개발",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wLVNQeHpiVFpGdFVnV293bndXOXVybms0VWY4eHFNdS0ySWliSldwcUZ1QmV6TElfTDdTcDdmZDNqaC1ERjJYQ0s3ajZqX0c3eDZfdGNiUTg2QdIBVEFVX3lxTE1FU05nYmdMa0R1SDVla2dWVy1vSlV2WTFvTC03MG9oeWpucVVSamx5Tmhuc082WFZWZmt6am9rQ2dxUU03ZzFSUVZ6MHp5WlFxV2llZA?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-03T13:26:34+09:00"
+    },
+    {
+      "title": "[중국 특징주] 경영난 부동산 대기업 '완커', 새 총재로 지방 금융관료 임명",
+      "link": "https://www.newspim.com/news/view/20260703000507",
+      "source": "뉴스핌",
+      "published": "2026-07-03T13:23:00+09:00"
+    },
+    {
+      "title": "\"향후 1년간 집값·임대료 오를 것\"…유권자 과반 ‘상승’ 전망 [한국갤럽]",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEMGR5ejJTbzRiVDdpbnFGSnRobVN1Nk1EZmhLMUwySi04eVlaeXFCRFQtdTYzZFB1WXRDaThpY28zeTVsTWxQdTIza0IwU3lGV1otMXJDUUx4clVYM0pSQm4zQnN4QmJhUE4waQ?oc=5",
+      "source": "프리진경제",
+      "published": "2026-07-03T13:22:27+09:00"
+    },
+    {
+      "title": "국내 부동산 선별투자 시대…한투증권, 글로벌 운용사와 협력",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=206702",
+      "source": "SR타임스",
+      "published": "2026-07-03T13:19:00+09:00"
+    },
+    {
+      "title": "‘환골탈태’ 흑석동, 강남권 비견되는 위상… ‘써밋 더힐’ 무순위 청약에 시장 이목 집중",
+      "link": "https://homedubu.com/10754/",
+      "source": "국토일보",
+      "published": "2026-07-03T13:16:44+09:00"
+    },
+    {
+      "title": "이재명 정부 부동산 대책 약발 안 먹히나…부정 평가 46% ‘싸늘’",
+      "link": "https://www.nbnbiz.co.kr/news/articleView.html?idxno=44815",
+      "source": "미디어이슈",
+      "published": "2026-07-03T13:14:00+09:00"
+    },
+    {
+      "title": "[유통소식] \"부동산 거래 단계부터\"…롯데하이마트, 프롭티어와 맞손",
+      "link": "https://www.4th.kr/news/articleView.html?idxno=2114168",
+      "source": "포쓰저널",
+      "published": "2026-07-03T13:12:27+09:00"
+    },
+    {
+      "title": "한국투자증권, 글로벌 부동산 투자 네트워크 확대",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=113686",
+      "source": "열린뉴스통신",
+      "published": "2026-07-03T13:10:14+09:00"
+    },
+    {
+      "title": "한국투자증권, 글로벌 부동산 투자기관 초청…대체투자 협력 강화",
+      "link": "https://www.mk.co.kr/news/business/12089633",
+      "source": "PRESS9",
+      "published": "2026-07-03T13:09:27+09:00"
+    },
+    {
+      "title": "부동산 정책 평가: '잘하고 있다' 26%, '잘못하고 있다' 46%",
+      "link": "http://www.mediadj.kr/news/articleView.html?idxno=54586",
+      "source": "mediadj.kr",
+      "published": "2026-07-03T13:01:52+09:00"
+    },
+    {
+      "title": "베트남 부동산社 빈홈, ‘하노이-꽝닌 고속철’ 투자…빈스피드와 맞손",
+      "link": "https://ichannela.com/news/detail/000000537745.do",
+      "source": "인사이드비나",
+      "published": "2026-07-03T13:00:00+09:00"
+    },
+    {
+      "title": "경기도, 4일 수원서 전세사기 피해자 권리구제 설명회 개최",
+      "link": "https://news.nate.com/view/20260703n14835",
+      "source": "네이트",
+      "published": "2026-07-03T12:56:00+09:00"
+    },
+    {
+      "title": "대통령 지지율은 회복, 부동산 민심은 아직― 한국갤럽 7월 1주 여론조사",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxbEpTQTFIRU9SX0JPWUJISWpLQ1I5aWNJc0lkQ05YS2FFRVowOWJCUzl2eEotTllvdmIxeENSaXk4c0FmT1ZWWm9JUUs5RFdxX3RLaV9ZYWR0Qzg2emJPSDZjREdIUzJ4cVNxLW5mR2lsVFlMWEZQQWk3bklQZw?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-07-03T12:50:00+09:00"
+    },
+    {
+      "title": "서울 대치동 은마 재건축, 7개월 만에 사업시행계획인가…5,850세대 공급 본궤도",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10SVVwQ1dPaHFQa01LbjBBWTAtTFpvd2pPUTJtYk5DOHR2M3pXcDVyLU82ZTRDMnllUi10bUtoTlA1ZlFUNUI0aWJUcnpnQU5jWlp5bmFn?oc=5",
+      "source": "어반톡",
+      "published": "2026-07-03T12:47:01+09:00"
+    },
+    {
+      "title": "서울시, 소규모 주택단지 재건축 사업성 분석 지원",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWVKWG9DUkJlMld6dDlUNjRGRVNqVGhOSURLajItRHAzeG5vZjJmVU9weFFqc20yUWFzM2FiTXItMU1rMnpCMXBHbm1RV1RFZWxDZUlhZlFhakM0RlprMVNORlRjQXdPcWs3TF8wclNiczZhckNock5iY21zTkhPZnNJeTlONU0?oc=5",
+      "source": "TBS 서울",
+      "published": "2026-07-03T12:47:00+09:00"
+    },
+    {
+      "title": "창동 상아1차, 재건축 시공자 현설에 5개사",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBia0dwUjQydUphM0xyR2VqVlFnczVoR0dYSTZDWUxKMENqZ1dOeFFQbVBmOU9YZ0FfSEZ2VzBBY2M5SHlkSnh6TUhrLWJIZmR5S3hsM0lzaWFHVERwaDFWNVVJVnBPby1O?oc=5",
+      "source": "한국주택경제신문",
+      "published": "2026-07-03T12:45:49+09:00"
+    },
+    {
+      "title": "정부 부동산 정책 '잘못' 46%... 2030 부정적 평가 50% 돌파",
+      "link": "https://economist.co.kr/article/view/ecn202607030005",
+      "source": "글로벌경제신문",
+      "published": "2026-07-03T12:45:30+09:00"
+    },
+    {
+      "title": "롯데하이마트-프롭티어 협업, 부동산부터 가전 구매까지 원스톱 서비스",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=845973",
+      "source": "브레이크뉴스",
+      "published": "2026-07-03T12:43:00+09:00"
+    },
+    {
+      "title": "이재명 정부 부동산정책 평가는? '잘못' 46% VS '잘함' 26%...향후 1년 집값은 55% “오를 것”",
+      "link": "https://www.newspim.com/news/view/20260703000446",
+      "source": "KBC광주방송",
+      "published": "2026-07-03T12:41:39+09:00"
+    },
+    {
+      "title": "'5850가구' 은마 재건축 2028년 착공 목표…분담금 얼마나 늘까",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UYjRHYU9kYlpMNmlnQ2JHRUsxZVhZQmJZbDdNNEIyMWZacW1NZlNJcEk5dklTdTJuV0pTdVRzSVlJZ05pSmUxdGxobDZ2RFNiSTBR?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T12:34:00+09:00"
+    },
+    {
+      "title": "압구정2구역, 통합심의 통과…일대 재건축 사업 탄력 전망",
+      "link": "http://www.onews.tv/news/articleView.html?idxno=282513",
+      "source": "시사저널",
+      "published": "2026-07-03T12:31:45+09:00"
+    },
+    {
+      "title": "충청, 정부 부동산 정책 긍정 부정평가 엇비슷...그러나 전국은 [한국갤럽)",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ObkVqcFdYd0NDdHA0cVZtUmRlYzRXRlh2ZjV1bXpLbUVwMVBCa3U3aDA2c0FlakRGdG5EM3EtaTU3ZDFtZ3N5eGIwQTI5d1B4UF9BSUdWc1l1UFB2S1p6MW5xSXFjSGJ4R18xTA?oc=5",
+      "source": "이세종경제",
+      "published": "2026-07-03T12:23:29+09:00"
+    },
+    {
+      "title": "한국투자증권, 글로벌 부동산 운용사와 네트워크 강화",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=256755",
+      "source": "현대경제신문",
+      "published": "2026-07-03T12:10:21+09:00"
+    },
+    {
+      "title": "갤럽 조사에서도 대통령 지지율 반등... 부동산 민심은 악화",
+      "link": "https://www.khan.co.kr/article/202607031036001",
+      "source": "v.daum.net",
+      "published": "2026-07-03T12:03:14+09:00"
+    },
+    {
+      "title": "李 부동산정책 ‘부정평가’ 넉달새 27%→46%",
+      "link": "https://www.munhwa.com/article/11600128",
+      "source": "문화일보",
+      "published": "2026-07-03T12:01:08+09:00"
+    },
+    {
+      "title": "李대통령 지지율 54% 반등…부동산 정책은 '못한다' 46%",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KRlh4Um5wUEVZT01GektsQVdveWQ5U1JXb04zRUNhaS1zWjFUWjEwQ2wwd2t2b3hrcXJHOFJFS0RJc2pqeC1MaUVrR2NPVVNPaGNz?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T11:59:00+09:00"
+    },
+    {
+      "title": "李대통령 지지율 반등 ‘54%’…부동산 정책은 ‘못한다’ 46%",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=306197",
+      "source": "중앙일보",
+      "published": "2026-07-03T11:58:32+09:00"
+    },
+    {
+      "title": "미래에셋, 스페이스X '0주 배정' 보상 고심…고객 달래기 통할까",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vQmxNN1JyUjRLeUlJRlR4YWVMcE5qcjdTbmxfa0NFZ1VoUXJ2cWYyV2lRNV9XelZ4RlZEalZKRGpla3pFUk1WcnQwZWU0a2x0Sm41SjNtMWY4UdIBVEFVX3lxTE9rczZvMWpzZ3hJelhPZHRrU08xRDV5NDh0THQzSFZxZW1GSDZldG1zeG5FWWVfQ050TmN1UlB0c1RvTElBR3ZRMjZlNEhvbHFxa2VpZQ?oc=5",
+      "source": "더팩트",
+      "published": "2026-07-03T11:57:20+09:00"
+    },
+    {
+      "title": "“지금이 가장 싸다”… 서울 청약 잇단 완판",
+      "link": "http://www.pmnews.co.kr/123919",
+      "source": "문화일보",
+      "published": "2026-07-03T11:53:59+09:00"
+    },
+    {
+      "title": "서울시 재건축·재개발 규제완화, 상권 판도 달라진다",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NRURyZmJ4RW5PZW8zNDZXVUtGYlM0bXlDdVBzdExkQWJwQURqbmRUcG5MX0RLRW1vb1l2OHllT1I4ZmxLTTdWN1JNbjNXYUt4NkVvMGJqOTRzaElOS2tnanNVTFhSWnQ2Z21XcUM3YUg?oc=5",
+      "source": "숙박매거진",
+      "published": "2026-07-03T11:52:10+09:00"
+    },
+    {
+      "title": "\"전세 사기 걱정 끝, 가전 혜택은 덤\"… 롯데하이마트, 이사 고객 위한 '안심 플랫폼' 구축",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=344141",
+      "source": "녹색경제신문",
+      "published": "2026-07-03T11:51:34+09:00"
+    },
+    {
+      "title": "부동산 정책 '잘못한다' 46%…청년층은 절반 넘어 [한국갤럽]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZTJ3YkdWX2xkRWZLNkFzNnJlSmF6MFNmc1l3M2xhSGQxcVd1dGptTElrVU9EaFJvcllBOW56NkVITEtvSEZlRGM2Y05SdHdaNlhv?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T11:48:00+09:00"
+    },
+    {
+      "title": "서울 아파트 공급 감소…신축 부족 속 '더 웨스트 마곡 데시앙' 부각",
+      "link": "https://www.hankyung.com/article/2026070226951",
+      "source": "지피코리아",
+      "published": "2026-07-03T11:45:53+09:00"
+    },
+    {
+      "title": "23년 정체 뚫은 은마·잠실5…1만2261가구 재건축 시동",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wbjRJa0dCWnRYQU5oRUJNTjNrcHNwUHRLZUJtYk1jODM5WEhNUk4tRzFUVXI3SEZPdnJtbndPT2l3Smc0cFNqMThLR2tPU0h1LVNSNVNTTDkyb1JueE8wOEVlQnBXV0hkRmFPYg?oc=5",
+      "source": "mstoday.co.kr",
+      "published": "2026-07-03T11:45:16+09:00"
+    },
+    {
+      "title": "압구정2구역, 통합심의 통과…최고 66층·2381세대 한강변 단지로 재건축",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ubjM0MVNONC1jSmdwSnl1VHdJNHk2UHg3SHFiVTlBZWRCWE1FSE9lVmt0SU5qR2Zxc3M4cVd1TTZoRzlpZk5xaV9STV92OExld1NxSW5DRXZKLUs4T0lhU2M3RjdMdE9H?oc=5",
+      "source": "디벨로퍼뉴스",
+      "published": "2026-07-03T11:45:14+09:00"
+    },
+    {
+      "title": "李 지지율 54%, 3주 만에 반등…\"부동산 정책 잘못한다\" 46%",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaUzlLWTNHQUZPOXlmeUNLa0czWWJWbk1FVy1zdGNrVldCNDk1LWFUc2hSeUR6R19DOVVUM3ZMWGVvem15aGw4SU1vS2xUUFZ6WUhoU3d3SFQ2eXNocXk1N3VMTFlDMjhDZmJWaXFrdWh6TlFoOWwtbA?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T11:45:00+09:00"
+    },
+    {
+      "title": "[CEO 직썰] 김성환 한국투자증권 사장 “ 부동산 PF·대체투자 분야 경쟁력,지속 강화할 것”",
+      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=58091",
+      "source": "직썰",
+      "published": "2026-07-03T11:39:55+09:00"
+    },
+    {
+      "title": "한국투자증권, 글로벌 부동산 투자사 'CEO 초청 행사' 개최",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202607030033",
+      "source": "뉴스핌",
+      "published": "2026-07-03T11:38:00+09:00"
+    },
+    {
+      "title": "압구정 현대·대치 은마·잠실 주공…속도 내는 강남 재건축",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWZ2pzTHVjcUJTczJNQVJ3STNrT0NDdFFsX1JVVUZNMG1PdUxfalk3bU9kVW11RVRzTmZXUjd3ZlVQai0wQzhLYmw5U21rM28?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T11:37:27+09:00"
+    },
+    {
+      "title": "\"전세실종에 매수 행렬\" 길음 래미안길음센터피스 84㎡ 국평도 20억",
+      "link": "https://www.newstnt.com/news/articleView.html?idxno=708835",
+      "source": "네이트",
+      "published": "2026-07-03T11:36:00+09:00"
+    },
+    {
+      "title": "압구정 현대·대치 은마·잠실 주공…속도 내는 강남 재건축",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54WnZIVTk2X1dCaFptVEo2Mmo5QzhsSTBCTFRkcU5UdWVteU85QXRLVmxOVHpjdjdyMW1QRHIxT1JhNzZ0em9tblZ5N2g4My1RQUlzUHpR?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-07-03T11:35:54+09:00"
+    },
+    {
+      "title": "“전세실종에 매수 행렬” 길음 래미안길음센터피스 84㎡ 국평도 20억",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=440608",
+      "source": "헤럴드경제",
+      "published": "2026-07-03T11:35:11+09:00"
+    },
+    {
+      "title": "\"정부 부동산 정책?\"…2030 부정평가 절반 넘었다 [한국갤럽]",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0VxbVpONTAwNDkwSi1GejlWdXBITnFVWnJ6SF8tRUhWZEVIWGVEemxSZ19TekFBM1g2Sngzb3hNR3lIc2pTS1QwNnV1U1ZVckJYN1U0dFVoRnZGc1BsenJvLWRrZU90TEY5R1lyT2doNURyTFRWQW5kVDFYaXRTdFF5OEl6Z2Y3ODc4Nl9vc0l4bk5wY0E?oc=5",
+      "source": "news.sbs.co.kr",
+      "published": "2026-07-03T11:35:00+09:00"
+    },
+    {
+      "title": "구리·동탄·기흥 토허제 묶이자 전세 실종… 남양주·안양·병점 ‘호가 1.5억 껑충’ 풍선효과",
+      "link": "https://www.kairnews.com/news/501664",
+      "source": "한국AI부동산신문",
+      "published": "2026-07-03T11:33:29+09:00"
+    },
+    {
+      "title": "은마아파트 23년만에 재건축 시행인가",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NUGljTy1jNTY0MGE5bnhMNGdhb2ZrVk5wUGVkTlFGQnRSa1RBcGtJS1JGeHRIaVhNcERpUWpDQjJlQVdWNmJlVVBoMmpzVWdx?oc=5",
+      "source": "문화일보",
+      "published": "2026-07-03T11:33:15+09:00"
+    },
+    {
+      "title": "李대통령 지지율 3주 만에 반등해 54%…부동산 정책 '잘못'은 46%",
+      "link": "https://news.tf.co.kr/read/economy/2339290.htm",
+      "source": "v.daum.net",
+      "published": "2026-07-03T11:32:31+09:00"
+    },
+    {
+      "title": "李정부 부동산 정책 '긍정 평가' 급감…51%→26%",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hMkVzMXUxVFRUQUVzRFVPU0lfdXZEa0g4VjM1bG9Cd0NKWE1odHVxZk5Ha1NZUDFoTXoxT0pRN0V0R0U1VHkzSUp5alViY092RkJn?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T11:32:00+09:00"
+    },
+    {
+      "title": "서울 강동 명일동 삼익맨숀 990가구 공급 재건축 통과",
+      "link": "https://www.ajunews.com/view/20260703092300658",
+      "source": "기계설비신문",
+      "published": "2026-07-03T11:30:32+09:00"
+    },
+    {
+      "title": "동작구, 청년 대상 전세사기 예방 부동산 교육 운영",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jN3lMWjA4bEFIR2gwaDhyYmRCbndfc080Xy1vTHhIZzh0SWxtRWkyNzI1OGVnX3VOdWRiTC1USTRYNW0tQ0lDczh6WTZtUXhWU1BOWVQ1ZDhGbUhreVZId1lSWk1wc1dEdUVkMDV3MlZLamM?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-07-03T11:30:00+09:00"
+    },
+    {
+      "title": "서울 서초 잠원동 신반포16차 468가구 공급 재건축 통과",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jTm40SFk4YTdFOWFhMUpEdlVJTVBCMUhTcjZPN3hzZzZOZnkzakNBaHBTWGRta21iV0NzbDBOalIyRUJBYS00SlZHeTI2dkdhUWstb3FUdk5hVGJJYnZ3SGJHNmlvUUhfbENVWQ?oc=5",
+      "source": "기계설비신문",
+      "published": "2026-07-03T11:29:19+09:00"
+    },
+    {
+      "title": "집값 상승 전망 '두 배' 오르는 사이...부동산 정책 긍정률 '반토막'",
+      "link": "https://www.newstomato.com/ReadNews.aspx?no=1306058",
+      "source": "뉴스토마토",
+      "published": "2026-07-03T11:27:41+09:00"
+    },
+    {
+      "title": "롯데하이마트, 부동산 계약부터 가전 구매까지 ‘원스톱’ 시스템 구축",
+      "link": "https://www.dailian.co.kr/news/view/1663127/",
+      "source": "ER 이코노믹리뷰",
+      "published": "2026-07-03T11:27:38+09:00"
+    },
+    {
+      "title": "서울 강남 압구정동 압구정2구역 2381가구 공급 재건축 통과",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xcW1lY0VPVVpueHdUa0dfNTg4WXlnVlE2MDhSMTBvbUZ3bm91ZTdPUGF6SjV0Ym9CTmttcHhieUNVNFp4RE5ldFBGSkpfb0taT2p5ZWh6NTh1QUV1Wl8yWHptY0EzX2RQTnV0Yw?oc=5",
+      "source": "기계설비신문",
+      "published": "2026-07-03T11:27:16+09:00"
+    },
+    {
+      "title": "[부동산 레이더] DL이앤씨·호반호텔앤리조트, ‘공간 특화’ 매장으로 차별화된 경험 선사",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021540459640768",
+      "source": "더밸류뉴스",
+      "published": "2026-07-03T11:24:33+09:00"
+    },
+    {
+      "title": "경기도, 4일 수원서 ‘전세사기 피해 권리구제’ 2차 설명회 개최",
+      "link": "https://www.kyeonggi.com/article/20260703580079",
+      "source": "경기일보",
+      "published": "2026-07-03T11:24:00+09:00"
+    },
+    {
+      "title": "서울시, 소규모 재건축 사업성 무료 분석 지원…용적률·공사비·분담금 제공",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MdkoweFBRSlhtQl8wM296TXBYTVVDcHFtNlVFaGkySEtMVFZDWFdKT244WFJ4VHdEUURUVzdsWjNvM2dFSy1RVW9STWtmTUxDbHNuY1NYdDRiR3VBcDVCM3paYXA1MXNmTjc5bA?oc=5",
+      "source": "기계설비신문",
+      "published": "2026-07-03T11:22:16+09:00"
+    },
+    {
+      "title": "서울시, 소규모 재건축 사업성 무료 분석…공사비·추정분담금 제공",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqR2ZXTUxDSHNNOUJncXBoXzdiemRpRUZFQi1VdTRYZjJnb3J2WTJ1OVloaGd1Zm0wRzQ1Q3NsYU9EaEtyY29hQS1OempwQWUzcXBOd2tYRXhDWDRSY004R19jMlAzaXhBTXZJ?oc=5",
+      "source": "서울뉴스통신",
+      "published": "2026-07-03T11:20:00+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자 법률교육 실시",
+      "link": "https://www.youcandonews.com/news/articleView.html?idxno=17959",
+      "source": "팍스경제TV",
+      "published": "2026-07-03T11:19:34+09:00"
+    },
+    {
+      "title": "[속보] 집값 상승 전망 55%...정부 부동산 정책 '부정' 46%",
+      "link": "https://www.etnews.com/20260703000178",
+      "source": "이코노미스트",
+      "published": "2026-07-03T11:17:00+09:00"
+    },
+    {
+      "title": "대우건설, 美 뉴저지 주거개발 투자…20년 만에 북미 부동산 재진출 - 머니투데이",
+      "link": "https://www.hani.co.kr/arti/economy/property/1266597.html",
+      "source": "머니투데이",
+      "published": "2026-07-03T11:16:47+09:00"
+    },
+    {
+      "title": "李 부동산 정책 ‘못한다’ 46%, ‘잘한다’ 26%…‘집값 상승’ 55%",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=874043",
+      "source": "채널A",
+      "published": "2026-07-03T11:16:00+09:00"
+    },
+    {
+      "title": "정부 부동산 정책 '잘못' 46%…2030 부정평가 절반 넘겨[한국갤럽]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtTU82TnZ5OHVtQWwwMllCWHpZdUFWSk9reDJ3dVZfbDl2YnFXNWhxNWpQOW1lOVc5cjluRXlTZEhpTkpuYVpZNm16N0xGeXdfNUk4?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T11:16:00+09:00"
+    },
+    {
+      "title": "\"소규모 단지도 재건축 될까?\"…서울시, 사업성 무료 분석 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00eDk5dTYyNHBKNUlDV3dpb2FMeE93LXVjbk9mUjhNTWtHX05ZTnhIUEVKM2lDOGhpXzRmdWYzOTlIZGFQYWV1RFNXU2lTRU1meFBiN1pHUFpMVngtS2VQMDllSWhPNjlXVXfSAW9BVV95cUxOOGRycUpkWlFzM0k1dGRRMUZPOC14M0tEOVI4OU9lczJ5NmQ1bWhxdWs5dy1EZ293SVhSM2MwbXNPb0xlcndEcVN3U1QxUm05a3VEVVV2Z1NEWWM1VWc1bXRyQjR4cWlfeS1iOUhSVzA?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T11:15:00+09:00"
+    },
+    {
+      "title": "서울시, '소규모 재건축 사업성분석 지원사업' 추진",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvZkRfSWJidkJyQ3BfTnllY2FKUEt0blp4NThtdXhMcTVmaDd3ZGNVQ1Y2ZmZIelZjVmRIbGplQk9faWxpcjhpV0xqV0NVV0FHOEI3U0I1MVkxdWlv?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T11:15:00+09:00"
+    },
+    {
+      "title": "서울시, 소규모 주택단지 재건축 사업성 분석 지원…31일까지 신청",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQWlmTERUbUdWZnV4T3pHY2NkXzdrRDU1enJ6LU5GNmpaU000SEUwWTR5a005ZTBMbnVQZV9GLTdrN04wQnBiS2Y1eGIxY1RpanRoTzVmY2REWFE?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T11:15:00+09:00"
+    },
+    {
+      "title": "서울시, 소규모 단지 재건축 돕는다...사업성분석 지원",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02TjlYMnZMdTBQcGRkS3lIOVZCLXA4M29NSl8zR190Q0RJY1Raek5VdDNYb2pJcy1lX3haVDdhYmhzTVRyWGhRai1LbExZLVZ0cjItOXctc0xMUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T11:15:00+09:00"
+    },
+    {
+      "title": "소규모 재건축 사업성, 서울시가 무료로 분석",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CSVVOUzRNWkRzX0FOTXBJaXF4ZFVGY191S2NlazFTX3BVZ2trYms2WENMOHJsU1U4YTJMYWFCYUt3bVc1Ymh3Q2RqcWdCS1lxOWcySDJQUdIBmgJBVV95cUxPQTR1RUFfUVczamNOVXRJRklERFVJa0NBUUk3Uzh1N1pBSUl2LUJRWjdlV1RlOUUwblZ5c01WOHE3YVRyTXRLRW1FTjZsS0RhN1NnWWNLSDhKTDctZVB5V0tTaWltWXZtUTN2cWJqUVB2dWdIX3hGYTRXUkZKT2JTS1NzMUR1RFJCeHFsdld2c3ZoOW5MdmU5Znp2eVIxb2hMU3BRMjZKaTFMcGpBLWVmYndwWE9aTDM1amowM1pyLWNsaUdqU2JKZTlNNFI3ZXlPV2FCS1RHamV5VWdkVWkxbU9zbDhidnJLWHJCSk1nOFRtaXFVbkNsQmRnajZJMkxmaTdlRkFvUnBWZDkxYkVPRFAxTi1Hc1kzUFE?oc=5",
+      "source": "데일리안",
+      "published": "2026-07-03T11:15:00+09:00"
+    },
+    {
+      "title": "한국투자증권, 글로벌 부동산 투자기관과 CEO 네트워크 행사 개최",
+      "link": "https://www.metroseoul.co.kr/article/20260703500074",
+      "source": "메트로신문",
+      "published": "2026-07-03T11:14:59+09:00"
+    },
+    {
+      "title": "압구정2구역 재건축 통합심의 첫 통과‥최고 66층 조성",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tNUhycDBtVmtsM3hFMFRNNDRzM0MyR2dFVm0yUmZjRXFpOTVacUpFRm0yZ3JObFNDaE5ONXJxbGJWcjhBREJkWFNYNUk5d2tTSUZnellyNHZJYWNPNGxfWmd5a1pMU3VRQjNNaVNOVDE4TjA5dlg00gF3QVVfeXFMTlMzUG85em0tTnBLOXV1V0pIUS1nYnJiaDJFOHlielVZNmpZbFhhQlI3ajlDU1h2N2Rpcmt4UUt6VVlXaWpIcFVOUDE0RmdtcDl5a3BXOVNSVEl2dnF5T2FTOGdibVREXzVST1BTUGpFOXRNSmdFRDQ?oc=5",
+      "source": "MBC 뉴스",
+      "published": "2026-07-03T11:14:00+09:00"
+    },
+    {
+      "title": "[한국갤럽] 부동산 정책 부정 46% vs 긍정 26%, 집값·임대료 향후 1년간 '상승' 전망이 과반",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=78880",
+      "source": "비즈니스포스트",
+      "published": "2026-07-03T11:13:00+09:00"
+    },
+    {
+      "title": "분당 재건축 '2조원 지원' 공약의 실체와 변수, 신상진 성남시장 재선 후속 과제",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZWxKS0xUcU9UTGU2SlNJSkt4R0JiRWFzS1MxNDNVeVI5eWU5Y1h6QU1FQjN1MG16V0xyMEs0VktQbXI0M1NYekhGTmxLSURjdnhaMVMyVDlhZGs?oc=5",
+      "source": "데일리연합",
+      "published": "2026-07-03T11:10:06+09:00"
+    },
+    {
+      "title": "경기도내 전세사기, 3년간 7872건...법률 대응력 강화 나선다",
+      "link": "https://biz.heraldcorp.com/article/10797275",
+      "source": "이데일리",
+      "published": "2026-07-03T11:09:29+09:00"
+    },
+    {
+      "title": "공동주택 재건축 신속추진…중랑구, 전담조직 신설",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPaXZqaS14OEVWb3IxSmpfd2xYWndoR0tPSVJybkJJTnVsdkxhTFdoc1hQZXgyVkxPZkNUd05oTUNCT0duRWN3MU1mcXBocFNQbmt2NEl0SnZ6aXRueWU0Y9IBeEFVX3lxTFBSMHVxRVJ0cmVfbF9xaDVCX01NeXRBVmN0NWJ3QmJvMjBDallmVHdJazlOenM4TUpzdDljbUZYZGduSlpWNjdZb2Qta3ZWcnlNengtNmZvdl8ta3gtSmtSWXpUSHNEYUR1azdqeUtoS29ENDRtSzhKZA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T11:08:38+09:00"
+    },
+    {
+      "title": "대기수요 쌓인 '공급 가뭄' 지역 분양 재개…청약 경쟁률 '두 자릿수'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CbjVtbGhyRUN0UVBHbUFLVGVjN0QyQ1RZS1BJajRxYW9UTlR5b1FwaWZueXZKelVDeE41T0FUUTBCUExFZF81eS1zampObHI2OEZsREhJNWRGVnM0V1djSdIBeEFVX3lxTE5jd20wN3pDdXUzLW9aMVVkbGRjSGJJODlTNldkUmE3cjNYSWh0OUN5OFpsZFB5RXBIM3BXRzhmRUVjdktUTVdQcHIzQTg2QlJXbXVHWVY3SXNBbVoyaFExbl9zSDJtMUMxcF9BUHh5dG9QSHB2TXJrRw?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T11:05:07+09:00"
+    },
+    {
+      "title": "천안 서북구 청약 양극화 속 '천안 아이파크 시티 1단지' 2회차 분양",
+      "link": "https://www.etnews.com/20260702000426",
+      "source": "이코노미스트",
+      "published": "2026-07-03T11:04:00+09:00"
+    },
+    {
+      "title": "집값 상승 전망 다시 우세…전세제도는 '유지해야' 54%",
+      "link": "https://www.4th.kr/news/articleView.html?idxno=2114139",
+      "source": "CBC뉴스",
+      "published": "2026-07-03T11:02:38+09:00"
+    },
+    {
+      "title": "두산에너빌리티 '트리븐 김해' 398세대 분양...6~8일 특별공급·청약",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWcVdsd1Z6NFRxYURWWk8yLXNVQ0xTU3NfMHRvU3RzUi00UFhRS29hcF94bUFzcXFiMUtsRnRZSDhLeGRpMnRfUk55NjludV8wczhnN25YVjhHWTZYNkF4eFJWbV9UQTJ1UGh3c01B?oc=5",
+      "source": "김해뉴스",
+      "published": "2026-07-03T10:59:55+09:00"
+    },
+    {
+      "title": "[그래픽] 압구정2구역 재건축 사업",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VMWRWWWVEdExCX2JHRGh2bFgxUFZrcEd4NUwtSTBkOWxHVldlcHhSWWZUTlE2bzhQTG5pSkZIdkZleTctSWRjWGkwMlQxRVk?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T10:59:03+09:00"
+    },
+    {
+      "title": "압구정2·신반포16차 등 통합심의 통과...한강변 노른자 재건축 본격화",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WTG9seFRjZlFoblhlcEYzNlc2U05vSXJjZklSV3NwVk9mMF9WVkdoTFNTTENpRFkzTVVqWWZSaS1VVTNfTmlQdGEwY0NFdEdkVjlFeWxfWnU5N1ByNHpUMC03Mjl1VDF3VWV5MQ?oc=5",
+      "source": "생생비즈플러스",
+      "published": "2026-07-03T10:58:38+09:00"
+    },
+    {
+      "title": "한강변 압구정 일대 재건축 확정...최고 66층 대단지로 탈바꿈",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hbHRnc29yMktkTmJfaW8tT3pWeDZHT0Z0QXVKNFMxR25zOEYyZHRBT2dEd3Nkekl1S1huODNkOWswUVZ5dndfNHpKVEd4em1YWVZVVmxNa1ZCcTBIbHI2b1VSSjdxWURxTjIw?oc=5",
+      "source": "BBS불교방송",
+      "published": "2026-07-03T10:57:00+09:00"
+    },
+    {
+      "title": "경기도 전세사기 피해 8619건… 설명회 등 권리구제 나서",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3414199",
+      "source": "천지일보",
+      "published": "2026-07-03T10:54:10+09:00"
+    },
+    {
+      "title": "경기도, 4일 전세사기 피해자 권리구제 법률교육 개최",
+      "link": "https://news.nate.com/view/20260703n13121?mid=n0100",
+      "source": "뉴스티앤티",
+      "published": "2026-07-03T10:52:40+09:00"
+    },
+    {
+      "title": "[속보]정부 부동산 정책 잘못 46%, 향후 집값 오른다 55%-한국갤럽",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021013333990671",
+      "source": "문화일보",
+      "published": "2026-07-03T10:51:35+09:00"
+    },
+    {
+      "title": "삼익맨숀, 최고 39층 아파트 990세대로 재건축",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yRVk5SWF2anpMQXBXV1pjbzQwZHNjLXN3RFNlVEY5NUVvbm54SW4yeVJCOUdqeWpKR0tlVG5xcTV1aG5adjdXUmhWbmJLd3RDMnpBdVdhWW5aakE0endMRDBNS2d3V0tL?oc=5",
+      "source": "한국주택경제신문",
+      "published": "2026-07-03T10:49:04+09:00"
+    },
+    {
+      "title": "대우건설, 뉴저지 주거개발사업 시작으로 미국 부동산 시장 본격 진출",
+      "link": "https://www.mk.co.kr/news/realestate/12089687",
+      "source": "매일경제",
+      "published": "2026-07-03T10:46:39+09:00"
+    },
+    {
+      "title": "롯데하이마트, 안전한 집 계약부터 가전 구매까지…부동산 플랫폼과 맞손",
+      "link": "https://mydaily.co.kr/page/view/2026070310452349124",
+      "source": "마이데일리",
+      "published": "2026-07-03T10:45:35+09:00"
+    },
+    {
+      "title": "한강변 ‘압구정2구역’ 2381가구 재건축 속도 붙나…통합심의 4곳 통과",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLUnhhejhwbUFBTk9PRlNqOVk2bHVGVWItRXp5U3VGRlVBT1lWYVM0MnJnRnNkRnExbGpCVnJva0ZPcy1QM0tvQk9PeVk1dVR2S0xISlpFa25WY3kzY2RGUGh5QQ?oc=5",
+      "source": "한겨레",
+      "published": "2026-07-03T10:44:00+09:00"
+    },
+    {
+      "title": "2026 OECD 한국 보고서 \"부동산 세제 개편·유산취득세 도입 권고\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=845984",
+      "source": "nbn 시사경제",
+      "published": "2026-07-03T10:43:35+09:00"
+    },
+    {
+      "title": "[속보] \"李대통령 잘한다\" 54%···부동산 정책 '잘못'은 46%",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=441494",
+      "source": "이코노미스트",
+      "published": "2026-07-03T10:42:00+09:00"
+    },
+    {
+      "title": "신반포16차, 최고 34층 아파트 468세대로 재건축",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ObkVXWkZ0b3BTV3BlZHE5Z3oyR05zcVZWWlVoT19hN2EyM2VZRFNpNkFlMTRSYzg1RElLOFpfWEc1bzRNNTJQQ1g5d2t2d3VTQlJDSWd6SjVmdkxrOThLU1BqSlczVWlN?oc=5",
+      "source": "한국주택경제신문",
+      "published": "2026-07-03T10:41:22+09:00"
+    },
+    {
+      "title": "3040, 청약시장 큰손 등극…’얼죽신’ 영향력 높인다 By EBN",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/07/03/MRWHZ3M6LJESNK43Q26E7VTA34/",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-03T10:41:00+09:00"
+    },
+    {
+      "title": "李대통령 지지율 54%…'부동산 정책' 긍정 26% vs 부정 46% [한국갤럽]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14enI5VFZYdndUMXBQamxzTVVxNWlyLXF5Wk5vbkVSLVpnc3ZVUVFaVGEwM3lSTDVtWGhJSXE5a29zOS1Kb29PMTZQMzZndWlONmdj?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T10:41:00+09:00"
+    },
+    {
+      "title": "李대통령 지지율 54%...'부동산 정책' 긍정 26% vs 부정 46% [한국갤럽]",
+      "link": "https://biz.heraldcorp.com/article/10796908",
+      "source": "조세일보",
+      "published": "2026-07-03T10:40:26+09:00"
+    },
+    {
+      "title": "압구정 재건축 첫 관문 열렸다…‘압구정 2구역’ 통합심의 통과",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZTlpZGhlOV9KY2w5R1hxRl9zMG5tZTZuN2FpWEh1cHZrdTlXd09rZF9vTkJnd3RkMFpRSGl4MlIzcmRRdnBTaWVrS01lRGExY1BMclBuREhBWm8?oc=5",
+      "source": "에너지경제신문",
+      "published": "2026-07-03T10:38:50+09:00"
+    },
+    {
+      "title": "향후 1년 집값 '상승 전망' 55%로 급증… 부동산 정책 부정 평가는 46%",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fR1g4Tm1kakZ2ZDd0eVZIVjlMYXZhSlFOMzg5SllPb1g4OXRvYkhJNmRKaUlrbExmUC1naHhwam96MmhDWWNVdERzelJ5QWotZTZwX3FTMERKWFkwX1RJX0NaRktUUXZSQjJkSWRB?oc=5",
+      "source": "gukjenews.com",
+      "published": "2026-07-03T10:38:20+09:00"
+    },
+    {
+      "title": "李 부동산 정책 '못한다' 46%, '잘한다' 26%…\"집값 오른다\" 55%[갤럽]",
+      "link": "https://www.news1.kr/politics/president/6216811",
+      "source": "뉴스1",
+      "published": "2026-07-03T10:37:29+09:00"
+    },
+    {
+      "title": "“5850가구 중 일반분양 300가구?”…은마 재건축, 분담금이 더 관심인 이유",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQy1fbE9oQ0NvY2FxMVlKZ1ZQcEVBRllmc3R4YzJSaFFlV3MxYzRVamtfRVdmRDhWQndmbU15czhfWUVJVW1QaV9NcnZUeFpsSTZFV1NQY2ItMEE?oc=5",
+      "source": "에너지경제신문",
+      "published": "2026-07-03T10:37:15+09:00"
+    },
+    {
+      "title": "프롭티어-롯데하이마트, 부동산 계약부터 가전까지 ‘안심케어 서비스’ 도입",
+      "link": "https://www.donga.com/news/Economy/article/all/20260703/134229966/1",
+      "source": "서울신문",
+      "published": "2026-07-03T10:36:24+09:00"
+    },
+    {
+      "title": "이 대통령 지지율 54%로 소폭 회복…부동산 정책 ‘못한다’ 46%, ‘잘한다’ 26% [한국갤럽]",
+      "link": "https://www.joongang.co.kr/article/25442181",
+      "source": "경향신문",
+      "published": "2026-07-03T10:36:00+09:00"
+    },
+    {
+      "title": "대우건설, 뉴저지 주거개발 투자… 20년 만에 미국 부동산 개발 재진출",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1266569.html",
+      "source": "동아일보",
+      "published": "2026-07-03T10:35:46+09:00"
+    },
+    {
+      "title": "'20년 숙원' 은마아파트 재건축 활짝…강남구 역대 최단기로 인가증 끊었다",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0ckFISklVelNsZmNxM3NxN3VUT3VEQVpyYmhyYnpJSURNZGZoYVRnT2pMSHdnMndVOXJHQ0dIRXEtaV84VzdRbG8tbDZLYXF1dVRNbDZQVW83UWY0U0pGUDh5alJ5QTd5YVRmYU5nLW4?oc=5",
+      "source": "미디어써치",
+      "published": "2026-07-03T10:35:41+09:00"
+    },
+    {
+      "title": "[머니테크] 반도체發 훈풍, 수도권 이어 지방 부동산 시장도 분다",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606301729419720395",
+      "source": "대한경제",
+      "published": "2026-07-03T10:34:28+09:00"
+    },
+    {
+      "title": "서울 넘어 수도권까지 번진 '집값·전세·월세' 동반 상승…주거시장 위기 현실화",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=03519446645510912&mediaCodeNo=257",
+      "source": "ppss.kr",
+      "published": "2026-07-03T10:34:23+09:00"
+    },
+    {
+      "title": "“부동산PF, 지분중심 자본조달구조 필요”",
+      "link": "https://www.ddaily.co.kr/page/view/2026070308455348573",
+      "source": "대한경제",
+      "published": "2026-07-03T10:33:49+09:00"
+    },
+    {
+      "title": "[#부동산 나들이] 'e편한세상 분당 퍼스트빌리지' 분양·대우 '미국시장 재진출'·현대 'CCS과제 참여'·압구정2구역 '최고 66층 대단지로'",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423198",
+      "source": "뉴스웍스",
+      "published": "2026-07-03T10:33:36+09:00"
+    },
+    {
+      "title": "이재명 지지율 54%…민주 41%·국민의힘 26%, 부동산 정책 평가는 26%로 하락 [한국갤럽]",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NR3hEMk5pT2Franh0QzBzRThhTm5MQkk1LWt1UXM2YnNQdDZxTFR3VHVJS0xnUmhmUUoxNXJDS1lzZmdqOVhZd1FiWGZSdGJLUU1UWkxpZnY4ajRjVTZmblZRdW9BQQ?oc=5",
+      "source": "이로운넷",
+      "published": "2026-07-03T10:30:53+09:00"
+    },
+    {
+      "title": "롯데하이마트, 부동산 안전 서비스 연계…이사 원스톱 플랫폼 확대",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=237059",
+      "source": "이지경제",
+      "published": "2026-07-03T10:30:26+09:00"
+    },
+    {
+      "title": "롯데하이마트, 부동산 거래·가전 구매 원스톱 시스템 구축",
+      "link": "https://www.munhwa.com/article/11600035",
+      "source": "디지털데일리",
+      "published": "2026-07-03T10:29:39+09:00"
+    },
+    {
+      "title": "민선9기 서울시 주택부동산수석에 김세신 도시계획상임기획과장 내정",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423094",
+      "source": "매일경제TV",
+      "published": "2026-07-03T10:29:00+09:00"
+    },
+    {
+      "title": "“부동산 정책 잘못하고 있다” 46%…긍정 평가는 26%",
+      "link": "https://www.donga.com/news/Politics/article/all/20260703/134229760/1",
+      "source": "동아일보",
+      "published": "2026-07-03T10:29:00+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자를 위한 법률안내 교육 실시",
+      "link": "https://www.incheonin.com/news/articleView.html?idxno=119060",
+      "source": "사건의내막",
+      "published": "2026-07-03T10:29:00+09:00"
+    },
+    {
+      "title": "\"향후 1년간 집값 오를 것\" 55%... \"부동산 정책 잘못한다\" 46%",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/03/ENSL2SPU2NBKBEGW23CNR37JWE/",
+      "source": "조선일보",
+      "published": "2026-07-03T10:28:00+09:00"
+    },
+    {
+      "title": "[단독] 민선9기 서울시 주택부동산수석에 김세신 도시계획상임기획과장 내정",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84Wk1LeFFIempWOWZJUUhOaEp1Z2VqTGJjSDBPV1lYV05keU5BY2s5SVJhYnFMb1RCaFc3UE1aYlZ3WlJzc2ZDSnlEUHpOYTlLUnNUaDBCZU8yVXVTWGpHbi1MeHNwaWRMeGc?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T10:28:00+09:00"
+    },
+    {
+      "title": "김현기 강남구청장,'재건축 최대어' 은마, 행정 속도전 날개 달고 대전환 시동 건다",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EWFI5dkcyOFUtcEFCV05WYXpINjZYbTl3ZTUzZFF5SGtwWmJSWHpQandhajQ0V1N6eHZpWTZUZDNkcEw2eW1HY1Voa2R4T1F5SmtsWDhxNkpDOUt3QnBPYnd6em5kOExYUGZpWlVwN0Q?oc=5",
+      "source": "미디어써치",
+      "published": "2026-07-03T10:27:39+09:00"
+    },
+    {
+      "title": "\"李대통령 잘한다\" 54%···부동산 정책 '잘못'은 46%",
+      "link": "https://v.daum.net/v/20260703102617255",
+      "source": "v.daum.net",
+      "published": "2026-07-03T10:26:17+09:00"
+    },
+    {
+      "title": "부동산 정책 부정 46%…집값 상승 전망 55% (한국갤럽)",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16122167",
+      "source": "TopStarNews",
+      "published": "2026-07-03T10:25:36+09:00"
+    },
+    {
+      "title": "[비즈+]대우건설, 20년 만에 북미 부동산 개발 재개…뉴저지 주거단지 조성",
+      "link": "https://m.ekn.kr/view.php?key=20260703025138809",
+      "source": "비즈니스플러스",
+      "published": "2026-07-03T10:25:20+09:00"
+    },
+    {
+      "title": "강동 삼익맨숀 재건축 통과…39층·990가구로 탈바꿈 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jZi02akRPdTh1WjJDdi1xdFlzNkVrSUlZa1B1UF85bUlqUHFxcXdENWlhallTYjh6LXRYV3RGOWZ2UXdZLWpvSDMxVWNPNUxCM3JTNXNVTHMtM2hoSE9XS2E5V3FKWl9fd3fSAW9BVV95cUxPRHg2MkFXRXhKb3BGRHdwbVFsMnpNUVVSVVMtRU0yV045dDdvVXhfei0xQjNHd1BZY1JFR2F3NERkMWVPYlhQZmduaWhUXzZuU1lEMnZLMllTRFpqSldTS3lyLWNLS0tsRTNTV2NCMnM?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T10:24:50+09:00"
+    },
+    {
+      "title": "압구정2구역, 4개 구역 중 첫 통합심의 통과",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhbVItdWRiamJnR2Y2RUFaU09jWHZVTDJTWVVjSTJXZDZqNWVzNlhvWGNaVEtlSkdvXzYwVGF6d2Jwdlc1WS1zV041dlptbWwyM3dfOHFfYWk4dU5teDE2S1U2M0ZxMDBN?oc=5",
+      "source": "한국주택경제신문",
+      "published": "2026-07-03T10:24:42+09:00"
+    },
+    {
+      "title": "기장군, 무주택 다자녀가구 전세자금 대출이자 지원 대상 확대",
+      "link": "https://news.tf.co.kr/read/releasecopy/2339310.htm",
+      "source": "프레시안",
+      "published": "2026-07-03T10:24:22+09:00"
+    },
+    {
+      "title": "[속보] \"李대통령 잘한다\" 54%···부동산 정책 '잘못'은 46%",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MQmRkanQtRkE0VlNJRElLUWtRQ2ZYM1ZIM1FLZU85ejYzSjNxd1FldWg2MTduekR0clM5bDI5SXpYTmVlckh1d0FFdThKeWktcXp6UzJNbTZJM0RRTTBmMkpINDQxNUY5UmxSeQ?oc=5",
+      "source": "한경매거진&북",
+      "published": "2026-07-03T10:24:00+09:00"
+    },
+    {
+      "title": "동작구, 전세사기 예방한다… ‘청년 맞춤형 부동산 교육’ 실시",
+      "link": "https://www.newsfire.co.kr/news/articleView.html?idxno=1410058",
+      "source": "뉴스파이어",
+      "published": "2026-07-03T10:22:44+09:00"
+    },
+    {
+      "title": "서울 집값·전세·월세 '트리플 강세'…실수요자 주거비 부담 임계점",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=300900",
+      "source": "ppss.kr",
+      "published": "2026-07-03T10:21:55+09:00"
+    },
+    {
+      "title": "‘압구정 현대’ 재건축 탄력 붙나···압구정2구역 ‘통합심의’ 첫 통과",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kSFppOEtleU1RMHNiQzEzN3dYSnNyRktsNEpGMVFFRlg1QXVLNjFhNnVUVkk5alVrVEZiQi1DQUFsM2RQaVYtNk1JRkZBNG1JYTNhR3ZTcGI0UdIBX0FVX3lxTE1zVG44RHdMdUp4Z1lGQV9CVnFjUW5ORmMzTl9KUUxmaXZhNEtFU1NVV2I4dzR0Z05KbFdXajBoMmJubnB2NXk4SU5KUktSWVZfZ0VMLWlDVmtzWTQ0WnJz?oc=5",
+      "source": "경향신문",
+      "published": "2026-07-03T10:18:00+09:00"
+    },
+    {
+      "title": "은마 재건축 사업시행계획 인가…2028년 착공·5850세대 공급 목표",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40ODQxUjBLWVhRbExzSGp5X1hUdEtRVWVCYVJSU1J2a3puTXFMaGVaMWVpRXI1a1dxQWdHZTNxMTlsa05zQ1dYTlVEZHFjWHhTVWxVN1NxVmdRRzRkNk1lZDdHSkc?oc=5",
+      "source": "서울경제TV",
+      "published": "2026-07-03T10:17:47+09:00"
+    },
+    {
+      "title": "[금융] KB신용정보 전세보증 권리조사 맡는다 / NH농협은행 청년 지역정착 대출 출시 / NH농협은행 농촌학교 놀이공간 확대 / ABL생명 재해경감 우수기업 재인증",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2220980",
+      "source": "웹이코노미",
+      "published": "2026-07-03T10:08:00+09:00"
+    },
+    {
+      "title": "[부천시, 초기 정비사업 활력] 단계별로 시동 거는 부천 원도심 정비사업… 곳곳 출발선",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WRnA1MGYtb2xiR09PVVlIOFJyZndoQUlNb3R2dDN1NGhEZEY0dnNFQTUxTUhmNnRjeEVDN001Wi1LZ1BIU1ZlTHpjbE5iV2NzSlpCNkhoWTkyak5la0F5ZUdNNFBSOVRB?oc=5",
+      "source": "한국주택경제신문",
+      "published": "2026-07-03T10:03:34+09:00"
+    },
+    {
+      "title": "명일동 삼익맨숀 재건축 속도…990가구 대단지로 재탄생",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGRYMm8wUkQ2a3BucFJfeWw5R3VFdWdVV3JyN0s0U1NRYVVzQk9yc0dzMUZJZWp4ZWtIZVgyVmxUMzhCa1M3RW1FWkdETTFaVjduNllwRVN4NW9EVDFaWW5KMEJNd3dyQWJSd25DRjdIVktfOGVfc0lLSGJPaUd0aw?oc=5",
+      "source": "이데일리",
+      "published": "2026-07-03T10:00:06+09:00"
+    },
+    {
+      "title": "압구정2구역 재건축, 가장 앞서간다…2381가구 대단지로 재탄생",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmxsaV9Ed0h5eGNHWGlWYlpSX1BHTVd2NjZsT0VtOTlId2VfQmFxVzJRU00wcUdnZ3Ita2U3M2hQX05GRmkyRkJuNW9ialVMc3JhX0REYXJFY0FTenVDY0llYUV5cUl4S3Ntcjl5QUprOUtwMl9WNmt3UDhiWTdULQ?oc=5",
+      "source": "이데일리",
+      "published": "2026-07-03T10:00:06+09:00"
+    },
+    {
+      "title": "베트남 부동산시장, 하반기 기상도 ‘흐림’…고금리·과잉공급 등",
+      "link": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005871468",
+      "source": "인사이드비나",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "서초 신반포16차 재건축 통합심의 통과…468가구 탈바꿈",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pamJrd3ZWbUp3QlVhRzFxYnBKQUdmTXZvMFl2U3ZOQURmbURLMFVWaFVDMUtJc2tJaGdNOWZJelRkTlY2WHYzMUZRd05iNFBVdnc?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "압구정2구역 통합심의 첫 통과…최고 66층·2381가구 재건축 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GZHVTb0xESG9iUFFEVXFRaTFjRXRHeWRVUTFMcC0yay1ZbHBwTkF6Y2ZYdm1NUndSNE51QnZXZmkyMDNaaUZTbWJwMlNHQjBPdlBsMFcyWGJfeGZyTzN0WUpYXzdHMFNVWUHSAW9BVV95cUxNemt6VmhmTEFRRlRMeFFhWHRURzlIV0Y4MFRSM2lCYnFqNEdoUWY2VFJmWlVpeTFaQWpTOTFvb2ZaR3JBcnZiUDA1bFczRFBQc1VTT1Mwd2kzdGFLdXlnRzhnbUlyQ1JlMk9NSUZkZTQ?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "강동구 삼익맨숀 '재건축 7부 능선' 넘었다…39층-990가구 재건축 임박",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qbFhPTlVQVm5laGlteGlEaDZOTk1yb3hsaGwyYm1SUUttbXZ1TGFyWks5eHd1THgzLTRISVZPLW5qR1Nqa3VKRmpKR3JpUGoyQVVzZ2kxUkMwSU9V?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "잠원동 신반포16차 재건축, 서울시 심의 통과…34층-468가구 짓는다",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWVXpBaTFEZzVqNDg4RXVDRzUtSDI0UEFMc2JfMTQ1NUY1SllfWld5cUtsTGVUeC1qRHZtellOb3hWRUVqcXowdUNnV0JWQkpfdzNfcXk5cU5nNUd2?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "압구정2구역 재건축 통합심의 통과…일대 사업 '신호탄'",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DYWZKV3ptNUV3VTR0WUh3eEJSel9RNi1COHJDUWNDVTk3UEVwSHdrTXQ1a1NSWWY5MTdhRTVNY2NVOVdqbVhwQ0RPMWw4ZFB3Q096M3d3Y0szbDg?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "압구정2구역, 한강 품은 66층·2381세대 대단지로 재건축",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYRVd5S3MzNkdadFFkNGZrV2pQRkZ5eVoyYUUtNV9fOEdNeFk0MmZjS1hiX25GckotSmsweVRWaTl2d2tyOE85cmN2Yzd1QnJ4REhkMEUwd0ZMWnduM3psT9IBeEFVX3lxTFByYkpTZWJDMWxNZFhrcFY1Zk9CMmNMZUs3bE5nUDhfc3oxM2llOFcwN0FtVDJzYm9DY1BnTGNZVk82WXNWM1VHSmRiVDRtTVFESklmUnF0N2lnRkFyWUQ5UlBMeGR2cWNEV1hvVEFDOGFVejNnLWdVXw?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "압구정2구역, 2381가구로 재탄생...구역 첫 재건축 확정",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tQjVUcmhlZEdvek52VVZoUEVIVUpoS1Z2RDczNUdITTI3T2R5XzZoMjIzSy1BcHdfZ2xUQ1VjZ1l1cGJmUkZvbTJNbm8tNlRnb2R6LU1wa3pUUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "압구정2·신반포16차 통과⋯강남권 재건축 본격화",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zWTB3WDNMQ1RLb1VWbllXcUg3aXpNSUdUOGt5dHJUVDRDV0owQnNVUEhoWTk2NDJ0TU9qODN3TnJwUzNjcUVLbGZBSWdjZjhrWXh4UXVnTXcxd19qU0p3LThNckZ6ZzEtVHJIam9GejdJZ3ZX?oc=5",
+      "source": "이투데이",
+      "published": "2026-07-03T10:00:00+09:00"
+    },
+    {
+      "title": "2026 청약 한눈에 | 경쟁률·청약일정·줍줍 총정리 (매일 업데이트)",
+      "link": "http://www.ikld.kr/news/articleView.html?idxno=337040",
+      "source": "홈두부",
+      "published": "2026-07-03T09:59:30+09:00"
+    },
+    {
+      "title": "이성훈 LH 사장 취임…주택공급 정책, ‘선언’에서 ‘실행’ 단계로",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BcXl1MVUzQkhtRnVOVWJqamhUcDVZN0xDd1doZVJuSURjT0hPUWs2cWh3TWNVdnBlTDZhdHhPc3pJZHNJTVpaOXVlVzBfTGdfQlBydVFJdDQ3RTZoQlM3LUVsN19FbGZf?oc=5",
+      "source": "녹색경제신문",
+      "published": "2026-07-03T09:58:54+09:00"
+    },
+    {
+      "title": "경기도, 4일 수원서 전세사기 피해자 대상 권리구제 설명회 연다",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2220905",
+      "source": "아시아뉴스통신",
+      "published": "2026-07-03T09:58:50+09:00"
+    },
+    {
+      "title": "가전할인 받고 부동산 안전거래 서비스 혜택까지",
+      "link": "https://economist.co.kr/article/view/ecn202607030003",
+      "source": "매일경제",
+      "published": "2026-07-03T09:57:10+09:00"
+    },
+    {
+      "title": "중랑구, 재건축 전담조직 '신속추진지원팀' 신설…민선 9기 주거환경 개선 공약 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yRUF6aTc5OGZIZ3dfY0VaYUNNNTJ0a0hvMXpfS1g0d1daWjBIS1lKMXlKNlpiX0lqX09IelU0cGYwXzIwSkRUVQ?oc=5",
+      "source": "팝업뉴스",
+      "published": "2026-07-03T09:56:00+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자 위한 '권리구제 법률안내 교육' 실시",
+      "link": "https://www.newspim.com/news/view/20260703000225",
+      "source": "뉴스핌",
+      "published": "2026-07-03T09:54:00+09:00"
+    },
+    {
+      "title": "'반세기 재건축 대마' 은마·잠실5, 마지막 관문만 남았다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QMzd2UWlPOC02OVJLYml6ZlBGRjk5R0h1MEFGUlZyX29NT3BvUUhtbXlEdldQVVNpSGdLYVFVQmJnTmxhUzBrdWtEU0xUWk9WeVotektXNEwwX25ldVJfWVV4YVN0WXZj?oc=5",
+      "source": "ebn.co.kr",
+      "published": "2026-07-03T09:53:24+09:00"
+    },
+    {
+      "title": "‘강남 대어’ 은마 본궤도…프리미엄 재건축, 창호도 하이엔드 전쟁 [중기+]",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xMExGMG5Tc29ERFdzVTNkMWJnUU15bWVRbDNvX2FhRnNNMXh0cmhZc2FZaUR0cEQ5Q1QySmszVWdXSHF6b0RBVlFSQmwybHFmeWlaRy1n?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-07-03T09:45:02+09:00"
+    },
+    {
+      "title": "DL이앤씨, 'e편한세상 분당 퍼스트빌리지' 이달 20일부터 청약",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423228",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T09:44:38+09:00"
+    },
+    {
+      "title": "김현기 강남구청장, 은마아파트 찾아 사업시행계획인가서 직접 전달",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ajFkXzhtZ3VmWVU5SkVUUjU5Q25LOUhzT1RrVUcwaW1qanFURy1VMEdweF8zOFVvQ2NqdVB4UEY1QzFFaXhPMVczYVVidmlFdnB2WklzTmEzcGM?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-03T09:40:35+09:00"
+    },
+    {
+      "title": "이사 수요 잡는다…롯데하이마트, 부동산 안심 거래 솔루션 제공",
+      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068359",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T09:36:26+09:00"
+    },
+    {
+      "title": "10대 건설사 청약경쟁률, 10대 외 건설사의 4.5배...분양시장 양극화 심화",
+      "link": "https://economist.co.kr/article/view/ecn202607030004",
+      "source": "스마트투데이",
+      "published": "2026-07-03T09:36:00+09:00"
+    },
+    {
+      "title": "10대 건설사 청약 경쟁률, 非10대 건설사보다 4.5배 높았다",
+      "link": "https://www.hankyung.com/article/202607033536i",
+      "source": "한국경제",
+      "published": "2026-07-03T09:35:10+09:00"
+    },
+    {
+      "title": "대우건설, 20년 만에 美 부동산 개발시장 재진출…디벨로퍼 사업 본격화",
+      "link": "https://www.etoday.co.kr/news/view/2599918",
+      "source": "이투데이",
+      "published": "2026-07-03T09:35:00+09:00"
+    },
+    {
+      "title": "분당30·평촌6·중동5곳…1기 신도시 2차 재건축지구 선발 경쟁",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MVzhjLU9HbHVsVG90dWY1XzdKQ3Z4U0xOXzBsUjdxRHlaamk4aEhCUkVWSWlIcTdHa1FSbkhuNlhCMU9ZcXBQcEhhTTY0eThRanZnT0o3djNyQ1k4bUhpb2ZmQlBiSHZTZ1lvVFF5MERzZUU?oc=5",
+      "source": "하우징헤럴드",
+      "published": "2026-07-03T09:35:00+09:00"
+    },
+    {
+      "title": "롯데하이마트, 부동산 계약부터 가전 구매까지...'원스톱 이사 서비스' 구축",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=125527",
+      "source": "팝콘뉴스",
+      "published": "2026-07-03T09:33:12+09:00"
+    },
+    {
+      "title": "대우건설, 20년 만에 美 부동산 재진출…뉴저지에 '540세대' 짓는다",
+      "link": "https://kbthink.com/news-list/view.html?newsId=20260703142914858",
+      "source": "뉴스락",
+      "published": "2026-07-03T09:31:42+09:00"
+    },
+    {
+      "title": "대우건설, 뉴저지 주거개발 투자…20년만 美 부동산 개발 시장 재진출",
+      "link": "https://m.joseilbo.com/news/view.htm?newsid=571225&class2=&class=5",
+      "source": "헤럴드경제",
+      "published": "2026-07-03T09:31:26+09:00"
+    },
+    {
+      "title": "은마·잠실5, 사업시행인가 획득…23년 만에 재건축 본궤도 진입",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mVkFJVVlQOFo2WFNfSFlBdElmb2poRkdPS2ZHRG9ST0tsQlB4ZUhZaWtaamVJeC1seUpaNmR3SVN5QzF5d3dmYmFJbTFsck1fWHlERnhxbUFWSXhiMkNpSVZXZjEtMUdkUEE?oc=5",
+      "source": "nbn 시사경제",
+      "published": "2026-07-03T09:27:30+09:00"
+    },
+    {
+      "title": "내용증명부터 형사고소까지…경기도, 4일 수원서 전세사기 권리구제 교육 - 보도자료 | 기사",
+      "link": "https://www.hkbs.co.kr/news/articleView.html?idxno=827007",
+      "source": "더팩트",
+      "published": "2026-07-03T09:27:24+09:00"
+    },
+    {
+      "title": "동작 센트럴 동문 디 이스트 청약 (’26. 7/13~16)",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=05270966645510584&mediaCodeNo=257",
+      "source": "홈두부",
+      "published": "2026-07-03T09:27:15+09:00"
+    },
+    {
+      "title": "전세사기 불안 커지자…롯데하이마트, '부동산 안심서비스'로 고객 잡기",
+      "link": "http://breaknews.com/1218933",
+      "source": "뉴스웍스",
+      "published": "2026-07-03T09:27:03+09:00"
+    },
+    {
+      "title": "대우건설 20년 만에 미국 부동산 시장 재진출",
+      "link": "https://www.fnnews.com/news/202607030912372757",
+      "source": "뉴스클레임",
+      "published": "2026-07-03T09:26:52+09:00"
+    },
+    {
+      "title": "롯데하이마트, 프롭티어와 ‘맞손’…부동산 계약부터 ‘원스톱 시스템’ 구축",
+      "link": "https://www.sedaily.com/article/20063352",
+      "source": "서울경제",
+      "published": "2026-07-03T09:24:45+09:00"
+    },
+    {
+      "title": "대우건설, 美 부동산 본격 진출… 뉴저지 주거개발",
+      "link": "https://www.hani.co.kr/arti/economy/property/1266389.html",
+      "source": "아주경제",
+      "published": "2026-07-03T09:24:03+09:00"
+    },
+    {
+      "title": "경기도, 4일 수원서 전세사기 피해자 대상 권리구제 설명회 개최",
+      "link": "https://www.dailian.co.kr/news/view/1662947/",
+      "source": "데일리안",
+      "published": "2026-07-03T09:24:00+09:00"
+    },
+    {
+      "title": "DL이앤씨, 경기 ‘e편한세상 분당 퍼스트빌리지’ 주택전시관 열어",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wNDZocDY3VUxidkxzSEpvc21UVzR4SE5MN1p2RWE4R0dwV2xLa1dYSGk4TWRhQU9FZXNTQTZ4QWJXNzhFNThTZWZwU0ZrSldndmtMc21Ta2hLSDBGeGQxRlVKZHFvUVlKMWNzNV9n?oc=5",
+      "source": "아시아투데이",
+      "published": "2026-07-03T09:16:56+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자 대상 권리구제 설명회 개최",
+      "link": "https://news.nate.com/view/20260703n05850",
+      "source": "네이트",
+      "published": "2026-07-03T09:12:00+09:00"
+    },
+    {
+      "title": "롯데하이마트, 부동산 계약부터 가전 구매까지…'원스톱' 서비스 구축",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=305668",
+      "source": "이투데이",
+      "published": "2026-07-03T09:11:00+09:00"
+    },
+    {
+      "title": "경기도, 7월 4일 수원서 전세사기 피해자 권리구제 교육 실시",
+      "link": "https://v.daum.net/v/20260702152210500",
+      "source": "웹이코노미",
+      "published": "2026-07-03T09:09:56+09:00"
+    },
+    {
+      "title": "[송윤주의 부동산생태계] 세운지구, 오피스 변혁 가능할까…또 20년 표류 안 하려면",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=378651",
+      "source": "에너지경제신문",
+      "published": "2026-07-03T09:05:42+09:00"
+    },
+    {
+      "title": "돌고 돌아 20년 넘게 걸렸다...잠실5단지 재건축, 드디어 사업계획 인가",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ESm82Q01kY0RDUTN4UVo5WWhRZVVZQVBoVW5hTm1ETmhfTFhRMDRBMXI1V1ZhQ0FFZVZOSGNiOTM0S1RyZ3ByVC1GbDQ4cHZ6cE1ocHlwVng0Q0tKZktNREtpeFFtT09BRHk2dC1HTVg?oc=5",
+      "source": "하우징타임즈",
+      "published": "2026-07-03T09:05:00+09:00"
+    },
+    {
+      "title": "“이러다가 대형 건설사만 남겠네”...10대 건설사로 청약 ‘일방통행’",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6Ul9EMldaSlNrVUt0NVJkeC1kUjdSdzNmdW9ScUFJYkpwcUs2WG5uU09xUVFIUFZqMWVRTkEwSjgzcTVtTmtxa1ViQ0F5c1NJaWV5cE40amdTYXlObUZkSExRa0JnMzBGaHZtRA?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "published": "2026-07-03T09:03:16+09:00"
+    },
+    {
+      "title": "분당 신혼희망타운 첫 분양… 'e편한세상 분당 퍼스트빌리지' 청약 돌입",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJYl9aRDh0NFkyMEI3S1Brekl5UzBiQ0FGS1BmZk1FWnJmMzBHeUxjZDZoc3dqcThuVzFnM3NXQTRaZWo3QzJCbnFxczh6SDZDRlhyNzRyVWV2b3paaEp6QTFFYjh2aXdYU205c2VHTXc?oc=5",
+      "source": "Korea IT Times",
+      "published": "2026-07-03T09:01:35+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자 권리구제 법률교육 실시",
+      "link": "https://www.metroseoul.co.kr/article/20260702500571",
+      "source": "이뉴스투데이",
+      "published": "2026-07-03T09:01:31+09:00"
+    },
+    {
+      "title": "'동탄역 대방 엘리움' 7~8일 청약 접수",
+      "link": "https://kr.investing.com/news/stock-market-news/article-2004739",
+      "source": "전자신문",
+      "published": "2026-07-03T09:00:00+09:00"
+    },
+    {
+      "title": "기장군, 무주택 다자녀가구 전세 대출이자 지원 확대",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2445080",
+      "source": "메트로신문",
+      "published": "2026-07-03T08:59:10+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자 맞춤형 법률 교육 추진",
+      "link": "https://news.nate.com/view/20260703n05328",
+      "source": "네이트",
+      "published": "2026-07-03T08:59:00+09:00"
+    },
+    {
+      "title": "롯데하이마트, 부동산 거래 '원스톱 시스템' 구축한다",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02781446645510912&mediaCodeNo=257",
+      "source": "스트레이트뉴스",
+      "published": "2026-07-03T08:58:35+09:00"
+    },
+    {
+      "title": "[연금 부동산③] \"고비는 넘겼지만\"…위험천만한 홍콩빌딩 베팅 '경고등'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13TDQxZXdUQ3pZNDNMLUFJTzlPczBmYUtFdVFxUE5aejJhdExUeG5GaFNVMFR5V3dvNThraFFabWNqNm9vRk1mUWljaGtVQ21raktGZi1GLTlfNTduNXlmVmNud0IyUnVybzM5WTdHM3I?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T08:58:11+09:00"
+    },
+    {
+      "title": "[연금 부동산②] 초유의 GP 교체…센터필드 회수 복잡해지나",
+      "link": "https://www.ytn.co.kr/_ln/0101_202607031343238702",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T08:58:08+09:00"
+    },
+    {
+      "title": "[연금 부동산①] 끊이지 않는 잡음…국민연금 부동산투자실",
+      "link": "https://m.ytn.co.kr/news_view.php?key=202607030843100355&s_mcd=0134",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T08:58:00+09:00"
+    },
+    {
+      "title": "\"부동산 계약부터 가전 구매까지\"…롯데하이마트, '원스톱 시스템' 구축",
+      "link": "https://v.daum.net/v/20260703113231386",
+      "source": "더팩트",
+      "published": "2026-07-03T08:57:54+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자 권리구제 법률교육 4일 수원서 개최",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=276322",
+      "source": "프레시안",
+      "published": "2026-07-03T08:52:41+09:00"
+    },
+    {
+      "title": "무주택 다자녀가구 전세자금 대출이자 지원 대상자 확대",
+      "link": "https://biz.heraldcorp.com/article/10796820",
+      "source": "헤럴드경제",
+      "published": "2026-07-03T08:52:07+09:00"
+    },
+    {
+      "title": "롯데하이마트, 이사 고객 선점 전략 강화…부동산 거래 안전 서비스 도입",
+      "link": "https://www.socialvalue.kr/news/view/1065580356423883",
+      "source": "매일일보",
+      "published": "2026-07-03T08:49:19+09:00"
+    },
+    {
+      "title": "인천 아파트값 0.04% 올라… 연수·중구 상승세 견인",
+      "link": "https://www.news1.kr/realestate/general/6217043",
+      "source": "B world",
+      "published": "2026-07-03T08:44:04+09:00"
+    },
+    {
+      "title": "이례적 현상 벌어지는 부동산...\"현장 상황 더 심각\" [굿모닝경제]",
+      "link": "https://v.daum.net/v/20260703120314491",
+      "source": "YTN",
+      "published": "2026-07-03T08:43:00+09:00"
+    },
+    {
+      "title": "DL이앤씨 ‘e편한세상 분당 퍼스트빌리지’ 분양…20일부터 청약 - 조선비즈",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/109185",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T08:42:00+09:00"
+    },
+    {
+      "title": "롯데하이마트, 부동산 거래사고 예방 서비스와 맞손…상호 할인",
+      "link": "https://www.insidevina.com/news/articleView.html?idxno=43521",
+      "source": "연합뉴스",
+      "published": "2026-07-03T08:40:05+09:00"
+    },
+    {
+      "title": "“대출부터 청약까지 핵심만 콕 짚는다”… '청년 실전경제교육’ 추진",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WWjd6cTg3Z1F2RWpWdHZ5OTVOZ2tEYlhaRkVMRm03Smdfa25HZlYzZW5qU2ZVT05mR3V4QzhkeTlGbmE4NFVMeXJ5Nlo4UmdYdkEzbFFBYzVvbHF3M3hzb2NYMXRTVFNtVHc?oc=5",
+      "source": "영등포투데이",
+      "published": "2026-07-03T08:40:00+09:00"
+    },
+    {
+      "title": "\"전세 소멸에 주거사다리 붕괴…직접 주거복지 늘려야\"",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1715008",
+      "source": "연합인포맥스",
+      "published": "2026-07-03T08:37:13+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자 대상 '권리구제 법률안내 교육'",
+      "link": "https://www.ytn.co.kr/_ln/0102_202607022256201462",
+      "source": "뉴시스",
+      "published": "2026-07-03T08:36:23+09:00"
+    },
+    {
+      "title": "LH 신임 사장에 이성훈 靑비서관…8개월 공백 끝, 공공주택 공급 속도",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qb1ZSOXZCUkN1Q3pnbHo5TFU5ZUFiSWh3YTVveXJqcnhsSXE4NVhRV0dFZXM1WnQ3cTBDdERwbFJvOWlWODdwcmw5VlZ4dXhQTFk3aUQ5NTRTWVoycjFXd3RPSjR1cy1nSU5lbldIaDdPR0HSAXdBVV95cUxOWjJXY1hzbXBOQ0hNd0JfbERXUkVDWnF6OWk0eEYtUkVNQTBkTFZEV0pkcXV0OEZpNElSUGxMcW5MQ3dhVFFQM0trRXdpb0R6RHpTWE9PRlp0SHAyT0NHbnBlUDFudy1CNEJMeVBiQWJnRUJJbTRTaw?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-07-03T08:32:45+09:00"
+    },
+    {
+      "title": "[인터뷰] '재선 성공' 신상진 시장 \"분당 재건축 2조원 지원\" 속도 낸다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zSFBrak1URzdEeWswMXpMU2x3VjNhbzdtRXdRdmg5Q05YNHRrMS0xSVBxUmh4RUt6WDRxekYxUGdGd3c1c2wzbUs4LVlqQTg?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-07-03T08:32:16+09:00"
+    },
+    {
+      "title": "[아파트값 상승 톱10] 경기 성남시 ‘산운마을10단지대광로제비앙’ 등",
+      "link": "https://www.etoday.co.kr/news/view/2599863",
+      "source": "이투데이",
+      "published": "2026-07-03T08:30:00+09:00"
+    },
+    {
+      "title": "'전세사기 피해' 권리구제 어떻게…경기도, 4일 수원서 설명회",
+      "link": "https://www.news1.kr/local/gyeonggi/6216541",
+      "source": "뉴스1",
+      "published": "2026-07-03T08:27:33+09:00"
+    },
+    {
+      "title": "경기도, 4일 전세사기 피해자 '권리구제 법률안내' 교육",
+      "link": "https://news.nate.com/view/20260703n04382",
+      "source": "네이트",
+      "published": "2026-07-03T08:24:00+09:00"
+    },
+    {
+      "title": "롯데하이마트, 부동산 계약 단계로 고객 접점 넓힌다",
+      "link": "https://www.seoul.co.kr/news/economy/2026/07/03/20260703500081",
+      "source": "이데일리",
+      "published": "2026-07-03T08:22:17+09:00"
+    },
+    {
+      "title": "경기도, 전세사기 피해자 대상 권리구제 법률안내 교육 실시",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=300898",
+      "source": "월드장애인사랑뉴스",
+      "published": "2026-07-03T08:09:54+09:00"
+    },
+    {
+      "title": "기장군, 무주택 다자녀가구 전세자금 대출이자 지원 확대",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2445103",
+      "source": "이뉴스투데이",
+      "published": "2026-07-03T08:05:00+09:00"
+    },
+    {
+      "title": "김현기 강남구청장, 은마아파트 찾아 재건축 인가서 전달",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WVHBtUXZvQlJ6aEVhQ2N6T2ZnXzhHS1RSbjA3T1hHTmZ4WkdOX25ScTlNQUtqcXVZdE1TUGVrQWNxRE9GZDYtcHAxS2VnRjZvRFNNVkRaalcxd182dFNZVnpSLV9obGg1ZGxWUExKMULSAXRBVV95cUxNcV83aG04MVR3a2dFX2dwMlhPcjhKOVE4aUtEZlY0aW9tajVVdTJ1a05aa29DOXpJU3lOSkFFR1RiZ2FFVURTOGh2YmRsQVp3VXdFQ0ZDV2wtOUpNQi0wYzRudG42anNMWEIyai1iem5OSXQxSQ?oc=5",
+      "source": "이뉴스투데이",
+      "published": "2026-07-03T08:05:00+09:00"
+    },
+    {
+      "title": "중랑구, 공동주택 재건축 신속추진 전담조직 신설",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxcmhYaGtPM040Qk1fajFhYVVMSGl4b3JLVlR6M0wtVWdXQ21wUjZQNl85c2I4ME1sUWMxTmljb1VmUUtZSGEzLUstU3Y5QldvdVBzMzVB?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-07-03T08:00:38+09:00"
+    },
+    {
+      "title": "강남구, 은마아파트 재건축 인가서 현장 전달",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fdVUyQWhBcWM4Z053WHBmcVVXZjRyVGtDUVNEeXpORExVaGdGVHJDckVSWVhNQ3M3YThSeVU0Y0xHQ1h5UmNlZzY1aGtvYkl6Q3RvQzZ4elgyMXlMZV9ua2RsX2Q4NndIV19FOXBuemV5cWpF?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published": "2026-07-03T07:51:57+09:00"
+    },
+    {
+      "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
+      "source": "한겨레",
+      "published": "2026-07-03T07:47:01+09:00"
+    },
+    {
+      "title": "통탄 아파트값, 멈출줄 모르는 지속세...수도권 주간 상승률 1위",
+      "link": "https://www.donga.com/news/Economy/article/all/20260702/134225319/1",
+      "source": "뉴스후플러스",
+      "published": "2026-07-03T07:30:00+09:00"
+    },
+    {
+      "title": "경기도, 4일 수원서 전세사기 피해자 대상 권리구제 설명회 실시",
+      "link": "https://www.newsis.com/view/NISX20260703_0003694316",
+      "source": "이코노뉴스",
+      "published": "2026-07-03T07:20:00+09:00"
+    },
+    {
+      "title": "경기도, 4일 수원서 '전세사기 피해자 권리구제' 법률안내 교육",
+      "link": "https://news.nate.com/view/20260703n03297",
+      "source": "네이트",
+      "published": "2026-07-03T07:20:00+09:00"
+    },
+    {
+      "title": "[증권사 부동산 리스크 점검] ⑦KB증권, 건전성 개선 열쇠 'PF 관리'",
+      "link": "http://www.mediaissue.net/3456982",
+      "source": "fetv.co.kr",
+      "published": "2026-07-03T07:00:00+09:00"
+    },
+    {
+      "title": "한 발 빠른 '김용범 페북'…더 강한 부동산 규제 나오나",
+      "link": "https://news.bizwatch.co.kr/article/real_estate/2026/07/01/0034",
+      "source": "비즈워치",
+      "published": "2026-07-03T06:36:03+09:00"
+    },
+    {
+      "title": "[주간IPO] 7월 둘째 주, 공모주 청약 일정 없음…에이치엘지노믹스 수요예측",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EeDJXcFd1UkE5VjljYzhPeUFJWGlrLWlUY3B1MjhYaUdjNXdYdGNHXzJrSzd5TzRueUFWbk9JQlVqODgzMk1kanUtTDFFeEtRaXpFRjJKZjQ0c0s1Zmk2RVBjcEpleHZXSllxTzJFZnl0NW8?oc=5",
+      "source": "소비자가 만드는 신문",
+      "published": "2026-07-03T06:09:00+09:00"
+    },
+    {
+      "title": "[심층기획] 李정부 부동산 정책 시험대…규제 넘어 '시장 신뢰' 회복이 관건",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZUjkwelg2bklrOW9DSkh6WVlsZHVxb1NpbXFVODg1a25DdzZuTkRlNGhaZE9kSWNYakt4SXpXdmw5NzdUZl94ZXBWUGFWRXViYUE4WXBSLTU5Z25iejljVEt4YWxtY2wzT1Q5Q1JWbGR5Sk3SAXdBVV95cUxOUzEtZDRrbkw1aXNsb3c0dEVieW9GQWNONXdVcFo2UDRkdGlpOUpWWXI2ZU51WjVDUmN2Mld2cTlpTTFwRDJqZEtXWXVUaDBmN0pwcmlaMmdLRmlpZGVsSkY1Y2tVWmZZLXBXRDFmMGlOTVhsdzdETQ?oc=5",
+      "source": "뉴스프리존",
+      "published": "2026-07-03T06:05:38+09:00"
+    },
+    {
+      "title": "[부동산 稅전쟁]③ 정권 따라 오르내린 세금… 시장은 “버티면 된다” 학습했다 - 조선비즈",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/07/03/EHFESR3GN5GA3J3G7PGY32XEEM/",
+      "source": "Chosunbiz",
+      "published": "2026-07-03T06:03:22+09:00"
+    },
+    {
+      "title": "OECD “韓 부동산稅, 이미 세계 최고 수준”...“LTV도 손질해야”",
+      "link": "http://www.thevaluenews.co.kr/news/199835",
+      "source": "대한경제",
+      "published": "2026-07-03T06:01:15+09:00"
+    },
+    {
+      "title": "규제 이후 동탄 아파트값 추이 주목",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=138891",
+      "source": "세계일보",
+      "published": "2026-07-03T06:00:00+09:00"
+    },
+    {
+      "title": "정권 바뀌자 초저금리 대출 삭제…왕숙·교산도 뒤통수? LH '뉴홈'의 배신",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10alkxMEJWMWVUSmcyUlVWZkI5MDZxNngxLVNpZ1ZJMUluNXlaRU1GR2lDaEJiNFNtOTFSOEV5UWprZkhwUDlidDJfZ2ZGX1BmQ1RYRjJaM0tWc1hNazVZTGhEM0k2a085Q0lEV3JyMEd4NU83Qnh5YlRhOWx2MVHSAXNBVV95cUxQZHNEQUVLN2RLNHMtNENQSkp6Xy1NclBjVEJsNERVWU9uYUtKOGNNQTZnZ0UySjFiQWRqaDR2ZnlTdGwxdkpDM0Y0a3BiS3dOTUt5SXYzcWNLQ3JEQ1B1aExUNmJYQnZtc3U0QVVNSzZKSnNr?oc=5",
+      "source": "땅집고",
+      "published": "2026-07-03T06:00:00+09:00"
+    },
+    {
+      "title": "[오늘의 청약 일정] ‘트리븐김해’ 견본주택 개관 등",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40dDVEUEJWZ2J5LVZxTm1PYWhoN1Y4STBleE4xWlVDcDhPNnR6aS1FNVA4UFR6VW1BZERzb0VFa2lyZUg5bmZJZ0NvaGoway1YU0p1a0pGc0xHSnB1?oc=5",
+      "source": "supple.kr",
+      "published": "2026-07-03T06:00:00+09:00"
+    },
+    {
+      "title": "[오늘의 청약 일정] '트리븐김해' 견본주택 개관 등",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvYXlDR215MXRGakp3a3Jmd1NULUczRHZZWUtCT2hUVVZ5TUp5WWU5UjdvODREbWlSMHBoMElid2laSlh6UlhhVnZ6V3VTTDhyOVZv?oc=5",
+      "source": "네이트",
+      "published": "2026-07-03T06:00:00+09:00"
+    },
+    {
+      "title": "\"23년 기다림 끝났다\" 은마아파트 재건축 사업시행계획 인가 앞으로 '이 절차'만 남았다",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tXzNlM280al9nMVU5bnNtb1IxMGM3VFR5SktOaHNTRS1DMEZSZWtXRnJsY29VT2VLVXdFd3kwSWhEcmpYNGJBdkZUM3VTVGoxUUEyQldlY1R1OC0tYUlSUW9RYjk0WkQwXzNwT3JrQlpnZw?oc=5",
+      "source": "economicsignal.co.kr",
+      "published": "2026-07-03T06:00:00+09:00"
+    },
+    {
+      "title": "30억도 통한다…서울 청약 불패가 분양가 밀어올린다",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrcTMtbXZhTWxLdFhmWWlrZWdTUTZ2bEM1eXBoUFlCX0xaLVlBUW1xM01vVXozMXZIOUdTX25OcEpDM0ZWOEpwbXQ4UkU2MVQ4RUxYazJFdGw4Z2hJTTloZ9IBeEFVX3lxTE5lRl93VTRuUlFDMm9UUk1vM0JwZnE5VXAwMU12NGZyUEtBR2N2S0gxLVpVZERNOTVwV0g1ck9BMTJ1S2JubGppa0NSUktZLXNTZmw3TmUwWEdSYU1vbnpZY2NYVGZ4T3h3MEtZMUZNNVNZNXJxTXVzTA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-07-03T04:30:00+09:00"
+    },
+    {
+      "title": "\"반전세 월세 낼 바엔 원리금 갚지\"…전세 가뭄에 '내 집 마련' 꿈틀 - 머니투데이",
+      "link": "https://www.mt.co.kr/estate/2026/07/03/2026070219520862911",
+      "source": "머니투데이",
+      "published": "2026-07-03T04:00:00+09:00"
+    },
+    {
+      "title": "‘李 부동산 정책’ 힘 실어준 OECD… “보유세 비중 높이고 거래세 줄여야”",
+      "link": "https://www.siminsori.com/news/articleView.html?idxno=400176",
+      "source": "서울신문",
+      "published": "2026-07-03T00:30:07+09:00"
+    },
+    {
+      "title": "서울 은마아파트 재건축 ‘인가’… “20년 끈 사업 본격화 신호탄”",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRHg2Zlg0S25PSVJwVnZBUF9CTGs3NTZXVzZ3bVlnbS1UU0FkR3RiY1hrWUFzNE11dDgxR1ZIRi1Ta1RwNzA2Q3dTVUc1SUNSR3dLVWtGV0RxUzRzSF9qckIwcE5hUHR2dGxwMjVIQXZ2V1d0eEM4Zm10cWg5STE5WHByX0dSWEJadjkzbDg2SFUxNlBubXfSAWxBVV95cUxQZlJrT20wZ2VqcUZZVkZiRVJQLUZsWS1Pb21SRkRKNURzRDRrM2dKTGdZTHpaUjZEbFhneXF0a1ptbUlaTWs0WHBZOE1oWHBvYkR4R1dldFQzd2N1UFRDYk5wa0RmcG42X0wwbVo?oc=5",
+      "source": "국민일보",
+      "published": "2026-07-03T00:21:00+09:00"
+    },
+    {
+      "title": "못 잡은 집값에 또 규제…李정부 부동산 정책 시험대",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=132611",
+      "source": "v.daum.net",
+      "published": "2026-07-03T00:02:24+09:00"
+    },
+    {
+      "title": "못 잡은 집값에 또 규제…李정부 부동산 정책 시험대",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uTzZxeDBPeDdSdnc2bXJLSFp2Q0QwVWxaM3VyZGlPWkkzR0RNSWU5Z2drOTF1T3ZBVGlQX2tweFdDVG5VMi1ydEoxSFZ2UHBxdFhLLWd2QnM1UdIBVEFVX3lxTFB3T0pJdDY2Y2hfWTJaaUp1SzctNWlmaDExb2xIWW1jbUdvbFh6UUtXTllmYkE0T094RjRKR0JScVNuTk9OaG4xVUlVZS1vNWRFeFhsSg?oc=5",
+      "source": "더팩트",
+      "published": "2026-07-03T00:00:03+09:00"
+    },
+    {
+      "title": "이오스 에너지, CCM 프론티어·허드슨 베이 계열사와 합작법인 설립…1억 5000만 달러 규모 권리청약 추진",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Fd0xxNzAtTklzWlJLU0dWN3FZdTQ3UHNnOE9mWkRTOTBQSndiZThYOGhxV2FWRml6THNHMVNBMkVuaVBZQTdWMkVpQlEyX01mbENpYjVUUk5Cb2E3VjVDTExvLWhNcUFmaEN4UEExR0xfSTg?oc=5",
+      "source": "데이터투자",
+      "published": "2026-07-02T23:53:02+09:00"
+    },
+    {
+      "title": "LH 신임 사장에 이성훈 靑 국토교통비서관…10개월 공백 마침표",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfMDd0Uk1mR0FmZEs5NnQ0MngwUHJHeWg1TzlKSm9ZelpNV3I2bjNRM25fRS1Jb2JlUlluc3dHQmNyaFE5ZVBfaEZ6TnU2U2sxV1dyYVNsV3I4d9IBVEFVX3lxTE5ObXFHeGlfUUtlcy1RbENVZUNUSEpieVdBX3ZxXzVIbWQ2U09TWHpWOWp6RmhyVnE0UFlSRmgtOFZ2eExSNUlpNDZYYUN5SVp1R2cxTg?oc=5",
+      "source": "한국경제",
+      "published": "2026-07-02T23:23:05+09:00"
+    },
+    {
+      "title": "‘초소형 엑스레이’ 레메디, 일반청약 증거금 5.3조원 모아",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IT1I5di1IOVJWUzE0dVRMOHo4ZHA3eV9kT19oUURvSGo5S0xiQXdocFRPdl9rdU92cEl4Wk5nbWs5aEFYazNoYnpwY09JTkpu?oc=5",
+      "source": "매일경제",
+      "published": "2026-07-02T23:12:54+09:00"
+    },
+    {
+      "title": "OECD, 한국 부동산 거래세 축소·보유세 확대 권고",
+      "link": "https://www.ytn.co.kr/_ln/0102_202607022256431242",
+      "source": "YTN",
+      "published": "2026-07-02T22:56:00+09:00"
+    },
+    {
+      "title": "서울 전셋값 상승률 작년의 5배...\"브레이크가 없다\"",
+      "link": "https://www.pressian.com/pages/articles/2026070216334935869",
+      "source": "YTN",
+      "published": "2026-07-02T22:56:00+09:00"
+    },
+    {
+      "title": "부동산 때문에 민주당이 서울 선거 졌나 [6·3 지선 이후 유권자 인식 여론조사]",
+      "link": "https://www.insidevina.com/news/articleView.html?idxno=43524",
+      "source": "시사IN",
+      "published": "2026-07-02T22:30:06+09:00"
+    },
+    {
+      "title": "‘반도체 호재’ 전남 아파트값, 비수도권 8개 道중 상승률 1위",
+      "link": "https://www.kmecnews.co.kr/news/articleView.html?idxno=50635",
+      "source": "v.daum.net",
+      "published": "2026-07-02T22:25:51+09:00"
+    },
+    {
+      "title": "‘반도체 호재’ 전남 아파트값, 비수도권 8개 道중 상승률 1위",
+      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=63760",
+      "source": "동아일보",
+      "published": "2026-07-02T22:24:00+09:00"
+    },
+    {
+      "title": "“보유세 높이고 거래세 낮춰야”…OECD, 부동산 세제개편 권고",
+      "link": "https://www.khan.co.kr/article/202607022143005",
+      "source": "경향신문",
+      "published": "2026-07-02T21:43:00+09:00"
+    },
+    {
+      "title": "서울 부동산도 밀어붙였다.. 아파트값 '반전' > 뉴스",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465027",
+      "source": "지데일리",
+      "published": "2026-07-02T21:29:00+09:00"
+    },
+    {
+      "title": "경산 펜타힐즈W 1단지 청약 ‘흥행 대박’",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZRldrQnNVemZMN3lGbkV2X196WXd3VEpaTHg0ZWlRMDduTlJubDFnNWk4NG5yb0pUSXlaUW1IVmpaYmNrOGVmVVp1S2RaVklVek9ibmtCQVNSUEJDTW9veTNxTWQzOTNMWThF?oc=5",
+      "source": "대구신문",
+      "published": "2026-07-02T21:18:14+09:00"
+    },
+    {
+      "title": "이오스 에너지, 주주 대상 신주인수권 청약 실시…7월 21일 마감",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84SmNoYXZvNEdzcXVDQW80NjJiSEkzam1JYjg0ZDN1UmdZSm9pY1hZNUhadHVFT0xaMllPOUpyemVoREMwaU96NmRrOUFRX3V1NG1EWUZKZHh0SXd3YzRqeE5iNnB6MjktMGtFNFlQQTlwbUU?oc=5",
+      "source": "데이터투자",
+      "published": "2026-07-02T21:16:02+09:00"
+    },
+    {
+      "title": "강남 ‘은마아파트’ 재건축 계획 인가…이르면 2028년 착공",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nUnQxZkxVTldWZU0tLTdDMTl1VkdIMUpHRUxhbU8ySTExdHREUGU4MjM0djZRdHRuOTRTd0V5SmU1Q2w4c1BtR2FGcFAtWkNsWHZGZkRBTkhxZ9IBX0FVX3lxTE8zZEZoaVFDWXN1OXVxZjNlSU1LaW9tOS1nTG1IQmJvQmZiT2JPMHAzc25vQmlBOC1BRU9zcXFSRlBtckcwQUxQSXk0V0ladVM3ZC1lLXg3N09vX040QTdj?oc=5",
+      "source": "경향신문",
+      "published": "2026-07-02T21:10:00+09:00"
+    },
+    {
+      "title": "주택금융공사, ‘전세보증금반환보증 권리조사’ 사업자 선정",
+      "link": "https://www.newsprime.co.kr/news/article.html?no=739051",
+      "source": "환경일보",
+      "published": "2026-07-02T20:41:18+09:00"
+    },
+    {
+      "title": "“하반기 수도권 회복 전망”…전남광주 부동산·건설시장 침체 장기화",
+      "link": "https://www.etoday.co.kr/news/view/2599896",
+      "source": "v.daum.net",
+      "published": "2026-07-02T19:36:37+09:00"
+    },
+    {
+      "title": "다주택자 규제에 공급 감소까지…서울 전세 매물 반년새 12% '뚝'",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6834521_36933.html",
+      "source": "이데일리",
+      "published": "2026-07-02T19:14:22+09:00"
+    },
+    {
+      "title": "OECD “한국, 부동산 보유세 올리고 거래세 낮춰야”",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=82891",
+      "source": "한겨레",
+      "published": "2026-07-02T19:12:00+09:00"
+    },
+    {
+      "title": "규제효과 본격화되나…화성·동탄 아파트값 상승폭 2주 연속 둔화",
+      "link": "https://v.daum.net/v/20260702222552982",
+      "source": "한겨레",
+      "published": "2026-07-02T19:12:00+09:00"
+    },
+    {
+      "title": "은마아파트 ‘재건축’ 2028년 첫 삽…서울시 “절차 1년 단축”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iWG9NeW5YR1BtRWswSmptQzRWM2hVV0JCWThCOExJTmJ6U25uNUlmY1IxOWFHNWpkcDlGalZEMTZDRXo4aHlBbG43SHZmVVBrTW0tbFNvbmVfVEp4QlHSAWNBVV95cUxPa3RWS3NqV2FxNGtkdF9HTThsa2VzbTZKeGpENmJ5cHF1NlRjMTZMVG9BSzBxZlVaY3pnSjBsRkFDc1c2TGFlRmtCTWpsS0xsTXEwWFhLV2NDcWl3Q0xQZzhMNFk?oc=5",
+      "source": "채널A",
+      "published": "2026-07-02T19:12:00+09:00"
+    },
+    {
+      "title": "‘은마아파트 재건축’ 사업시행계획인가…2028년 착공 목표",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MQ2VrSDlhdjJ2SV85U2FlSTR4a3dsREVqVjBBRktQM2tDcG9Jc1NvWExvYXBCREtHeW9XQ0FBV1l3aWNOZG82QmNNV3VvRU5yNUlkZTZ4Nkg0RXBWd01VejE4TQ?oc=5",
+      "source": "한겨레",
+      "published": "2026-07-02T18:45:00+09:00"
+    },
+    {
+      "title": "[시사플랫폼] “전남광주에 반도체 클러스터 추진 발표 이후 부동산 기대심리 상승”",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1266408.html",
+      "source": "v.daum.net",
+      "published": "2026-07-02T18:33:51+09:00"
+    },
+    {
+      "title": "유승광 서천군수 첫 결재…\"특화시장 재건축 신속 추진\"",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nSkNobi1Qd3dJMnVWdDJyUzhiTjV1VU5hVGE5UmxPX1JENXRnQjM0eHRDbkVmNlNOQm9FTktORDM4OV85Uzd1dlEwRFozZWdjdGdIOGFieVFWOEZKVUhCbE4xQ3UybUpJNTl3Z2ZlSXdlUQ?oc=5",
+      "source": "굿모닝충청",
+      "published": "2026-07-02T18:20:46+09:00"
+    },
+    {
+      "title": "\"8억 전세대출 사기 보고 누락\"..하나은행 과태료 징계",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=586410",
+      "source": "포쓰저널",
+      "published": "2026-07-02T18:02:39+09:00"
+    },
+    {
+      "title": "서울 집값 상승세 둔화…중저가 아파트는 더 올랐다",
+      "link": "https://www.gpkorea.com/news/articleView.html?idxno=144341",
+      "source": "한국경제",
+      "published": "2026-07-02T18:00:49+09:00"
+    },
+    {
+      "title": "20년 기다린 은마·잠실5 재건축 2028년 빅매치…한강변이냐, 학군지냐",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HcWxaSEp2YmZPNFA0WW5mZ0xHNzhmdjJ2YlFpMWxLVklVUTNQcnVjaExEc3pqTm1BQ0pYNy1HTk5HNkdubmd0UEFnT0M0bVJnZFV3VTh5SnVsZ1JET3B3Um01aUhuVXpneDh2aFBZazlKdV9rd3RSRGNoSXZ1a2fSAXNBVV95cUxQWThyRlhsV0E3NmVWNTNqMFlVcHNpUnZSLXdpQlZnNEJPLWNWX2Y1TGlIZ3I2ZFN0U3hMWW5fLXd4WDFoTnA1dzdCZDMzcF9NZ0dlUkk2QTBZbWhyVXljMWhDNndXZVlsODZjQmJjRFlySXNN?oc=5",
+      "source": "땅집고",
+      "published": "2026-07-02T17:58:03+09:00"
+    },
+    {
+      "title": "경산 ‘펜타힐즈W 1단지’ 청약 4202건 접수…84㎡ 1순위 마감",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzZWx0VHN6cjVqaEowbG0wd3B0SjFaWjdLTHpFd200UGdfUzdiOE1IZ3ptNWNtQmpsVlBmamM3SU93Smh2RFAwWGxZLXlUeDNQbFJ4d2N5RUZxQ19jdV9kUTFNSVJid283?oc=5",
+      "source": "대경일보",
+      "published": "2026-07-02T17:57:19+09:00"
+    },
+    {
+      "title": "삼성·SK 대규모 투자 여파, 서울·경기 아파트값 ‘상승’ 충청권은 ‘보합’",
+      "link": "https://m.ekn.kr/view.php?key=20260702028158703",
+      "source": "동양일보",
+      "published": "2026-07-02T17:53:10+09:00"
+    },
+    {
+      "title": "서울 집값 상승세 둔화…중저가 아파트는 더 올랐다 [퇴근길 30초 경제]",
+      "link": "https://news.nate.com/view/20260702n32498",
+      "source": "네이트",
+      "published": "2026-07-02T17:53:00+09:00"
+    },
+    {
+      "title": "레메디, 일반청약 경쟁률 1707대 1…증거금 5.3조",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kcXB0QTB1VFpNRjJwRHJWZUdPNXRoRFMyWE5MUTVEV1FReFF4RVhmbW14TG1TTlZYMHZwMUNYQWdWNk5FYko4OTB4UzdMVm54dVBIakc0ZlphM1hUVVVXMDVfUFJXZ2xrSlRsOE1RZw?oc=5",
+      "source": "뉴스톱",
+      "published": "2026-07-02T17:46:01+09:00"
+    },
+    {
+      "title": "[AI 부동산 투데이] 수도권 청약 당첨자 87%가 3040…'실수요 쏠림' 심화",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53UW16TGstM29UWGFweFRFd0MweFNzZnpIenlZTmRYRXAwaE1kWEVndjUyLTZ2U3lwM3RFX2ZWVGdJZ19FN1h2czhsYXEzSVF5MHJsMEs1VzhDRWxX?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-02T17:46:00+09:00"
+    },
+    {
+      "title": "논란의 주간 아파트가격 동향 발표 …폐지 vs 개선?",
+      "link": "https://news.mtn.co.kr/news-detail/2026070216402568427",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-07-02T17:42:13+09:00"
+    },
+    {
+      "title": "은마 재건축 7개월만에 사업시행계획인가... 28년 5,850세대 착공 목표",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qcUI4M01ta1MybjBUQW40T3o1ZWQ3aGR4UXg0QjRNQ0tuVWxlUHB6eDhMS1lnUlBhSy0xRTF4NDJla1pRQ2RqSmRtZVFvc2JCTVVQRkVPRWVvMnFDNFE?oc=5",
+      "source": "한국방송뉴스",
+      "published": "2026-07-02T17:38:40+09:00"
+    },
+    {
+      "title": "인천 집값 전역서 하락 벗어나... 전세 상승률은 매매 대비 5배 넘어",
+      "link": "http://sagunin.com/116090",
+      "source": "incheonin.com",
+      "published": "2026-07-02T17:33:01+09:00"
+    },
+    {
+      "title": "KB신용정보, HF 전세보증금반환보증 권리조사 맡는다",
+      "link": "https://www.g-enews.com/article/Finance/2026/07/202607021641468640e30fcb1ba8_1",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-02T17:16:15+09:00"
+    },
+    {
+      "title": "경산 '펜타힐즈W 1단지' 청약 최고 '18.58 대 1'…흥행 대박",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYTmdtcW54M3hxYVc0YThKRjE1X1NnSG93ZWhfUnNPSllXWkpLT3lvMFRyeUVfRTE0ZUNzUjZsazV4alRkM2NuTEFraTk0a21qbXRqalFsYkhfTFNRQmFF?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-02T17:11:28+09:00"
+    },
+    {
+      "title": "레메디, 공모청약 증거금 5.3조",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wUnB0OTFvZlJha0E0UW80TmhqQnRHeUhQbWdfbE1DVmZkcE5BOW1UTU0yUkFIZmVYVUVLaWR5MkF5Q2VtY2YwWXBSU1E?oc=5",
+      "source": "아이뉴스24",
+      "published": "2026-07-02T17:08:50+09:00"
+    },
+    {
+      "title": "LTV 80% 해준다며 사전청약 받은 '뉴홈' …이제와서 ‘대출 불가’",
+      "link": "https://www.sedaily.com/article/20063145",
+      "source": "이데일리",
+      "published": "2026-07-02T17:07:26+09:00"
+    },
+    {
+      "title": "반값 아파트 'LTV 80%' 믿었는데 '대출 불가'…당첨자들 '멘붕'",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xdzV3RDd5WE9WdXlSRURVYTBKaUtFMHpIRkhnUXY4VnIwVHJpWkdLMWdHQUFnSFBFVEt3SlpZNUduOG5MZHRKM09OSmg5X0U2bFdEQjdidzdRaWJpdHN5M2xzU3lFU3ZTYjZVU1VuVjRMNWNmUXJQMk9xVQ?oc=5",
+      "source": "이데일리TV",
+      "published": "2026-07-02T17:07:00+09:00"
+    },
+    {
+      "title": "올해 서울 아파트 전세 상승률 5.10%‥매매 상승률 수준",
+      "link": "https://imnews.imbc.com/replay/2026/nw1700/article/6834576_36982.html",
+      "source": "MBC 뉴스",
+      "published": "2026-07-02T17:06:40+09:00"
+    },
+    {
+      "title": "레메디, 일반 청약 경쟁률 1707대 1 기록",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YZ00tQ0V0aVJ4Q25qNHg3cndROG5nWlFObDZMb0JhRklnTnJkTktrOVRoSWpsWW5zaTRiUTBtS3cwU09QaDBFTlQ2OThwbEV6RHAtcE9WcFBRVkJaZWZfZlNfRGg4djlKWWc?oc=5",
+      "source": "컨슈머타임스",
+      "published": "2026-07-02T17:02:28+09:00"
+    },
+    {
+      "title": "은마아파트, 최고 49층 5,850세대로 재건축",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LaUJEd0tzeG1xbTZoalRhUmFWd2tDd1RBdUdFSmJ5TzlLYjZINU9PaTFNSWVWd3ozM2VZMnY2N2pPQjdPQUM3UW50LW05SjAtTFJyOWV6YVRaR29HQTVQWlJ2Ti1Ya1lX?oc=5",
+      "source": "한국주택경제신문",
+      "published": "2026-07-02T17:01:44+09:00"
+    },
+    {
+      "title": "비강남 국평 27억에도 '완판 기대'…노량진·장위 청약 흥행 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sZm04RENORUYyNG9jdjZCRmtsRG9hTE5fNTVwQ2pINzlaM2NMSFV4U2N5c19GeGQyVm5acW9YTl85dXVwcXNYdWtNY0k2bTRKUjdRcnJxYlBtMGp5d25ScTUzX3NkMkFPWEtmMGt3RdIBb0FVX3lxTE1sZm04RENORUYyNG9jdjZCRmtsRG9hTE5fNTVwQ2pINzlaM2NMSFV4U2N5c19GeGQyVm5acW9YTl85dXVwcXNYdWtNY0k2bTRKUjdRcnJxYlBtMGp5d25ScTUzX3NkMkFPWEtmMGt3RQ?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-02T16:59:26+09:00"
+    },
+    {
+      "title": "“본청약 앞두고 대출조건 바뀌었다”…고양창릉 사전청약자들 성명 발표",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ybnVScXZma2JrN3hCU1U4YU0yQzBZOHZNZDh2R3NLRkUwbVlIbDdTTHBjUTQ5WXZZb3BINlNKeDIwZGNFTk45cTBVcFpqSUx0SzNrYTkybWNWb3pFVVg1ZzlrbkVDeW5rU2xlMmZR?oc=5",
+      "source": "아시아투데이",
+      "published": "2026-07-02T16:57:35+09:00"
+    },
+    {
+      "title": "“토허제 확대에도 상승세 지속”…서울 아파트값 0.27%↑, 동탄 1.46% 급등",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=856566",
+      "source": "에너지경제신문",
+      "published": "2026-07-02T16:56:42+09:00"
+    },
+    {
+      "title": "은마아파트 재건축 사업시행계획인가‥2028년 착공 목표",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84N1dtNjk0aW5EeHpCOEUtLThVc25pcWQxYVlZNlJqVzloVEMxam1DRG5OYnFYUkFLOXpMX2VmSWZwTzJUWnpXQ05SbWs2bFdDRW5RYWVPWko0WGk3b285WjBGWGtuSjdoSTNXOUp6ZnU1RGRubDkw0gF3QVVfeXFMTzg3V202OTRpbkR4ekI4RS0tOFVzbmlxZDFhWVk2UmpXOWhUQzFqbUNEbk5icVhSQUs5ekxfZWZJZnBPMlRaeldDTlJtazZsV0NFblFhZU9aSjRYaTdvbzlaMEZYa25KN2hJM1c5SnpmdTVEZG5sOTA?oc=5",
+      "source": "MBC 뉴스",
+      "published": "2026-07-02T16:55:48+09:00"
+    },
+    {
+      "title": "레메디, 일반청약 경쟁률 1707대 1…증거금 5.3조원 몰려",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Db1Z1cWloOFZXdFdUUkRNUlA2OTdSbWktTjJuSVpScDdyeDI0aEZVWGJTU3Vzai1wTGFwRFVURFFWbmo2Sm5LcWt3YXVzSUFwVzhMaDFMVEJTUUdQV19xNHVobWYwT0hpOXBxeVRXaDN1am9XeDE4?oc=5",
+      "source": "약업신문",
+      "published": "2026-07-02T16:55:00+09:00"
+    },
+    {
+      "title": "레메디 일반청약 흥행…증거금 5.3兆 유입 [시그널]",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000809",
+      "source": "서울경제",
+      "published": "2026-07-02T16:52:05+09:00"
+    },
+    {
+      "title": "고양창릉 본청약 앞두고 분양가 80% 대출조건 빠져…사전청약자 집단 반발",
+      "link": "https://www.munhwa.com/article/11600081",
+      "source": "아시아투데이",
+      "published": "2026-07-02T16:50:23+09:00"
+    },
+    {
+      "title": "서울 아파트값, 73주 연속 상승…경기 남부도 강세",
+      "link": "https://www.segye.com/newsView/20260702515560?OutUrl=google",
+      "source": "직썰",
+      "published": "2026-07-02T16:49:42+09:00"
+    },
+    {
+      "title": "경산 중산지구 ‘펜타힐즈W 1단지’ 청약 대박",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGOUNfTVRuVkswV1RKMXFYdkZlZjZGZWRrbVFQVk04OG1teGtYTFpLYUFjWTR5WXpMc2paTTZjelhVTFk5VWdfNGpwTzdQUUt3TTJQaXU0S0FwN2hVMEc2WWsyV1dQRGtx?oc=5",
+      "source": "대구일보",
+      "published": "2026-07-02T16:40:55+09:00"
+    },
+    {
+      "title": "전국 아파트 매매 0.09%·전세 0.11% 상승…수도권 상승세 지속",
+      "link": "https://homedubu.com/10809/",
+      "source": "국토매일",
+      "published": "2026-07-02T16:36:00+09:00"
+    },
+    {
+      "title": "레메디 공모 청약 경쟁률, 1707대 1 기록",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5COUJWRTl5dkJtcnZodEV4U0ZUYnA3OERFb0NteUF4aHNqNGs0dG9FQTdPY2NFUHlqdklSbnRuODVfMFNqeExUUURfbzJIaFlrUm5fb0RuOEVWNUIt?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-07-02T16:36:00+09:00"
+    },
+    {
+      "title": "분양가 치솟는데 청약은 북적···서울 주택시장 무슨 일?",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ETHFQT2tlSGcyZHJUY1ZJRmZtamQ1R0JhTzRDbVZsek5EbVdiM0t5TjEzMkhZcURyR1pXdmxCQUpKVFB3eThnalRZOEx2bVBib0gzc08yNk9Nc3Q1YUIteTM3SzF2LVdUbHc?oc=5",
+      "source": "서울파이낸스",
+      "published": "2026-07-02T16:29:58+09:00"
+    },
+    {
+      "title": "재건축·역세권 매수세 계속…서울 아파트값 73주 연속↑",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036914",
+      "source": "신아일보",
+      "published": "2026-07-02T16:12:17+09:00"
+    },
+    {
+      "title": "경산 펜타힐즈W 1단지 청약 4202건…지역 분양시장 반등 신호 되나",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jcXZ3aFBULWlPTmJ2OHdPU0d6LXBqVnE4YW9yMnQ3Z1pORmFiN0VWWXhWRTl3MDY0cXkxWV9wc1NqRzlSNG56ZFJvTXVBelBiMEFpZF9wWHZBYXd3UTdlZExrZjZ1TTJzTlZuU3liNA?oc=5",
+      "source": "경북일보",
+      "published": "2026-07-02T16:08:01+09:00"
+    },
+    {
+      "title": "서울 아파트값 73주 연속 상승 곡선…동탄은 또 1%대 상승",
+      "link": "https://www.senmoney.co.kr/news/articleView.html?idxno=35605",
+      "source": "센머니",
+      "published": "2026-07-02T16:05:55+09:00"
+    },
+    {
+      "title": "OECD “한국, 최고가격제 단계적 폐지해야…부동산은 거래세→보유세 전환”",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423205",
+      "source": "v.daum.net",
+      "published": "2026-07-02T16:04:16+09:00"
+    },
+    {
+      "title": "신탁 재건축은 다르네… 전용 59㎡도 ‘4베이’ 설계",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hc3VjTV9jeE1qVkYyR2UyWUFvRzJ2YWdDTkI1dnBrWFVyZWtfTXl6S1k3QUhqV1lKOElfWVlZVWx1Szc5WU5nSkFGTUNUQQ?oc=5",
+      "source": "디지털타임스",
+      "published": "2026-07-02T15:59:46+09:00"
+    },
+    {
+      "title": "與 \"서울시 재건축·재개발에 매몰…'멸실 없는 공급' 필요\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHTmJpY0tLWDByWVQ3T0p3LVppOVl2ZUxxNmxWdnNSOXVRNFFveEpLTllyNEFvRWxSVm82dGVBY0JmWkJHOXEyejhkdENISXVuVHE5NTRGTDItdllPX2R5VFpIeFFBZmRXUFBiRk1QQm0?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T15:59:36+09:00"
+    },
+    {
+      "title": "KB신용정보, 주택금융공사 '전세보증금반환보증 권리조사' 사업자 선정",
+      "link": "https://www.newspim.com/news/view/20260702000902",
+      "source": "뉴스핌",
+      "published": "2026-07-02T15:58:00+09:00"
+    },
+    {
+      "title": "반전세 전환 요구에 월세도 쑥…\"이럴 바엔 집산다\" 임장 나서는 세입자들 - 머니투데이",
+      "link": "https://www.mt.co.kr/estate/2026/07/02/2026070215212735890",
+      "source": "머니투데이",
+      "published": "2026-07-02T15:57:55+09:00"
+    },
+    {
+      "title": "OECD, 한국 부동산과세 일침 “거래세→보유세로 바꿔야”",
+      "link": "https://www.seoul.co.kr/news/economy/2026/07/03/20260703005003",
+      "source": "에너지경제신문",
+      "published": "2026-07-02T15:49:37+09:00"
+    },
+    {
+      "title": "세 자녀에서 두 자녀로···기장군, 전세자금 이자 지원 문턱 낮춰",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1382271",
+      "source": "데일리한국",
+      "published": "2026-07-02T15:48:24+09:00"
+    },
+    {
+      "title": "6억대라더니 8억대 … 2억 뛴 창릉 분양가에 청약자 이탈",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95UTBHcDhqMVRwNWRzc0N3Y3UtbGdra3N4N3k4M3Rpb1hCVllnSENxalZCLUNjbng5UEd5YUViNmdOd1BjYkxVd2RGakdyZXlCUGxZcjd0R3ZJZ0hOcm8xSjBWN3ZvakNmTTJMVkw4eVFaVkw4UzBPRWR4MNIBgAFBVV95cUxQb0RUWDFFa0dTYUpscklPYzdCYkZGSjIxNDliWk9faWpCQ0RueklRcHRyMzR6cUZwVzBaMS1YdUNDYWZvWk5tdGJYTzNRX2x1cllERnpoemVaaV8wMW0xT3VnMW51RHhZUHB6Um5IQjlaWUFoc1RlbFdERDh2dk1VQQ?oc=5",
+      "source": "뉴데일리",
+      "published": "2026-07-02T15:45:33+09:00"
+    },
+    {
+      "title": "동탄 옆 동네 집값도 들썩…서울 아파트값 강세 지속",
+      "link": "https://biz.sbs.co.kr/article/20000320345",
+      "source": "v.daum.net",
+      "published": "2026-07-02T15:42:16+09:00"
+    },
+    {
+      "title": "23년 기다린 은마아파트, 재건축 사업시행인가…2028년 착공 목표",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HcVJuSnM2QlM3akpVT3dCMU96aXVpUnhMV1pnRktrUzJJT2hpdTY4S21KN0hrUGlPNzUtVmhidGY4OUQxckxFVU5FQWdUalp2LWNISEVwdW9CRHlVcW1tbDQzNUtLUzV6MFHSAW5BVV95cUxQbDRMa3hwUFBrVmxMWFFjaXlXa0E4MTVPbTF3NEE1U25XU0RQVFdyU1g1dGstc0lKSk80ZDFYSnJYSG85ZFFVNVZwdGJpQmlDSUs4T1ppMHNMWnVyaURTU1ozdl9Db1BUbzZDSzRudw?oc=5",
+      "source": "주간조선",
+      "published": "2026-07-02T15:40:00+09:00"
+    },
+    {
+      "title": "서울 아파트값 상승률 횡보세, 규제 직전 동탄 한 주 상승률 1.46%",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=441418",
+      "source": "비즈니스포스트",
+      "published": "2026-07-02T15:38:56+09:00"
+    },
+    {
+      "title": "이재명 정부 6·27 대책 1년…서울 아파트값 오히려 ‘껑충’",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1387730",
+      "source": "매일일보",
+      "published": "2026-07-02T15:38:39+09:00"
+    },
+    {
+      "title": "은마아파트 재건축 사업시행계획인가…2028년 착공 목표",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ta05qaEZfaThTaG1yZVl6bDNhM0JIblhOVmNmS0p3dUZudFg2ZENtYU1ScnBnSDFCR3ZNQ1kyNEQ2NHJjWC1VS1FrTHVReWdld2pjOFdLT2ZoRnc?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-07-02T15:31:00+09:00"
+    },
+    {
+      "title": "동탄 옆 동네 집값도 들썩…서울 아파트값 강세 지속",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=231055",
+      "source": "SBS Biz",
+      "published": "2026-07-02T15:23:00+09:00"
+    },
+    {
+      "title": "올해 서울 아파트 전세 상승률 5.10%‥매매 상승률 수준으로 높아져",
+      "link": "https://m.anewsa.com/article_sub3.php?number=3174975&type=&mobile=",
+      "source": "v.daum.net",
+      "published": "2026-07-02T15:22:10+09:00"
+    },
+    {
+      "title": "KB부동산 \"동탄 아파트 매매·전세 급등 속 매수세 관망 전환\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423101",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T15:21:49+09:00"
+    },
+    {
+      "title": "은마아파트 재건축정비사업 사업시행계획 인가",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HU0xDdldQV29QbU40RVV5aEdPS3FmSzJRWFR0R3hFMVEzNmZBWGEwTXJEdDBIZThwNzhUOHJ5cWtaQTRHN2xveld3aXBzb2ZpNmhUakc1anBUYnlyV0xRY9IBYEFVX3lxTE1HU0xDdldQV29QbU40RVV5aEdPS3FmSzJRWFR0R3hFMVEzNmZBWGEwTXJEdDBIZThwNzhUOHJ5cWtaQTRHN2xveld3aXBzb2ZpNmhUakc1anBUYnlyV0xRYw?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-02T15:19:10+09:00"
+    },
+    {
+      "title": "상반기 동탄 13%·서울 매매·전세 5%대 상승…수도권 집값 강세",
+      "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=51239",
+      "source": "코리아리포트",
+      "published": "2026-07-02T15:18:58+09:00"
+    },
+    {
+      "title": "20년 넘게 공회전 은마 재건축 실행단계 진입…4천세대 이주해야",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pNXg3bUJIWnJ0QmJqRmxSWFZQbUk5ZHdqYUQxa1hRNmFyM1U0RTRQUkJBT21RMFJ4RGVtRi02WFp6MHpTLXVibUFNZWVIa3pxNlhEY3hoTVMzbFFSRGw5NtIBYEFVX3lxTE5pNXg3bUJIWnJ0QmJqRmxSWFZQbUk5ZHdqYUQxa1hRNmFyM1U0RTRQUkJBT21RMFJ4RGVtRi02WFp6MHpTLXVibUFNZWVIa3pxNlhEY3hoTVMzbFFSRGw5Ng?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-07-02T15:18:05+09:00"
+    },
+    {
+      "title": "올해 서울 아파트 전세 상승률 5.10%‥매매 상승률 수준으로 높아져",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=05917126645510584&mediaCodeNo=257",
+      "source": "MBC 뉴스",
+      "published": "2026-07-02T15:16:07+09:00"
+    },
+    {
+      "title": "기장군, 다자녀 전세자금 이자 지원 확대…2자녀 가구도 신청 가능",
+      "link": "https://m.joongdo.co.kr/view.php?key=20260702010000751",
+      "source": "중도일보",
+      "published": "2026-07-02T15:12:58+09:00"
+    },
+    {
+      "title": "[서울] 은마아파트 사업시행계획 인가...재건축 본궤도",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90bngtRzFMeFZQMDU2c2FDSVBMaU1pS2N0ZlFNbjV0Z3lmSnRIMTVTWnVIOWRFaEZDTUtsWjRRQTZLSVQ5Q3hMakhzNV9hemhVOHV0TmM4Q3ZaVGJ6QUE?oc=5",
+      "source": "YTN",
+      "published": "2026-07-02T15:12:00+09:00"
+    },
+    {
+      "title": "서울 아파트값 0.27% 상승 … 동탄은 규제 앞두고 1.46% 급등",
+      "link": "http://www.gdaily.kr/bbs/board.php?bo_table=news&wr_id=20553",
+      "source": "뉴데일리",
+      "published": "2026-07-02T15:09:51+09:00"
+    },
+    {
+      "title": "세종 아파트값 보합, 고운·소담동 강세 속 숨 고르기",
+      "link": "https://www.newsntalk.co.kr/news/articleView.html?idxno=4983",
+      "source": "뉴스엔톡",
+      "published": "2026-07-02T15:05:11+09:00"
+    },
+    {
+      "title": "올해 서울 아파트 전세 상승률 5.10% 기록…매매가 누적 상승률에 근접",
+      "link": "https://www.viva100.com/article/20260702500981",
+      "source": "브릿지경제",
+      "published": "2026-07-02T15:02:00+09:00"
+    },
+    {
+      "title": "OECD \"韓 부동산 과세, 거래세서 보유세로 전환해야\"",
+      "link": "https://v.daum.net/v/20260702160416814",
+      "source": "연합인포맥스",
+      "published": "2026-07-02T15:00:02+09:00"
+    },
+    {
+      "title": "대구 아파트값 3주 연속 하락…전셋값은 5주째 올라",
+      "link": "https://www.news1.kr/local/daegu-gyeongbuk/6215793",
+      "source": "뉴스1",
+      "published": "2026-07-02T15:00:01+09:00"
+    },
+    {
+      "title": "OECD \"韓 부동산, 보유세 비중 낮아…'거래세→보유세' 전환해야\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jM21sRTBWRDhrNHFUQTNsaFdRZ09QNGZvLWp3RVVsYUtDS3FQcTJDeU9FWG9GQVE0UjJVT1FnSDNyX1RkZ2Q4b0xQWTFublNDMFQ4MFpLSEdrWnFFZktOajZnUGFsbEdJTFBz0gFwQVVfeXFMTndhMXVQVURKOHdaTzRvUlcwSkRXbFlUM3gwX0Q4YUtkcEVrRGZESXlZNEdGQkNOMTBVRVRTUXdhRnBmMW9leWQzLVBUQjJLSm5obUhWTmNxUlUwZElMQ0Z3RU1EazZhUjBzUnlqTG9zcw?oc=5",
+      "source": "머니투데이",
+      "published": "2026-07-02T15:00:00+09:00"
+    },
+    {
+      "title": "'펜타힐즈W 1단지', 청약통장 4202건 접수 84㎡ 1순위 마감·최고 18.59대 1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PT2RjM2JvUC1VeEI3RzZtT05ZOG02dW5Cc0Y1WGFrOFpYOFFCWVNKYVZzNWNma2U3YjJIMm5fckJTcWxKYk82T0Fmdl9lU215dWR5X256R0Q?oc=5",
+      "source": "경북신문",
+      "published": "2026-07-02T14:59:08+09:00"
+    },
+    {
+      "title": "집값만큼 무섭게 오르는 전셋값… 올 들어 서울 전세 가격 상승률 5% 넘어 - 조선비즈",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/07/02/7E3B6Y25SVGJLDWNB2N47BNOSI/",
+      "source": "Chosunbiz",
+      "published": "2026-07-02T14:58:00+09:00"
+    },
+    {
+      "title": "[문상윤 칼럼] 다시 세제로 향하는 부동산 정책",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pc0tJdWZzMHNHTGR4M0h3b2d4Y1UzODM3QlY5Sno3VkVjSGlhVUlORUdNdTJ0VGNENTBoOWNCSl9fTFVCZi1ScXhPd0lhalNvNjhMS3V2c3FaeTdHZ3ZGZUZ4Mkw?oc=5",
+      "source": "매일일보",
+      "published": "2026-07-02T14:51:04+09:00"
+    },
+    {
+      "title": "서울 아파트값 '숨 고르기'… 상승률 소폭 둔화",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200233.amp.html",
+      "source": "핀포인트뉴스",
+      "published": "2026-07-02T14:49:15+09:00"
+    },
+    {
+      "title": "서울 아파트값 0.27% 뛰어…화성 동탄은 1.46% 폭등, 양극화 심화",
+      "link": "https://www.fnnews21.com/news/articleView.html?idxno=53725",
+      "source": "청년투데이",
+      "published": "2026-07-02T14:48:22+09:00"
+    },
+    {
+      "title": "펜타힐즈W 1단지 청약 흥행 성공",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtVmc4TzFDQ1g4NVBIY3ZLLVl5bk1yU1lsTThrUzNycXpISzBNVmFFanZfcEhIYUJ4eUtrTmkzS0dTMmVaUF9icVJ6dU5vNXhpak5hSjNZN1dJdGYzSzhV?oc=5",
+      "source": "경상매일신문",
+      "published": "2026-07-02T14:45:52+09:00"
+    },
+    {
+      "title": "전남 아파트값 0.06% 상승…비수도권 8개 도 중 상승률 1위",
+      "link": "https://www.donga.com/news/amp/all/20260702/134224001/1",
+      "source": "동아일보",
+      "published": "2026-07-02T14:43:00+09:00"
+    },
+    {
+      "title": "광주기아 챔피언스필드 옆 3216가구 단지, 9월 청약 시장에",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yQlB1dHpRX09Ycy10SlpDdjdjdHBXT2F1dVEwZU9vdGVWZTc5NDJTNjVFWVRxTlFlUFNnaFR5aHBlbjBSWU5VZ1kyQU5hQUQtQl9BNjd3MzRvQ25oNUFSOHU4b3VfbFRUUUtHQW1IZHo?oc=5",
+      "source": "비즈워치",
+      "published": "2026-07-02T14:38:02+09:00"
+    }
+  ]
 }
