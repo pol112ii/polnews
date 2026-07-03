@@ -37,8 +37,16 @@
     line-height: 1.6;
   }
   .wrap { max-width: 640px; margin: 0 auto; padding: 20px 16px 60px; }
-  header h1 { font-size: 1.25rem; margin: 0 0 4px; }
+  header { position: relative; }
+  header h1 { font-size: 1.25rem; margin: 0 0 4px; padding-right: 90px; }
   header p { color: var(--muted); font-size: 0.85rem; margin: 0; }
+  .counter {
+    position: absolute; top: 0; right: 0;
+    text-align: right;
+    color: var(--muted); font-size: 0.68rem; line-height: 1.5;
+    letter-spacing: 0.04em;
+  }
+  .counter b { color: var(--text); font-weight: 700; }
 
   .tabs {
     display: flex; gap: 6px;
@@ -147,6 +155,9 @@
   <header>
     <h1>📰 데일리 뉴스 브리핑</h1>
     <p>매일 아침 5시부터 밤 11시까지, 매시간 주제별 기사를 자동 수집합니다</p>
+    <div class="counter" id="counter" hidden>
+      TODAY <b id="cntToday">-</b><br>TOTAL <b id="cntTotal">-</b>
+    </div>
   </header>
 
   <div class="tabs" id="tabs"></div>
@@ -348,6 +359,40 @@ function render(data) {
   document.getElementById("content").innerHTML = html;
 }
 
+// ── 방문자 카운터 ──────────────────────────────────────────────
+// Abacus(무료, 가입 불필요) 카운터 API + localStorage로
+// "기기당 하루 1회"만 집계한다. 실패하면 조용히 숨긴다.
+const COUNTER_API = "https://abacus.jasoncameron.dev";
+const COUNTER_NS = "pol112ii-polnews";
+
+async function countValue(action, key) {
+  const res = await fetch(`${COUNTER_API}/${action}/${COUNTER_NS}/${key}`);
+  if (!res.ok) return 0;
+  return (await res.json()).value ?? 0;
+}
+
+async function initCounter() {
+  const today = new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Seoul" })
+    .format(new Date()); // YYYY-MM-DD
+  const seenKey = "visited-" + today;
+  const first = !localStorage.getItem(seenKey);
+  // 지난 날짜의 방문 기록은 정리
+  Object.keys(localStorage)
+    .filter(k => k.startsWith("visited-") && k !== seenKey)
+    .forEach(k => localStorage.removeItem(k));
+  try {
+    const action = first ? "hit" : "get";
+    const [t, tot] = await Promise.all([
+      countValue(action, "day-" + today),
+      countValue(action, "total"),
+    ]);
+    localStorage.setItem(seenKey, "1");
+    document.getElementById("cntToday").textContent = t.toLocaleString();
+    document.getElementById("cntTotal").textContent = tot.toLocaleString();
+    document.getElementById("counter").hidden = false;
+  } catch (e) { /* 카운터 API 장애 시 표시하지 않음 */ }
+}
+
 function escapeHtml(s) {
   return s.replace(/[&<>"']/g, c => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
@@ -394,6 +439,7 @@ function copyBriefing() {
 }
 
 init();
+initCounter();
 </script>
 </body>
 </html>
