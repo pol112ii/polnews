@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T15:03:59.943228+09:00",
+  "generated_at": "2026-07-03T15:32:14.838208+09:00",
   "topic": {
     "id": "police",
     "label": "경찰",
@@ -36,8 +36,8 @@
       "link": "https://app.ihalla.com/article.php?aid=1782998299787809044",
       "source": "한국일보",
       "published": "2026-07-02T22:26:00+09:00",
-      "latest": "2026-07-03T14:27:00+09:00",
-      "mention_count": 33,
+      "latest": "2026-07-03T15:14:30+09:00",
+      "mention_count": 34,
       "sources": [
         "한국일보",
         "머니투데이",
@@ -58,10 +58,11 @@
       "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1376816",
       "source": "연합뉴스 한민족센터",
       "published": "2026-07-03T13:59:15+09:00",
-      "latest": "2026-07-03T14:55:35+09:00",
-      "mention_count": 15,
+      "latest": "2026-07-03T15:07:00+09:00",
+      "mention_count": 19,
       "sources": [
         "연합뉴스 한민족센터",
+        "한국경제",
         "머니투데이",
         "뉴스1",
         "v.daum.net",
@@ -71,8 +72,7 @@
         "국민일보",
         "조선일보",
         "한국일보",
-        "이데일리TV",
-        "대전일보"
+        "이데일리TV"
       ]
     },
     {
@@ -80,8 +80,8 @@
       "link": "https://www.ytn.co.kr/_ln/0103_202607021538375296",
       "source": "YTN",
       "published": "2026-07-02T15:38:00+09:00",
-      "latest": "2026-07-03T10:41:19+09:00",
-      "mention_count": 11,
+      "latest": "2026-07-03T15:08:00+09:00",
+      "mention_count": 12,
       "sources": [
         "YTN",
         "v.daum.net",
@@ -93,7 +93,8 @@
         "KBS 뉴스",
         "채널A",
         "KBC광주방송",
-        "법률방송뉴스"
+        "법률방송뉴스",
+        "한겨레"
       ]
     },
     {
@@ -102,12 +103,13 @@
       "source": "한국일보",
       "published": "2026-07-03T04:30:00+09:00",
       "latest": "2026-07-03T10:53:00+09:00",
-      "mention_count": 10,
+      "mention_count": 11,
       "sources": [
         "한국일보",
         "매일경제 마켓",
         "연합뉴스",
         "뉴스1",
+        "KBS 뉴스",
         "머니투데이",
         "한겨레",
         "v.daum.net",
@@ -161,10 +163,11 @@
           "source": "아시아투데이",
           "published": "2026-07-03T11:01:55+09:00",
           "latest": "2026-07-03T14:17:01+09:00",
-          "mention_count": 5,
+          "mention_count": 6,
           "sources": [
             "아시아투데이",
             "한국경제",
+            "뉴스핌",
             "한겨레",
             "문화일보",
             "v.daum.net"
@@ -365,15 +368,16 @@
           "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271091",
           "source": "뉴스홈(newshome)",
           "published": "2026-07-02T14:36:25+09:00",
-          "latest": "2026-07-02T18:46:17+09:00",
-          "mention_count": 6,
+          "latest": "2026-07-02T22:17:36+09:00",
+          "mention_count": 7,
           "sources": [
             "뉴스홈(newshome)",
             "뉴시스",
             "금강일보",
             "충남일보",
             "웹이코노미",
-            "타임뉴스"
+            "타임뉴스",
+            "도민연합뉴스"
           ]
         },
         {
@@ -423,6 +427,17 @@
           "sources": [
             "경남도민일보",
             "뉴스데일리"
+          ]
+        },
+        {
+          "title": "전북경찰청, 여름철 종합치안대책 추진",
+          "link": "https://news.nate.com/view/20260703n20324?mid=n0400",
+          "source": "전북도민일보",
+          "published": "2026-07-03T15:21:44+09:00",
+          "latest": "2026-07-03T15:21:44+09:00",
+          "mention_count": 1,
+          "sources": [
+            "전북도민일보"
           ]
         },
         {
@@ -482,6 +497,23 @@
           ]
         },
         {
+          "title": "이종욱 동해해경청장 취임",
+          "link": "https://www.jbjnews.com/news/articleView.html?idxno=320122",
+          "source": "전국매일신문",
+          "published": "2026-07-02T14:38:10+09:00",
+          "latest": "2026-07-03T15:25:00+09:00",
+          "mention_count": 7,
+          "sources": [
+            "전국매일신문",
+            "뉴스1",
+            "경북일보",
+            "뉴스데일리",
+            "뉴데일리",
+            "해양레저신문",
+            "네이트"
+          ]
+        },
+        {
           "title": "여고생 살해 장윤기의 ‘리얼돌’... 경찰 아버지가 조각내 폐기, 왜?",
           "link": "https://www.chosun.com/national/national_general/2026/07/02/TLC7RWXIXZAFJM7O4SIGFUG25Y/",
           "source": "조선일보",
@@ -514,36 +546,6 @@
           ]
         },
         {
-          "title": "경찰특공대, 전술평가대회",
-          "link": "https://www.munhwa.com/article/11600066",
-          "source": "뉴스1",
-          "published": "2026-07-03T11:58:07+09:00",
-          "latest": "2026-07-03T14:49:54+09:00",
-          "mention_count": 5,
-          "sources": [
-            "뉴스1",
-            "v.daum.net",
-            "뉴시스",
-            "경향신문",
-            "서울신문"
-          ]
-        },
-        {
-          "title": "이종욱 동해해경청장 취임",
-          "link": "https://www.jbjnews.com/news/articleView.html?idxno=320122",
-          "source": "전국매일신문",
-          "published": "2026-07-02T14:38:10+09:00",
-          "latest": "2026-07-03T10:30:26+09:00",
-          "mention_count": 5,
-          "sources": [
-            "전국매일신문",
-            "뉴스1",
-            "경북일보",
-            "뉴스데일리",
-            "뉴데일리"
-          ]
-        },
-        {
           "title": "\"도로에 사람 쓰러졌다\"…출동 순찰차, 구조대상자 밟아 사망",
           "link": "https://www.yna.co.kr/view/AKR20260703026800065",
           "source": "연합뉴스",
@@ -556,6 +558,20 @@
             "한국일보",
             "부산일보",
             "KBS 뉴스"
+          ]
+        },
+        {
+          "title": "\"눈알만 한 표적\" 겨눈 경찰특공대…20㎏ 장비 메고 9분 전술평가",
+          "link": "https://news.kbs.co.kr/news/view.do?ncd=8601269",
+          "source": "연합뉴스",
+          "published": "2026-07-03T12:52:30+09:00",
+          "latest": "2026-07-03T14:49:54+09:00",
+          "mention_count": 4,
+          "sources": [
+            "연합뉴스",
+            "v.daum.net",
+            "뉴시스",
+            "뉴스1"
           ]
         },
         {
@@ -598,6 +614,42 @@
           ]
         },
         {
+          "title": "대전경찰청, “청소년 사이버도박 꼼짝마!” 유관기관 협력 강화를 통한 촘촘한 안전망 구축",
+          "link": "https://www.news1.kr/photos/7990580",
+          "source": "뉴스데일리",
+          "published": "2026-07-03T11:51:14+09:00",
+          "latest": "2026-07-03T15:12:35+09:00",
+          "mention_count": 2,
+          "sources": [
+            "뉴스데일리",
+            "충남일보"
+          ]
+        },
+        {
+          "title": "무더위 속 사격장 향하는 경찰특공대",
+          "link": "https://imnews.imbc.com/news/2026/society/article/6834806_36918.html",
+          "source": "뉴스1",
+          "published": "2026-07-03T11:57:28+09:00",
+          "latest": "2026-07-03T14:22:25+09:00",
+          "mention_count": 2,
+          "sources": [
+            "뉴스1",
+            "서울신문"
+          ]
+        },
+        {
+          "title": "국민의 안전을 위해 명중 … 경찰특공대 저격수들 [현장 화보]",
+          "link": "https://www.khan.co.kr/article/202607031359001",
+          "source": "경향신문",
+          "published": "2026-07-03T13:59:00+09:00",
+          "latest": "2026-07-03T14:02:31+09:00",
+          "mention_count": 2,
+          "sources": [
+            "경향신문",
+            "v.daum.net"
+          ]
+        },
+        {
           "title": "보은 백록저수지서 70대 남성 숨진 채 발견…경찰 부검 의뢰",
           "link": "https://www.newspim.com/news/view/20260703000366",
           "source": "뉴스핌",
@@ -622,59 +674,83 @@
           ]
         },
         {
-          "title": "李 \"태움은 끔찍한 폭력\"‥경찰 전담팀 꾸려",
-          "link": "https://www.ytn.co.kr/_ln/0103_202607022031032852",
-          "source": "MBC 뉴스",
-          "published": "2026-07-02T20:31:58+09:00",
-          "latest": "2026-07-03T06:46:11+09:00",
+          "title": "도로 위 쓰러진 60대, 순찰차가 밟고 지나가 사망…경찰 “못 봤다”",
+          "link": "https://www.joongang.co.kr/article/25442153",
+          "source": "중앙일보",
+          "published": "2026-07-03T09:29:43+09:00",
+          "latest": "2026-07-03T09:31:00+09:00",
           "mention_count": 2,
           "sources": [
-            "MBC 뉴스",
-            "v.daum.net"
-          ]
-        },
-        {
-          "title": "‘여고생 살해범’ 증거 인멸한 경찰 아버지… 정성호 법무 “친족 특례법 개선 검토”",
-          "link": "https://www.seoul.co.kr/news/society/2026/07/03/20260703008006",
-          "source": "서울신문",
-          "published": "2026-07-03T00:31:32+09:00",
-          "latest": "2026-07-03T00:47:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "서울신문",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "완도해경, 이틀간 섬 응급환자 3명 긴급 이송",
-          "link": "http://news.lghellovision.net/news/articleView.html?idxno=547279",
-          "source": "LG헬로비전",
-          "published": "2026-07-02T16:43:07+09:00",
-          "latest": "2026-07-03T00:04:24+09:00",
-          "mention_count": 2,
-          "sources": [
-            "LG헬로비전",
-            "시사의창"
-          ]
-        },
-        {
-          "title": "“이재명 대통령이 경고했는데도”…20대 간호사 ‘태움’으로 숨져, 경찰 조사 착수",
-          "link": "https://www.hani.co.kr/arti/society/society_general/1266341.html",
-          "source": "v.daum.net",
-          "published": "2026-07-02T20:06:00+09:00",
-          "latest": "2026-07-02T22:06:07+09:00",
-          "mention_count": 2,
-          "sources": [
-            "v.daum.net",
-            "중앙일보"
+            "중앙일보",
+            "네이트"
           ]
         }
       ]
     }
   ],
-  "total_articles": 341,
-  "total_issues": 122,
+  "total_articles": 362,
+  "total_issues": 128,
   "raw": [
+    {
+      "title": "동해해경청, 고속단정 운용역량 경연대회",
+      "link": "https://m.news.nate.com/view/20260703n20694?mid=m03&list=recent&cpcd=",
+      "source": "네이트",
+      "published": "2026-07-03T15:25:00+09:00"
+    },
+    {
+      "title": "전북경찰청, 여름철 종합치안대책 추진",
+      "link": "https://news.nate.com/view/20260703n20324?mid=n0400",
+      "source": "전북도민일보",
+      "published": "2026-07-03T15:21:44+09:00"
+    },
+    {
+      "title": "신고 없이 낚시영업…70대 어선 선장 해양경찰에 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260703063100004",
+      "source": "네이트",
+      "published": "2026-07-03T15:17:00+09:00"
+    },
+    {
+      "title": "바다 위 ‘실전 승부’…동해해경청, 고속단정 운용역량 경연대회 개최",
+      "link": "https://www.krcom.co.kr/news/articleView.html?idxno=177319",
+      "source": "해양레저신문",
+      "published": "2026-07-03T15:16:00+09:00"
+    },
+    {
+      "title": "홍석기 신임 국가수사본부장 취임…경찰 수사 지휘 총괄",
+      "link": "https://news.koreanbar.or.kr/news/articleView.html?idxno=35826",
+      "source": "경기신문",
+      "published": "2026-07-03T15:14:30+09:00"
+    },
+    {
+      "title": "대전경찰청, 청소년 사이버도박 예방 유관기관 소통회의 개최",
+      "link": "https://mnlnews.net/news/view.php?bIdx=48953",
+      "source": "충남일보",
+      "published": "2026-07-03T15:12:35+09:00"
+    },
+    {
+      "title": "\"실전처럼 바다 누볐다\"…동해해경청 고속단정 최강팀 가린다",
+      "link": "https://www.news1.kr/local/kangwon/6217144",
+      "source": "뉴스1",
+      "published": "2026-07-03T15:09:36+09:00"
+    },
+    {
+      "title": "[단독]‘현직 경찰’ 장윤기 아빠가 증거 인멸한 ‘원룸 비번’ 경찰이 알려줘",
+      "link": "https://www.domin.co.kr/news/articleView.html?idxno=1560698&sc_section_code=S1N8",
+      "source": "한겨레",
+      "published": "2026-07-03T15:08:00+09:00"
+    },
+    {
+      "title": "경찰, '삼성·SK 성과급 백지화 공문설' 허위정보 내사 착수",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=902492",
+      "source": "이코노미스트",
+      "published": "2026-07-03T15:07:00+09:00"
+    },
+    {
+      "title": "경찰, ‘반도체 성과급 백지화 공문설’ 7개 계정 내사",
+      "link": "https://www.yna.co.kr/view/AKR20260703075800004",
+      "source": "아시아투데이",
+      "published": "2026-07-03T15:01:17+09:00"
+    },
     {
       "title": "경찰, ‘삼전닉스 성과급 백지화 공문’ 가짜뉴스 내사 착수",
       "link": "https://v.daum.net/v/20260702224118248",
@@ -722,6 +798,12 @@
       "link": "https://news.nate.com/view/20260703n18054",
       "source": "네이트",
       "published": "2026-07-03T14:28:22+09:00"
+    },
+    {
+      "title": "[속보] 경찰, '삼전닉스 성과급 백지화' 가짜뉴스 내사 착수",
+      "link": "https://www.news1.kr/photos/7990589",
+      "source": "MBC 뉴스",
+      "published": "2026-07-03T14:27:06+09:00"
     },
     {
       "title": "국가수사본부장 공백 해소…'1년반 공석' 경찰청장 인선도 속도 내나",
@@ -850,6 +932,12 @@
       "published": "2026-07-03T14:02:00+09:00"
     },
     {
+      "title": "경찰, '삼전닉스 성과급 백지화 공문' 가짜뉴스 내사 착수",
+      "link": "https://www.newspim.com/news/view/20260703000403",
+      "source": "한국경제",
+      "published": "2026-07-03T14:00:06+09:00"
+    },
+    {
       "title": "[속보] 경찰, '삼전닉스 성과급 백지화 공문' 가짜뉴스 내사 착수",
       "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1376816",
       "source": "연합뉴스 한민족센터",
@@ -922,6 +1010,12 @@
       "published": "2026-07-03T12:54:04+09:00"
     },
     {
+      "title": "\"눈알만 한 표적\" 겨눈 경찰특공대…20㎏ 장비 메고 9분 전술평가",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8601269",
+      "source": "연합뉴스",
+      "published": "2026-07-03T12:52:30+09:00"
+    },
+    {
       "title": "‘마스크’ 홍명보, 이틀 만에 미국 갔지만…국내 청문회·수사·감사 줄줄이",
       "link": "https://www.khan.co.kr/article/202607031246001",
       "source": "한겨레",
@@ -970,6 +1064,12 @@
       "published": "2026-07-03T11:58:07+09:00"
     },
     {
+      "title": "무더위 속 사격장 향하는 경찰특공대",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6834806_36918.html",
+      "source": "뉴스1",
+      "published": "2026-07-03T11:57:28+09:00"
+    },
+    {
       "title": "대전경찰청, “청소년 사이버도박 꼼짝마!” 유관기관 협력 강화를 통한 촘촘한 안전망 구축",
       "link": "https://www.news1.kr/photos/7990580",
       "source": "뉴스데일리",
@@ -1006,6 +1106,12 @@
       "published": "2026-07-03T11:33:00+09:00"
     },
     {
+      "title": "부산 기초지자체 체육회장, 지방선거 후보 지원 의혹…경찰 수사 착수",
+      "link": "https://www.mediainnews.com/news/articleView.html?idxno=46378",
+      "source": "미디어인뉴스",
+      "published": "2026-07-03T11:32:48+09:00"
+    },
+    {
       "title": "홍석기 신임 국수본부장 “형사사법체계 큰 개편, 그 어느 때보다 엄중”",
       "link": "https://www.hani.co.kr/arti/society/society_general/1266576.html",
       "source": "한겨레",
@@ -1021,6 +1127,12 @@
       "title": "충북 보은 백록저수지서 70대 숨져…경찰 조사",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8601461",
       "source": "KBS 뉴스",
+      "published": "2026-07-03T11:26:00+09:00"
+    },
+    {
+      "title": "홍석기 신임 국수본부장 \"형사사법체계 개편 앞둬...경찰 본연 역할 해야\"",
+      "link": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=897029",
+      "source": "뉴스핌",
       "published": "2026-07-03T11:26:00+09:00"
     },
     {
@@ -1058,6 +1170,12 @@
       "link": "https://v.daum.net/v/20260703110147980",
       "source": "MBC 뉴스",
       "published": "2026-07-03T11:11:32+09:00"
+    },
+    {
+      "title": "홍석기 국가수사본부장 \"형사사법체계 큰 개편 앞둬 엄중한 시기\"",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260703010001290",
+      "source": "연합뉴스",
+      "published": "2026-07-03T11:09:38+09:00"
     },
     {
       "title": "홍석기 신임 국가수사본부장 \"가장 신뢰받는 수사기관 만들겠다\" - 머니투데이",
@@ -1252,6 +1370,12 @@
       "published": "2026-07-03T09:32:48+09:00"
     },
     {
+      "title": "도로 위 쓰러진 60대, 순찰차가 밟고 지나가 사망…경찰 \"못 봤다\"",
+      "link": "https://news.nate.com/view/20260703n06842",
+      "source": "네이트",
+      "published": "2026-07-03T09:31:00+09:00"
+    },
+    {
       "title": "도로 위 쓰러진 60대, 순찰차가 밟고 지나가 사망…경찰 “못 봤다”",
       "link": "https://www.joongang.co.kr/article/25442153",
       "source": "중앙일보",
@@ -1276,10 +1400,22 @@
       "published": "2026-07-03T09:15:56+09:00"
     },
     {
+      "title": "경찰, ‘판소리 명창’ 전 국립전통예술중고교장 뇌물 의혹 수사",
+      "link": "https://economist.co.kr/article/view/ecn202607030020",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T09:15:00+09:00"
+    },
+    {
       "title": "신임 경찰청 국가수사본부장에 홍석기 수사국장…3일 취임",
       "link": "https://weekly.chosun.com/news/articleView.html?idxno=53110",
       "source": "데일리안",
       "published": "2026-07-03T09:08:00+09:00"
+    },
+    {
+      "title": "[대법원 판결] 경찰이 손님을 가장해 성매매 알선 업소를 적발한 것은 위법한 함정수사 아니다",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1266614.html",
+      "source": "법조신문",
+      "published": "2026-07-03T09:06:34+09:00"
     },
     {
       "title": "폭염에 에어컨 대란…몸싸움 아수라장에 경찰까지 출동",
@@ -1832,6 +1968,12 @@
       "link": "https://www.goodtimes.or.kr/news/articleView.html?idxno=326709",
       "source": "한라일보",
       "published": "2026-07-02T22:18:19+09:00"
+    },
+    {
+      "title": "대전자치경찰위원회, 지방행정·치안행정 협력 강화",
+      "link": "https://www.hankyung.com/article/2026070342577",
+      "source": "도민연합뉴스",
+      "published": "2026-07-02T22:17:36+09:00"
     },
     {
       "title": "경찰청, 인권감사관실 공식 출범…현판식 개최·350명 참석",
