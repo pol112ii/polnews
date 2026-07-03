@@ -117,6 +117,24 @@ def fetch(url: str, attempts: int = 3, timeout: int = 30) -> bytes:
     raise last_error  # type: ignore[misc]
 
 
+def strip_source_suffix(title: str, source: str) -> str:
+    """제목 끝에 남은 '- 언론사명'을 제거한다(여러 번 붙어 있어도 안전).
+
+    언론사명과 정확히 일치할 때만 떼므로 이미 깨끗한 제목에 다시 적용해도
+    바뀌지 않는다(멱등). 저장된 기존 데이터를 정리할 때도 그대로 쓴다.
+    """
+    while source:
+        stripped = None
+        for sep in (" - ", " – ", "- "):
+            if title.endswith(sep + source):
+                stripped = title[: -(len(sep) + len(source))].rstrip()
+                break
+        if stripped is None or not stripped:
+            break
+        title = stripped
+    return title
+
+
 def fetch_articles(queries: list[str]) -> list[dict]:
     """구글 뉴스 RSS에서 검색어별 기사를 모아 반환한다.
 
@@ -167,6 +185,9 @@ def fetch_articles(queries: list[str]) -> list[dict]:
                 head, _, tail = title.rpartition(" - ")
                 if head and len(tail) <= 25:  # 뒤쪽이 언론사명일 때만
                     title = head.strip()
+            # 일부 언론사(머니투데이 등)는 원문 제목 자체에도 "- 언론사"를
+            # 붙여서 이중으로 남는 경우가 있다 → 남아 있으면 마저 제거
+            title = strip_source_suffix(title, source)
 
             if link in seen_links:
                 continue
@@ -498,6 +519,10 @@ def run_topic(topic: dict, today: str, now_iso: str,
     existing = load_existing_raw(out_path)
     raw = merge_articles(existing, fresh)
     print(f"신규 {len(fresh)}건 + 기존 {len(existing)}건 → 병합 {len(raw)}건")
+
+    # 이전 실행에서 저장된 제목에 언론사명이 남아 있으면 정리한다
+    for art in raw:
+        art["title"] = strip_source_suffix(art["title"], art.get("source", ""))
 
     resolved = resolve_google_links(raw)
     if resolved:
