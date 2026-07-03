@@ -298,17 +298,18 @@ TRANSLATE_MAX_PER_RUN = 300
 
 
 def _translate_one(article: dict) -> None:
+    # 요청이 몰리면 구글이 일부를 거절하므로 재시도(백오프 포함)를 둔다
     try:
         data = json.loads(fetch(
             TRANSLATE_URL + urllib.parse.quote(article["title"]),
-            attempts=1, timeout=15,
+            attempts=3, timeout=15,
         ))
         ko = "".join(seg[0] for seg in data[0] if seg and seg[0]).strip()
         if ko:
             article["title_en"] = article["title"]
             article["title"] = ko
     except Exception:
-        pass  # 원문 제목 유지
+        pass  # 원문 제목 유지 (다음 실행에서 자동 재시도)
 
 
 def translate_titles(articles: list[dict]) -> int:
@@ -319,7 +320,8 @@ def translate_titles(articles: list[dict]) -> int:
     todo = [a for a in articles if "title_en" not in a][:TRANSLATE_MAX_PER_RUN]
     if not todo:
         return 0
-    with ThreadPoolExecutor(max_workers=RESOLVE_WORKERS) as pool:
+    # 번역 엔드포인트는 링크 변환보다 요청 제한이 빡빡해 스레드를 줄인다
+    with ThreadPoolExecutor(max_workers=4) as pool:
         list(pool.map(_translate_one, todo))
     return sum(1 for a in todo if "title_en" in a)
 
