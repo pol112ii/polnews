@@ -63,6 +63,21 @@
     background: var(--accent); color: #fff; border-color: var(--accent);
   }
 
+  .region {
+    display: none; gap: 6px; margin: 10px 0 0;
+  }
+  .region.show { display: flex; }
+  .region button {
+    flex: 1;
+    background: var(--card); color: var(--muted);
+    border: 1px solid var(--line); border-radius: 8px;
+    padding: 7px 4px; font-size: 0.85rem; font-weight: 600;
+    cursor: pointer;
+  }
+  .region button.active {
+    color: var(--text); border-color: var(--text);
+  }
+
   .nav {
     display: flex; align-items: center; gap: 8px;
     margin: 12px 0;
@@ -132,6 +147,11 @@
     font-size: 0.72rem; font-weight: 600;
   }
   .badge.hot { background: var(--hot); color: #fff; }
+  .meta.orig {
+    display: block;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    font-style: italic;
+  }
   .rank {
     display: inline-block; width: 1.3em;
     color: var(--hot); font-weight: 800;
@@ -162,6 +182,11 @@
 
   <div class="tabs" id="tabs"></div>
 
+  <div class="region" id="regionBar">
+    <button data-region="kr">🇰🇷 국내</button>
+    <button data-region="intl">🌍 해외</button>
+  </div>
+
   <div class="nav">
     <button id="prevBtn" aria-label="이전 날짜">◀</button>
     <select id="dateSelect" aria-label="날짜 선택"></select>
@@ -183,6 +208,7 @@ let currentTopic = null;
 let dates = [];
 let current = null;
 let currentData = null;
+let currentRegion = "kr"; // "kr" 국내 | "intl" 해외
 
 function dayLabel(dateStr) {
   const d = new Date(dateStr + "T00:00:00+09:00");
@@ -236,7 +262,23 @@ async function init() {
   document.getElementById("nextBtn").onclick = () => move(-1);
   document.getElementById("dateSelect").onchange =
     e => show(e.target.value);
+  document.querySelectorAll("#regionBar button").forEach(btn => {
+    btn.onclick = () => {
+      currentRegion = btn.dataset.region;
+      updateRegionBar();
+      if (currentData) render(currentData);
+    };
+  });
   await loadTopic();
+}
+
+function updateRegionBar() {
+  const bar = document.getElementById("regionBar");
+  const hasIntl = currentData && currentData.intl;
+  bar.classList.toggle("show", !!hasIntl);
+  if (!hasIntl) currentRegion = "kr";
+  bar.querySelectorAll("button").forEach(b =>
+    b.classList.toggle("active", b.dataset.region === currentRegion));
 }
 
 function renderTabs() {
@@ -248,6 +290,7 @@ function renderTabs() {
   bar.querySelectorAll("button").forEach(btn => {
     btn.onclick = async () => {
       currentTopic = topics.find(t => t.id === btn.dataset.id);
+      currentRegion = "kr";
       localStorage.setItem("topic", currentTopic.id);
       renderTabs();
       await loadTopic();
@@ -296,6 +339,20 @@ function briefingTitle(data) {
   return (data.topic && data.topic.title) || currentTopic.title;
 }
 
+// 현재 국내/해외 선택에 따라 보여줄 데이터 조각을 고른다
+function currentView(data) {
+  if (currentRegion === "intl" && data.intl) {
+    return { ...data.intl, isIntl: true };
+  }
+  return {
+    title: briefingTitle(data),
+    top_issues: data.top_issues,
+    sections: data.sections,
+    total_articles: data.total_articles ?? data.total ?? 0,
+    isIntl: false,
+  };
+}
+
 function articleLi(a, rank) {
   const rankHtml = rank ? `<span class="rank">${rank}</span>` : "";
   const badge = a.mention_count > 1
@@ -303,23 +360,27 @@ function articleLi(a, rank) {
     : "";
   const extra = (a.sources && a.sources.length > 1)
     ? ` 외 ${a.mention_count - 1}곳` : "";
+  const orig = a.title_en
+    ? `<div class="meta orig">${escapeHtml(a.title_en)}</div>` : "";
   return `<li>
     <a href="${a.link}" target="_blank" rel="noopener">${rankHtml}❏ ${escapeHtml(a.title)}</a>
+    ${orig}
     <div class="meta">${badge}<span>${escapeHtml(a.source || "")}${extra}</span></div>
   </li>`;
 }
 
 function render(data) {
+  updateRegionBar();
+  const view = currentView(data);
   let html = "";
   if (data.sample) {
     html += `<div class="banner">⚠️ 샘플 데이터입니다. 다음 정시 수집 때 실제 기사로 교체됩니다.</div>`;
   }
   html += `<div class="card">`;
-  html += `<h2>${fmtDate(data.date)} ${escapeHtml(briefingTitle(data))}</h2>`;
-  const total = data.total_articles ?? data.total ?? 0;
-  html += `<div class="updated">${fmtTime(data.generated_at)} 업데이트 · 기사 ${total}건 수집</div>`;
+  html += `<h2>${fmtDate(data.date)} ${escapeHtml(view.title)}</h2>`;
+  html += `<div class="updated">${fmtTime(data.generated_at)} 업데이트 · 기사 ${view.total_articles ?? 0}건 수집</div>`;
 
-  if (data.weather && data.weather.days && data.weather.days.length) {
+  if (!view.isIntl && data.weather && data.weather.days && data.weather.days.length) {
     const [t, ...rest] = data.weather.days;
     html += `<div class="weather">`;
     html += `<div class="today">(${dayLabel(t.date)}) ${t.emoji} ${t.min}°C / ${t.max}°C</div>`;
@@ -330,8 +391,8 @@ function render(data) {
     html += `</div>`;
   }
 
-  const hasTop = data.top_issues && data.top_issues.length;
-  const hasSections = data.sections && data.sections.length;
+  const hasTop = view.top_issues && view.top_issues.length;
+  const hasSections = view.sections && view.sections.length;
 
   if (!hasTop && !hasSections) {
     html += `<div class="empty">이 날짜에 수집된 기사가 없습니다.</div>`;
@@ -340,12 +401,12 @@ function render(data) {
   if (hasTop) {
     html += `<div class="section-title hot">🔥 오늘의 주요 이슈</div>`;
     html += `<ul class="articles">`;
-    data.top_issues.forEach((a, i) => { html += articleLi(a, i + 1); });
+    view.top_issues.forEach((a, i) => { html += articleLi(a, i + 1); });
     html += `</ul>`;
   }
 
   if (hasSections) {
-    for (const sec of data.sections) {
+    for (const sec of view.sections) {
       html += `<div class="section-title">${sec.name} (${sec.articles.length})</div>`;
       html += `<ul class="articles">`;
       for (const a of sec.articles) html += articleLi(a);
@@ -403,12 +464,13 @@ function escapeHtml(s) {
 function copyBriefing() {
   const d = currentData;
   if (!d) return;
+  const view = currentView(d);
   let lines = [];
   lines.push("━".repeat(14));
-  lines.push(`${fmtDate(d.date)} ${briefingTitle(d)}`);
+  lines.push(`${fmtDate(d.date)} ${view.title}`);
   lines.push("━".repeat(14));
   lines.push("");
-  if (d.weather && d.weather.days && d.weather.days.length) {
+  if (!view.isIntl && d.weather && d.weather.days && d.weather.days.length) {
     const [t, ...rest] = d.weather.days;
     lines.push(`(${dayLabel(t.date)}) ${t.emoji} ${t.min}°C / ${t.max}°C`);
     if (rest.length) {
@@ -417,15 +479,15 @@ function copyBriefing() {
     }
     lines.push("");
   }
-  if (d.top_issues && d.top_issues.length) {
+  if (view.top_issues && view.top_issues.length) {
     lines.push("🔥 오늘의 주요 이슈");
-    d.top_issues.forEach((a, i) => {
+    view.top_issues.forEach((a, i) => {
       lines.push(`${i + 1}. ${a.title} (${a.mention_count}개 언론사)`);
       lines.push(a.link);
       lines.push("");
     });
   }
-  for (const sec of d.sections || []) {
+  for (const sec of view.sections || []) {
     lines.push(`[${sec.name}]`);
     for (const a of sec.articles) {
       lines.push(`❏ ${a.title}`);

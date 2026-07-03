@@ -1,0 +1,44 @@
+name: 해외 뉴스 수집 테스트
+
+on:
+  push:
+    branches: ["claude/police-news-webapp-frm12p"]
+    paths: ["scraper/**", ".github/workflows/test-intl.yml"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 전체 수집 실행 (커밋 없음)
+        run: python scraper/scrape.py
+      - name: 해외 결과 요약
+        run: |
+          python - <<'EOF'
+          import json
+          from pathlib import Path
+          files = sorted(Path("docs/data/stock").glob("????-??-??.json"))
+          d = json.loads(files[-1].read_text())
+          intl = d.get("intl")
+          assert intl, "intl 데이터 없음"
+          raw = intl["raw"]
+          translated = sum(1 for a in raw if "title_en" in a)
+          google = sum(1 for a in raw if "news.google.com" in a["link"])
+          by_src = {}
+          for a in raw:
+              by_src[a["source"]] = by_src.get(a["source"], 0) + 1
+          print(f"해외 기사 {intl['total_articles']}건, 이슈 {intl['total_issues']}개, "
+                f"주요 {len(intl['top_issues'])}개")
+          print(f"번역 {translated}건 / 미변환 구글링크 {google}건")
+          print("소스별:", dict(sorted(by_src.items(), key=lambda x: -x[1])[:8]))
+          print("\n주요 이슈 샘플:")
+          for t in intl["top_issues"][:3]:
+              print(f"  [{t['mention_count']}개사] {t['title']}")
+              print(f"           en: {t.get('title_en','(번역 안 됨)')}")
+          assert intl["total_articles"] > 0, "해외 기사 0건"
+          assert translated > 0, "번역 0건 — 번역 엔드포인트 확인 필요"
+          EOF

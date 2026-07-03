@@ -86,6 +86,33 @@ TOPICS = [
                          "금융당국", "금감원", "공매도", "세제", "밸류업"]),
         ],
         "etc_section": "기타",
+        # 해외 뉴스: 구글 뉴스 영어판 검색 + 유명 매체 RSS 직접 구독.
+        # 제목은 구글 번역(무료 웹 엔드포인트)으로 한국어로 바꿔 보여준다.
+        "intl": {
+            "title": "해외 주식·증시 스크랩",
+            "queries": ["stock market", "Federal Reserve", "Wall Street",
+                         "Nasdaq", "S&P 500 earnings"],
+            "feeds": [
+                ("Investing.com", "https://www.investing.com/rss/news_25.rss"),
+                ("Investing.com", "https://www.investing.com/rss/news.rss"),
+                ("CNBC", "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
+                ("MarketWatch", "https://feeds.marketwatch.com/marketwatch/topstories/"),
+                ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
+            ],
+            # 해외 기사는 영어 원문 제목(title_en) 기준으로 분류한다
+            "sections": [
+                ("시황", ["market", "stocks", "Dow", "Nasdaq", "S&P",
+                        "futures", "Wall Street", "rally", "selloff",
+                        "close", "trading"]),
+                ("연준·경제", ["Fed", "Federal Reserve", "rate", "inflation",
+                             "economy", "GDP", "jobs", "tariff", "Treasury",
+                             "recession", "dollar"]),
+                ("종목·기업", ["earnings", "shares", "stock price", "IPO",
+                             "dividend", "merger", "acquisition", "CEO",
+                             "revenue", "profit", "guidance"]),
+            ],
+            "etc_section": "기타",
+        },
     },
 ]
 
@@ -135,12 +162,14 @@ def strip_source_suffix(title: str, source: str) -> str:
     return title
 
 
-def fetch_articles(queries: list[str]) -> list[dict]:
+def fetch_articles(queries: list[str], lang: str = "ko") -> list[dict]:
     """구글 뉴스 RSS에서 검색어별 기사를 모아 반환한다.
 
     같은 링크(=같은 기사)는 하나만 남기되, 다른 언론사가 쓴 같은 사건
     기사는 나중에 묶어서 세야 하므로 여기서는 제거하지 않는다.
     """
+    locale = ("hl=ko&gl=KR&ceid=KR:ko" if lang == "ko"
+              else "hl=en-US&gl=US&ceid=US:en")
     seen_links: set[str] = set()
     articles: list[dict] = []
     cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS_WINDOW)
@@ -149,7 +178,7 @@ def fetch_articles(queries: list[str]) -> list[dict]:
         url = (
             "https://news.google.com/rss/search?q="
             + urllib.parse.quote(query)
-            + "&hl=ko&gl=KR&ceid=KR:ko"
+            + "&" + locale
         )
         try:
             xml = fetch(url)
@@ -201,6 +230,88 @@ def fetch_articles(queries: list[str]) -> list[dict]:
             })
 
     return articles
+
+
+def fetch_feed_articles(feeds: list[tuple[str, str]]) -> list[dict]:
+    """언론사 RSS 피드를 직접 구독해 기사를 모아 반환한다.
+
+    피드가 봇을 차단하거나 형식이 달라도 개별 실패로 그치고
+    나머지 피드는 계속 수집한다.
+    """
+    seen_links: set[str] = set()
+    articles: list[dict] = []
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS_WINDOW)
+
+    for source_name, url in feeds:
+        try:
+            xml = fetch(url, attempts=2, timeout=20)
+            root = ElementTree.fromstring(xml)
+        except Exception as e:
+            print(f"[warn] 피드 '{source_name}' 수집 실패: {e}")
+            continue
+
+        count = 0
+        for item in root.iter("item"):
+            title = (item.findtext("title") or "").strip()
+            link = (item.findtext("link") or "").strip()
+            pub = item.findtext("pubDate")
+            if not title or not link or not pub:
+                continue
+            try:
+                published = parsedate_to_datetime(pub)
+                if published.tzinfo is None:
+                    published = published.replace(tzinfo=timezone.utc)
+            except (TypeError, ValueError):
+                continue
+            if published < cutoff or link in seen_links:
+                continue
+            seen_links.add(link)
+            articles.append({
+                "title": title,
+                "link": link,
+                "source": source_name,
+                "published": published.astimezone(KST).isoformat(),
+            })
+            count += 1
+        print(f"피드 '{source_name}': {count}건")
+
+    return articles
+
+
+# ── 해외 기사 제목 번역 ─────────────────────────────────────────────
+# 구글 번역의 무료 웹 엔드포인트(키·계정 불필요)로 제목만 번역한다.
+# 비공식 엔드포인트라 언젠가 막힐 수 있으므로, 실패하면 영어 원문을
+# 그대로 두어 브리핑 자체는 항상 정상 동작하게 한다.
+TRANSLATE_URL = ("https://translate.googleapis.com/translate_a/single"
+                 "?client=gtx&sl=en&tl=ko&dt=t&q=")
+TRANSLATE_MAX_PER_RUN = 300
+
+
+def _translate_one(article: dict) -> None:
+    try:
+        data = json.loads(fetch(
+            TRANSLATE_URL + urllib.parse.quote(article["title"]),
+            attempts=1, timeout=15,
+        ))
+        ko = "".join(seg[0] for seg in data[0] if seg and seg[0]).strip()
+        if ko:
+            article["title_en"] = article["title"]
+            article["title"] = ko
+    except Exception:
+        pass  # 원문 제목 유지
+
+
+def translate_titles(articles: list[dict]) -> int:
+    """아직 번역되지 않은 기사 제목을 한국어로 바꾼다. 성공 건수 반환.
+
+    한 번 번역된 기사는 title_en 이 생겨 다음 실행에서 건너뛴다.
+    """
+    todo = [a for a in articles if "title_en" not in a][:TRANSLATE_MAX_PER_RUN]
+    if not todo:
+        return 0
+    with ThreadPoolExecutor(max_workers=RESOLVE_WORKERS) as pool:
+        list(pool.map(_translate_one, todo))
+    return sum(1 for a in todo if "title_en" in a)
 
 
 # ── 구글 뉴스 링크를 실제 기사 주소로 변환 ──────────────────────────
@@ -334,18 +445,22 @@ def similarity(a: frozenset[str], b: frozenset[str]) -> float:
     return inter / min(len(a), len(b))
 
 
-def cluster_articles(articles: list[dict]) -> list[dict]:
+def cluster_articles(articles: list[dict],
+                     title_key: str = "title") -> list[dict]:
     """제목이 비슷한 기사끼리 묶어 이슈(클러스터) 목록을 만든다.
 
     반환되는 각 이슈는 대표 기사 정보에 더해:
     - mention_count: 보도한 언론사 수(중복 제거)
     - sources: 언론사 목록
+
+    해외 기사는 번역 품질과 무관하게 묶이도록 영어 원문(title_en)
+    기준으로 비교할 수 있다(title_key="title_en").
     """
     ordered = sorted(articles, key=lambda a: a["published"])  # 최초 보도 순
     clusters: list[dict] = []
 
     for art in ordered:
-        grams = bigrams(normalize(art["title"]))
+        grams = bigrams(normalize(art.get(title_key) or art["title"]))
         best, best_score = None, 0.0
         for c in clusters:
             score = similarity(grams, c["_grams"])
@@ -363,7 +478,7 @@ def cluster_articles(articles: list[dict]) -> list[dict]:
         items = c["_items"]
         rep = items[0]  # 최초 보도 기사를 대표로
         sources = list(dict.fromkeys(i["source"] for i in items if i["source"]))
-        issues.append({
+        issue = {
             "title": rep["title"],
             "link": rep["link"],
             "source": rep["source"],
@@ -371,7 +486,10 @@ def cluster_articles(articles: list[dict]) -> list[dict]:
             "latest": items[-1]["published"],
             "mention_count": max(len(sources), 1),
             "sources": sources[:12],
-        })
+        }
+        if rep.get("title_en"):
+            issue["title_en"] = rep["title_en"]
+        issues.append(issue)
     return issues
 
 
@@ -380,8 +498,12 @@ def categorize(
     issues: list[dict],
     section_defs: list[tuple[str, list[str]]],
     etc_section: str,
+    title_key: str = "title",
 ) -> tuple[list[dict], list[dict]]:
-    """이슈를 (주요 이슈 TOP N, 섹션별 목록)으로 나눈다."""
+    """이슈를 (주요 이슈 TOP N, 섹션별 목록)으로 나눈다.
+
+    해외 이슈는 영어 원문(title_key="title_en") 기준으로 키워드를 맞춘다.
+    """
     ranked = sorted(issues, key=lambda i: (i["mention_count"], i["latest"]),
                     reverse=True)
     top = [i for i in ranked if i["mention_count"] >= TOP_ISSUE_MIN_SOURCES]
@@ -394,8 +516,9 @@ def categorize(
     for issue in ranked:
         if issue["link"] in top_links:
             continue  # 주요 이슈에 이미 나온 것은 중복 표시하지 않음
+        match_text = (issue.get(title_key) or issue["title"]).lower()
         for name, keywords in section_defs:
-            if any(kw in issue["title"] for kw in keywords):
+            if any(kw.lower() in match_text for kw in keywords):
                 bucket = sections[name]
                 break
         else:
@@ -452,24 +575,25 @@ def fetch_weather() -> dict | None:
 
 
 # ── 병합·저장 ───────────────────────────────────────────────────────
-def load_existing_raw(path: Path) -> list[dict]:
-    """오늘 파일이 이미 있으면 원본 기사 목록을 꺼내 온다(누적 병합용)."""
+def load_existing(path: Path) -> dict:
+    """오늘 파일이 이미 있으면 전체 데이터를 꺼내 온다(누적 병합용)."""
     if not path.exists():
-        return []
+        return {}
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
         if data.get("sample"):  # 샘플 데이터는 병합하지 않고 버린다
-            return []
-        return data.get("raw", [])
+            return {}
+        return data
     except (json.JSONDecodeError, OSError) as e:
         print(f"[warn] 기존 파일 읽기 실패, 새로 시작: {e}")
-        return []
+        return {}
 
 
 def merge_key(art: dict) -> tuple[str, str]:
-    """병합용 중복 판정 키. 링크는 원문 변환 후 바뀔 수 있으므로
-    제목+언론사 조합을 쓴다."""
-    return (normalize(art.get("title", "")), art.get("source", ""))
+    """병합용 중복 판정 키. 링크는 원문 변환 후, 해외 기사 제목은 번역 후
+    바뀔 수 있으므로 (영어 원문이 있으면 그것 기준) 제목+언론사 조합을 쓴다."""
+    title = art.get("title_en") or art.get("title", "")
+    return (normalize(title), art.get("source", ""))
 
 
 def merge_articles(existing: list[dict], fresh: list[dict]) -> list[dict]:
@@ -515,8 +639,10 @@ def run_topic(topic: dict, today: str, now_iso: str,
     out_path = topic_dir / f"{today}.json"
     print(f"\n=== {topic['emoji']} {topic['label']} ===")
 
+    prev = load_existing(out_path)
+
     fresh = fetch_articles(topic["queries"])
-    existing = load_existing_raw(out_path)
+    existing = prev.get("raw", [])
     raw = merge_articles(existing, fresh)
     print(f"신규 {len(fresh)}건 + 기존 {len(existing)}건 → 병합 {len(raw)}건")
 
@@ -544,6 +670,39 @@ def run_topic(topic: dict, today: str, now_iso: str,
         "total_issues": len(issues),
         "raw": sorted(raw, key=lambda a: a["published"], reverse=True),
     }
+
+    # 해외 뉴스 (주제에 intl 설정이 있을 때만)
+    intl_cfg = topic.get("intl")
+    if intl_cfg:
+        print("--- 🌍 해외 ---")
+        intl_fresh = (fetch_articles(intl_cfg["queries"], lang="en")
+                      + fetch_feed_articles(intl_cfg["feeds"]))
+        intl_existing = (prev.get("intl") or {}).get("raw", [])
+        intl_raw = merge_articles(intl_existing, intl_fresh)
+        print(f"신규 {len(intl_fresh)}건 + 기존 {len(intl_existing)}건 "
+              f"→ 병합 {len(intl_raw)}건")
+
+        resolved = resolve_google_links(intl_raw)
+        if resolved:
+            print(f"구글 뉴스 링크 {resolved}건을 원문 URL로 변환")
+        translated = translate_titles(intl_raw)
+        if translated:
+            print(f"제목 {translated}건 번역")
+
+        intl_issues = cluster_articles(intl_raw, title_key="title_en")
+        intl_top, intl_sections = categorize(
+            intl_issues, intl_cfg["sections"], intl_cfg["etc_section"],
+            title_key="title_en",
+        )
+        briefing["intl"] = {
+            "title": intl_cfg["title"],
+            "top_issues": intl_top,
+            "sections": intl_sections,
+            "total_articles": len(intl_raw),
+            "total_issues": len(intl_issues),
+            "raw": sorted(intl_raw, key=lambda a: a["published"],
+                          reverse=True),
+        }
 
     topic_dir.mkdir(parents=True, exist_ok=True)
     out_path.write_text(
