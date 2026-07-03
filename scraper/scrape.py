@@ -353,16 +353,24 @@ def _decoding_params(art_id: str) -> tuple[str, str] | None:
     return sg.group(1), ts.group(1)
 
 
-def _batch_decode(entries: list[tuple[str, str, str]]) -> list[str | None]:
-    """(art_id, ts, sg) 목록을 batchexecute로 한꺼번에 원문 URL로 변환한다."""
+def _batch_decode(entries: list[tuple[str, str, str]]) -> dict[int, str]:
+    """(art_id, ts, sg) 목록을 batchexecute로 원문 URL로 변환한다.
+
+    각 요청에 인덱스 id를 부여하고, 응답에 에코된 인덱스(item[6])로
+    URL을 되짚어 {요청 인덱스: url} 딕셔너리를 만든다.
+    이렇게 하면 구글이 응답을 뒤섞거나 일부를 빼먹어도 제목과 링크가
+    어긋나지 않는다. (인덱스 없이 순서로 매핑하던 버그 수정)
+    """
     reqs = [
         [
             "Fbv4je",
             '["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,'
             'null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,'
             f'null,0],"{art_id}",{ts},"{sg}"]',
+            None,
+            str(i),  # 요청 인덱스 — 응답에서 그대로 되돌아온다
         ]
-        for art_id, ts, sg in entries
+        for i, (art_id, ts, sg) in enumerate(entries)
     ]
     payload = "f.req=" + urllib.parse.quote(json.dumps([reqs]))
     req = urllib.request.Request(
@@ -378,17 +386,18 @@ def _batch_decode(entries: list[tuple[str, str, str]]) -> list[str | None]:
 
     # 응답은 ")]}'" 프리앰블 뒤에 JSON 덩어리가 오는 형태
     chunk = text.split("\n\n")[1]
-    results: list[str | None] = []
+    results: dict[int, str] = {}
     for item in json.loads(chunk):
-        if not (isinstance(item, list) and len(item) > 2
+        if not (isinstance(item, list) and len(item) > 6
                 and item[0] == "wrb.fr" and item[1] == "Fbv4je"):
             continue
         try:
+            idx = int(item[6])          # 요청 때 부여한 인덱스
             url = json.loads(item[2])[1]
-            results.append(url if isinstance(url, str)
-                           and url.startswith("http") else None)
-        except (json.JSONDecodeError, IndexError, TypeError):
-            results.append(None)
+            if isinstance(url, str) and url.startswith("http"):
+                results[idx] = url
+        except (json.JSONDecodeError, IndexError, TypeError, ValueError):
+            continue
     return results
 
 
@@ -424,11 +433,13 @@ def resolve_google_links(articles: list[dict]) -> int:
         if not entries:
             continue
         try:
-            urls = _batch_decode(entries)
+            url_by_idx = _batch_decode(entries)
         except Exception as e:
             print(f"[warn] 링크 일괄 변환 실패({len(entries)}건): {e}")
             continue
-        for art, url in zip(arts, urls):
+        # 인덱스로 정확히 매핑 — 응답이 누락/재정렬돼도 안전
+        for i, art in enumerate(arts):
+            url = url_by_idx.get(i)
             if url:
                 art["link"] = url
                 resolved += 1
