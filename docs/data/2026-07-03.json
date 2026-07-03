@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T09:00:00+09:00",
+  "sample": true,
+  "weather": {
+    "location": "서울",
+    "days": [
+      { "date": "2026-07-03", "min": 24, "max": 31, "emoji": "☀️" },
+      { "date": "2026-07-04", "min": 25, "max": 32, "emoji": "⛅" },
+      { "date": "2026-07-05", "min": 24, "max": 29, "emoji": "🌧️" }
+    ]
+  },
+  "top_issues": [
+    {
+      "title": "(샘플) 경찰, 전세사기 조직 일당 12명 검거",
+      "link": "#",
+      "source": "샘플뉴스A",
+      "published": "2026-07-03T06:00:00+09:00",
+      "latest": "2026-07-03T08:30:00+09:00",
+      "mention_count": 8,
+      "sources": ["샘플뉴스A", "샘플뉴스B", "샘플뉴스C"]
+    },
+    {
+      "title": "(샘플) 경찰청, 하반기 총경 전보 인사 단행",
+      "link": "#",
+      "source": "샘플뉴스B",
+      "published": "2026-07-03T05:00:00+09:00",
+      "latest": "2026-07-03T07:00:00+09:00",
+      "mention_count": 5,
+      "sources": ["샘플뉴스B", "샘플뉴스D"]
+    },
+    {
+      "title": "(샘플) 마약 유통 조직 수사 확대… 전국 압수수색",
+      "link": "#",
+      "source": "샘플뉴스C",
+      "published": "2026-07-03T04:00:00+09:00",
+      "latest": "2026-07-03T06:00:00+09:00",
+      "mention_count": 3,
+      "sources": ["샘플뉴스C", "샘플뉴스E"]
+    }
+  ],
+  "sections": [
+    {
+      "name": "인사·조직",
+      "articles": [
+        {
+          "title": "(샘플) 시도청 조직개편안 확정… 기동순찰대 확대",
+          "link": "#",
+          "source": "샘플뉴스",
+          "published": "2026-07-03T03:10:00+09:00",
+          "mention_count": 1,
+          "sources": ["샘플뉴스"]
+        }
+      ]
+    },
+    {
+      "name": "정책·행정",
+      "articles": [
+        {
+          "title": "(샘플) 자치경찰제 개선 법안 국회 발의",
+          "link": "#",
+          "source": "샘플뉴스",
+          "published": "2026-07-02T21:15:00+09:00",
+          "mention_count": 1,
+          "sources": ["샘플뉴스"]
+        }
+      ]
+    },
+    {
+      "name": "사건사고·기타",
+      "articles": [
+        {
+          "title": "(샘플) 폭염 속 실종 노인, 경찰 드론으로 3시간 만에 발견",
+          "link": "#",
+          "source": "샘플뉴스",
+          "published": "2026-07-03T02:00:00+09:00",
+          "mention_count": 1,
+          "sources": ["샘플뉴스"]
+        }
+      ]
+    }
+  ],
+  "total_articles": 19,
+  "total_issues": 6,
+  "raw": []
+}

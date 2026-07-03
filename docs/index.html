@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>경찰 뉴스 브리핑</title>
+<style>
+  :root {
+    --bg: #0e0f12;
+    --card: #17181c;
+    --text: #e8e9ec;
+    --muted: #8b8e96;
+    --accent: #4c8dff;
+    --hot: #ff6b4a;
+    --line: #2a2c33;
+    --badge-bg: #2a2c33;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #f5f6f8;
+      --card: #ffffff;
+      --text: #1c1e22;
+      --muted: #6b6e76;
+      --accent: #1a62d6;
+      --hot: #d6431a;
+      --line: #e2e4e9;
+      --badge-bg: #eef0f4;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+      "Noto Sans KR", "Malgun Gothic", sans-serif;
+    line-height: 1.6;
+  }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 20px 16px 60px; }
+  header h1 { font-size: 1.25rem; margin: 0 0 4px; }
+  header p { color: var(--muted); font-size: 0.85rem; margin: 0; }
+
+  .nav {
+    display: flex; align-items: center; gap: 8px;
+    margin: 18px 0 12px;
+  }
+  .nav button, .nav select {
+    background: var(--card); color: var(--text);
+    border: 1px solid var(--line); border-radius: 8px;
+    padding: 8px 12px; font-size: 0.95rem; cursor: pointer;
+  }
+  .nav button:disabled { opacity: 0.35; cursor: default; }
+  .nav select { flex: 1; }
+
+  .banner {
+    background: #5a4a1a; color: #ffe9a8;
+    border-radius: 8px; padding: 10px 14px;
+    font-size: 0.85rem; margin-bottom: 12px;
+  }
+
+  .card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .card h2 {
+    font-size: 1.05rem; margin: 0;
+    padding-bottom: 4px;
+  }
+  .updated {
+    color: var(--muted); font-size: 0.78rem;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--text);
+  }
+  .weather {
+    color: var(--muted); font-size: 0.9rem;
+    padding: 12px 0; border-bottom: 1px solid var(--line);
+  }
+  .weather .today { color: var(--text); font-size: 1rem; }
+
+  .section-title {
+    font-size: 0.85rem; font-weight: 700;
+    color: var(--accent);
+    margin: 20px 0 4px;
+    letter-spacing: 0.02em;
+  }
+  .section-title.hot { color: var(--hot); font-size: 0.95rem; }
+
+  ul.articles { list-style: none; margin: 0; padding: 0; }
+  ul.articles li {
+    padding: 10px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  ul.articles li:last-child { border-bottom: none; }
+  ul.articles a {
+    color: var(--text); text-decoration: none;
+    display: block; font-size: 0.97rem;
+  }
+  ul.articles a:hover { color: var(--accent); }
+  .meta {
+    color: var(--muted); font-size: 0.78rem; margin-top: 3px;
+    display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
+  }
+  .badge {
+    display: inline-block;
+    background: var(--badge-bg); color: var(--muted);
+    border-radius: 20px; padding: 1px 9px;
+    font-size: 0.72rem; font-weight: 600;
+  }
+  .badge.hot { background: var(--hot); color: #fff; }
+  .rank {
+    display: inline-block; width: 1.3em;
+    color: var(--hot); font-weight: 800;
+  }
+
+  .toolbar { display: flex; gap: 8px; margin-top: 16px; }
+  .toolbar button {
+    flex: 1;
+    background: var(--accent); color: #fff;
+    border: none; border-radius: 8px;
+    padding: 12px; font-size: 0.95rem; font-weight: 600;
+    cursor: pointer;
+  }
+  .empty { color: var(--muted); text-align: center; padding: 40px 0; }
+  footer { color: var(--muted); font-size: 0.75rem; text-align: center; margin-top: 24px; }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🚔 경찰 뉴스 브리핑</h1>
+    <p>매일 아침 5시부터 밤 11시까지, 매시간 경찰 관련 기사를 자동 수집합니다</p>
+  </header>
+
+  <div class="nav">
+    <button id="prevBtn" aria-label="이전 날짜">◀</button>
+    <select id="dateSelect" aria-label="날짜 선택"></select>
+    <button id="nextBtn" aria-label="다음 날짜">▶</button>
+  </div>
+
+  <div id="content"></div>
+
+  <footer>
+    출처: 구글 뉴스 검색 · 날씨: open-meteo ·
+    <a href="https://github.com/pol112ii/polnews" target="_blank" rel="noopener">GitHub</a>
+  </footer>
+</div>
+
+<script>
+const DAY_NAMES = ["일", "월", "화", "수", "목", "금", "토"];
+let dates = [];
+let current = null;
+let currentData = null;
+
+function dayLabel(dateStr) {
+  const d = new Date(dateStr + "T00:00:00+09:00");
+  return DAY_NAMES[d.getDay()];
+}
+
+function fmtDate(dateStr) {
+  const [y, m, d] = dateStr.split("-");
+  return `${parseInt(m)}.${parseInt(d)}(${dayLabel(dateStr)})`;
+}
+
+function fmtTime(isoStr) {
+  const d = new Date(isoStr);
+  return d.toLocaleTimeString("ko-KR", {
+    hour: "2-digit", minute: "2-digit", hour12: false, timeZone: "Asia/Seoul"
+  });
+}
+
+async function loadIndex() {
+  const res = await fetch("data/index.json", { cache: "no-store" });
+  dates = (await res.json()).dates;
+  const sel = document.getElementById("dateSelect");
+  sel.innerHTML = dates.map(d =>
+    `<option value="${d}">${d} (${dayLabel(d)})</option>`).join("");
+  sel.onchange = () => show(sel.value);
+  document.getElementById("prevBtn").onclick = () => move(1);
+  document.getElementById("nextBtn").onclick = () => move(-1);
+  if (dates.length) show(dates[0]);
+  else document.getElementById("content").innerHTML =
+    '<div class="empty">아직 수집된 데이터가 없습니다.<br>GitHub Actions 첫 실행을 기다려주세요.</div>';
+}
+
+function move(offset) {
+  const i = dates.indexOf(current) + offset;
+  if (i >= 0 && i < dates.length) show(dates[i]);
+}
+
+async function show(date) {
+  current = date;
+  document.getElementById("dateSelect").value = date;
+  const i = dates.indexOf(date);
+  document.getElementById("prevBtn").disabled = i >= dates.length - 1;
+  document.getElementById("nextBtn").disabled = i <= 0;
+
+  const res = await fetch(`data/${date}.json`, { cache: "no-store" });
+  const data = await res.json();
+  currentData = data;
+  render(data);
+}
+
+function articleLi(a, rank) {
+  const rankHtml = rank ? `<span class="rank">${rank}</span>` : "";
+  const badge = a.mention_count > 1
+    ? `<span class="badge ${rank ? "hot" : ""}">${a.mention_count}개 언론사</span>`
+    : "";
+  const extra = (a.sources && a.sources.length > 1)
+    ? ` 외 ${a.mention_count - 1}곳` : "";
+  return `<li>
+    <a href="${a.link}" target="_blank" rel="noopener">${rankHtml}❏ ${escapeHtml(a.title)}</a>
+    <div class="meta">${badge}<span>${escapeHtml(a.source || "")}${extra}</span></div>
+  </li>`;
+}
+
+function render(data) {
+  let html = "";
+  if (data.sample) {
+    html += `<div class="banner">⚠️ 샘플 데이터입니다. GitHub Actions가 처음 실행되면 실제 기사로 교체됩니다.</div>`;
+  }
+  html += `<div class="card">`;
+  html += `<h2>${fmtDate(data.date)} 경찰관련 기사 스크랩</h2>`;
+  const total = data.total_articles ?? data.total ?? 0;
+  html += `<div class="updated">${fmtTime(data.generated_at)} 업데이트 · 기사 ${total}건 수집</div>`;
+
+  if (data.weather && data.weather.days.length) {
+    const [t, ...rest] = data.weather.days;
+    html += `<div class="weather">`;
+    html += `<div class="today">(${dayLabel(t.date)}) ${t.emoji} ${t.min}°C / ${t.max}°C</div>`;
+    if (rest.length) {
+      html += rest.map(d =>
+        `${dayLabel(d.date)}(${d.min}/${d.max})°C ${d.emoji}`).join(" &nbsp; ");
+    }
+    html += `</div>`;
+  }
+
+  const hasTop = data.top_issues && data.top_issues.length;
+  const hasSections = data.sections && data.sections.length;
+
+  if (!hasTop && !hasSections) {
+    html += `<div class="empty">이 날짜에 수집된 기사가 없습니다.</div>`;
+  }
+
+  if (hasTop) {
+    html += `<div class="section-title hot">🔥 오늘의 주요 이슈</div>`;
+    html += `<ul class="articles">`;
+    data.top_issues.forEach((a, i) => { html += articleLi(a, i + 1); });
+    html += `</ul>`;
+  }
+
+  if (hasSections) {
+    for (const sec of data.sections) {
+      html += `<div class="section-title">${sec.name} (${sec.articles.length})</div>`;
+      html += `<ul class="articles">`;
+      for (const a of sec.articles) html += articleLi(a);
+      html += `</ul>`;
+    }
+  }
+  html += `</div>`;
+  html += `<div class="toolbar">
+    <button onclick="copyBriefing()">📋 텍스트로 복사</button>
+  </div>`;
+  document.getElementById("content").innerHTML = html;
+}
+
+function escapeHtml(s) {
+  return s.replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+// 블라인드 글처럼 공유할 수 있는 텍스트 포맷으로 복사
+function copyBriefing() {
+  const d = currentData;
+  if (!d) return;
+  let lines = [];
+  lines.push("━".repeat(14));
+  lines.push(`${fmtDate(d.date)} 경찰관련 기사 스크랩`);
+  lines.push("━".repeat(14));
+  lines.push("");
+  if (d.weather && d.weather.days.length) {
+    const [t, ...rest] = d.weather.days;
+    lines.push(`(${dayLabel(t.date)}) ${t.emoji} ${t.min}°C / ${t.max}°C`);
+    if (rest.length) {
+      lines.push(rest.map(x =>
+        `${dayLabel(x.date)}(${x.min}/${x.max})°C ${x.emoji}`).join("  "));
+    }
+    lines.push("");
+  }
+  if (d.top_issues && d.top_issues.length) {
+    lines.push("🔥 오늘의 주요 이슈");
+    d.top_issues.forEach((a, i) => {
+      lines.push(`${i + 1}. ${a.title} (${a.mention_count}개 언론사)`);
+      lines.push(a.link);
+      lines.push("");
+    });
+  }
+  for (const sec of d.sections || []) {
+    lines.push(`[${sec.name}]`);
+    for (const a of sec.articles) {
+      lines.push(`❏ ${a.title}`);
+      lines.push(a.link);
+      lines.push("");
+    }
+  }
+  navigator.clipboard.writeText(lines.join("\n")).then(() => {
+    alert("브리핑이 복사되었습니다. 메신저에 붙여넣어 공유하세요!");
+  });
+}
+
+loadIndex();
+</script>
+</body>
+</html>
