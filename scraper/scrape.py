@@ -255,14 +255,24 @@ def fetch_feed_articles(feeds: list[tuple[str, str]]) -> list[dict]:
             title = (item.findtext("title") or "").strip()
             link = (item.findtext("link") or "").strip()
             pub = item.findtext("pubDate")
-            if not title or not link or not pub:
+            if not title or not link:
                 continue
-            try:
-                published = parsedate_to_datetime(pub)
-                if published.tzinfo is None:
-                    published = published.replace(tzinfo=timezone.utc)
-            except (TypeError, ValueError):
-                continue
+            # 피드마다 날짜 형식이 제각각이라(RFC822/ISO/없음) 최대한 읽고,
+            # 못 읽으면 버리지 말고 수집 시각으로 간주한다
+            # (직접 피드는 어차피 최신 기사만 담고 있고, 병합 단계에서
+            #  중복이 걸러지므로 안전하다)
+            published = None
+            if pub:
+                for parse in (parsedate_to_datetime, datetime.fromisoformat):
+                    try:
+                        published = parse(pub.strip())
+                        break
+                    except (TypeError, ValueError):
+                        continue
+            if published is None:
+                published = datetime.now(timezone.utc)
+            if published.tzinfo is None:
+                published = published.replace(tzinfo=timezone.utc)
             if published < cutoff or link in seen_links:
                 continue
             seen_links.add(link)
