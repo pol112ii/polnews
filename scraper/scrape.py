@@ -52,7 +52,10 @@ MAX_PER_SECTION = 15   # 섹션당 최대 이슈(묶음) 수
 TOP_ISSUE_COUNT = 5    # 주요 이슈로 뽑을 개수
 TOP_ISSUE_MIN_SOURCES = 2  # 최소 몇 개 언론사가 보도해야 주요 이슈 후보인지
 HOURS_WINDOW = 24      # 최근 몇 시간 이내 기사만 수집할지
-SIMILARITY_THRESHOLD = 0.5  # 제목 바이그램 유사도가 이 이상이면 같은 사건으로 묶음
+# 제목 바이그램 유사도가 이 이상이면 같은 사건으로 묶음.
+# 실측: 같은 사건의 다른 제목은 0.38~0.43, 무관한 사건은 0.0 수준이라
+# 0.35면 같은 사건은 묶이고 오합병 위험은 낮다.
+SIMILARITY_THRESHOLD = 0.35
 
 USER_AGENT = "Mozilla/5.0 (compatible; polnews-scraper/2.0)"
 
@@ -116,9 +119,13 @@ def fetch_articles() -> list[dict]:
             if published < cutoff:
                 continue
 
-            # 구글 뉴스 제목은 "제목 - 언론사" 형태라 언론사를 떼어낸다
-            if source and title.endswith(f"- {source}"):
-                title = title[: -(len(source) + 2)].strip()
+            # 구글 뉴스 제목은 항상 "제목 - 언론사" 형태라 마지막 " - " 뒤를
+            # 떼어낸다. source 태그와 표기가 달라도(약칭 등) 확실히 제거되도록
+            # endswith 비교 대신 rsplit을 쓴다.
+            if " - " in title:
+                head, _, tail = title.rpartition(" - ")
+                if head and len(tail) <= 25:  # 뒤쪽이 언론사명일 때만
+                    title = head.strip()
 
             if link in seen_links:
                 continue
