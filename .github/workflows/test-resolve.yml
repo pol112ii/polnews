@@ -2,6 +2,9 @@ name: 링크 변환 테스트
 
 on:
   workflow_dispatch: {}
+  push:
+    branches: ["claude/police-news-webapp-frm12p"]
+    paths: ["scraper/**", ".github/workflows/test-resolve.yml"]
 
 jobs:
   test:
