@@ -17,6 +17,7 @@ import re
 import time
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -101,13 +102,13 @@ USER_AGENT = "Mozilla/5.0 (compatible; polnews-scraper/2.0)"
 
 
 # ── 수집 ────────────────────────────────────────────────────────────
-def fetch(url: str, attempts: int = 3) -> bytes:
+def fetch(url: str, attempts: int = 3, timeout: int = 30) -> bytes:
     """지수 백오프 재시도를 포함한 HTTP GET."""
     last_error: Exception | None = None
     for i in range(attempts):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return resp.read()
         except Exception as e:
             last_error = e
@@ -190,14 +191,15 @@ GOOGLE_LINK_RE = re.compile(
 )
 BATCH_URL = "https://news.google.com/_/DotsSplashUi/data/batchexecute"
 RESOLVE_CHUNK = 20          # batchexecute 한 번에 물어볼 기사 수
-RESOLVE_MAX_PER_RUN = 350   # 한 번 실행에서 해석할 최대 기사 수
+RESOLVE_MAX_PER_RUN = 200   # 주제당 한 번 실행에서 해석할 최대 기사 수
+RESOLVE_WORKERS = 8         # 서명 조회 병렬 스레드 수
 
 
 def _decoding_params(art_id: str) -> tuple[str, str] | None:
     """기사 페이지에서 디코딩에 필요한 서명(sg)과 타임스탬프(ts)를 꺼낸다."""
     try:
         html = fetch(f"https://news.google.com/articles/{art_id}",
-                     attempts=2).decode("utf-8", "replace")
+                     attempts=1, timeout=15).decode("utf-8", "replace")
     except Exception:
         return None
     sg = re.search(r'data-n-a-sg="([^"]+)"', html)
@@ -265,10 +267,13 @@ def resolve_google_links(articles: list[dict]) -> int:
     resolved = 0
     for start in range(0, len(targets), RESOLVE_CHUNK):
         batch = targets[start:start + RESOLVE_CHUNK]
+        # 서명 조회는 기사당 요청 1번이 필요해 병렬로 처리한다
+        with ThreadPoolExecutor(max_workers=RESOLVE_WORKERS) as pool:
+            params_list = list(pool.map(
+                lambda t: _decoding_params(t[1]), batch
+            ))
         entries, arts = [], []
-        for art, art_id in batch:
-            params = _decoding_params(art_id)
-            time.sleep(0.05)  # 과도한 요청 방지
+        for (art, art_id), params in zip(batch, params_list):
             if params:
                 entries.append((art_id, params[1], params[0]))
                 arts.append(art)
