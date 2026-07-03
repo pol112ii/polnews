@@ -141,6 +141,111 @@ def fetch_articles() -> list[dict]:
     return articles
 
 
+# ── 구글 뉴스 링크를 실제 기사 주소로 변환 ──────────────────────────
+# 구글 뉴스 RSS의 링크는 600자가 넘는 리다이렉트 주소라서 메신저에
+# 붙여넣으면 중간에 끊긴다. 구글의 내부 디코딩 API(batchexecute)를
+# 이용해 짧은 원문 기사 URL로 바꿔 저장한다.
+GOOGLE_LINK_RE = re.compile(
+    r"^https://news\.google\.com/rss/articles/([A-Za-z0-9_\-]+)"
+)
+BATCH_URL = "https://news.google.com/_/DotsSplashUi/data/batchexecute"
+RESOLVE_CHUNK = 20          # batchexecute 한 번에 물어볼 기사 수
+RESOLVE_MAX_PER_RUN = 350   # 한 번 실행에서 해석할 최대 기사 수
+
+
+def _decoding_params(art_id: str) -> tuple[str, str] | None:
+    """기사 페이지에서 디코딩에 필요한 서명(sg)과 타임스탬프(ts)를 꺼낸다."""
+    try:
+        html = fetch(f"https://news.google.com/articles/{art_id}",
+                     attempts=2).decode("utf-8", "replace")
+    except Exception:
+        return None
+    sg = re.search(r'data-n-a-sg="([^"]+)"', html)
+    ts = re.search(r'data-n-a-ts="([^"]+)"', html)
+    if not sg or not ts:
+        return None
+    return sg.group(1), ts.group(1)
+
+
+def _batch_decode(entries: list[tuple[str, str, str]]) -> list[str | None]:
+    """(art_id, ts, sg) 목록을 batchexecute로 한꺼번에 원문 URL로 변환한다."""
+    reqs = [
+        [
+            "Fbv4je",
+            '["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,'
+            'null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,'
+            f'null,0],"{art_id}",{ts},"{sg}"]',
+        ]
+        for art_id, ts, sg in entries
+    ]
+    payload = "f.req=" + urllib.parse.quote(json.dumps([reqs]))
+    req = urllib.request.Request(
+        BATCH_URL,
+        data=payload.encode(),
+        headers={
+            "User-Agent": USER_AGENT,
+            "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        text = resp.read().decode("utf-8", "replace")
+
+    # 응답은 ")]}'" 프리앰블 뒤에 JSON 덩어리가 오는 형태
+    chunk = text.split("\n\n")[1]
+    results: list[str | None] = []
+    for item in json.loads(chunk):
+        if not (isinstance(item, list) and len(item) > 2
+                and item[0] == "wrb.fr" and item[1] == "Fbv4je"):
+            continue
+        try:
+            url = json.loads(item[2])[1]
+            results.append(url if isinstance(url, str)
+                           and url.startswith("http") else None)
+        except (json.JSONDecodeError, IndexError, TypeError):
+            results.append(None)
+    return results
+
+
+def resolve_google_links(articles: list[dict]) -> int:
+    """구글 뉴스 링크를 원문 URL로 바꾼다(제자리 수정). 성공 건수를 반환.
+
+    실패한 기사는 구글 링크를 그대로 둔다. 이미 변환된 기사(원문 URL)는
+    건드리지 않으므로, 매시간 실행 시 새 기사만 추가 비용이 든다.
+    """
+    targets = []
+    for art in articles:
+        m = GOOGLE_LINK_RE.match(art["link"])
+        if m:
+            targets.append((art, m.group(1)))
+        if len(targets) >= RESOLVE_MAX_PER_RUN:
+            break
+    if not targets:
+        return 0
+
+    resolved = 0
+    for start in range(0, len(targets), RESOLVE_CHUNK):
+        batch = targets[start:start + RESOLVE_CHUNK]
+        entries, arts = [], []
+        for art, art_id in batch:
+            params = _decoding_params(art_id)
+            time.sleep(0.05)  # 과도한 요청 방지
+            if params:
+                entries.append((art_id, params[1], params[0]))
+                arts.append(art)
+        if not entries:
+            continue
+        try:
+            urls = _batch_decode(entries)
+        except Exception as e:
+            print(f"[warn] 링크 일괄 변환 실패({len(entries)}건): {e}")
+            continue
+        for art, url in zip(arts, urls):
+            if url:
+                art["link"] = url
+                resolved += 1
+    return resolved
+
+
 # ── 같은 사건 묶기(클러스터링) ──────────────────────────────────────
 def normalize(title: str) -> str:
     """유사도 비교용으로 제목에서 괄호 태그·공백·기호를 제거한다."""
@@ -291,11 +396,23 @@ def load_existing_raw(path: Path) -> list[dict]:
         return []
 
 
+def merge_key(art: dict) -> tuple[str, str]:
+    """병합용 중복 판정 키. 링크는 원문 변환 후 바뀔 수 있으므로
+    제목+언론사 조합을 쓴다."""
+    return (normalize(art.get("title", "")), art.get("source", ""))
+
+
 def merge_articles(existing: list[dict], fresh: list[dict]) -> list[dict]:
-    """링크 기준으로 중복을 제거하며 기존 + 신규 기사를 합친다."""
-    merged: dict[str, dict] = {a["link"]: a for a in existing if a.get("link")}
+    """중복을 제거하며 기존 + 신규 기사를 합친다.
+
+    기존 항목을 우선하므로, 이미 원문 URL로 변환된 링크가
+    새로 수집된 구글 링크로 되돌아가지 않는다.
+    """
+    merged: dict[tuple[str, str], dict] = {
+        merge_key(a): a for a in existing if a.get("link")
+    }
     for a in fresh:
-        merged.setdefault(a["link"], a)
+        merged.setdefault(merge_key(a), a)
     return list(merged.values())
 
 
@@ -308,6 +425,10 @@ def main() -> None:
     existing = load_existing_raw(out_path)
     raw = merge_articles(existing, fresh)
     print(f"신규 {len(fresh)}건 + 기존 {len(existing)}건 → 병합 {len(raw)}건")
+
+    resolved = resolve_google_links(raw)
+    if resolved:
+        print(f"구글 뉴스 링크 {resolved}건을 원문 URL로 변환")
 
     issues = cluster_articles(raw)
     top_issues, sections = categorize(issues)
