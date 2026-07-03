@@ -11,7 +11,9 @@
     --text: #e8e9ec;
     --muted: #8b8e96;
     --accent: #4c8dff;
+    --hot: #ff6b4a;
     --line: #2a2c33;
+    --badge-bg: #2a2c33;
   }
   @media (prefers-color-scheme: light) {
     :root {
@@ -20,7 +22,9 @@
       --text: #1c1e22;
       --muted: #6b6e76;
       --accent: #1a62d6;
+      --hot: #d6431a;
       --line: #e2e4e9;
+      --badge-bg: #eef0f4;
     }
   }
   * { box-sizing: border-box; }
@@ -62,6 +66,10 @@
   }
   .card h2 {
     font-size: 1.05rem; margin: 0;
+    padding-bottom: 4px;
+  }
+  .updated {
+    color: var(--muted); font-size: 0.78rem;
     padding-bottom: 12px;
     border-bottom: 2px solid var(--text);
   }
@@ -77,6 +85,8 @@
     margin: 20px 0 4px;
     letter-spacing: 0.02em;
   }
+  .section-title.hot { color: var(--hot); font-size: 0.95rem; }
+
   ul.articles { list-style: none; margin: 0; padding: 0; }
   ul.articles li {
     padding: 10px 0;
@@ -88,7 +98,21 @@
     display: block; font-size: 0.97rem;
   }
   ul.articles a:hover { color: var(--accent); }
-  .meta { color: var(--muted); font-size: 0.78rem; margin-top: 2px; }
+  .meta {
+    color: var(--muted); font-size: 0.78rem; margin-top: 3px;
+    display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
+  }
+  .badge {
+    display: inline-block;
+    background: var(--badge-bg); color: var(--muted);
+    border-radius: 20px; padding: 1px 9px;
+    font-size: 0.72rem; font-weight: 600;
+  }
+  .badge.hot { background: var(--hot); color: #fff; }
+  .rank {
+    display: inline-block; width: 1.3em;
+    color: var(--hot); font-weight: 800;
+  }
 
   .toolbar { display: flex; gap: 8px; margin-top: 16px; }
   .toolbar button {
@@ -97,10 +121,6 @@
     border: none; border-radius: 8px;
     padding: 12px; font-size: 0.95rem; font-weight: 600;
     cursor: pointer;
-  }
-  .toolbar button.secondary {
-    background: var(--card); color: var(--text);
-    border: 1px solid var(--line);
   }
   .empty { color: var(--muted); text-align: center; padding: 40px 0; }
   footer { color: var(--muted); font-size: 0.75rem; text-align: center; margin-top: 24px; }
@@ -111,7 +131,7 @@
 <div class="wrap">
   <header>
     <h1>🚔 경찰 뉴스 브리핑</h1>
-    <p>매일 새벽 5시, 경찰 관련 기사를 자동으로 모아드립니다</p>
+    <p>매일 아침 5시부터 밤 11시까지, 매시간 경찰 관련 기사를 자동 수집합니다</p>
   </header>
 
   <div class="nav">
@@ -142,6 +162,13 @@ function dayLabel(dateStr) {
 function fmtDate(dateStr) {
   const [y, m, d] = dateStr.split("-");
   return `${parseInt(m)}.${parseInt(d)}(${dayLabel(dateStr)})`;
+}
+
+function fmtTime(isoStr) {
+  const d = new Date(isoStr);
+  return d.toLocaleTimeString("ko-KR", {
+    hour: "2-digit", minute: "2-digit", hour12: false, timeZone: "Asia/Seoul"
+  });
 }
 
 async function loadIndex() {
@@ -176,6 +203,19 @@ async function show(date) {
   render(data);
 }
 
+function articleLi(a, rank) {
+  const rankHtml = rank ? `<span class="rank">${rank}</span>` : "";
+  const badge = a.mention_count > 1
+    ? `<span class="badge ${rank ? "hot" : ""}">${a.mention_count}개 언론사</span>`
+    : "";
+  const extra = (a.sources && a.sources.length > 1)
+    ? ` 외 ${a.mention_count - 1}곳` : "";
+  return `<li>
+    <a href="${a.link}" target="_blank" rel="noopener">${rankHtml}❏ ${escapeHtml(a.title)}</a>
+    <div class="meta">${badge}<span>${escapeHtml(a.source || "")}${extra}</span></div>
+  </li>`;
+}
+
 function render(data) {
   let html = "";
   if (data.sample) {
@@ -183,6 +223,8 @@ function render(data) {
   }
   html += `<div class="card">`;
   html += `<h2>${fmtDate(data.date)} 경찰관련 기사 스크랩</h2>`;
+  const total = data.total_articles ?? data.total ?? 0;
+  html += `<div class="updated">${fmtTime(data.generated_at)} 업데이트 · 기사 ${total}건 수집</div>`;
 
   if (data.weather && data.weather.days.length) {
     const [t, ...rest] = data.weather.days;
@@ -195,16 +237,25 @@ function render(data) {
     html += `</div>`;
   }
 
-  if (!data.sections || !data.sections.length) {
+  const hasTop = data.top_issues && data.top_issues.length;
+  const hasSections = data.sections && data.sections.length;
+
+  if (!hasTop && !hasSections) {
     html += `<div class="empty">이 날짜에 수집된 기사가 없습니다.</div>`;
-  } else {
+  }
+
+  if (hasTop) {
+    html += `<div class="section-title hot">🔥 오늘의 주요 이슈</div>`;
+    html += `<ul class="articles">`;
+    data.top_issues.forEach((a, i) => { html += articleLi(a, i + 1); });
+    html += `</ul>`;
+  }
+
+  if (hasSections) {
     for (const sec of data.sections) {
       html += `<div class="section-title">${sec.name} (${sec.articles.length})</div>`;
       html += `<ul class="articles">`;
-      for (const a of sec.articles) {
-        html += `<li><a href="${a.link}" target="_blank" rel="noopener">❏ ${escapeHtml(a.title)}</a>`;
-        html += `<div class="meta">${escapeHtml(a.source || "")}</div></li>`;
-      }
+      for (const a of sec.articles) html += articleLi(a);
       html += `</ul>`;
     }
   }
@@ -238,6 +289,14 @@ function copyBriefing() {
         `${dayLabel(x.date)}(${x.min}/${x.max})°C ${x.emoji}`).join("  "));
     }
     lines.push("");
+  }
+  if (d.top_issues && d.top_issues.length) {
+    lines.push("🔥 오늘의 주요 이슈");
+    d.top_issues.forEach((a, i) => {
+      lines.push(`${i + 1}. ${a.title} (${a.mention_count}개 언론사)`);
+      lines.push(a.link);
+      lines.push("");
+    });
   }
   for (const sec of d.sections || []) {
     lines.push(`[${sec.name}]`);
