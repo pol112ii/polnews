@@ -1,39 +1,1728 @@
 {
-  "generated_at": "2026-07-04T16:00:00+09:00",
+  "generated_at": "2026-07-04T16:51:37.682165+09:00",
   "window_hours": 24,
-  "sample": true,
   "items": [
     {
-      "title": "[속보] (샘플) 코스피, 장중 사상 최고치 경신",
-      "link": "#",
-      "source": "샘플뉴스A",
-      "published": "2026-07-04T15:40:00+09:00",
-      "latest": "2026-07-04T15:50:00+09:00",
-      "mention_count": 5,
-      "sources": ["샘플뉴스A", "샘플뉴스B"],
-      "topics": ["stock"]
-    },
-    {
-      "title": "[단독] (샘플) 경찰청, 대규모 조직개편안 마련",
-      "link": "#",
-      "source": "샘플뉴스B",
-      "published": "2026-07-04T14:20:00+09:00",
-      "latest": "2026-07-04T14:20:00+09:00",
+      "title": "[속보] 거제 미용실 흉기 난동 혐의 80대 구속…“도주 우려”",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2059378",
+      "source": "강원도민일보",
+      "published": "2026-07-04T16:40:54+09:00",
+      "latest": "2026-07-04T16:40:54+09:00",
       "mention_count": 1,
-      "sources": ["샘플뉴스B"],
-      "topics": ["police"]
+      "sources": [
+        "강원도민일보"
+      ],
+      "topics": []
     },
     {
-      "title": "[속보] (샘플) 정부, 부동산 안정화 추가 대책 발표",
-      "link": "#",
-      "source": "샘플뉴스C",
-      "published": "2026-07-04T11:05:00+09:00",
-      "latest": "2026-07-04T12:00:00+09:00",
+      "title": "[단독]연수구의회 개원 3일 만에 한지혜 의원 전격 탈당",
+      "link": "http://www.yeonsu.info/news/articleView.html?idxno=56569",
+      "source": "인천자치신문",
+      "published": "2026-07-04T15:58:31+09:00",
+      "latest": "2026-07-04T15:58:31+09:00",
+      "mention_count": 1,
+      "sources": [
+        "인천자치신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] “국회의원이 수십명 성폭행” SNS에 올린 50대女, 체포 후 구속… 명예훼손 혐의",
+      "link": "https://www.seoul.co.kr/news/society/2026/07/04/20260704500023",
+      "source": "서울신문",
+      "published": "2026-07-04T15:39:54+09:00",
+      "latest": "2026-07-04T15:39:54+09:00",
+      "mention_count": 1,
+      "sources": [
+        "서울신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] 이언주 “합성 음란물 재게시·댓글도 2차 가해…엄정 대응할 것”",
+      "link": "https://www.kyeonggi.com/article/20260704580072",
+      "source": "경기일보",
+      "published": "2026-07-04T15:36:29+09:00",
+      "latest": "2026-07-04T16:20:32+09:00",
+      "mention_count": 2,
+      "sources": [
+        "경기일보",
+        "헤럴드경제"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] 與, 美 의회 ‘쿠팡 차별’ 보고서에 “심각하게 왜곡”",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260704.99099001076",
+      "source": "국제신문",
+      "published": "2026-07-04T15:06:00+09:00",
+      "latest": "2026-07-04T15:09:03+09:00",
+      "mention_count": 2,
+      "sources": [
+        "국제신문",
+        "부산일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 다날도 알뜰폰 출사표…결제 시너지 승부수",
+      "link": "https://www.ddaily.co.kr/page/view/2026070412420736652",
+      "source": "디지털데일리",
+      "published": "2026-07-04T14:57:39+09:00",
+      "latest": "2026-07-04T14:57:39+09:00",
+      "mention_count": 1,
+      "sources": [
+        "디지털데일리"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 나이 문제로 시비 붙자 서로에게 주먹과 흉기 휘두른 60대 남성 2명 입건",
+      "link": "https://news.jtbc.co.kr/article/NB12306571",
+      "source": "JTBC",
+      "published": "2026-07-04T14:54:00+09:00",
+      "latest": "2026-07-04T14:54:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "JTBC"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] “유력 정치인이 성매매·마약”…허위사실 유포 50대 여성 구속",
+      "link": "https://v.daum.net/v/20260704145345817",
+      "source": "v.daum.net",
+      "published": "2026-07-04T14:53:45+09:00",
+      "latest": "2026-07-04T15:16:07+09:00",
+      "mention_count": 2,
+      "sources": [
+        "v.daum.net",
+        "매일신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] 오세훈 \"보수 가치 공유하면 함께해야\"…한동훈·이준석 연대 가능성 언급",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2285554",
+      "source": "대전일보",
+      "published": "2026-07-04T14:45:00+09:00",
+      "latest": "2026-07-04T14:47:02+09:00",
+      "mention_count": 2,
+      "sources": [
+        "대전일보",
+        "v.daum.net"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 피에스타 린지, 5일 비연예인 연인과 결혼",
+      "link": "https://www.dailian.co.kr/news/view/1663402",
+      "source": "데일리안",
+      "published": "2026-07-04T14:26:00+09:00",
+      "latest": "2026-07-04T14:31:00+09:00",
+      "mention_count": 2,
+      "sources": [
+        "데일리안",
+        "네이트"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] 靑, ‘5·18이 성역됐다’ 이병태에 공개 경고…“부적절한 처신”",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260704.99099001065",
+      "source": "국제신문",
+      "published": "2026-07-04T14:11:00+09:00",
+      "latest": "2026-07-04T15:08:26+09:00",
       "mention_count": 3,
-      "sources": ["샘플뉴스C", "샘플뉴스D"],
-      "topics": ["realestate"]
+      "sources": [
+        "국제신문",
+        "v.daum.net",
+        "문화일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] “광주일고에 폭탄 설치”...경찰·소방 수색",
+      "link": "https://www.kyeonggi.com/article/20260704580078",
+      "source": "경기일보",
+      "published": "2026-07-04T14:07:53+09:00",
+      "latest": "2026-07-04T15:28:22+09:00",
+      "mention_count": 7,
+      "sources": [
+        "경기일보",
+        "서울신문",
+        "문화일보",
+        "매일신문",
+        "한경매거진&북",
+        "한국경제TV",
+        "강원도민일보"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[속보]탁구 임종훈-신유빈, WTT 미국 스매시 우승",
+      "link": "https://www.newsis.com/view/NISX20260704_0003695826",
+      "source": "뉴시스",
+      "published": "2026-07-04T14:07:11+09:00",
+      "latest": "2026-07-04T14:07:11+09:00",
+      "mention_count": 1,
+      "sources": [
+        "뉴시스"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] 고유가 지원금 6조1123억원 지급…최종 신청률 98%",
+      "link": "https://biz.heraldcorp.com/article/10798066",
+      "source": "헤럴드경제",
+      "published": "2026-07-04T14:06:27+09:00",
+      "latest": "2026-07-04T14:42:00+09:00",
+      "mention_count": 5,
+      "sources": [
+        "헤럴드경제",
+        "한국경제TV",
+        "v.daum.net",
+        "이코노미스트",
+        "국제신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] 김민석, 광주서 당대표 출마 선언한다… 광화문서 한 번 더 검토",
+      "link": "https://www.seoul.co.kr/news/politics/2026/07/04/20260704500018",
+      "source": "서울신문",
+      "published": "2026-07-04T13:50:39+09:00",
+      "latest": "2026-07-04T13:50:39+09:00",
+      "mention_count": 1,
+      "sources": [
+        "서울신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보]광주제일고 폭발물 의심 신고…경찰 수색 중",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202607040017",
+      "source": "KBC광주방송",
+      "published": "2026-07-04T13:48:40+09:00",
+      "latest": "2026-07-04T13:48:40+09:00",
+      "mention_count": 1,
+      "sources": [
+        "KBC광주방송"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[단독] 합수본, '중앙선관위 투표용지 부족 경고' 업무연락 확보...이행 여부 수사",
+      "link": "https://v.daum.net/v/20260704130401903",
+      "source": "v.daum.net",
+      "published": "2026-07-04T13:04:01+09:00",
+      "latest": "2026-07-04T13:04:01+09:00",
+      "mention_count": 1,
+      "sources": [
+        "v.daum.net"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] '베니지아노 퇴출' SSG, NPB 출신 파이어볼러 아빌라 영입…교체 2회 모두 소진 승부수",
+      "link": "https://isplus.com/article/view/isp202607040025",
+      "source": "일간스포츠",
+      "published": "2026-07-04T12:58:00+09:00",
+      "latest": "2026-07-04T12:58:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "일간스포츠"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 법무부·檢, \"피진정 검사를 징계해 달라\" 청원을 대상 당사자 검사에 배당해 처리케 해...'황당'",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=123146",
+      "source": "펜앤마이크",
+      "published": "2026-07-04T11:49:01+09:00",
+      "latest": "2026-07-04T11:49:01+09:00",
+      "mention_count": 1,
+      "sources": [
+        "펜앤마이크"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독]도 넘은 '마녀사냥' 홍명보 감독 측 \"LA 공항 VIP 통로 이용 사실 무근, 서비스 존재도 몰라\"",
+      "link": "https://www.sportschosun.com/football/2026-07-04/202607040100025570001420",
+      "source": "sportschosun.com",
+      "published": "2026-07-04T11:45:21+09:00",
+      "latest": "2026-07-04T11:45:21+09:00",
+      "mention_count": 1,
+      "sources": [
+        "sportschosun.com"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] \"순간 순간 순간, 싸워\"…민희진, 그림자 전술 10",
+      "link": "https://www.dispatch.co.kr/2344786",
+      "source": "디스패치",
+      "published": "2026-07-04T11:43:00+09:00",
+      "latest": "2026-07-04T11:43:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "디스패치"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보]\"정부가 기업 성과급 잔치\"...홍준표, 수천조 '메가 프로젝트' 쓴소",
+      "link": "https://magazine.hankyung.com/business/article/202607045424b",
+      "source": "한경매거진&북",
+      "published": "2026-07-04T11:30:00+09:00",
+      "latest": "2026-07-04T11:30:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "한경매거진&북"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] 日 요미우리, ‘차기 대권주자’ 오세훈 주목…“보수 재건 기대 모으는 유력 정치인”",
+      "link": "https://www.munhwa.com/article/11600230",
+      "source": "문화일보",
+      "published": "2026-07-04T11:28:37+09:00",
+      "latest": "2026-07-04T11:28:37+09:00",
+      "mention_count": 1,
+      "sources": [
+        "문화일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] `면허 취소 수준` 음주운전, 하루에 두 번 적발된 40대男…벌금형",
+      "link": "https://www.imaeil.com/page/view/2026070411051515913",
+      "source": "매일신문",
+      "published": "2026-07-04T11:15:19+09:00",
+      "latest": "2026-07-04T11:15:19+09:00",
+      "mention_count": 1,
+      "sources": [
+        "매일신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] 李대통령 “3대 메가 프로젝트, 지지율용이면 지방선거 전에 했을 것”",
+      "link": "https://www.kyeonggi.com/article/20260704580040",
+      "source": "경기일보",
+      "published": "2026-07-04T11:12:02+09:00",
+      "latest": "2026-07-04T16:06:05+09:00",
+      "mention_count": 4,
+      "sources": [
+        "경기일보",
+        "이코노미스트",
+        "대전일보",
+        "KBC광주방송"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] 60대 에어컨 설치기사, 흉기에 찔려 중태… 50대 세입자 긴급체포 ‘살인미수 혐의’",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/07/04/20260704500010",
+      "source": "서울신문",
+      "published": "2026-07-04T10:57:12+09:00",
+      "latest": "2026-07-04T10:57:12+09:00",
+      "mention_count": 1,
+      "sources": [
+        "서울신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독]‘배재고 사태 악용’ 보이스피싱까지…학교 긴급 안내문 발송",
+      "link": "https://ichannela.com/news/detail/000000537934.do",
+      "source": "채널A",
+      "published": "2026-07-04T10:56:00+09:00",
+      "latest": "2026-07-04T10:56:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "채널A"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] ‘국회서 대북송금 관련 위증’ 경찰, 수사 기한 연장…기록 검토 마치고 본격 수사 [세상&]",
+      "link": "https://biz.heraldcorp.com/article/10797856",
+      "source": "헤럴드경제",
+      "published": "2026-07-04T10:45:00+09:00",
+      "latest": "2026-07-04T10:45:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "헤럴드경제"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[속보]음주단속 피해 달아나다 바다 추락…40대 사망",
+      "link": "https://www.munhwa.com/article/11600227",
+      "source": "문화일보",
+      "published": "2026-07-04T10:41:09+09:00",
+      "latest": "2026-07-04T11:37:59+09:00",
+      "mention_count": 2,
+      "sources": [
+        "문화일보",
+        "서울신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "단독1위 문정민 \"자신감 있게 제 플레이를 펼쳐야죠\" [KLPGA 롯데오픈]",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021033",
+      "source": "골프한국",
+      "published": "2026-07-04T10:13:57+09:00",
+      "latest": "2026-07-04T10:13:57+09:00",
+      "mention_count": 1,
+      "sources": [
+        "골프한국"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보]트럼프·네타냐후, 미국서 곧 정상회담",
+      "link": "https://magazine.hankyung.com/business/article/202607045381b",
+      "source": "한경매거진&북",
+      "published": "2026-07-04T10:05:00+09:00",
+      "latest": "2026-07-04T10:58:14+09:00",
+      "mention_count": 5,
+      "sources": [
+        "한경매거진&북",
+        "강원도민일보",
+        "v.daum.net",
+        "이코노미스트",
+        "매일경제"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보] ‘짱구 엄마’ 성우 강희선 별세…향년 65세",
+      "link": "https://www.seoul.co.kr/news/life/2026/07/04/20260704500009",
+      "source": "서울신문",
+      "published": "2026-07-04T10:04:08+09:00",
+      "latest": "2026-07-04T10:15:00+09:00",
+      "mention_count": 2,
+      "sources": [
+        "서울신문",
+        "CBC뉴스"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 4일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202607040005",
+      "source": "bntnews.co.kr",
+      "published": "2026-07-04T10:00:29+09:00",
+      "latest": "2026-07-04T10:00:29+09:00",
+      "mention_count": 1,
+      "sources": [
+        "bntnews.co.kr"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보]메시 울릴뻔한 카보베르데…연장 혈투끝 아르헨에 2대3 석패",
+      "link": "https://www.donga.com/news/Sports/article/all/20260704/134235500/1",
+      "source": "동아일보",
+      "published": "2026-07-04T09:57:00+09:00",
+      "latest": "2026-07-04T09:57:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "동아일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보]경찰, '국조특위 현장조사 방해' 60대 구속영장…오늘 심사",
+      "link": "https://www.newsis.com/view/NISX20260704_0003695746",
+      "source": "뉴시스",
+      "published": "2026-07-04T09:55:09+09:00",
+      "latest": "2026-07-04T10:57:40+09:00",
+      "mention_count": 4,
+      "sources": [
+        "뉴시스",
+        "YTN",
+        "뉴스1",
+        "강원도민일보"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[단독]기술유용 피해 업체 절반 무대응…공정위 신고 6.6%뿐",
+      "link": "https://www.newsis.com/view/NISX20260703_0003694526",
+      "source": "뉴시스",
+      "published": "2026-07-04T07:00:00+09:00",
+      "latest": "2026-07-04T07:00:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "뉴시스"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[긴급진단] 혼탁해진 전기공사 입찰시스템(1)간이형 종심제 폐지, 기술 경쟁 회복 신호탄 기대",
+      "link": "https://www.electimes.com/news/articleView.html?idxno=369860",
+      "source": "전기신문",
+      "published": "2026-07-04T07:00:00+09:00",
+      "latest": "2026-07-04T07:00:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "전기신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 아들 공연 처음 찾은 네이버 이해진 \"가수 반대 후회할 정도\"",
+      "link": "https://news.tf.co.kr/read/economy/2339672.htm",
+      "source": "더팩트",
+      "published": "2026-07-04T06:00:02+09:00",
+      "latest": "2026-07-04T06:00:02+09:00",
+      "mention_count": 1,
+      "sources": [
+        "더팩트"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독]구리 갭투자 6개월새 반토막…규제 묶기 5개월전 투기수요 떠났다[부동산AtoZ]",
+      "link": "https://www.asiae.co.kr/article/2026070208402534929",
+      "source": "아시아경제",
+      "published": "2026-07-04T06:00:00+09:00",
+      "latest": "2026-07-04T06:00:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "아시아경제"
+      ],
+      "topics": [
+        "realestate"
+      ]
+    },
+    {
+      "title": "[단독] 검찰미래위 조사단 권한 논란… 진상조사 넘어 수사권도 가져",
+      "link": "https://www.chosun.com/national/court_law/2026/07/04/RXG57RR4BJAB7CBGNXE3BVUGWY/",
+      "source": "조선일보",
+      "published": "2026-07-04T05:06:30+09:00",
+      "latest": "2026-07-04T05:06:30+09:00",
+      "mention_count": 1,
+      "sources": [
+        "조선일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 환자 채워 연명 ‘좀비 요양병원’ 퇴출",
+      "link": "https://www.chosun.com/national/welfare-medical/2026/07/04/2GCSBF4O7RGG3K7XAE5VWFXNPY/",
+      "source": "조선일보",
+      "published": "2026-07-04T05:04:30+09:00",
+      "latest": "2026-07-04T05:04:30+09:00",
+      "mention_count": 1,
+      "sources": [
+        "조선일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] AI 시범재판부 출범, 첫 선고",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=222987",
+      "source": "법률신문",
+      "published": "2026-07-04T05:00:00+09:00",
+      "latest": "2026-07-04T05:00:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "법률신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[판결][단독] 권리금 협상 결렬되자 ‘공실’로 “임대인이 3억 원 배상하라”",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=222995",
+      "source": "법률신문",
+      "published": "2026-07-04T05:00:00+09:00",
+      "latest": "2026-07-04T05:00:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "법률신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 수장률 100% 넘긴 김홍도미술관…단원 진품 훼손 우려도",
+      "link": "https://www.kyeonggi.com/article/20260702580359",
+      "source": "경기일보",
+      "published": "2026-07-04T05:00:00+09:00",
+      "latest": "2026-07-04T05:00:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "경기일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독]서울 여성기업 68만곳, 창업·자금·판로 지원 한 번에 받는다",
+      "link": "https://www.news1.kr/local/moi/6217257",
+      "source": "뉴스1",
+      "published": "2026-07-04T05:00:00+09:00",
+      "latest": "2026-07-04T05:00:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "뉴스1"
+      ],
+      "topics": []
+    },
+    {
+      "title": "긴급체포도 경찰 마음대로? 견제 망가져도 정말 괜찮나요",
+      "link": "https://www.nocutnews.co.kr/news/6543020",
+      "source": "nocutnews.co.kr",
+      "published": "2026-07-04T05:00:00+09:00",
+      "latest": "2026-07-04T05:03:32+09:00",
+      "mention_count": 2,
+      "sources": [
+        "nocutnews.co.kr",
+        "v.daum.net"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[단독] 야구협회 \"배재고 선수 개개인도 징계 심의하겠다\"",
+      "link": "https://www.imaeil.com/page/view/2026070403031321428",
+      "source": "매일신문",
+      "published": "2026-07-04T03:03:21+09:00",
+      "latest": "2026-07-04T03:03:21+09:00",
+      "mention_count": 1,
+      "sources": [
+        "매일신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 장윤기 집주인에게 “아들 방 치워라” 요구한 ‘경찰 아빠’…경찰 “괜찮다”",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1266673.html",
+      "source": "한겨레",
+      "published": "2026-07-04T02:24:00+09:00",
+      "latest": "2026-07-04T02:24:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "한겨레"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[단독] 배재고, 규정에 없는 징계 당했다",
+      "link": "https://www.imaeil.com/page/view/2026070314305874202",
+      "source": "매일신문",
+      "published": "2026-07-04T02:19:42+09:00",
+      "latest": "2026-07-04T02:19:42+09:00",
+      "mention_count": 1,
+      "sources": [
+        "매일신문"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독]선관위, 회의록 안내려 ‘익명열람-익명제출-실명제출’ 3단계 꼼수",
+      "link": "https://www.donga.com/news/Society/article/all/20260704/134234970/2",
+      "source": "동아일보",
+      "published": "2026-07-04T01:40:00+09:00",
+      "latest": "2026-07-04T01:40:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "동아일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 인력난 선관위, 6·3 지선 공무원 차출 27만명 '역대 최대'",
+      "link": "https://news.tf.co.kr/read/ptoday/2339668.htm",
+      "source": "더팩트",
+      "published": "2026-07-04T00:00:04+09:00",
+      "latest": "2026-07-04T00:00:04+09:00",
+      "mention_count": 1,
+      "sources": [
+        "더팩트"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] “장윤기 차의 혈흔, 이채원 양의 것”…경찰, 핵심 물증 송치 누락",
+      "link": "https://v.daum.net/v/20260703232519096",
+      "source": "v.daum.net",
+      "published": "2026-07-03T23:25:19+09:00",
+      "latest": "2026-07-03T23:25:19+09:00",
+      "mention_count": 1,
+      "sources": [
+        "v.daum.net"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[속보] 제주공항서 실탄 갖고 항공기 타려던 30대 현직 경찰관 입건",
+      "link": "https://www.dt.co.kr/article/12071027",
+      "source": "디지털타임스",
+      "published": "2026-07-03T23:08:28+09:00",
+      "latest": "2026-07-03T23:08:28+09:00",
+      "mention_count": 1,
+      "sources": [
+        "디지털타임스"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[속보]'해경 계엄가담 의혹' 김종욱·안성식 구속영장 기각",
+      "link": "https://www.newsis.com/view/NISX20260703_0003695651",
+      "source": "뉴시스",
+      "published": "2026-07-03T22:48:10+09:00",
+      "latest": "2026-07-03T22:57:46+09:00",
+      "mention_count": 4,
+      "sources": [
+        "뉴시스",
+        "경향신문",
+        "파이낸셜뉴스",
+        "v.daum.net"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[속보] 차량 기어 ‘주행’ 상태서 하차한 60대…차량 상가에 ‘꽝’",
+      "link": "https://www.dt.co.kr/article/12071025",
+      "source": "디지털타임스",
+      "published": "2026-07-03T22:41:23+09:00",
+      "latest": "2026-07-03T22:41:23+09:00",
+      "mention_count": 1,
+      "sources": [
+        "디지털타임스"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 李대통령, 장동혁 대표 가족상에 근조화환 보냈다",
+      "link": "https://v.daum.net/v/20260703224103658",
+      "source": "v.daum.net",
+      "published": "2026-07-03T22:41:03+09:00",
+      "latest": "2026-07-03T22:41:25+09:00",
+      "mention_count": 2,
+      "sources": [
+        "v.daum.net",
+        "조선일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 아는 경찰이 ‘원룸 비번’ 줬다…장윤기 리얼돌 버린 ‘경찰 아빠’ 파문",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1266614.html",
+      "source": "한겨레",
+      "published": "2026-07-03T22:10:00+09:00",
+      "latest": "2026-07-03T22:10:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "한겨레"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[단독] 포스코이앤씨, 50대 직원 대상으로 희망퇴직 실시",
+      "link": "https://news.mtn.co.kr/news-detail/2026070321080864172",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-07-03T21:09:59+09:00",
+      "latest": "2026-07-03T21:09:59+09:00",
+      "mention_count": 1,
+      "sources": [
+        "MTN 머니투데이방송"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보]구조 순찰차에 치인 60대 사망…20대 여경 입건",
+      "link": "https://www.munhwa.com/article/11600193",
+      "source": "문화일보",
+      "published": "2026-07-03T20:58:40+09:00",
+      "latest": "2026-07-03T20:58:40+09:00",
+      "mention_count": 1,
+      "sources": [
+        "문화일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] ③ 대구 새마을금고 '절반 이상 적자'···부실 도미노 '경고등'",
+      "link": "https://dgmbc.com/NewsArticle/847448",
+      "source": "대구MBC",
+      "published": "2026-07-03T20:30:00+09:00",
+      "latest": "2026-07-03T20:30:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "대구MBC"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 장윤기 현관 비번도 알려줬다…\"수시로 통화\"",
+      "link": "https://v.daum.net/v/20260703201206478",
+      "source": "v.daum.net",
+      "published": "2026-07-03T20:12:06+09:00",
+      "latest": "2026-07-03T20:12:06+09:00",
+      "mention_count": 1,
+      "sources": [
+        "v.daum.net"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 증거보전 안된 장윤기 '리얼돌'‥검찰도 놓쳤다",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6834885_37004.html",
+      "source": "MBC 뉴스",
+      "published": "2026-07-03T20:02:12+09:00",
+      "latest": "2026-07-03T20:02:12+09:00",
+      "mention_count": 1,
+      "sources": [
+        "MBC 뉴스"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 선관위 규탄 집회 내려다보며 스윙 연습‥결국 중징계",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6834884_37004.html",
+      "source": "MBC 뉴스",
+      "published": "2026-07-03T20:00:28+09:00",
+      "latest": "2026-07-03T20:12:00+09:00",
+      "mention_count": 2,
+      "sources": [
+        "MBC 뉴스",
+        "v.daum.net"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 대통령도 우려했는데…충북경찰, 또 ‘갑질 의혹’",
+      "link": "https://v.daum.net/v/20260703195819291",
+      "source": "v.daum.net",
+      "published": "2026-07-03T19:58:19+09:00",
+      "latest": "2026-07-03T19:58:19+09:00",
+      "mention_count": 1,
+      "sources": [
+        "v.daum.net"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[단독] \"휴대폰 강에 버렸냐\" 장윤기 부자 통화시켜 준 경찰",
+      "link": "https://v.daum.net/v/20260703195705282",
+      "source": "v.daum.net",
+      "published": "2026-07-03T19:57:05+09:00",
+      "latest": "2026-07-03T19:57:05+09:00",
+      "mention_count": 1,
+      "sources": [
+        "v.daum.net"
+      ],
+      "topics": [
+        "police"
+      ]
+    },
+    {
+      "title": "[단독] 해고·권고사직, 복직 후 갈등까지…밀레코리아, 반복된 인사 논란",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=306282",
+      "source": "스트레이트뉴스",
+      "published": "2026-07-03T19:23:27+09:00",
+      "latest": "2026-07-03T19:23:27+09:00",
+      "mention_count": 1,
+      "sources": [
+        "스트레이트뉴스"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독]쓰레기 가득 찬 원룸에 7년간 아이 방치",
+      "link": "https://ichannela.com/news/detail/000000537846.do",
+      "source": "채널A",
+      "published": "2026-07-03T19:19:00+09:00",
+      "latest": "2026-07-03T19:19:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "채널A"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독]배재고, 학생에 교육자료 배포…“죄송하다고 해라”",
+      "link": "https://ichannela.com/news/detail/000000537840.do",
+      "source": "채널A",
+      "published": "2026-07-03T19:10:00+09:00",
+      "latest": "2026-07-03T19:10:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "채널A"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보]우리은행 고객 연계정보 1만7000여건 유출",
+      "link": "https://www.munhwa.com/article/11600182",
+      "source": "문화일보",
+      "published": "2026-07-03T19:03:02+09:00",
+      "latest": "2026-07-03T19:03:02+09:00",
+      "mention_count": 1,
+      "sources": [
+        "문화일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독]“축구협회 관계자, 손흥민에 ‘지나가라’”",
+      "link": "https://ichannela.com/news/detail/000000537835.do",
+      "source": "채널A",
+      "published": "2026-07-03T18:58:00+09:00",
+      "latest": "2026-07-03T18:58:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "채널A"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 강훈식 \"민주당, 중도층 품으려면 ‘제3의 길’ 가야…기존 진보 문법엔 대중적 피로감\"",
+      "link": "https://news.jtbc.co.kr/article/NB12306513",
+      "source": "JTBC",
+      "published": "2026-07-03T18:36:00+09:00",
+      "latest": "2026-07-03T18:36:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "JTBC"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 결정문, 법원 \"돈 없는 회생안은 회생 아니다\"…홈플러스 회생절차 폐지",
+      "link": "https://www.sjsori.com/news/articleView.html?idxno=87305",
+      "source": "세종의소리",
+      "published": "2026-07-03T18:27:41+09:00",
+      "latest": "2026-07-03T18:27:41+09:00",
+      "mention_count": 1,
+      "sources": [
+        "세종의소리"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 배재고처럼 '지만원의 5·18 모욕 책' 보유 학교는 32곳",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248543",
+      "source": "OhmyNews",
+      "published": "2026-07-03T18:24:00+09:00",
+      "latest": "2026-07-03T18:27:52+09:00",
+      "mention_count": 2,
+      "sources": [
+        "OhmyNews",
+        "v.daum.net"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] ‘구더기’ 아내 사망 이틀 전…부사관이 장갑 끼고 한 짓",
+      "link": "https://www.joongang.co.kr/article/25441959",
+      "source": "중앙일보",
+      "published": "2026-07-03T18:19:31+09:00",
+      "latest": "2026-07-03T18:19:31+09:00",
+      "mention_count": 1,
+      "sources": [
+        "중앙일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 양평군 강상면 차량 화재로 40대 남성 1명 숨져",
+      "link": "https://www.kyeonggi.com/article/20260703580257",
+      "source": "경기일보",
+      "published": "2026-07-03T17:58:45+09:00",
+      "latest": "2026-07-03T17:58:45+09:00",
+      "mention_count": 1,
+      "sources": [
+        "경기일보"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[속보]KB금융 차기 회장 후보에 양종희·이재근·이창권·이환주 등 6인",
+      "link": "https://www.mt.co.kr/finance/2026/07/03/2026070317471081679",
+      "source": "머니투데이",
+      "published": "2026-07-03T17:48:38+09:00",
+      "latest": "2026-07-03T17:48:38+09:00",
+      "mention_count": 1,
+      "sources": [
+        "머니투데이"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 예비군에 소비기한 40일 지난 생수 지급…또 예비군 관리 부실",
+      "link": "https://news.jtbc.co.kr/article/NB12306495",
+      "source": "JTBC",
+      "published": "2026-07-03T17:36:00+09:00",
+      "latest": "2026-07-03T19:50:57+09:00",
+      "mention_count": 2,
+      "sources": [
+        "JTBC",
+        "v.daum.net"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] ‘노태악 부부 해외출장’에 환송 직원만 6명…선거는 부실 의전엔 진심?",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8601713",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T17:21:00+09:00",
+      "latest": "2026-07-03T17:21:00+09:00",
+      "mention_count": 1,
+      "sources": [
+        "KBS 뉴스"
+      ],
+      "topics": []
+    },
+    {
+      "title": "[단독] 인천경제청 고위 공무원, 산하 직원에 식사 자리 강요 논란",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=320860",
+      "source": "인천투데이",
+      "published": "2026-07-03T17:06:10+09:00",
+      "latest": "2026-07-03T17:06:10+09:00",
+      "mention_count": 1,
+      "sources": [
+        "인천투데이"
+      ],
+      "topics": []
     }
   ],
-  "total_articles": 3,
-  "raw": []
+  "total_articles": 118,
+  "raw": [
+    {
+      "title": "[속보] 거제 미용실 흉기 난동 혐의 80대 구속…“도주 우려”",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2059378",
+      "source": "강원도민일보",
+      "published": "2026-07-04T16:40:54+09:00"
+    },
+    {
+      "title": "[속보]이언주 ‘합성 음란물’에 충격받아 입원…“2차 가해도 법적 책임 끝까지 물을 것”",
+      "link": "https://biz.heraldcorp.com/article/10798119",
+      "source": "헤럴드경제",
+      "published": "2026-07-04T16:20:32+09:00"
+    },
+    {
+      "title": "[속보]李 대통령 \"메가프로젝트, 지지율 관리용이면 선거 전에 했을 것\" 반박",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202607040019",
+      "source": "KBC광주방송",
+      "published": "2026-07-04T16:06:05+09:00"
+    },
+    {
+      "title": "[단독]연수구의회 개원 3일 만에 한지혜 의원 전격 탈당",
+      "link": "http://www.yeonsu.info/news/articleView.html?idxno=56569",
+      "source": "인천자치신문",
+      "published": "2026-07-04T15:58:31+09:00"
+    },
+    {
+      "title": "[속보] “국회의원이 수십명 성폭행” SNS에 올린 50대女, 체포 후 구속… 명예훼손 혐의",
+      "link": "https://www.seoul.co.kr/news/society/2026/07/04/20260704500023",
+      "source": "서울신문",
+      "published": "2026-07-04T15:39:54+09:00"
+    },
+    {
+      "title": "[속보] 이언주 “합성 음란물 재게시·댓글도 2차 가해…엄정 대응할 것”",
+      "link": "https://www.kyeonggi.com/article/20260704580072",
+      "source": "경기일보",
+      "published": "2026-07-04T15:36:29+09:00"
+    },
+    {
+      "title": "[속보] “배재고 미래 짓밟아”…광주일고에 폭탄 설치 협박 글",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2059376",
+      "source": "강원도민일보",
+      "published": "2026-07-04T15:28:22+09:00"
+    },
+    {
+      "title": "[속보] '당대표, 원내대표 등 지낸 정치인들, 살인·성범죄·비리 등 저질러'…허위사실 유포한 50대 女",
+      "link": "https://www.imaeil.com/page/view/2026070415122594116",
+      "source": "매일신문",
+      "published": "2026-07-04T15:16:07+09:00"
+    },
+    {
+      "title": "[속보] 與, `쿠팡차별` 美의회 보고서에 `심각하게 왜곡…강력한 유감`",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026070415080636137",
+      "source": "부산일보",
+      "published": "2026-07-04T15:09:03+09:00"
+    },
+    {
+      "title": "[속보]이병태 “5·18이 성역인가”에 최민희 “네, 성역 맞습니다”…청와대도 공개 경고",
+      "link": "https://www.munhwa.com/article/11600241",
+      "source": "문화일보",
+      "published": "2026-07-04T15:08:26+09:00"
+    },
+    {
+      "title": "[속보] 與, 美 의회 ‘쿠팡 차별’ 보고서에 “심각하게 왜곡”",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260704.99099001076",
+      "source": "국제신문",
+      "published": "2026-07-04T15:06:00+09:00"
+    },
+    {
+      "title": "[단독] 다날도 알뜰폰 출사표…결제 시너지 승부수",
+      "link": "https://www.ddaily.co.kr/page/view/2026070412420736652",
+      "source": "디지털데일리",
+      "published": "2026-07-04T14:57:39+09:00"
+    },
+    {
+      "title": "[단독] 나이 문제로 시비 붙자 서로에게 주먹과 흉기 휘두른 60대 남성 2명 입건",
+      "link": "https://news.jtbc.co.kr/article/NB12306571",
+      "source": "JTBC",
+      "published": "2026-07-04T14:54:00+09:00"
+    },
+    {
+      "title": "[속보] “유력 정치인이 성매매·마약”…허위사실 유포 50대 여성 구속",
+      "link": "https://v.daum.net/v/20260704145345817",
+      "source": "v.daum.net",
+      "published": "2026-07-04T14:53:45+09:00"
+    },
+    {
+      "title": "[속보] ＂배재고 청소년 미래를 짓밟아…광주일고에 폭탄 설치＂ 경찰·소방 수색",
+      "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607040100",
+      "source": "한국경제TV",
+      "published": "2026-07-04T14:50:00+09:00"
+    },
+    {
+      "title": "[속보] 오세훈 \"보수 가치 공유하면 함께해야\"…한동훈·이준석 연대 가능성 언급",
+      "link": "https://v.daum.net/v/20260704144702765",
+      "source": "v.daum.net",
+      "published": "2026-07-04T14:47:02+09:00"
+    },
+    {
+      "title": "[속보] 오세훈 \"보수 가치 공유하면 함께해야\"…한동훈·이준석 연대 가능성 언급",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2285554",
+      "source": "대전일보",
+      "published": "2026-07-04T14:45:00+09:00"
+    },
+    {
+      "title": "[속보] ‘5·18이 성역됐다’ 이병태에…靑 “부적절 처신” 공개 경고",
+      "link": "https://v.daum.net/v/20260704144416742",
+      "source": "v.daum.net",
+      "published": "2026-07-04T14:44:16+09:00"
+    },
+    {
+      "title": "[속보] 고유가 지원금 최종 지급액 6조 1123억 원, 최종 신청률 98%",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260704.99099001073",
+      "source": "국제신문",
+      "published": "2026-07-04T14:42:00+09:00"
+    },
+    {
+      "title": "[속보] “광주일고에 폭탄 설치했다\" 경찰 협박글 수사",
+      "link": "https://magazine.hankyung.com/business/article/202607045490b",
+      "source": "한경매거진&북",
+      "published": "2026-07-04T14:32:00+09:00"
+    },
+    {
+      "title": "[단독] 피에스타 린지, 5일 비연예인 연인과 결혼",
+      "link": "https://news.nate.com/view/20260704n07230",
+      "source": "네이트",
+      "published": "2026-07-04T14:31:00+09:00"
+    },
+    {
+      "title": "[단독] 피에스타 린지, 5일 비연예인 연인과 결혼",
+      "link": "https://www.dailian.co.kr/news/view/1663402",
+      "source": "데일리안",
+      "published": "2026-07-04T14:26:00+09:00"
+    },
+    {
+      "title": "[속보]\"광주일고에 폭탄 설치했다\" 온라인 협박글…경찰·소방, 교정 수색",
+      "link": "https://www.imaeil.com/page/view/2026070414160400795",
+      "source": "매일신문",
+      "published": "2026-07-04T14:21:00+09:00"
+    },
+    {
+      "title": "[속보] 최종 신청률 98%…고유가 지원금 6조1,123억원 지급",
+      "link": "https://economist.co.kr/article/view/ecn202607040010",
+      "source": "이코노미스트",
+      "published": "2026-07-04T14:18:00+09:00"
+    },
+    {
+      "title": "[속보]“광주일고에 폭탄 설치했다” 협박글…경찰 긴급 수색",
+      "link": "https://www.munhwa.com/article/11600239",
+      "source": "문화일보",
+      "published": "2026-07-04T14:16:58+09:00"
+    },
+    {
+      "title": "[속보] 靑, ‘5·18이 성역됐다’ 이병태에 공개 경고…“부적절한 처신”",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260704.99099001065",
+      "source": "국제신문",
+      "published": "2026-07-04T14:11:00+09:00"
+    },
+    {
+      "title": "[속보] “배재고 청소년 미래 짓밟아 폭탄 설치” 협박글… 경찰, 광주일고 폭발물 수색",
+      "link": "https://www.seoul.co.kr/news/society/2026/07/04/20260704500020",
+      "source": "서울신문",
+      "published": "2026-07-04T14:08:43+09:00"
+    },
+    {
+      "title": "[속보] 고유가 지원금 6조1,123억원 지급…최종 신청률 98%",
+      "link": "https://v.daum.net/v/20260704140833457",
+      "source": "v.daum.net",
+      "published": "2026-07-04T14:08:33+09:00"
+    },
+    {
+      "title": "[속보] “광주일고에 폭탄 설치”...경찰·소방 수색",
+      "link": "https://www.kyeonggi.com/article/20260704580078",
+      "source": "경기일보",
+      "published": "2026-07-04T14:07:53+09:00"
+    },
+    {
+      "title": "[속보]탁구 임종훈-신유빈, WTT 미국 스매시 우승",
+      "link": "https://www.newsis.com/view/NISX20260704_0003695826",
+      "source": "뉴시스",
+      "published": "2026-07-04T14:07:11+09:00"
+    },
+    {
+      "title": "[속보] 고유가 지원금 6조1,123억원 지급…최종 신청률 98%",
+      "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607040087",
+      "source": "한국경제TV",
+      "published": "2026-07-04T14:07:00+09:00"
+    },
+    {
+      "title": "[속보] 고유가 지원금 6조1123억원 지급…최종 신청률 98%",
+      "link": "https://biz.heraldcorp.com/article/10798066",
+      "source": "헤럴드경제",
+      "published": "2026-07-04T14:06:27+09:00"
+    },
+    {
+      "title": "[속보] 김민석, 광주서 당대표 출마 선언한다… 광화문서 한 번 더 검토",
+      "link": "https://www.seoul.co.kr/news/politics/2026/07/04/20260704500018",
+      "source": "서울신문",
+      "published": "2026-07-04T13:50:39+09:00"
+    },
+    {
+      "title": "[속보]광주제일고 폭발물 의심 신고…경찰 수색 중",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202607040017",
+      "source": "KBC광주방송",
+      "published": "2026-07-04T13:48:40+09:00"
+    },
+    {
+      "title": "[단독] 합수본, '중앙선관위 투표용지 부족 경고' 업무연락 확보...이행 여부 수사",
+      "link": "https://v.daum.net/v/20260704130401903",
+      "source": "v.daum.net",
+      "published": "2026-07-04T13:04:01+09:00"
+    },
+    {
+      "title": "[단독] '베니지아노 퇴출' SSG, NPB 출신 파이어볼러 아빌라 영입…교체 2회 모두 소진 승부수",
+      "link": "https://isplus.com/article/view/isp202607040025",
+      "source": "일간스포츠",
+      "published": "2026-07-04T12:58:00+09:00"
+    },
+    {
+      "title": "[단독] 법무부·檢, \"피진정 검사를 징계해 달라\" 청원을 대상 당사자 검사에 배당해 처리케 해...'황당'",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=123146",
+      "source": "펜앤마이크",
+      "published": "2026-07-04T11:49:01+09:00"
+    },
+    {
+      "title": "[단독]도 넘은 '마녀사냥' 홍명보 감독 측 \"LA 공항 VIP 통로 이용 사실 무근, 서비스 존재도 몰라\"",
+      "link": "https://www.sportschosun.com/football/2026-07-04/202607040100025570001420",
+      "source": "sportschosun.com",
+      "published": "2026-07-04T11:45:21+09:00"
+    },
+    {
+      "title": "[단독] \"순간 순간 순간, 싸워\"…민희진, 그림자 전술 10",
+      "link": "https://www.dispatch.co.kr/2344786",
+      "source": "디스패치",
+      "published": "2026-07-04T11:43:00+09:00"
+    },
+    {
+      "title": "[속보] 음주단속 피해 달아난 SUV 바다로 추락… 40대 운전자 심정지 이송됐지만 끝내 사망",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/07/04/20260704500012",
+      "source": "서울신문",
+      "published": "2026-07-04T11:37:59+09:00"
+    },
+    {
+      "title": "[속보]\"정부가 기업 성과급 잔치\"...홍준표, 수천조 '메가 프로젝트' 쓴소",
+      "link": "https://magazine.hankyung.com/business/article/202607045424b",
+      "source": "한경매거진&북",
+      "published": "2026-07-04T11:30:00+09:00"
+    },
+    {
+      "title": "[속보] 日 요미우리, ‘차기 대권주자’ 오세훈 주목…“보수 재건 기대 모으는 유력 정치인”",
+      "link": "https://www.munhwa.com/article/11600230",
+      "source": "문화일보",
+      "published": "2026-07-04T11:28:37+09:00"
+    },
+    {
+      "title": "[속보] 李 \"3대 메가 프로젝트, 지지율 아닌 국가 미래 위한 투자\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2285545",
+      "source": "대전일보",
+      "published": "2026-07-04T11:23:00+09:00"
+    },
+    {
+      "title": "[속보] 李대통령 “3대 메가 프로젝트, 지지율용이면 지방선거 전에 했을 것”",
+      "link": "https://economist.co.kr/article/view/ecn202607040006",
+      "source": "이코노미스트",
+      "published": "2026-07-04T11:19:00+09:00"
+    },
+    {
+      "title": "[속보] `면허 취소 수준` 음주운전, 하루에 두 번 적발된 40대男…벌금형",
+      "link": "https://www.imaeil.com/page/view/2026070411051515913",
+      "source": "매일신문",
+      "published": "2026-07-04T11:15:19+09:00"
+    },
+    {
+      "title": "[속보] 李대통령 “3대 메가 프로젝트, 지지율용이면 지방선거 전에 했을 것”",
+      "link": "https://www.kyeonggi.com/article/20260704580040",
+      "source": "경기일보",
+      "published": "2026-07-04T11:12:02+09:00"
+    },
+    {
+      "title": "[속보] 트럼프·네타냐후, 미국서 곧 정상회담",
+      "link": "https://www.mk.co.kr/news/world/12090265",
+      "source": "매일경제",
+      "published": "2026-07-04T10:58:14+09:00"
+    },
+    {
+      "title": "[속보] 잠실 개표소 국조특위 진입 저지하며 경찰 폭행한 60대 구속 기로",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2059371",
+      "source": "강원도민일보",
+      "published": "2026-07-04T10:57:40+09:00"
+    },
+    {
+      "title": "[속보] 60대 에어컨 설치기사, 흉기에 찔려 중태… 50대 세입자 긴급체포 ‘살인미수 혐의’",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/07/04/20260704500010",
+      "source": "서울신문",
+      "published": "2026-07-04T10:57:12+09:00"
+    },
+    {
+      "title": "[단독]‘배재고 사태 악용’ 보이스피싱까지…학교 긴급 안내문 발송",
+      "link": "https://ichannela.com/news/detail/000000537934.do",
+      "source": "채널A",
+      "published": "2026-07-04T10:56:00+09:00"
+    },
+    {
+      "title": "[단독] ‘국회서 대북송금 관련 위증’ 경찰, 수사 기한 연장…기록 검토 마치고 본격 수사 [세상&]",
+      "link": "https://biz.heraldcorp.com/article/10797856",
+      "source": "헤럴드경제",
+      "published": "2026-07-04T10:45:00+09:00"
+    },
+    {
+      "title": "[속보]음주단속 피해 달아나다 바다 추락…40대 사망",
+      "link": "https://www.munhwa.com/article/11600227",
+      "source": "문화일보",
+      "published": "2026-07-04T10:41:09+09:00"
+    },
+    {
+      "title": "[속보] 트럼프·네타냐후, 미국서 곧 정상회담",
+      "link": "https://economist.co.kr/article/view/ecn202607040003",
+      "source": "이코노미스트",
+      "published": "2026-07-04T10:32:38+09:00"
+    },
+    {
+      "title": "[속보] “트럼프·네타냐후 조만간 미국서 정상회담”",
+      "link": "https://v.daum.net/v/20260704102016232",
+      "source": "v.daum.net",
+      "published": "2026-07-04T10:20:16+09:00"
+    },
+    {
+      "title": "[속보] “트럼프·네타냐후 조만간 미국서 정상회담”",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2059370",
+      "source": "강원도민일보",
+      "published": "2026-07-04T10:19:08+09:00"
+    },
+    {
+      "title": "[속보] '시청역입니다' 지하철 안내방송·'짱구 엄마' 목소리 성우 강희선 별세",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=586592",
+      "source": "CBC뉴스",
+      "published": "2026-07-04T10:15:00+09:00"
+    },
+    {
+      "title": "단독1위 문정민 \"자신감 있게 제 플레이를 펼쳐야죠\" [KLPGA 롯데오픈]",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021033",
+      "source": "골프한국",
+      "published": "2026-07-04T10:13:57+09:00"
+    },
+    {
+      "title": "[속보] 경찰, '국조특위 현장조사 방해' 60대 남성 구속영장 신청…오늘 심사",
+      "link": "https://www.news1.kr/society/incident-accident/6217664",
+      "source": "뉴스1",
+      "published": "2026-07-04T10:10:40+09:00"
+    },
+    {
+      "title": "[속보]트럼프·네타냐후, 미국서 곧 정상회담",
+      "link": "https://magazine.hankyung.com/business/article/202607045381b",
+      "source": "한경매거진&북",
+      "published": "2026-07-04T10:05:00+09:00"
+    },
+    {
+      "title": "[속보] ‘짱구 엄마’ 성우 강희선 별세…향년 65세",
+      "link": "https://www.seoul.co.kr/news/life/2026/07/04/20260704500009",
+      "source": "서울신문",
+      "published": "2026-07-04T10:04:08+09:00"
+    },
+    {
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 4일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202607040005",
+      "source": "bntnews.co.kr",
+      "published": "2026-07-04T10:00:29+09:00"
+    },
+    {
+      "title": "[속보]메시 울릴뻔한 카보베르데…연장 혈투끝 아르헨에 2대3 석패",
+      "link": "https://www.donga.com/news/Sports/article/all/20260704/134235500/1",
+      "source": "동아일보",
+      "published": "2026-07-04T09:57:00+09:00"
+    },
+    {
+      "title": "[사회][속보] 국조특위 현장조사 방해 혐의 60대 남성 구속영장 신청",
+      "link": "https://www.ytn.co.kr/_cs/_ln_0103_202607040956364213_005.html",
+      "source": "YTN",
+      "published": "2026-07-04T09:56:00+09:00"
+    },
+    {
+      "title": "속보 국조특위 현장조사 방해 혐의 60대 남성 구속영장 신청",
+      "link": "https://www.ytn.co.kr/_ln/0103_202607040956364213",
+      "source": "YTN",
+      "published": "2026-07-04T09:56:00+09:00"
+    },
+    {
+      "title": "[속보]경찰, '국조특위 현장조사 방해' 60대 구속영장…오늘 심사",
+      "link": "https://www.newsis.com/view/NISX20260704_0003695746",
+      "source": "뉴시스",
+      "published": "2026-07-04T09:55:09+09:00"
+    },
+    {
+      "title": "[단독]기술유용 피해 업체 절반 무대응…공정위 신고 6.6%뿐",
+      "link": "https://www.newsis.com/view/NISX20260703_0003694526",
+      "source": "뉴시스",
+      "published": "2026-07-04T07:00:00+09:00"
+    },
+    {
+      "title": "[긴급진단] 혼탁해진 전기공사 입찰시스템(1)간이형 종심제 폐지, 기술 경쟁 회복 신호탄 기대",
+      "link": "https://www.electimes.com/news/articleView.html?idxno=369860",
+      "source": "전기신문",
+      "published": "2026-07-04T07:00:00+09:00"
+    },
+    {
+      "title": "[단독] 아들 공연 처음 찾은 네이버 이해진 \"가수 반대 후회할 정도\"",
+      "link": "https://news.tf.co.kr/read/economy/2339672.htm",
+      "source": "더팩트",
+      "published": "2026-07-04T06:00:02+09:00"
+    },
+    {
+      "title": "[단독]구리 갭투자 6개월새 반토막…규제 묶기 5개월전 투기수요 떠났다[부동산AtoZ]",
+      "link": "https://www.asiae.co.kr/article/2026070208402534929",
+      "source": "아시아경제",
+      "published": "2026-07-04T06:00:00+09:00"
+    },
+    {
+      "title": "[단독] 검찰미래위 조사단 권한 논란… 진상조사 넘어 수사권도 가져",
+      "link": "https://www.chosun.com/national/court_law/2026/07/04/RXG57RR4BJAB7CBGNXE3BVUGWY/",
+      "source": "조선일보",
+      "published": "2026-07-04T05:06:30+09:00"
+    },
+    {
+      "title": "[단독] 환자 채워 연명 ‘좀비 요양병원’ 퇴출",
+      "link": "https://www.chosun.com/national/welfare-medical/2026/07/04/2GCSBF4O7RGG3K7XAE5VWFXNPY/",
+      "source": "조선일보",
+      "published": "2026-07-04T05:04:30+09:00"
+    },
+    {
+      "title": "긴급체포도 경찰 마음대로? 견제 망가져도 정말 괜찮나요",
+      "link": "https://v.daum.net/v/G64r2QmjEE",
+      "source": "v.daum.net",
+      "published": "2026-07-04T05:03:32+09:00"
+    },
+    {
+      "title": "[단독] AI 시범재판부 출범, 첫 선고",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=222987",
+      "source": "법률신문",
+      "published": "2026-07-04T05:00:00+09:00"
+    },
+    {
+      "title": "[판결][단독] 권리금 협상 결렬되자 ‘공실’로 “임대인이 3억 원 배상하라”",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=222995",
+      "source": "법률신문",
+      "published": "2026-07-04T05:00:00+09:00"
+    },
+    {
+      "title": "[단독] 수장률 100% 넘긴 김홍도미술관…단원 진품 훼손 우려도",
+      "link": "https://www.kyeonggi.com/article/20260702580359",
+      "source": "경기일보",
+      "published": "2026-07-04T05:00:00+09:00"
+    },
+    {
+      "title": "[단독]서울 여성기업 68만곳, 창업·자금·판로 지원 한 번에 받는다",
+      "link": "https://www.news1.kr/local/moi/6217257",
+      "source": "뉴스1",
+      "published": "2026-07-04T05:00:00+09:00"
+    },
+    {
+      "title": "긴급체포도 경찰 마음대로? 견제 망가져도 정말 괜찮나요",
+      "link": "https://www.nocutnews.co.kr/news/6543020",
+      "source": "nocutnews.co.kr",
+      "published": "2026-07-04T05:00:00+09:00"
+    },
+    {
+      "title": "[단독] 야구협회 \"배재고 선수 개개인도 징계 심의하겠다\"",
+      "link": "https://www.imaeil.com/page/view/2026070403031321428",
+      "source": "매일신문",
+      "published": "2026-07-04T03:03:21+09:00"
+    },
+    {
+      "title": "[단독] 장윤기 집주인에게 “아들 방 치워라” 요구한 ‘경찰 아빠’…경찰 “괜찮다”",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1266673.html",
+      "source": "한겨레",
+      "published": "2026-07-04T02:24:00+09:00"
+    },
+    {
+      "title": "[단독] 배재고, 규정에 없는 징계 당했다",
+      "link": "https://www.imaeil.com/page/view/2026070314305874202",
+      "source": "매일신문",
+      "published": "2026-07-04T02:19:42+09:00"
+    },
+    {
+      "title": "[단독]선관위, 회의록 안내려 ‘익명열람-익명제출-실명제출’ 3단계 꼼수",
+      "link": "https://www.donga.com/news/Society/article/all/20260704/134234970/2",
+      "source": "동아일보",
+      "published": "2026-07-04T01:40:00+09:00"
+    },
+    {
+      "title": "[단독] 인력난 선관위, 6·3 지선 공무원 차출 27만명 '역대 최대'",
+      "link": "https://news.tf.co.kr/read/ptoday/2339668.htm",
+      "source": "더팩트",
+      "published": "2026-07-04T00:00:04+09:00"
+    },
+    {
+      "title": "[단독] “장윤기 차의 혈흔, 이채원 양의 것”…경찰, 핵심 물증 송치 누락",
+      "link": "https://v.daum.net/v/20260703232519096",
+      "source": "v.daum.net",
+      "published": "2026-07-03T23:25:19+09:00"
+    },
+    {
+      "title": "[속보] 제주공항서 실탄 갖고 항공기 타려던 30대 현직 경찰관 입건",
+      "link": "https://www.dt.co.kr/article/12071027",
+      "source": "디지털타임스",
+      "published": "2026-07-03T23:08:28+09:00"
+    },
+    {
+      "title": "[속보]김종욱 전 해경청장·안성식 전 기획조정관 구속 기각···“혐의 다툼 여지 있어”",
+      "link": "https://v.daum.net/v/20260703225746787",
+      "source": "v.daum.net",
+      "published": "2026-07-03T22:57:46+09:00"
+    },
+    {
+      "title": "[속보] 법원, '계엄 합수부 파견 의혹' 해경 전 지휘부 구속영장 기각",
+      "link": "https://www.fnnews.com/news/202607032254204129",
+      "source": "파이낸셜뉴스",
+      "published": "2026-07-03T22:56:00+09:00"
+    },
+    {
+      "title": "[속보]김종욱 전 해경청장·안성식 전 기획조정관 구속영장 기각···“내란부화수행 등 혐의 다툼 여지 있어”",
+      "link": "https://www.khan.co.kr/article/202607032255001",
+      "source": "경향신문",
+      "published": "2026-07-03T22:55:00+09:00"
+    },
+    {
+      "title": "[속보]'해경 계엄가담 의혹' 김종욱·안성식 구속영장 기각",
+      "link": "https://www.newsis.com/view/NISX20260703_0003695651",
+      "source": "뉴시스",
+      "published": "2026-07-03T22:48:10+09:00"
+    },
+    {
+      "title": "[단독] 李대통령, 장동혁 대표 가족상에 근조화환 보냈다",
+      "link": "https://www.chosun.com/politics/blue_house/2026/07/03/Q5QZGZI7TNE4ZCXBAI7NRRRAXI/",
+      "source": "조선일보",
+      "published": "2026-07-03T22:41:25+09:00"
+    },
+    {
+      "title": "[속보] 차량 기어 ‘주행’ 상태서 하차한 60대…차량 상가에 ‘꽝’",
+      "link": "https://www.dt.co.kr/article/12071025",
+      "source": "디지털타임스",
+      "published": "2026-07-03T22:41:23+09:00"
+    },
+    {
+      "title": "[단독] 李대통령, 장동혁 대표 가족상에 근조화환 보냈다",
+      "link": "https://v.daum.net/v/20260703224103658",
+      "source": "v.daum.net",
+      "published": "2026-07-03T22:41:03+09:00"
+    },
+    {
+      "title": "[단독] 아는 경찰이 ‘원룸 비번’ 줬다…장윤기 리얼돌 버린 ‘경찰 아빠’ 파문",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1266614.html",
+      "source": "한겨레",
+      "published": "2026-07-03T22:10:00+09:00"
+    },
+    {
+      "title": "[단독] 포스코이앤씨, 50대 직원 대상으로 희망퇴직 실시",
+      "link": "https://news.mtn.co.kr/news-detail/2026070321080864172",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-07-03T21:09:59+09:00"
+    },
+    {
+      "title": "[속보]구조 순찰차에 치인 60대 사망…20대 여경 입건",
+      "link": "https://www.munhwa.com/article/11600193",
+      "source": "문화일보",
+      "published": "2026-07-03T20:58:40+09:00"
+    },
+    {
+      "title": "[단독] ③ 대구 새마을금고 '절반 이상 적자'···부실 도미노 '경고등'",
+      "link": "https://dgmbc.com/NewsArticle/847448",
+      "source": "대구MBC",
+      "published": "2026-07-03T20:30:00+09:00"
+    },
+    {
+      "title": "[단독] 장윤기 현관 비번도 알려줬다…\"수시로 통화\"",
+      "link": "https://v.daum.net/v/20260703201206478",
+      "source": "v.daum.net",
+      "published": "2026-07-03T20:12:06+09:00"
+    },
+    {
+      "title": "[단독] 선관위 규탄 집회 내려다보며 스윙 연습‥결국 중징계",
+      "link": "https://v.daum.net/v/20260703201200472",
+      "source": "v.daum.net",
+      "published": "2026-07-03T20:12:00+09:00"
+    },
+    {
+      "title": "[단독] 증거보전 안된 장윤기 '리얼돌'‥검찰도 놓쳤다",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6834885_37004.html",
+      "source": "MBC 뉴스",
+      "published": "2026-07-03T20:02:12+09:00"
+    },
+    {
+      "title": "[단독] 선관위 규탄 집회 내려다보며 스윙 연습‥결국 중징계",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6834884_37004.html",
+      "source": "MBC 뉴스",
+      "published": "2026-07-03T20:00:28+09:00"
+    },
+    {
+      "title": "[단독] 대통령도 우려했는데…충북경찰, 또 ‘갑질 의혹’",
+      "link": "https://v.daum.net/v/20260703195819291",
+      "source": "v.daum.net",
+      "published": "2026-07-03T19:58:19+09:00"
+    },
+    {
+      "title": "[단독] \"휴대폰 강에 버렸냐\" 장윤기 부자 통화시켜 준 경찰",
+      "link": "https://v.daum.net/v/20260703195705282",
+      "source": "v.daum.net",
+      "published": "2026-07-03T19:57:05+09:00"
+    },
+    {
+      "title": "[단독] 물맛 왜 이래…예비군에 소비기한 40일 지난 생수 지급",
+      "link": "https://v.daum.net/v/20260703195057178",
+      "source": "v.daum.net",
+      "published": "2026-07-03T19:50:57+09:00"
+    },
+    {
+      "title": "[단독] 물맛 왜 이래…예비군에 소비기한 40일 지난 생수 지급",
+      "link": "https://news.jtbc.co.kr/article/NB12306478",
+      "source": "JTBC",
+      "published": "2026-07-03T19:50:00+09:00"
+    },
+    {
+      "title": "[단독] 해고·권고사직, 복직 후 갈등까지…밀레코리아, 반복된 인사 논란",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=306282",
+      "source": "스트레이트뉴스",
+      "published": "2026-07-03T19:23:27+09:00"
+    },
+    {
+      "title": "[단독]쓰레기 가득 찬 원룸에 7년간 아이 방치",
+      "link": "https://ichannela.com/news/detail/000000537846.do",
+      "source": "채널A",
+      "published": "2026-07-03T19:19:00+09:00"
+    },
+    {
+      "title": "[단독]배재고, 학생에 교육자료 배포…“죄송하다고 해라”",
+      "link": "https://ichannela.com/news/detail/000000537840.do",
+      "source": "채널A",
+      "published": "2026-07-03T19:10:00+09:00"
+    },
+    {
+      "title": "[속보]우리은행 고객 연계정보 1만7000여건 유출",
+      "link": "https://www.munhwa.com/article/11600182",
+      "source": "문화일보",
+      "published": "2026-07-03T19:03:02+09:00"
+    },
+    {
+      "title": "[단독]“축구협회 관계자, 손흥민에 ‘지나가라’”",
+      "link": "https://ichannela.com/news/detail/000000537835.do",
+      "source": "채널A",
+      "published": "2026-07-03T18:58:00+09:00"
+    },
+    {
+      "title": "[단독] 강훈식 \"민주당, 중도층 품으려면 ‘제3의 길’ 가야…기존 진보 문법엔 대중적 피로감\"",
+      "link": "https://news.jtbc.co.kr/article/NB12306513",
+      "source": "JTBC",
+      "published": "2026-07-03T18:36:00+09:00"
+    },
+    {
+      "title": "[단독] 배재고처럼 '지만원의 5·18 모욕 책' 보유 학교는 32곳",
+      "link": "https://v.daum.net/v/20260703182752858",
+      "source": "v.daum.net",
+      "published": "2026-07-03T18:27:52+09:00"
+    },
+    {
+      "title": "[단독] 결정문, 법원 \"돈 없는 회생안은 회생 아니다\"…홈플러스 회생절차 폐지",
+      "link": "https://www.sjsori.com/news/articleView.html?idxno=87305",
+      "source": "세종의소리",
+      "published": "2026-07-03T18:27:41+09:00"
+    },
+    {
+      "title": "[단독] 배재고처럼 '지만원의 5·18 모욕 책' 보유 학교는 32곳",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248543",
+      "source": "OhmyNews",
+      "published": "2026-07-03T18:24:00+09:00"
+    },
+    {
+      "title": "[단독] ‘구더기’ 아내 사망 이틀 전…부사관이 장갑 끼고 한 짓",
+      "link": "https://www.joongang.co.kr/article/25441959",
+      "source": "중앙일보",
+      "published": "2026-07-03T18:19:31+09:00"
+    },
+    {
+      "title": "[단독] 양평군 강상면 차량 화재로 40대 남성 1명 숨져",
+      "link": "https://www.kyeonggi.com/article/20260703580257",
+      "source": "경기일보",
+      "published": "2026-07-03T17:58:45+09:00"
+    },
+    {
+      "title": "[속보]KB금융 차기 회장 후보에 양종희·이재근·이창권·이환주 등 6인",
+      "link": "https://www.mt.co.kr/finance/2026/07/03/2026070317471081679",
+      "source": "머니투데이",
+      "published": "2026-07-03T17:48:38+09:00"
+    },
+    {
+      "title": "[단독] 예비군에 소비기한 40일 지난 생수 지급…또 예비군 관리 부실",
+      "link": "https://news.jtbc.co.kr/article/NB12306495",
+      "source": "JTBC",
+      "published": "2026-07-03T17:36:00+09:00"
+    },
+    {
+      "title": "[단독] ‘노태악 부부 해외출장’에 환송 직원만 6명…선거는 부실 의전엔 진심?",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8601713",
+      "source": "KBS 뉴스",
+      "published": "2026-07-03T17:21:00+09:00"
+    },
+    {
+      "title": "[단독] 인천경제청 고위 공무원, 산하 직원에 식사 자리 강요 논란",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=320860",
+      "source": "인천투데이",
+      "published": "2026-07-03T17:06:10+09:00"
+    }
+  ]
 }
