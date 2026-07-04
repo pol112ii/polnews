@@ -419,6 +419,7 @@ def resolve_google_links(articles: list[dict]) -> int:
         return 0
 
     resolved = 0
+    no_params = 0
     for start in range(0, len(targets), RESOLVE_CHUNK):
         batch = targets[start:start + RESOLVE_CHUNK]
         # 서명 조회는 기사당 요청 1번이 필요해 병렬로 처리한다
@@ -431,6 +432,8 @@ def resolve_google_links(articles: list[dict]) -> int:
             if params:
                 entries.append((art_id, params[1], params[0]))
                 arts.append(art)
+            else:
+                no_params += 1
         if not entries:
             continue
         try:
@@ -444,6 +447,10 @@ def resolve_google_links(articles: list[dict]) -> int:
             if url:
                 art["link"] = url
                 resolved += 1
+    # 어디서 실패하는지 보이도록 요약을 남긴다 (운영 진단용)
+    if resolved < len(targets):
+        print(f"[info] 변환 대상 {len(targets)}건 중 성공 {resolved}건 "
+              f"(서명 조회 실패 {no_params}건)")
     return resolved
 
 
@@ -789,9 +796,24 @@ BREAKING_META = {"id": "breaking", "label": "속보", "emoji": "🔴",
                  "title": "속보 타임라인"}
 BREAKING_FILE_NAME = "breaking.json"
 BREAKING_QUERIES = ["속보", "단독", "긴급"]
-BREAKING_MARKERS = ("속보", "단독", "긴급")   # 제목에 이 표기가 있어야 속보로 인정
+BREAKING_MARKERS = ("속보", "단독", "긴급")   # 제목 앞머리에 이 표기가 있어야 속보로 인정
 BREAKING_WINDOW_HOURS = 24
 BREAKING_MAX_ITEMS = 80
+# 스포츠·연예 기사는 속보 탭 성격과 안 맞아 제외한다
+BREAKING_EXCLUDE = ["월드컵", "올림픽", "프로야구", "K리그", "축구 대표팀",
+                     "홈런", "골 폭발", "전속계약", "아이돌", "콘서트",
+                     "앨범", "예능", "드라마", "박스오피스", "열애"]
+
+
+def is_breaking_title(title: str) -> bool:
+    """제목 앞머리(8자 이내)에 속보 표기가 있고, 스포츠·연예가 아닌 것만.
+
+    '메시, 득점 순위 단독 1위'처럼 표기가 제목 중간에 있는 일반 기사를
+    거르기 위해 앞머리만 본다.
+    """
+    if not any(m in title[:8] for m in BREAKING_MARKERS):
+        return False
+    return not any(x in title for x in BREAKING_EXCLUDE)
 
 # 속보가 어느 분야 이야기인지 아이콘을 붙이기 위한 힌트 키워드
 TOPIC_HINTS = {
@@ -814,9 +836,8 @@ def run_breaking() -> None:
     print("=== 🔴 속보 ===")
 
     fresh = fetch_articles(BREAKING_QUERIES)
-    # 검색에 걸렸어도 제목에 속보 표기가 없는 일반 기사는 제외
-    fresh = [a for a in fresh
-             if any(m in a["title"] for m in BREAKING_MARKERS)]
+    # 앞머리에 속보 표기가 없는 일반 기사와 스포츠·연예는 제외
+    fresh = [a for a in fresh if is_breaking_title(a["title"])]
 
     existing: list[dict] = []
     if out_path.exists():
