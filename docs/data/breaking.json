@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-07-04T16:00:00+09:00",
+  "window_hours": 24,
+  "sample": true,
+  "items": [
+    {
+      "title": "[속보] (샘플) 코스피, 장중 사상 최고치 경신",
+      "link": "#",
+      "source": "샘플뉴스A",
+      "published": "2026-07-04T15:40:00+09:00",
+      "latest": "2026-07-04T15:50:00+09:00",
+      "mention_count": 5,
+      "sources": ["샘플뉴스A", "샘플뉴스B"],
+      "topics": ["stock"]
+    },
+    {
+      "title": "[단독] (샘플) 경찰청, 대규모 조직개편안 마련",
+      "link": "#",
+      "source": "샘플뉴스B",
+      "published": "2026-07-04T14:20:00+09:00",
+      "latest": "2026-07-04T14:20:00+09:00",
+      "mention_count": 1,
+      "sources": ["샘플뉴스B"],
+      "topics": ["police"]
+    },
+    {
+      "title": "[속보] (샘플) 정부, 부동산 안정화 추가 대책 발표",
+      "link": "#",
+      "source": "샘플뉴스C",
+      "published": "2026-07-04T11:05:00+09:00",
+      "latest": "2026-07-04T12:00:00+09:00",
+      "mention_count": 3,
+      "sources": ["샘플뉴스C", "샘플뉴스D"],
+      "topics": ["realestate"]
+    }
+  ],
+  "total_articles": 3,
+  "raw": []
+}
