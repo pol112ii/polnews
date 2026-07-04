@@ -14,6 +14,7 @@
 
 import json
 import re
+import sys
 import time
 import urllib.parse
 import urllib.request
@@ -418,6 +419,7 @@ def resolve_google_links(articles: list[dict]) -> int:
         return 0
 
     resolved = 0
+    no_params = 0
     for start in range(0, len(targets), RESOLVE_CHUNK):
         batch = targets[start:start + RESOLVE_CHUNK]
         # 서명 조회는 기사당 요청 1번이 필요해 병렬로 처리한다
@@ -430,6 +432,8 @@ def resolve_google_links(articles: list[dict]) -> int:
             if params:
                 entries.append((art_id, params[1], params[0]))
                 arts.append(art)
+            else:
+                no_params += 1
         if not entries:
             continue
         try:
@@ -443,6 +447,10 @@ def resolve_google_links(articles: list[dict]) -> int:
             if url:
                 art["link"] = url
                 resolved += 1
+    # 어디서 실패하는지 보이도록 요약을 남긴다 (운영 진단용)
+    if resolved < len(targets):
+        print(f"[info] 변환 대상 {len(targets)}건 중 성공 {resolved}건 "
+              f"(서명 조회 실패 {no_params}건)")
     return resolved
 
 
@@ -769,10 +777,11 @@ def main() -> None:
             print(f"[warn] '{topic['label']}' 처리 실패: {e}")
 
     # 웹앱이 탭 목록을 그릴 수 있도록 주제 메타데이터를 내보낸다
+    # (속보 탭은 항상 맨 앞)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     (DATA_DIR / "topics.json").write_text(
         json.dumps(
-            {"topics": [
+            {"topics": [BREAKING_META] + [
                 {k: t[k] for k in ("id", "label", "emoji", "title")}
                 for t in TOPICS
             ]},
@@ -782,5 +791,105 @@ def main() -> None:
     )
 
 
+# ── 속보 (30분마다 24시간 수집, 굴러가는 24시간 창) ─────────────────
+BREAKING_META = {"id": "breaking", "label": "속보", "emoji": "🔴",
+                 "title": "속보 타임라인"}
+BREAKING_FILE_NAME = "breaking.json"
+BREAKING_QUERIES = ["속보", "단독", "긴급"]
+BREAKING_MARKERS = ("속보", "단독", "긴급")   # 제목 앞머리에 이 표기가 있어야 속보로 인정
+BREAKING_WINDOW_HOURS = 24
+BREAKING_MAX_ITEMS = 80
+# 스포츠·연예 기사는 속보 탭 성격과 안 맞아 제외한다
+BREAKING_EXCLUDE = ["월드컵", "올림픽", "프로야구", "K리그", "축구 대표팀",
+                     "홈런", "골 폭발", "전속계약", "아이돌", "콘서트",
+                     "앨범", "예능", "드라마", "박스오피스", "열애"]
+
+
+def is_breaking_title(title: str) -> bool:
+    """제목 앞머리(8자 이내)에 속보 표기가 있고, 스포츠·연예가 아닌 것만.
+
+    '메시, 득점 순위 단독 1위'처럼 표기가 제목 중간에 있는 일반 기사를
+    거르기 위해 앞머리만 본다.
+    """
+    if not any(m in title[:8] for m in BREAKING_MARKERS):
+        return False
+    return not any(x in title for x in BREAKING_EXCLUDE)
+
+# 속보가 어느 분야 이야기인지 아이콘을 붙이기 위한 힌트 키워드
+TOPIC_HINTS = {
+    "police": ["경찰", "치안", "검거", "해경", "지구대", "파출소"],
+    "realestate": ["부동산", "아파트", "전세", "청약", "재건축", "집값",
+                    "분양", "재개발"],
+    "stock": ["증시", "코스피", "코스닥", "주가", "나스닥", "주식",
+              "상장", "금리", "환율"],
+}
+
+
+def run_breaking() -> None:
+    """속보만 가볍게 수집해 docs/data/breaking.json 을 갱신한다.
+
+    날짜별 파일이 아니라 '최근 24시간' 단일 파일로 관리해서
+    자정이 지나도 타임라인이 끊기지 않는다.
+    """
+    now = datetime.now(KST)
+    out_path = DATA_DIR / BREAKING_FILE_NAME
+    print("=== 🔴 속보 ===")
+
+    fresh = fetch_articles(BREAKING_QUERIES)
+    # 앞머리에 속보 표기가 없는 일반 기사와 스포츠·연예는 제외
+    fresh = [a for a in fresh if is_breaking_title(a["title"])]
+
+    existing: list[dict] = []
+    if out_path.exists():
+        try:
+            prev = json.loads(out_path.read_text(encoding="utf-8"))
+            if not prev.get("sample"):
+                existing = prev.get("raw", [])
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    raw = merge_articles(existing, fresh)
+    # 24시간 창 밖으로 밀려난 기사는 떨어뜨린다
+    cutoff = now - timedelta(hours=BREAKING_WINDOW_HOURS)
+    kept = []
+    for art in raw:
+        try:
+            if datetime.fromisoformat(art["published"]) >= cutoff:
+                kept.append(art)
+        except (ValueError, KeyError):
+            continue
+    raw = kept
+    print(f"신규 {len(fresh)}건 + 기존 {len(existing)}건 → 24시간 창 {len(raw)}건")
+
+    for art in raw:
+        art["title"] = strip_source_suffix(art["title"], art.get("source", ""))
+
+    resolved = resolve_google_links(raw)
+    if resolved:
+        print(f"구글 뉴스 링크 {resolved}건을 원문 URL로 변환")
+
+    issues = cluster_articles(raw)
+    issues.sort(key=lambda i: i["published"], reverse=True)  # 최신 속보 먼저
+    for issue in issues:
+        issue["topics"] = [tid for tid, kws in TOPIC_HINTS.items()
+                           if any(k in issue["title"] for k in kws)]
+
+    data = {
+        "generated_at": now.isoformat(),
+        "window_hours": BREAKING_WINDOW_HOURS,
+        "items": issues[:BREAKING_MAX_ITEMS],
+        "total_articles": len(raw),
+        "raw": sorted(raw, key=lambda a: a["published"], reverse=True),
+    }
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"{out_path} 저장 (이슈 {len(issues)}개)")
+
+
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1 and sys.argv[1] == "breaking":
+        run_breaking()
+    else:
+        main()

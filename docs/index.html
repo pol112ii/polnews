@@ -62,6 +62,45 @@
   .tabs button.active {
     background: var(--accent); color: #fff; border-color: var(--accent);
   }
+  .tabs button[data-id="breaking"].active {
+    background: var(--hot); border-color: var(--hot);
+  }
+
+  /* 다른 탭 상단의 속보 배너 */
+  .bbanner {
+    display: none;
+    align-items: center; gap: 8px;
+    width: 100%;
+    background: color-mix(in srgb, var(--hot) 12%, var(--card));
+    color: var(--hot);
+    border: 1px solid var(--hot); border-radius: 10px;
+    padding: 9px 14px; margin: 10px 0 0;
+    font-size: 0.88rem; font-weight: 700;
+    cursor: pointer; text-align: left;
+  }
+  .bbanner.show { display: flex; }
+
+  /* 속보 타임라인 요소들 */
+  .live-dot {
+    display: inline-block; width: 8px; height: 8px;
+    background: var(--hot); border-radius: 50%;
+    margin-right: 6px; vertical-align: middle;
+    animation: pulse 1.2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.25; }
+  }
+  .chip {
+    display: inline-block;
+    border-radius: 4px; padding: 0 6px; margin-right: 6px;
+    font-size: 0.72rem; font-weight: 800; color: #fff;
+    vertical-align: 2px;
+  }
+  .chip.sokbo { background: var(--hot); }
+  .chip.dandok { background: var(--accent); }
+  .chip.urgent { background: #e6a700; }
+  .ticons { font-size: 0.8rem; margin-left: 4px; }
 
   .region {
     display: none; gap: 6px; margin: 10px 0 0;
@@ -182,6 +221,8 @@
 
   <div class="tabs" id="tabs"></div>
 
+  <button class="bbanner" id="bbanner"></button>
+
   <div class="region" id="regionBar">
     <button data-region="kr">🇰🇷 국내</button>
     <button data-region="intl">🌍 해외</button>
@@ -269,6 +310,16 @@ async function init() {
       if (currentData) render(currentData);
     };
   });
+  document.getElementById("bbanner").onclick = async () => {
+    currentTopic = topics.find(t => t.id === "breaking") || currentTopic;
+    localStorage.setItem("topic", currentTopic.id);
+    renderTabs();
+    await loadTopic();
+  };
+  // 속보 탭을 보는 동안 5분마다 조용히 갱신
+  setInterval(() => {
+    if (currentTopic && currentTopic.id === "breaking") loadBreaking();
+  }, 5 * 60 * 1000);
   await loadTopic();
 }
 
@@ -300,6 +351,16 @@ function renderTabs() {
 
 async function loadTopic() {
   const content = document.getElementById("content");
+  const isBreaking = currentTopic.id === "breaking";
+  document.querySelector(".nav").style.display = isBreaking ? "none" : "flex";
+  const bb = document.getElementById("bbanner");
+  if (isBreaking) {
+    bb.classList.remove("show");
+    document.getElementById("regionBar").classList.remove("show");
+    await loadBreaking();
+    return;
+  }
+  updateBanner();
   try {
     dates = (await fetchTopicIndex(currentTopic.id)).dates;
   } catch (e) {
@@ -311,6 +372,114 @@ async function loadTopic() {
   if (dates.length) await show(dates[0]);
   else content.innerHTML =
     `<div class="empty">아직 수집된 데이터가 없습니다.<br>다음 정시 수집을 기다려주세요.</div>`;
+}
+
+// ── 속보 타임라인 ──────────────────────────────────────────────
+const TOPIC_ICONS = { police: "🚔", realestate: "🏠", stock: "📈" };
+let breakingData = null;
+let breakingCache = { t: 0, data: null };
+
+function timeAgo(iso) {
+  const s = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (s < 60) return "방금 전";
+  if (s < 3600) return `${Math.floor(s / 60)}분 전`;
+  if (s < 86400) return `${Math.floor(s / 3600)}시간 전`;
+  return `${Math.floor(s / 86400)}일 전`;
+}
+
+async function loadBreaking() {
+  const content = document.getElementById("content");
+  try {
+    breakingData = await fetchJson("data/breaking.json");
+    breakingCache = { t: Date.now(), data: breakingData };
+  } catch (e) {
+    content.innerHTML =
+      `<div class="empty">아직 속보 데이터가 없습니다.<br>첫 수집(30분 이내)을 기다려주세요.</div>`;
+    return;
+  }
+  renderBreaking(breakingData);
+}
+
+function breakingLi(a) {
+  const fresh = (Date.now() - new Date(a.published).getTime()) < 60 * 60 * 1000;
+  let title = a.title;
+  const m = title.match(/^[\[〔【]?(속보|단독|긴급)[\]〕】]?\s*/);
+  if (m) title = title.slice(m[0].length);
+  const marker = m ? m[1]
+    : (["단독", "긴급"].find(k => a.title.includes(k)) || "속보");
+  const cls = marker === "단독" ? "dandok"
+    : marker === "긴급" ? "urgent" : "sokbo";
+  const icons = (a.topics || []).map(t => TOPIC_ICONS[t] || "").join("");
+  const badge = a.mention_count > 1
+    ? `<span class="badge hot">${a.mention_count}개 언론사</span>` : "";
+  return `<li>
+    <a href="${a.link}" target="_blank" rel="noopener">${fresh ? '<span class="live-dot"></span>' : ""}<span class="chip ${cls}">${marker}</span>${escapeHtml(title)}${icons ? `<span class="ticons">${icons}</span>` : ""}</a>
+    <div class="meta">${badge}<span>${timeAgo(a.published)} · ${escapeHtml(a.source || "")}</span></div>
+  </li>`;
+}
+
+function renderBreaking(data) {
+  let html = "";
+  if (data.sample) {
+    html += `<div class="banner">⚠️ 샘플 데이터입니다. 첫 수집 후 실제 속보로 교체됩니다.</div>`;
+  }
+  html += `<div class="card">`;
+  html += `<h2>🔴 속보 타임라인</h2>`;
+  html += `<div class="updated">${fmtTime(data.generated_at)} 업데이트 · 최근 24시간 · 30분마다 자동 수집</div>`;
+  if (!data.items || !data.items.length) {
+    html += `<div class="empty">최근 24시간 속보가 없습니다.</div>`;
+  } else {
+    html += `<ul class="articles">`;
+    for (const a of data.items) html += breakingLi(a);
+    html += `</ul>`;
+  }
+  html += `</div>`;
+  html += `<div class="toolbar">
+    <button onclick="copyBreaking()">📋 최근 3시간 속보 복사</button>
+  </div>`;
+  document.getElementById("content").innerHTML = html;
+}
+
+function copyBreaking() {
+  const d = breakingData;
+  if (!d) return;
+  const cut = Date.now() - 3 * 3600 * 1000;
+  let items = (d.items || []).filter(i => new Date(i.published).getTime() >= cut);
+  if (!items.length) items = (d.items || []).slice(0, 10);
+  let lines = [];
+  lines.push("━".repeat(14));
+  lines.push("🔴 속보 모음");
+  lines.push("━".repeat(14));
+  lines.push("");
+  for (const a of items) {
+    lines.push(`❏ (${timeAgo(a.published)}) ${a.title}`);
+    lines.push(a.link);
+    lines.push("");
+  }
+  navigator.clipboard.writeText(lines.join("\n")).then(() => {
+    alert("속보가 복사되었습니다. 메신저에 붙여넣어 공유하세요!");
+  });
+}
+
+// 다른 탭 상단에 "최근 30분 속보 n건" 배너 표시
+async function updateBanner() {
+  const el = document.getElementById("bbanner");
+  try {
+    if (Date.now() - breakingCache.t > 2 * 60 * 1000 || !breakingCache.data) {
+      breakingCache = { t: Date.now(), data: await fetchJson("data/breaking.json") };
+    }
+    const d = breakingCache.data;
+    const recent = d.sample ? [] : (d.items || []).filter(i =>
+      Date.now() - new Date(i.published).getTime() < 30 * 60 * 1000);
+    if (recent.length) {
+      el.textContent = `🔴 최근 30분 속보 ${recent.length}건 — 눌러서 보기`;
+      el.classList.add("show");
+    } else {
+      el.classList.remove("show");
+    }
+  } catch (e) {
+    el.classList.remove("show");
+  }
 }
 
 function move(offset) {

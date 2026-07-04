@@ -1,0 +1,43 @@
+name: 속보 스크랩
+
+on:
+  schedule:
+    # 30분마다, 24시간 (UTC 기준이지만 30분 간격이라 시간대 무관)
+    # GitHub Actions 특성상 실제 실행은 수 분~수십 분 늦어질 수 있음
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# 정시 뉴스 스크랩과 같은 그룹으로 묶어 커밋 경합을 방지
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 속보 수집
+        run: python scraper/scrape.py breaking
+
+      - name: 결과 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "변경 사항 없음"
+            exit 0
+          fi
+          git commit -m "속보: $(TZ=Asia/Seoul date '+%F %H:%M')"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
