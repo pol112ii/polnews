@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T05:54:08.258767+09:00",
+  "generated_at": "2026-07-05T06:56:52.085695+09:00",
   "topic": {
     "id": "police",
     "label": "경찰",
@@ -37,7 +37,7 @@
       "source": "연합뉴스",
       "published": "2026-07-04T13:30:27+09:00",
       "latest": "2026-07-04T22:00:00+09:00",
-      "mention_count": 20,
+      "mention_count": 22,
       "sources": [
         "연합뉴스",
         "v.daum.net",
@@ -46,11 +46,11 @@
         "경기일보",
         "서울신문",
         "조선일보",
+        "문화일보",
         "경향신문",
         "디지털타임스",
         "채널A",
-        "매일신문",
-        "동아일보"
+        "매일신문"
       ]
     },
     {
@@ -345,19 +345,6 @@
       "name": "사건사고·기타",
       "articles": [
         {
-          "title": "[단독]경찰 장윤기 보고서…“자택·차량 압수 필요 증거물 없음”",
-          "link": "https://ichannela.com/news/detail/000000537948.do",
-          "source": "채널A",
-          "published": "2026-07-04T15:42:00+09:00",
-          "latest": "2026-07-04T20:55:00+09:00",
-          "mention_count": 3,
-          "sources": [
-            "채널A",
-            "v.daum.net",
-            "KBS 뉴스"
-          ]
-        },
-        {
           "title": "안산 단원구 저수지서 물에 빠진 60대 숨져…경찰 조사",
           "link": "https://www.yna.co.kr/view/AKR20260704042100061",
           "source": "연합뉴스",
@@ -391,6 +378,30 @@
           "sources": [
             "gukjenews.com",
             "강원신문"
+          ]
+        },
+        {
+          "title": "[단독] 경찰, 장윤기 범행 차량도 압수 안 해…아버지가 보름간 운행",
+          "link": "https://v.daum.net/v/20260704195202932",
+          "source": "v.daum.net",
+          "published": "2026-07-04T19:52:02+09:00",
+          "latest": "2026-07-04T20:55:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "v.daum.net",
+            "KBS 뉴스"
+          ]
+        },
+        {
+          "title": "[단독]경찰 장윤기 보고서…“자택·차량 압수 필요 증거물 없음”",
+          "link": "https://ichannela.com/news/detail/000000537948.do",
+          "source": "채널A",
+          "published": "2026-07-04T15:42:00+09:00",
+          "latest": "2026-07-04T20:03:06+09:00",
+          "mention_count": 2,
+          "sources": [
+            "채널A",
+            "v.daum.net"
           ]
         },
         {
@@ -504,23 +515,12 @@
           "sources": [
             "뉴스스토리"
           ]
-        },
-        {
-          "title": "해양경찰 인재개발원 당진 설립 ‘예타’ 본격화",
-          "link": "https://www.idjnews.kr/news/articleView.html?idxno=301457",
-          "source": "당진신문",
-          "published": "2026-07-04T17:00:00+09:00",
-          "latest": "2026-07-04T17:00:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "당진신문"
-          ]
         }
       ]
     }
   ],
-  "total_articles": 129,
-  "total_issues": 61,
+  "total_articles": 132,
+  "total_issues": 62,
   "raw": [
     {
       "title": "목포경찰, 고령자 교통안전 캠페인",
@@ -683,6 +683,12 @@
       "link": "https://www.kyeonggi.com/article/20260704580129",
       "source": "경기일보",
       "published": "2026-07-04T20:00:23+09:00"
+    },
+    {
+      "title": "[단독] 경찰, 장윤기 범행 차량도 압수 안 해…아버지가 보름간 운행",
+      "link": "https://v.daum.net/v/20260704195202932",
+      "source": "v.daum.net",
+      "published": "2026-07-04T19:52:02+09:00"
     },
     {
       "title": "만취해 경찰 때리고 유치장 이불을 화장실에…난동-기행 50대女 징역 2년",
@@ -889,6 +895,12 @@
       "published": "2026-07-04T14:38:00+09:00"
     },
     {
+      "title": "\"광주일고에 폭탄\" 온라인 협박 게시글…경찰·소방 긴급수색",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000047589",
+      "source": "진일보",
+      "published": "2026-07-04T14:35:16+09:00"
+    },
+    {
       "title": "[속보] “광주일고에 폭탄 설치했다\" 경찰 협박글 수사",
       "link": "https://magazine.hankyung.com/business/article/202607045490b",
       "source": "한경매거진&북",
@@ -947,6 +959,12 @@
       "link": "https://www.khan.co.kr/article/202607041418001",
       "source": "경향신문",
       "published": "2026-07-04T14:18:00+09:00"
+    },
+    {
+      "title": "[속보]“광주일고에 폭탄 설치했다” 협박글…경찰 긴급 수색",
+      "link": "https://www.munhwa.com/article/11600239",
+      "source": "문화일보",
+      "published": "2026-07-04T14:16:58+09:00"
     },
     {
       "title": "“복합해양사고도 문제없다” 동해해경, 민·관 협업으로 방제 역량 높인다",
