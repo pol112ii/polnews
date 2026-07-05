@@ -264,6 +264,15 @@
     border-radius: 10px; padding: 1px 8px; margin-left: 6px;
     vertical-align: 2px;
   }
+  .modal .nomore {
+    display: flex; align-items: center; gap: 8px;
+    margin-top: 16px;
+    color: var(--muted); font-size: 0.9rem;
+    cursor: pointer; user-select: none;
+  }
+  .modal .nomore input {
+    width: 18px; height: 18px; accent-color: var(--accent);
+  }
   .modal .start {
     width: 100%; margin-top: 18px;
     background: var(--accent); color: #fff;
@@ -802,6 +811,11 @@ function openGuide() {
       <li>📈 주식 탭에는 <b>국내/해외</b> 전환 버튼 (해외는 자동 번역)</li>
     </ul>
     ${installSection}
+    <label class="nomore">
+      <input type="checkbox" id="noMore"
+        ${localStorage.getItem("guide_never") ? "checked" : ""}>
+      다시 보지 않기
+    </label>
     <button class="start" onclick="closeGuide()">시작하기</button>
   `;
   document.getElementById("guideBack").classList.add("show");
@@ -815,16 +829,29 @@ async function installNow() {
   closeGuide();
 }
 
+function kstToday() {
+  return new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Seoul" })
+    .format(new Date());
+}
+
 function closeGuide() {
   document.getElementById("guideBack").classList.remove("show");
-  localStorage.setItem("onboarded_v1", "1");
+  const box = document.getElementById("noMore");
+  if (box && box.checked) {
+    localStorage.setItem("guide_never", "1");   // 다시 보지 않기
+  } else {
+    localStorage.removeItem("guide_never");     // 체크 해제 시 다시 켬
+  }
+  localStorage.setItem("guide_seen", kstToday()); // 오늘은 그만 표시
 }
 document.getElementById("guideBack").addEventListener("click", (e) => {
   if (e.target.id === "guideBack") closeGuide();
 });
 
-// 첫 방문자에게 한 번만 자동으로 보여준다
-if (!localStorage.getItem("onboarded_v1")) {
+// 하루에 한 번 자동 표시. '다시 보지 않기'를 체크했으면 표시하지 않는다.
+// (푸터의 '사용법' 링크로는 언제든 수동으로 열 수 있음)
+if (!localStorage.getItem("guide_never")
+    && localStorage.getItem("guide_seen") !== kstToday()) {
   setTimeout(openGuide, 600);
 }
 
