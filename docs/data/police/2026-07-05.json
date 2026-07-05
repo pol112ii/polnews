@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T07:59:30.783730+09:00",
+  "generated_at": "2026-07-05T09:09:04.680757+09:00",
   "topic": {
     "id": "police",
     "label": "경찰",
@@ -37,7 +37,7 @@
       "source": "연합뉴스",
       "published": "2026-07-04T13:30:27+09:00",
       "latest": "2026-07-04T22:00:00+09:00",
-      "mention_count": 22,
+      "mention_count": 23,
       "sources": [
         "연합뉴스",
         "v.daum.net",
@@ -49,8 +49,8 @@
         "문화일보",
         "경향신문",
         "디지털타임스",
-        "채널A",
-        "매일신문"
+        "머니투데이",
+        "채널A"
       ]
     },
     {
@@ -74,32 +74,18 @@
       ]
     },
     {
-      "title": "“화장실 가려 했을 뿐”…‘잠실 개표소 경찰 폭행’ 60대 결국",
-      "link": "https://www.joongang.co.kr/article/25442418",
-      "source": "중앙일보",
-      "published": "2026-07-04T16:27:19+09:00",
+      "title": "‘투표지 부족 사태’ 국조 방해·경찰 폭행 한 60대 남성 구속",
+      "link": "https://www.kyeonggi.com/article/20260704580129",
+      "source": "경기일보",
+      "published": "2026-07-04T20:00:23+09:00",
       "latest": "2026-07-04T21:29:00+09:00",
       "mention_count": 5,
       "sources": [
-        "중앙일보",
-        "연합뉴스",
-        "v.daum.net",
-        "아시아투데이",
-        "강원도민일보"
-      ]
-    },
-    {
-      "title": "직장내 괴롭힘 호소 끝 숨진 여성 소방관 비하한 공무원들, 경찰 수사 착수",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/07/04/20260704500004",
-      "source": "서울신문",
-      "published": "2026-07-04T07:24:16+09:00",
-      "latest": "2026-07-04T21:15:30+09:00",
-      "mention_count": 4,
-      "sources": [
-        "서울신문",
-        "매일신문",
-        "연합뉴스TV",
-        "중앙일보"
+        "경기일보",
+        "경향신문",
+        "한겨레",
+        "강원도민일보",
+        "v.daum.net"
       ]
     },
     {
@@ -107,13 +93,28 @@
       "link": "https://www.yna.co.kr/view/AKR20260703128200004",
       "source": "연합뉴스",
       "published": "2026-07-04T05:55:02+09:00",
-      "latest": "2026-07-04T10:14:38+09:00",
-      "mention_count": 4,
+      "latest": "2026-07-04T10:15:00+09:00",
+      "mention_count": 5,
       "sources": [
         "연합뉴스",
         "v.daum.net",
         "문화일보",
-        "아시아투데이"
+        "아시아투데이",
+        "연합뉴스TV"
+      ]
+    },
+    {
+      "title": "서천서 하천에 빠진 60대 남성 숨진 채 발견…경찰 부검 예정",
+      "link": "http://www.news-story.co.kr/news/articleView.html?idxno=84386",
+      "source": "뉴스스토리",
+      "published": "2026-07-04T18:12:39+09:00",
+      "latest": "2026-07-05T08:40:19+09:00",
+      "mention_count": 4,
+      "sources": [
+        "뉴스스토리",
+        "네이트",
+        "v.daum.net",
+        "KBC광주방송"
       ]
     }
   ],
@@ -151,16 +152,57 @@
       "name": "수사·사건",
       "articles": [
         {
-          "title": "‘투표지 부족 사태’ 국조 방해·경찰 폭행 한 60대 남성 구속",
-          "link": "https://www.kyeonggi.com/article/20260704580129",
-          "source": "경기일보",
-          "published": "2026-07-04T20:00:23+09:00",
-          "latest": "2026-07-04T20:33:00+09:00",
+          "title": "직장내 괴롭힘 호소 끝 숨진 여성 소방관 비하한 공무원들, 경찰 수사 착수",
+          "link": "https://www.seoul.co.kr/news/society/accident/2026/07/04/20260704500004",
+          "source": "서울신문",
+          "published": "2026-07-04T07:24:16+09:00",
+          "latest": "2026-07-04T21:15:30+09:00",
+          "mention_count": 4,
+          "sources": [
+            "서울신문",
+            "매일신문",
+            "연합뉴스TV",
+            "중앙일보"
+          ]
+        },
+        {
+          "title": "'잠실 개표소 경찰 폭행' 60대 남성 \"화장실 가려던 것, 억울하다\"",
+          "link": "https://v.daum.net/v/20260704145546833",
+          "source": "v.daum.net",
+          "published": "2026-07-04T14:55:46+09:00",
+          "latest": "2026-07-04T20:06:30+09:00",
+          "mention_count": 4,
+          "sources": [
+            "v.daum.net",
+            "중앙일보",
+            "연합뉴스",
+            "아시아투데이"
+          ]
+        },
+        {
+          "title": "국민 아이디어로 미래 범죄 대응…경찰, 과학수사 공모전",
+          "link": "https://www.news1.kr/society/incident-accident/6217486",
+          "source": "뉴스1",
+          "published": "2026-07-05T09:00:00+09:00",
+          "latest": "2026-07-05T09:00:00+09:00",
           "mention_count": 3,
           "sources": [
-            "경기일보",
-            "경향신문",
-            "한겨레"
+            "뉴스1",
+            "머니투데이",
+            "네이트"
+          ]
+        },
+        {
+          "title": "'홍명보 선임' 경찰 뒷북 수사…'신속처리 지시'도 뭉갰다",
+          "link": "https://www.yna.co.kr/view/AKR20260704020600004",
+          "source": "연합뉴스",
+          "published": "2026-07-05T06:55:01+09:00",
+          "latest": "2026-07-05T07:56:00+09:00",
+          "mention_count": 3,
+          "sources": [
+            "연합뉴스",
+            "국제신문",
+            "뉴스핌"
           ]
         },
         {
@@ -250,14 +292,14 @@
           ]
         },
         {
-          "title": "'홍명보 선임' 경찰 뒷북 수사…'신속처리 지시'도 뭉갰다",
-          "link": "https://www.yna.co.kr/view/AKR20260704020600004",
-          "source": "연합뉴스",
-          "published": "2026-07-05T06:55:01+09:00",
-          "latest": "2026-07-05T06:55:01+09:00",
+          "title": "'기피부서' 옛말?…광주경찰 수사부서 분위기 반전",
+          "link": "https://www.newsis.com/view/NISX20260703_0003695183",
+          "source": "뉴시스",
+          "published": "2026-07-05T08:02:00+09:00",
+          "latest": "2026-07-05T08:02:00+09:00",
           "mention_count": 1,
           "sources": [
-            "연합뉴스"
+            "뉴시스"
           ]
         },
         {
@@ -292,45 +334,23 @@
           "sources": [
             "연합뉴스"
           ]
-        },
-        {
-          "title": "\"여기도 한국만큼 심각하다, 경찰 축구협회 압수수색\"… 쑥대밭 된 독일 축구 [2026 월드컵]",
-          "link": "https://www.fnnews.com/news/202607040834052568",
-          "source": "파이낸셜뉴스",
-          "published": "2026-07-04T16:00:00+09:00",
-          "latest": "2026-07-04T16:00:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "파이낸셜뉴스"
-          ]
-        },
-        {
-          "title": "홍명보 감독 '이틀 만에 돌연 출국'…특별감사·경찰 수사 등 차질 불가피 > 시애틀 뉴스/핫이슈",
-          "link": "https://www.seattlen.com/bbs/board.php?bo_table=hot&wr_id=64380",
-          "source": "SeattleN",
-          "published": "2026-07-04T15:16:32+09:00",
-          "latest": "2026-07-04T15:16:32+09:00",
-          "mention_count": 1,
-          "sources": [
-            "SeattleN"
-          ]
-        },
-        {
-          "title": "“와달라” 스스로 신고하고…경찰 4명 연쇄 폭행 50대에 징역 2년",
-          "link": "https://www.kyeonggi.com/article/20260704580053",
-          "source": "경기일보",
-          "published": "2026-07-04T12:38:17+09:00",
-          "latest": "2026-07-04T12:38:17+09:00",
-          "mention_count": 1,
-          "sources": [
-            "경기일보"
-          ]
         }
       ]
     },
     {
       "name": "정책·행정",
       "articles": [
+        {
+          "title": "산재한 경찰 AI사업 한곳서 관리한다…첫 운영훈령 시행",
+          "link": "https://www.newsis.com/view/NISX20260703_0003695216",
+          "source": "뉴시스",
+          "published": "2026-07-05T09:00:00+09:00",
+          "latest": "2026-07-05T09:00:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "뉴시스"
+          ]
+        },
         {
           "title": "전북경찰, 여름휴가철·방학 맞아 종합치안대책 추진",
           "link": "https://www.newsdaily.kr/news/articleView.html?idxno=258886",
@@ -348,16 +368,40 @@
       "name": "사건사고·기타",
       "articles": [
         {
-          "title": "서천서 하천에 빠진 60대 남성 숨진 채 발견…경찰 부검 예정",
-          "link": "http://www.news-story.co.kr/news/articleView.html?idxno=84386",
-          "source": "뉴스스토리",
-          "published": "2026-07-04T18:12:39+09:00",
-          "latest": "2026-07-05T06:55:03+09:00",
+          "title": "'영화로 인권을 만나다'…경찰청 인권영화 공모전 개최",
+          "link": "https://news.nate.com/view/20260705n03745",
+          "source": "네이트",
+          "published": "2026-07-05T09:00:00+09:00",
+          "latest": "2026-07-05T09:01:00+09:00",
           "mention_count": 3,
           "sources": [
-            "뉴스스토리",
             "네이트",
-            "v.daum.net"
+            "머니투데이",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "스토킹 가해자 접근 시 경찰·법무부 동시 출동",
+          "link": "https://www.newspim.com/news/view/20260703000638",
+          "source": "뉴스핌",
+          "published": "2026-07-05T09:00:00+09:00",
+          "latest": "2026-07-05T09:00:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "뉴스핌",
+            "헤럴드경제"
+          ]
+        },
+        {
+          "title": "용변 보게 수갑 풀어줬더니 ‘쾅’…경찰관 코뼈 부러뜨린 50대 철창신세",
+          "link": "https://v.daum.net/v/20260704162816888",
+          "source": "v.daum.net",
+          "published": "2026-07-04T16:28:16+09:00",
+          "latest": "2026-07-04T23:52:43+09:00",
+          "mention_count": 2,
+          "sources": [
+            "v.daum.net",
+            "이데일리"
           ]
         },
         {
@@ -457,6 +501,39 @@
           ]
         },
         {
+          "title": "스토킹 범죄 사각지대 없게…법무부-경찰, 고위험자 정보 공유",
+          "link": "https://www.yna.co.kr/view/AKR20260704033000004",
+          "source": "연합뉴스",
+          "published": "2026-07-05T09:00:03+09:00",
+          "latest": "2026-07-05T09:00:03+09:00",
+          "mention_count": 1,
+          "sources": [
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "혈흔 묻은 장윤기 SUV 압수 안한 경찰…경찰 부친이 보름 몰았다",
+          "link": "https://www.news1.kr/society/general-society/6217884",
+          "source": "뉴스1",
+          "published": "2026-07-05T08:25:13+09:00",
+          "latest": "2026-07-05T08:25:13+09:00",
+          "mention_count": 1,
+          "sources": [
+            "뉴스1"
+          ]
+        },
+        {
+          "title": "[현장] 구명조끼 의무 착용 첫 주…동해안 최북단 해경 단속 동행",
+          "link": "https://news.nate.com/view/20260705n02991",
+          "source": "네이트",
+          "published": "2026-07-05T08:01:00+09:00",
+          "latest": "2026-07-05T08:01:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "네이트"
+          ]
+        },
+        {
           "title": "[개표소 봉쇄 한 달②]진압도 중재도 없다…경찰·정치권·선관위 '3각 딜레마'",
           "link": "https://www.newsis.com/view/NISX20260703_0003695305",
           "source": "뉴시스",
@@ -466,68 +543,127 @@
           "sources": [
             "뉴시스"
           ]
-        },
-        {
-          "title": "목포경찰, 고령자 교통안전 캠페인",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000047597",
-          "source": "진일보",
-          "published": "2026-07-05T03:25:59+09:00",
-          "latest": "2026-07-05T03:25:59+09:00",
-          "mention_count": 1,
-          "sources": [
-            "진일보"
-          ]
-        },
-        {
-          "title": "자치경찰단, 여름방학 앞두고 청소년 대상 PM･교통안전 교육 집중 전개",
-          "link": "https://www.newsje.com/news/articleView.html?idxno=405106",
-          "source": "제주환경일보",
-          "published": "2026-07-05T00:00:00+09:00",
-          "latest": "2026-07-05T00:00:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "제주환경일보"
-          ]
-        },
-        {
-          "title": "음주단속 피해 도주하다 바다 추락…40대 운전자 숨져",
-          "link": "https://www.mhns.co.kr/news/articleView.html?idxno=752323",
-          "source": "더쎈뉴스",
-          "published": "2026-07-04T22:03:18+09:00",
-          "latest": "2026-07-04T22:03:18+09:00",
-          "mention_count": 1,
-          "sources": [
-            "더쎈뉴스"
-          ]
-        },
-        {
-          "title": "집 비번 받고 리얼돌 폐기…\"아들 성범죄 연관 우려\" 진술",
-          "link": "https://v.daum.net/v/20260704200608106",
-          "source": "v.daum.net",
-          "published": "2026-07-04T20:06:08+09:00",
-          "latest": "2026-07-04T20:06:08+09:00",
-          "mention_count": 1,
-          "sources": [
-            "v.daum.net"
-          ]
-        },
-        {
-          "title": "'장윤기 사건' 증거 없앤 경찰 아빠...'친족 특례' 논란",
-          "link": "https://www.ytn.co.kr/_ln/0103_202607041858392707",
-          "source": "YTN",
-          "published": "2026-07-04T18:58:00+09:00",
-          "latest": "2026-07-04T18:58:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "YTN"
-          ]
         }
       ]
     }
   ],
-  "total_articles": 142,
-  "total_issues": 65,
+  "total_articles": 165,
+  "total_issues": 73,
   "raw": [
+    {
+      "title": "경찰청, 인권영화 공모전 개최…숏폼·뮤직비디오도 접수",
+      "link": "https://m.news.nate.com/view/20260705n03798?mid=m03&list=recent&cpcd=",
+      "source": "네이트",
+      "published": "2026-07-05T09:01:00+09:00"
+    },
+    {
+      "title": "스토킹 범죄 사각지대 없게…법무부-경찰, 고위험자 정보 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260704033000004",
+      "source": "연합뉴스",
+      "published": "2026-07-05T09:00:03+09:00"
+    },
+    {
+      "title": "경찰청 15회 인권영화 공모전…'숏폼' 출품도 가능",
+      "link": "https://www.yna.co.kr/view/AKR20260704041400004",
+      "source": "연합뉴스",
+      "published": "2026-07-05T09:00:01+09:00"
+    },
+    {
+      "title": "스토킹 가해자 접근 시 경찰·법무부 동시 출동",
+      "link": "https://www.newspim.com/news/view/20260703000638",
+      "source": "뉴스핌",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "산재한 경찰 AI사업 한곳서 관리한다…첫 운영훈령 시행",
+      "link": "https://www.newsis.com/view/NISX20260703_0003695216",
+      "source": "뉴시스",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "국민 아이디어로 미래 범죄 대응…경찰, 과학수사 공모전",
+      "link": "https://www.news1.kr/society/incident-accident/6217486",
+      "source": "뉴스1",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "전자발찌, 접근금지 비웃은 ‘남양주 스토킹 살인’…법무부-경찰 재발방지책 내놨다 [세상&]",
+      "link": "https://biz.heraldcorp.com/article/10797591",
+      "source": "헤럴드경제",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "국민 아이디어로 과학수사 혁신…경찰청, 내일부터 공모전",
+      "link": "https://www.mt.co.kr/society/2026/07/05/2026070418053618144",
+      "source": "머니투데이",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "'영화로 인권을 만나다'…경찰청 인권영화 공모전 개최",
+      "link": "https://news.nate.com/view/20260705n03745",
+      "source": "네이트",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "총상금 2000만원…경찰청, 인권영화 공모전 개최",
+      "link": "https://www.mt.co.kr/society/2026/07/05/2026070418170635494",
+      "source": "머니투데이",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "경찰청 15회 인권영화 공모전…'숏폼' 출품도 가능",
+      "link": "https://news.nate.com/view/20260705n03723",
+      "source": "네이트",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "국민 아이디어로 과학수사 혁신…경찰청, 내일부터 공모전",
+      "link": "https://news.nate.com/view/20260705n03740",
+      "source": "네이트",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "총상금 2000만원…경찰청, 인권영화 공모전 개최",
+      "link": "https://news.nate.com/view/20260705n03737",
+      "source": "네이트",
+      "published": "2026-07-05T09:00:00+09:00"
+    },
+    {
+      "title": "진천 백곡저수지서 50대 남성 숨진 채 발견...경찰 수사",
+      "link": "https://news.ikbc.co.kr/article/view/kbc202607050005",
+      "source": "KBC광주방송",
+      "published": "2026-07-05T08:40:19+09:00"
+    },
+    {
+      "title": "혈흔 묻은 장윤기 SUV 압수 안한 경찰…경찰 부친이 보름 몰았다",
+      "link": "https://www.news1.kr/society/general-society/6217884",
+      "source": "뉴스1",
+      "published": "2026-07-05T08:25:13+09:00"
+    },
+    {
+      "title": "'기피부서' 옛말?…광주경찰 수사부서 분위기 반전",
+      "link": "https://www.newsis.com/view/NISX20260703_0003695183",
+      "source": "뉴시스",
+      "published": "2026-07-05T08:02:00+09:00"
+    },
+    {
+      "title": "[현장] 구명조끼 의무 착용 첫 주…동해안 최북단 해경 단속 동행",
+      "link": "https://news.nate.com/view/20260705n02991",
+      "source": "네이트",
+      "published": "2026-07-05T08:01:00+09:00"
+    },
+    {
+      "title": "'신속처리 지시'에도...경찰, '홍명보 선임 수사' 9개월 방치",
+      "link": "https://www.newspim.com/news/view/20260705000011",
+      "source": "뉴스핌",
+      "published": "2026-07-05T07:56:00+09:00"
+    },
+    {
+      "title": "홍명보 경찰 수사 ‘신속처리 지시’에도 9개월 방치",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260705.99099001091",
+      "source": "국제신문",
+      "published": "2026-07-05T07:28:00+09:00"
+    },
     {
       "title": "\"빨리 처리\" 권고도 묵살…경찰 '홍명보 수사' 늑장 논란",
       "link": "https://news.nate.com/view/20260705n02635",
@@ -593,6 +729,12 @@
       "link": "https://www.newsje.com/news/articleView.html?idxno=405106",
       "source": "제주환경일보",
       "published": "2026-07-05T00:00:00+09:00"
+    },
+    {
+      "title": "\"보호해달라\" 신고해 놓고…경찰 코뼈 부러뜨린 50대女 실형",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02614166645511240&mediaCodeNo=257",
+      "source": "이데일리",
+      "published": "2026-07-04T23:52:43+09:00"
     },
     {
       "title": "국조특위 개표소 진입 막으며 경찰 때린 60대 구속… 개표소 시위 두 번째 - 조선비즈",
@@ -937,6 +1079,12 @@
       "published": "2026-07-04T15:02:45+09:00"
     },
     {
+      "title": "'잠실 개표소 경찰 폭행' 60대 남성 \"화장실 가려던 것, 억울하다\"",
+      "link": "https://v.daum.net/v/20260704145546833",
+      "source": "v.daum.net",
+      "published": "2026-07-04T14:55:46+09:00"
+    },
+    {
       "title": "(종합)광주일고 겨냥 '폭탄 설치' 협박…배재고 사과 앞 경찰 수색",
       "link": "https://www.asiae.co.kr/article/2026070414150863578",
       "source": "아시아경제",
@@ -1013,6 +1161,12 @@
       "link": "https://ichannela.com/news/detail/000000537944.do",
       "source": "채널A",
       "published": "2026-07-04T14:19:00+09:00"
+    },
+    {
+      "title": "\"광주일고에 폭발물 설치\" 협박글…경찰, 작성자 추적",
+      "link": "https://www.mt.co.kr/society/2026/07/04/2026070414091692168",
+      "source": "머니투데이",
+      "published": "2026-07-04T14:18:46+09:00"
     },
     {
       "title": "“배재고 미래 짓밟았다”…광주일고에 폭탄 설치 협박 글, 경찰 수사",
@@ -1265,6 +1419,12 @@
       "link": "https://www.kado.net/news/articleView.html?idxno=2059369",
       "source": "강원도민일보",
       "published": "2026-07-04T10:17:09+09:00"
+    },
+    {
+      "title": "법원, ’청주 형제살인 부실수사’ 경찰 간부 징계 취소",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260704101524XC8",
+      "source": "연합뉴스TV",
+      "published": "2026-07-04T10:15:00+09:00"
     },
     {
       "title": "부실수사로 징계 받은 경찰 간부…법원 “정직 취소”",
