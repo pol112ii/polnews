@@ -474,6 +474,13 @@ _META_DESC_RES = [
 ]
 
 
+# 기사 내용이 아니라 사이트 소개 문구를 og:description에 넣는 언론사 대응
+_SLOGAN_HINTS = ["뉴스통신사", "종합 일간지", "인터넷 신문", "뉴스 포털",
+                  "국민의 알권리", "신뢰받는", "빠르고 정확한", "대표 언론"]
+# "(서울=연합뉴스) 홍길동 기자 =" 류의 바이라인 접두부
+_BYLINE_RE = re.compile(r"^[\[(][^\])]{2,20}[\])]\s*(?:[\w가-힣]{2,5}\s*기자\s*=?\s*)?")
+
+
 def extract_meta_summary(page_html: str) -> str | None:
     """기사 HTML에서 메타 요약을 꺼내 다듬는다."""
     for pattern in _META_DESC_RES:
@@ -482,8 +489,11 @@ def extract_meta_summary(page_html: str) -> str | None:
             continue
         text = html.unescape(m.group(1)).strip()
         text = re.sub(r"\s+", " ", text)
-        if len(text) < 20:   # 사이트 슬로건 같은 짧은 문구는 배제
+        text = _BYLINE_RE.sub("", text).strip()
+        if len(text) < 25:   # 슬로건 같은 짧은 문구는 배제
             continue
+        if any(h in text[:40] for h in _SLOGAN_HINTS):
+            continue          # 기사 요약이 아니라 사이트 소개 문구
         if len(text) > SUMMARY_MAX_LEN:
             text = text[:SUMMARY_MAX_LEN].rstrip() + "…"
         return text
