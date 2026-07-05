@@ -191,6 +191,12 @@
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
     font-style: italic;
   }
+  .summary {
+    color: var(--muted); font-size: 0.85rem; line-height: 1.5;
+    margin-top: 3px;
+    display: -webkit-box; -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; overflow: hidden;
+  }
   .rank {
     display: inline-block; width: 1.3em;
     color: var(--hot); font-weight: 800;
@@ -412,8 +418,11 @@ function breakingLi(a) {
   const icons = (a.topics || []).map(t => TOPIC_ICONS[t] || "").join("");
   const badge = a.mention_count > 1
     ? `<span class="badge hot">${a.mention_count}개 언론사</span>` : "";
+  const summary = a.summary
+    ? `<div class="summary">${escapeHtml(a.summary)}</div>` : "";
   return `<li>
     <a href="${a.link}" target="_blank" rel="noopener">${fresh ? '<span class="live-dot"></span>' : ""}<span class="chip ${cls}">${marker}</span>${escapeHtml(title)}${icons ? `<span class="ticons">${icons}</span>` : ""}</a>
+    ${summary}
     <div class="meta">${badge}<span>${timeAgo(a.published)} · ${escapeHtml(a.source || "")}</span></div>
   </li>`;
 }
@@ -531,9 +540,11 @@ function articleLi(a, rank) {
     ? ` 외 ${a.mention_count - 1}곳` : "";
   const orig = a.title_en
     ? `<div class="meta orig">${escapeHtml(a.title_en)}</div>` : "";
+  const summary = a.summary
+    ? `<div class="summary">${escapeHtml(a.summary)}</div>` : "";
   return `<li>
     <a href="${a.link}" target="_blank" rel="noopener">${rankHtml}❏ ${escapeHtml(a.title)}</a>
-    ${orig}
+    ${orig}${summary}
     <div class="meta">${badge}<span>${escapeHtml(a.source || "")}${extra}</span></div>
   </li>`;
 }

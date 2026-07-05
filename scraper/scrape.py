@@ -12,6 +12,7 @@
   '오늘의 주요 이슈'를 뽑는다.
 """
 
+import html
 import json
 import re
 import sys
@@ -38,18 +39,24 @@ TOPICS = [
         "emoji": "🚔",
         "title": "경찰관련 기사 스크랩",
         "queries": ["경찰", "경찰청", "해양경찰", "자치경찰",
-                     "경찰 인사", "경찰 수사"],
+                     "경찰 인사", "경찰 수사",
+                     # 경찰이 직접 언급되지 않아도 참고할 사건·사고·치안 전반
+                     "참사", "교통사고", "화재 사고", "실종",
+                     "강력범죄", "음주운전", "보이스피싱"],
         "sections": [
             ("인사·조직", ["인사", "승진", "총경", "경무관", "치안감",
                          "치안정감", "경찰청장", "서장", "발령", "조직개편",
                          "정원", "임용"]),
             ("수사·사건", ["수사", "검거", "구속", "입건", "체포", "송치",
                          "압수수색", "혐의", "피의자", "영장", "마약",
-                         "살인", "사기", "폭행"]),
+                         "살인", "사기", "폭행", "스토킹", "보이스피싱",
+                         "음주운전", "강력범죄"]),
+            ("사건사고·안전", ["참사", "사고", "화재", "실종", "사망", "추락",
+                           "붕괴", "익사", "구조", "안전"]),
             ("정책·행정", ["정책", "법안", "개정", "국회", "예산", "제도",
                          "훈령", "치안", "협약", "간담회", "대책", "조례"]),
         ],
-        "etc_section": "사건사고·기타",
+        "etc_section": "기타",
     },
     {
         "id": "realestate",
@@ -454,6 +461,70 @@ def resolve_google_links(articles: list[dict]) -> int:
     return resolved
 
 
+# ── 기사 한두 줄 요약 ───────────────────────────────────────────────
+# AI가 아니라 각 기사 페이지에 언론사가 심어둔 메타 요약(og:description,
+# 보통 기사 첫 한두 문장)을 가져온다. 비용·키가 전혀 들지 않는다.
+SUMMARY_MAX_PER_RUN = 60    # 한 번 실행에서 새로 요약을 가져올 최대 기사 수
+SUMMARY_MAX_LEN = 150
+
+_META_DESC_RES = [
+    re.compile(r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)', re.I),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:description', re.I),
+    re.compile(r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)', re.I),
+]
+
+
+def extract_meta_summary(page_html: str) -> str | None:
+    """기사 HTML에서 메타 요약을 꺼내 다듬는다."""
+    for pattern in _META_DESC_RES:
+        m = pattern.search(page_html)
+        if not m:
+            continue
+        text = html.unescape(m.group(1)).strip()
+        text = re.sub(r"\s+", " ", text)
+        if len(text) < 20:   # 사이트 슬로건 같은 짧은 문구는 배제
+            continue
+        if len(text) > SUMMARY_MAX_LEN:
+            text = text[:SUMMARY_MAX_LEN].rstrip() + "…"
+        return text
+    return None
+
+
+def _fetch_summary(link: str) -> str | None:
+    try:
+        page = fetch(link, attempts=1, timeout=10).decode("utf-8", "replace")
+    except Exception:
+        return None
+    return extract_meta_summary(page)
+
+
+def add_summaries(issues: list[dict], raw_by_link: dict[str, dict]) -> int:
+    """화면에 보이는 이슈에 요약을 붙인다. 성공 건수 반환.
+
+    원본 기사(raw)에도 저장해서 다음 실행부터는 다시 가져오지 않는다.
+    구글 링크(미변환)는 요약 페이지가 아니므로 건너뛴다.
+    """
+    todo = [i for i in issues
+            if not i.get("summary")
+            and i.get("link", "").startswith("http")
+            and "news.google.com" not in i["link"]][:SUMMARY_MAX_PER_RUN]
+    if not todo:
+        return 0
+
+    with ThreadPoolExecutor(max_workers=RESOLVE_WORKERS) as pool:
+        results = list(pool.map(lambda i: _fetch_summary(i["link"]), todo))
+
+    added = 0
+    for issue, summary in zip(todo, results):
+        if summary:
+            issue["summary"] = summary
+            art = raw_by_link.get(issue["link"])
+            if art is not None:
+                art["summary"] = summary
+            added += 1
+    return added
+
+
 # ── 같은 사건 묶기(클러스터링) ──────────────────────────────────────
 def normalize(title: str) -> str:
     """유사도 비교용으로 제목에서 괄호 태그·공백·기호를 제거한다."""
@@ -520,6 +591,8 @@ def cluster_articles(articles: list[dict],
         }
         if rep.get("title_en"):
             issue["title_en"] = rep["title_en"]
+        if rep.get("summary"):   # 이전 실행에서 가져온 요약 재사용
+            issue["summary"] = rep["summary"]
         issues.append(issue)
     return issues
 
@@ -689,6 +762,13 @@ def run_topic(topic: dict, today: str, now_iso: str,
     top_issues, sections = categorize(
         issues, topic["sections"], topic["etc_section"]
     )
+
+    # 화면에 보이는 이슈에 한두 줄 요약 부착 (기사 메타 요약, 비용 없음)
+    displayed = top_issues + [a for s in sections for a in s["articles"]]
+    raw_by_link = {a["link"]: a for a in raw}
+    added = add_summaries(displayed, raw_by_link)
+    if added:
+        print(f"요약 {added}건 추가")
 
     briefing = {
         "date": today,
@@ -873,6 +953,12 @@ def run_breaking() -> None:
     for issue in issues:
         issue["topics"] = [tid for tid, kws in TOPIC_HINTS.items()
                            if any(k in issue["title"] for k in kws)]
+
+    # 타임라인에 보이는 속보에도 한두 줄 요약 부착
+    raw_by_link = {a["link"]: a for a in raw}
+    added = add_summaries(issues[:BREAKING_MAX_ITEMS], raw_by_link)
+    if added:
+        print(f"요약 {added}건 추가")
 
     data = {
         "generated_at": now.isoformat(),
