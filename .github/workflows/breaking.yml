@@ -9,7 +9,8 @@ on:
 
 permissions:
   contents: write
-  actions: write   # 실패한 배포 재시도·정시 수집 깨우기용
+  actions: write   # 정시 수집 깨우기용
+  pages: write     # Pages 빌드 강제 요청용
 
 # 정시 뉴스 스크랩과 같은 그룹으로 묶어 커밋 경합을 방지
 concurrency:
@@ -43,17 +44,18 @@ jobs:
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
 
-      # ── 자가 복구 장치 ──────────────────────────────────────────
-      # 1) GitHub Pages가 가끔 "try again later"로 배포를 흘린다
-      #    → 직전 배포가 실패면 재시도 (최대 30분 안에 사이트 복구)
-      # 2) GitHub이 정시 수집 예약을 건너뛰는 경우가 있다
-      #    → 정시 수집이 100분 넘게 안 돌았으면 대신 깨운다 (KST 05~23시)
-      - name: 자가 복구 (배포 재시도 + 정시 수집 깨우기)
+      # ── 자가 복구 장치 (Pages 배포 강제 + 정시 상호 감시) ─────────
+      - name: 자가 복구 (Pages 빌드 강제 + 정시 수집 깨우기)
         if: always()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 1) 실패한 Pages 배포 재시도
+          # 1) Pages 빌드를 직접 요청 (자동 배포 건너뜀 대비)
+          code=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages/builds")
+          echo "Pages 빌드 요청 응답: $code"
           info=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
             "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs?per_page=8" \
             | python3 -c "
@@ -65,11 +67,10 @@ jobs:
           run_id=$(echo $info | awk '{print $1}')
           state=$(echo $info | awk '{print $2}')
           echo "최근 Pages 배포: ${run_id:-없음} (${state:-없음})"
-          if [ "$state" = "failure" ]; then
-            echo "배포 실패 감지 → 재시도 요청"
+          if [ "$state" = "failure" ] && [ -n "$run_id" ]; then
             curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" \
               "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/rerun-failed-jobs" \
-              -o /dev/null -w "재시도 응답: %{http_code}\n"
+              -o /dev/null -w "실패 배포 재시도: %{http_code}\n"
           fi
 
           # 2) 정시 수집이 오래 안 돌았으면 깨우기
