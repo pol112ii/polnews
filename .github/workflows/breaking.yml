@@ -2,13 +2,14 @@ name: 속보 스크랩
 
 on:
   schedule:
-    # 30분마다, 24시간 (UTC 기준이지만 30분 간격이라 시간대 무관)
-    # GitHub Actions 특성상 실제 실행은 수 분~수십 분 늦어질 수 있음
-    - cron: "*/30 * * * *"
+    # 30분마다, 24시간. 정각·30분 정각은 GitHub 예약이 몰려 잘 건너뛰므로
+    # 한산한 13분·43분으로 분산해 건너뜀 확률을 낮춘다.
+    - cron: "13,43 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  actions: write   # 실패한 배포 재시도·정시 수집 깨우기용
 
 # 정시 뉴스 스크랩과 같은 그룹으로 묶어 커밋 경합을 방지
 concurrency:
@@ -41,3 +42,55 @@ jobs:
           git commit -m "속보: $(TZ=Asia/Seoul date '+%F %H:%M')"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
+
+      # ── 자가 복구 장치 ──────────────────────────────────────────
+      # 1) GitHub Pages가 가끔 "try again later"로 배포를 흘린다
+      #    → 직전 배포가 실패면 재시도 (최대 30분 안에 사이트 복구)
+      # 2) GitHub이 정시 수집 예약을 건너뛰는 경우가 있다
+      #    → 정시 수집이 100분 넘게 안 돌았으면 대신 깨운다 (KST 05~23시)
+      - name: 자가 복구 (배포 재시도 + 정시 수집 깨우기)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 1) 실패한 Pages 배포 재시도
+          info=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs?per_page=8" \
+            | python3 -c "
+          import json,sys
+          for r in json.load(sys.stdin)['workflow_runs']:
+              if 'pages' in r['name'].lower():
+                  print(r['id'], r.get('conclusion') or 'running'); break
+          ")
+          run_id=$(echo $info | awk '{print $1}')
+          state=$(echo $info | awk '{print $2}')
+          echo "최근 Pages 배포: ${run_id:-없음} (${state:-없음})"
+          if [ "$state" = "failure" ]; then
+            echo "배포 실패 감지 → 재시도 요청"
+            curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" \
+              "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/rerun-failed-jobs" \
+              -o /dev/null -w "재시도 응답: %{http_code}\n"
+          fi
+
+          # 2) 정시 수집이 오래 안 돌았으면 깨우기
+          age=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/scrape.yml/runs?per_page=1" \
+            | python3 -c "
+          import json,sys
+          from datetime import datetime,timezone
+          try:
+              r=json.load(sys.stdin)['workflow_runs'][0]
+              print(int((datetime.now(timezone.utc)-datetime.fromisoformat(
+                  r['created_at'].replace('Z','+00:00'))).total_seconds()))
+          except Exception:
+              print(999999)
+          ")
+          hour_kst=$((10#$(TZ=Asia/Seoul date +%H)))
+          echo "정시 수집 마지막 실행: ${age}초 전 (현재 KST ${hour_kst}시)"
+          if [ "$age" -gt 6000 ] && [ "$hour_kst" -ge 5 ]; then
+            echo "정시 수집이 밀림 → 깨우기"
+            curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/scrape.yml/dispatches" \
+              -d '{"ref":"main"}' -o /dev/null -w "깨우기 응답: %{http_code}\n"
+          fi
