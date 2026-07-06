@@ -124,6 +124,7 @@ TOPICS = [
     },
 ]
 
+RETENTION_DAYS = 14    # 날짜별 브리핑 보존 기간 (지나면 자동 삭제)
 MAX_PER_SECTION = 15   # 섹션당 최대 이슈(묶음) 수
 TOP_ISSUE_COUNT = 5    # 주요 이슈로 뽑을 개수
 TOP_ISSUE_MIN_SOURCES = 2  # 최소 몇 개 언론사가 보도해야 주요 이슈 후보인지
@@ -830,6 +831,14 @@ def run_topic(topic: dict, today: str, now_iso: str,
         json.dumps(briefing, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     print(f"{out_path} 저장 (이슈 {len(issues)}개, 주요 이슈 {len(top_issues)}개)")
+
+    # 보존 기간이 지난 날짜 파일은 자동 삭제해 사이트를 가볍게 유지한다
+    cutoff = (datetime.strptime(today, "%Y-%m-%d")
+              - timedelta(days=RETENTION_DAYS)).strftime("%Y-%m-%d")
+    for old in topic_dir.glob("????-??-??.json"):
+        if old.stem < cutoff:
+            old.unlink()
+            print(f"보존 기간 경과로 삭제: {old.name}")
 
     dates = sorted(
         (p.stem for p in topic_dir.glob("????-??-??.json")),

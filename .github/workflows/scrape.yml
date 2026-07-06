@@ -2,13 +2,14 @@ name: 뉴스 스크랩
 
 on:
   schedule:
-    # 매시간 정각, UTC 20~23시 + 0~14시 = 한국시간 05:00~23:00
-    # (GitHub Actions 특성상 실제 실행은 수 분~수십 분 늦어질 수 있음)
-    - cron: "0 0-14,20-23 * * *"
+    # 매시간, UTC 20~23시 + 0~14시 = 한국시간 05~23시.
+    # 정각은 GitHub 예약이 몰려 잘 건너뛰므로 7분으로 분산.
+    - cron: "7 0-14,20-23 * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  actions: write   # 실패한 배포 재시도·속보 수집 깨우기용
 
 # 이전 실행이 끝나기 전에 다음 실행이 겹치지 않도록 직렬화
 concurrency:
@@ -43,3 +44,50 @@ jobs:
           # 다른 커밋이 먼저 들어왔을 수 있으니 리베이스 후 푸시
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
+
+      # ── 자가 복구 장치 (속보 워크플로와 상호 감시) ─────────────
+      - name: 자가 복구 (배포 재시도 + 속보 수집 깨우기)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 1) 실패한 Pages 배포 재시도
+          info=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs?per_page=8" \
+            | python3 -c "
+          import json,sys
+          for r in json.load(sys.stdin)['workflow_runs']:
+              if 'pages' in r['name'].lower():
+                  print(r['id'], r.get('conclusion') or 'running'); break
+          ")
+          run_id=$(echo $info | awk '{print $1}')
+          state=$(echo $info | awk '{print $2}')
+          echo "최근 Pages 배포: ${run_id:-없음} (${state:-없음})"
+          if [ "$state" = "failure" ]; then
+            echo "배포 실패 감지 → 재시도 요청"
+            curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" \
+              "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/rerun-failed-jobs" \
+              -o /dev/null -w "재시도 응답: %{http_code}\n"
+          fi
+
+          # 2) 속보 수집이 70분 넘게 안 돌았으면 깨우기 (24시간 대상)
+          age=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/breaking.yml/runs?per_page=1" \
+            | python3 -c "
+          import json,sys
+          from datetime import datetime,timezone
+          try:
+              r=json.load(sys.stdin)['workflow_runs'][0]
+              print(int((datetime.now(timezone.utc)-datetime.fromisoformat(
+                  r['created_at'].replace('Z','+00:00'))).total_seconds()))
+          except Exception:
+              print(999999)
+          ")
+          echo "속보 수집 마지막 실행: ${age}초 전"
+          if [ "$age" -gt 4200 ]; then
+            echo "속보 수집이 밀림 → 깨우기"
+            curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/breaking.yml/dispatches" \
+              -d '{"ref":"main"}' -o /dev/null -w "깨우기 응답: %{http_code}\n"
+          fi
