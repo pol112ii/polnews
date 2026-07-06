@@ -1,0 +1,36 @@
+name: 사이트 배포
+
+# GitHub의 자동 배포가 새 커밋을 건너뛰는 문제가 잦아, 우리가 직접
+# Actions로 배포를 제어한다. 수집 워크플로가 커밋 후 이 워크플로를
+# 호출(dispatch)하며, 사람이 수동 실행할 수도 있다.
+# (전제: 저장소 Settings → Pages → Source = "GitHub Actions")
+on:
+  workflow_dispatch: {}
+  push:
+    branches: ["main"]
+    paths: ["docs/**"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 배포는 하나씩만, 최신 것을 우선
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
