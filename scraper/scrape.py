@@ -14,11 +14,13 @@
 
 import html
 import json
+import os
 import re
 import sys
 import time
 import urllib.parse
 import urllib.request
+import urllib.error
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -171,7 +173,139 @@ def strip_source_suffix(title: str, source: str) -> str:
     return title
 
 
+# ── 네이버 뉴스 검색 API (국내 수집 기본, 키 없으면 구글로 폴백) ──────
+# GitHub Secrets(NAVER_CLIENT_ID / NAVER_CLIENT_SECRET)에 키가 있으면
+# 네이버로 수집한다. 네이버는 기사 요약(description)과 네이버 뉴스 링크를
+# 함께 주므로 구글 링크 변환·별도 요약 수집이 필요 없어 더 빠르고 안정적이다.
+NAVER_ID = os.environ.get("NAVER_CLIENT_ID", "").strip()
+NAVER_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "").strip()
+NAVER_NEWS_URL = "https://openapi.naver.com/v1/search/news.json"
+NAVER_DISPLAY = 100   # 검색어당 최대 100건(네이버 상한)
+
+# 네이버는 언론사명을 안 주므로 원문 도메인으로 유추한다
+DOMAIN_TO_SOURCE = {
+    "chosun.com": "조선일보", "joongang.co.kr": "중앙일보", "donga.com": "동아일보",
+    "hani.co.kr": "한겨레", "khan.co.kr": "경향신문", "yna.co.kr": "연합뉴스",
+    "yonhapnewstv.co.kr": "연합뉴스TV", "newsis.com": "뉴시스", "news1.kr": "뉴스1",
+    "kbs.co.kr": "KBS", "imbc.com": "MBC", "sbs.co.kr": "SBS", "jtbc.co.kr": "JTBC",
+    "ytn.co.kr": "YTN", "mbn.co.kr": "MBN", "channela.co.kr": "채널A",
+    "mt.co.kr": "머니투데이", "hankyung.com": "한국경제", "mk.co.kr": "매일경제",
+    "sedaily.com": "서울경제", "fnnews.com": "파이낸셜뉴스", "edaily.co.kr": "이데일리",
+    "asiae.co.kr": "아시아경제", "seoul.co.kr": "서울신문", "kmib.co.kr": "국민일보",
+    "segye.com": "세계일보", "munhwa.com": "문화일보", "hankookilbo.com": "한국일보",
+    "kukinews.com": "쿠키뉴스", "nocutnews.co.kr": "노컷뉴스", "ohmynews.com": "오마이뉴스",
+    "newspim.com": "뉴스핌", "dt.co.kr": "디지털타임스", "etnews.com": "전자신문",
+    "inews24.com": "아이뉴스24", "newdaily.co.kr": "뉴데일리", "biz.chosun.com": "조선비즈",
+    "heraldcorp.com": "헤럴드경제", "moneys.co.kr": "머니S", "pressian.com": "프레시안",
+    "kyeongin.com": "경인일보", "kwnews.co.kr": "강원일보", "joongdo.co.kr": "중도일보",
+    "wowtv.co.kr": "한국경제TV", "zdnet.co.kr": "지디넷코리아", "wikitree.co.kr": "위키트리",
+}
+
+
+def naver_enabled() -> bool:
+    return bool(NAVER_ID and NAVER_SECRET)
+
+
+# 더 구체적인(긴) 도메인을 먼저 매칭하도록 정렬 (biz.chosun.com > chosun.com)
+_DOMAINS_BY_LEN = sorted(DOMAIN_TO_SOURCE, key=len, reverse=True)
+
+
+def source_from_link(link: str) -> str:
+    host = urllib.parse.urlparse(link).netloc.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    if "naver.com" in host:      # 네이버 링크는 원문 언론사를 알 수 없음
+        return ""
+    for dom in _DOMAINS_BY_LEN:
+        if host == dom or host.endswith("." + dom):
+            return DOMAIN_TO_SOURCE[dom]
+    parts = host.split(".")
+    return parts[0] if parts and parts[0] else host
+
+
+def clean_naver_text(s: str) -> str:
+    """네이버 응답의 <b> 태그·HTML 엔티티를 제거해 깨끗한 문자열로."""
+    s = re.sub(r"<[^>]+>", "", s)
+    s = html.unescape(s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def fetch_articles_naver(queries: list[str]) -> list[dict]:
+    """네이버 뉴스 검색 API로 기사를 모아 반환한다.
+
+    인증 실패(잘못된 키)면 예외를 올려 상위에서 구글로 폴백하게 한다.
+    개별 검색어의 일시 오류(타임아웃 등)는 건너뛰고 계속 진행한다.
+    """
+    seen_links: set[str] = set()
+    articles: list[dict] = []
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS_WINDOW)
+
+    for query in queries:
+        url = (NAVER_NEWS_URL + "?query=" + urllib.parse.quote(query)
+               + f"&display={NAVER_DISPLAY}&sort=date")
+        req = urllib.request.Request(url, headers={
+            "X-Naver-Client-Id": NAVER_ID,
+            "X-Naver-Client-Secret": NAVER_SECRET,
+            "User-Agent": USER_AGENT,
+        })
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                data = json.loads(resp.read())
+        except urllib.error.HTTPError as e:
+            if e.code in (401, 403):     # 키가 틀림 → 전체 폴백
+                raise
+            print(f"[warn] 네이버 '{query}' 실패(HTTP {e.code}), 건너뜀")
+            continue
+        except Exception as e:
+            print(f"[warn] 네이버 '{query}' 실패({e}), 건너뜀")
+            continue
+
+        for it in data.get("items", []):
+            title = clean_naver_text(it.get("title", ""))
+            orig = (it.get("originallink") or "").strip()
+            link = (it.get("link") or orig).strip()   # 네이버 뉴스 링크 우선
+            pub = it.get("pubDate")
+            desc = clean_naver_text(it.get("description", ""))
+            if not title or not link or not pub:
+                continue
+            try:
+                published = parsedate_to_datetime(pub)
+            except (TypeError, ValueError):
+                continue
+            if published < cutoff or link in seen_links:
+                continue
+            seen_links.add(link)
+
+            source = source_from_link(orig or link)
+            title = strip_source_suffix(title, source)
+            art = {
+                "title": title,
+                "link": link,
+                "source": source,
+                "published": published.astimezone(KST).isoformat(),
+            }
+            if desc and len(desc) >= 25:   # 네이버가 준 요약을 그대로 사용
+                art["summary"] = (desc[:SUMMARY_MAX_LEN].rstrip() + "…"
+                                  if len(desc) > SUMMARY_MAX_LEN else desc)
+            articles.append(art)
+
+    return articles
+
+
 def fetch_articles(queries: list[str], lang: str = "ko") -> list[dict]:
+    """국내(ko)는 네이버 우선·구글 폴백, 해외(en)는 구글을 쓴다."""
+    if lang == "ko" and naver_enabled():
+        try:
+            arts = fetch_articles_naver(queries)
+            if arts:
+                return arts
+            print("[warn] 네이버 결과 0건 → 구글로 폴백")
+        except Exception as e:
+            print(f"[warn] 네이버 수집 실패({e}) → 구글로 폴백")
+    return fetch_articles_google(queries, lang)
+
+
+def fetch_articles_google(queries: list[str], lang: str = "ko") -> list[dict]:
     """구글 뉴스 RSS에서 검색어별 기사를 모아 반환한다.
 
     같은 링크(=같은 기사)는 하나만 남기되, 다른 언론사가 쓴 같은 사건
