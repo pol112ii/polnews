@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # 실패한 Pages 배포 자동 재시도용
 
 # 정시 뉴스 스크랩과 같은 그룹으로 묶어 커밋 경합을 방지
 concurrency:
@@ -41,3 +42,29 @@ jobs:
           git commit -m "속보: $(TZ=Asia/Seoul date '+%F %H:%M')"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
+
+      # GitHub Pages가 가끔 "try again later"로 배포를 흘린다.
+      # 30분마다 도는 이 워크플로가 직전 배포 실패를 감지해 재시도하므로
+      # 사이트가 옛 데이터에 멈춰도 최대 30분 안에 스스로 복구된다.
+      - name: 사이트 배포 실패 시 자동 재시도
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          info=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs?per_page=8" \
+            | python3 -c "
+          import json,sys
+          for r in json.load(sys.stdin)['workflow_runs']:
+              if 'pages' in r['name'].lower():
+                  print(r['id'], r.get('conclusion') or 'running'); break
+          ")
+          run_id=$(echo $info | awk '{print $1}')
+          state=$(echo $info | awk '{print $2}')
+          echo "최근 Pages 배포: ${run_id:-없음} (${state:-없음})"
+          if [ "$state" = "failure" ]; then
+            echo "배포 실패 감지 → 재시도 요청"
+            curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" \
+              "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/rerun-failed-jobs" \
+              -o /dev/null -w "재시도 응답: %{http_code}\n"
+          fi
