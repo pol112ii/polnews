@@ -43,7 +43,11 @@ jobs:
               print(f"      링크: {a['link'][:60]}")
           assert with_sum >= len(arts) // 2, "요약 부착률이 너무 낮음"
           # 디스패처가 국내에서 네이버를 실제로 쓰는지
+          # (네이버 경로만 summary를 채우므로, 요약 존재 = 네이버 사용 증거)
           d = scrape.fetch_articles(["경찰"])
-          assert d and "naver.com" in d[0]["link"], "디스패처가 네이버를 쓰지 않음"
+          assert d, "디스패처 수집 0건"
+          assert any(a.get("summary") for a in d), "디스패처가 네이버를 쓰지 않음"
+          naver_ratio = sum(1 for a in d if "naver.com" in a["link"]) / len(d)
+          print(f"디스패처 네이버 링크 비율: {naver_ratio:.0%}")
           print("\n✅ 네이버 전환 정상 동작")
           EOF
