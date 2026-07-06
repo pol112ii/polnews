@@ -54,6 +54,23 @@
     letter-spacing: 0.04em;
   }
   .counter b { color: var(--text); font-weight: 700; }
+  .refresh-hint {
+    margin-top: 8px;
+    background: none; border: none; padding: 0;
+    color: var(--accent); font-size: 0.78rem; font-weight: 600;
+    cursor: pointer;
+  }
+  .refresh-hint:active { opacity: 0.5; }
+  /* 아래로 당기기(pull-to-refresh) 표시 */
+  .ptr {
+    height: 0; overflow: hidden;
+    display: flex; align-items: center; justify-content: center; gap: 6px;
+    color: var(--muted); font-size: 0.82rem;
+    transition: height 0.15s ease;
+  }
+  .ptr.on { height: 34px; }
+  .ptr.spin #ptrIcon { animation: rot 0.7s linear infinite; display: inline-block; }
+  @keyframes rot { to { transform: rotate(360deg); } }
 
   .tabs {
     display: flex; gap: 6px;
@@ -295,7 +312,13 @@
     <div class="counter" id="counter" hidden>
       TODAY <b id="cntToday">-</b><br>TOTAL <b id="cntTotal">-</b>
     </div>
+    <button class="refresh-hint" id="refreshBtn" title="새로고침">
+      🔄 <span>새로고침</span>
+    </button>
   </header>
+
+  <!-- 아래로 당길 때 나타나는 새로고침 표시 -->
+  <div class="ptr" id="ptr"><span id="ptrIcon">↓</span> <span id="ptrText">당겨서 새로고침</span></div>
 
   <div class="tabs" id="tabs"></div>
 
@@ -316,7 +339,7 @@
 
   <footer>
     <a class="guide-link" onclick="openGuide()">📖 사용법 · 홈 화면에 앱으로 설치하기</a><br>
-    출처: 구글 뉴스 검색 · 날씨: open-meteo ·
+    출처: 네이버·구글 뉴스 · 날씨: open-meteo ·
     <a href="https://github.com/pol112ii/polnews" target="_blank" rel="noopener">GitHub</a>
   </footer>
 </div>
@@ -403,7 +426,61 @@ async function init() {
   setInterval(() => {
     if (currentTopic && currentTopic.id === "breaking") loadBreaking();
   }, 5 * 60 * 1000);
+  document.getElementById("refreshBtn").onclick = () => doRefresh();
+  setupPullToRefresh();
   await loadTopic();
+}
+
+// 현재 탭 데이터를 다시 불러온다 (전체 페이지 리로드가 아닌 부드러운 갱신)
+let refreshing = false;
+async function doRefresh() {
+  if (refreshing) return;
+  refreshing = true;
+  const ptr = document.getElementById("ptr");
+  ptr.classList.add("on", "spin");
+  document.getElementById("ptrIcon").textContent = "🔄";
+  document.getElementById("ptrText").textContent = "새로고침 중…";
+  try {
+    await loadTopic();
+    updateBanner();
+  } catch (e) { /* 실패해도 조용히 */ }
+  setTimeout(() => {
+    ptr.classList.remove("on", "spin");
+    document.getElementById("ptrIcon").textContent = "↓";
+    document.getElementById("ptrText").textContent = "당겨서 새로고침";
+    refreshing = false;
+  }, 350);
+}
+
+// 화면을 맨 위에서 아래로 당기면 새로고침 (모바일 제스처)
+function setupPullToRefresh() {
+  const ptr = document.getElementById("ptr");
+  let startY = 0, pulling = false;
+  const THRESHOLD = 70;
+  window.addEventListener("touchstart", (e) => {
+    if (window.scrollY <= 0 && !refreshing) {
+      startY = e.touches[0].clientY; pulling = true;
+    }
+  }, { passive: true });
+  window.addEventListener("touchmove", (e) => {
+    if (!pulling) return;
+    const dy = e.touches[0].clientY - startY;
+    if (dy > 0 && window.scrollY <= 0) {
+      const h = Math.min(dy * 0.5, 50);
+      ptr.style.height = h + "px";
+      ptr.style.overflow = "hidden";
+      document.getElementById("ptrText").textContent =
+        dy > THRESHOLD ? "놓으면 새로고침" : "당겨서 새로고침";
+      document.getElementById("ptrIcon").textContent = dy > THRESHOLD ? "↑" : "↓";
+    }
+  }, { passive: true });
+  window.addEventListener("touchend", (e) => {
+    if (!pulling) return;
+    pulling = false;
+    const dy = (e.changedTouches[0].clientY - startY);
+    ptr.style.height = "";
+    if (dy > THRESHOLD && window.scrollY <= 0) doRefresh();
+  }, { passive: true });
 }
 
 function updateRegionBar() {
