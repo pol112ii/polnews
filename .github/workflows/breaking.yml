@@ -44,34 +44,17 @@ jobs:
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
 
-      # ── 자가 복구 장치 (Pages 배포 강제 + 정시 상호 감시) ─────────
-      - name: 자가 복구 (Pages 빌드 강제 + 정시 수집 깨우기)
+      # ── 자가 복구 장치 (배포 호출 + 정시 상호 감시) ───────────────
+      - name: 자가 복구 (사이트 배포 호출 + 정시 수집 깨우기)
         if: always()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 1) Pages 빌드를 직접 요청 (자동 배포 건너뜀 대비)
-          code=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
-            -H "Authorization: Bearer $GH_TOKEN" \
+          # 1) 배포 워크플로를 직접 호출 (GITHUB_TOKEN 커밋은 push를 안 깨움)
+          curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" \
             -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages/builds")
-          echo "Pages 빌드 요청 응답: $code"
-          info=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
-            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs?per_page=8" \
-            | python3 -c "
-          import json,sys
-          for r in json.load(sys.stdin)['workflow_runs']:
-              if 'pages' in r['name'].lower():
-                  print(r['id'], r.get('conclusion') or 'running'); break
-          ")
-          run_id=$(echo $info | awk '{print $1}')
-          state=$(echo $info | awk '{print $2}')
-          echo "최근 Pages 배포: ${run_id:-없음} (${state:-없음})"
-          if [ "$state" = "failure" ] && [ -n "$run_id" ]; then
-            curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" \
-              "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/rerun-failed-jobs" \
-              -o /dev/null -w "실패 배포 재시도: %{http_code}\n"
-          fi
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/deploy.yml/dispatches" \
+            -d '{"ref":"main"}' -o /dev/null -w "배포 호출: %{http_code}\n"
 
           # 2) 정시 수집이 오래 안 돌았으면 깨우기
           age=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
