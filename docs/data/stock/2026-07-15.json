@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T12:19:54.148000+09:00",
+  "generated_at": "2026-07-15T14:57:25.565341+09:00",
   "topic": {
     "id": "stock",
     "label": "주식",
@@ -37,7 +37,7 @@
       "source": "매일경제 마켓",
       "published": "2026-07-14T12:07:47+09:00",
       "latest": "2026-07-15T11:57:00+09:00",
-      "mention_count": 53,
+      "mention_count": 55,
       "sources": [
         "매일경제 마켓",
         "매일경제",
@@ -58,8 +58,8 @@
       "link": "https://m.ekn.kr/view.php?key=20260714023242430",
       "source": "에너지경제신문",
       "published": "2026-07-14T16:50:08+09:00",
-      "latest": "2026-07-15T10:37:06+09:00",
-      "mention_count": 30,
+      "latest": "2026-07-15T13:08:00+09:00",
+      "mention_count": 33,
       "sources": [
         "에너지경제신문",
         "머니투데이",
@@ -81,12 +81,13 @@
       "link": "https://www.ytn.co.kr/_ln/0103_202607141054390322",
       "source": "YTN",
       "published": "2026-07-14T10:54:00+09:00",
-      "latest": "2026-07-15T11:46:06+09:00",
-      "mention_count": 19,
+      "latest": "2026-07-15T14:09:00+09:00",
+      "mention_count": 20,
       "sources": [
         "YTN",
         "연합뉴스",
         "Chosunbiz",
+        "v.daum.net",
         "채널A",
         "조선일보",
         "JTBC",
@@ -94,8 +95,7 @@
         "MBC 뉴스",
         "경향신문",
         "연합뉴스TV",
-        "한겨레",
-        "동아일보"
+        "한겨레"
       ]
     },
     {
@@ -104,7 +104,7 @@
       "source": "연합뉴스",
       "published": "2026-07-15T05:10:50+09:00",
       "latest": "2026-07-15T09:47:45+09:00",
-      "mention_count": 17,
+      "mention_count": 18,
       "sources": [
         "연합뉴스",
         "매일경제 마켓",
@@ -154,10 +154,11 @@
           "link": "https://www.g-enews.com/article/Securities/2026/07/202607150941189084923c501012_1",
           "source": "글로벌이코노믹",
           "published": "2026-07-15T09:54:08+09:00",
-          "latest": "2026-07-15T11:09:32+09:00",
-          "mention_count": 11,
+          "latest": "2026-07-15T14:13:56+09:00",
+          "mention_count": 14,
           "sources": [
             "글로벌이코노믹",
+            "로이슈",
             "이뉴스투데이",
             "매일일보",
             "뉴스핌",
@@ -176,8 +177,8 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468425",
           "source": "핀포인트뉴스",
           "published": "2026-07-15T06:48:12+09:00",
-          "latest": "2026-07-15T10:03:07+09:00",
-          "mention_count": 10,
+          "latest": "2026-07-15T10:15:00+09:00",
+          "mention_count": 12,
           "sources": [
             "핀포인트뉴스",
             "v.daum.net",
@@ -185,12 +186,57 @@
             "마켓인",
             "edaily.co.kr",
             "네이트",
+            "서울경제",
             "이투데이",
             "글로벌경제신문",
             "아주경제",
-            "시사저널"
+            "시사저널",
+            "Chosunbiz"
           ],
           "summary": "SK하이닉스가 미국 나스닥 시장에 미국주식예탁증서(ADR)를 상장한 가운데 국내 개인투자자들이 상장 첫날부터 대거 매수에 나선 것으로 나타났다.국내 증시와 미국 증시를 오가며 동시에 투자에 나선 개인들의 매수세가 이어지면서 SK하이닉스를 향한 높은 기대감을 보여줬다.1…"
+        },
+        {
+          "title": "코스피, 삼전닉스 급등에 매수 사이드카…지수 6% 상승(상보)",
+          "link": "https://www.news1.kr/finance/general-stock/6228567",
+          "source": "뉴스1",
+          "published": "2026-07-15T09:19:41+09:00",
+          "latest": "2026-07-15T13:25:00+09:00",
+          "mention_count": 11,
+          "sources": [
+            "뉴스1",
+            "KBC광주방송",
+            "매일경제 마켓",
+            "팍스경제TV",
+            "뉴스핌",
+            "MBC 뉴스",
+            "한국경제",
+            "뉴시안",
+            "연합뉴스TV",
+            "v.daum.net",
+            "비즈니스포스트"
+          ],
+          "summary": "코스피 지수가 15일 삼성전자(005930)와 SK하이닉스(000660)의 개장 직후 급등에 힘입어 6% 넘게 상승함에 따라 프로그램 매수호가 일시정지(사이드카) …"
+        },
+        {
+          "title": "[속보]코스피 6%급등 사이드카…하닉200만원 회복",
+          "link": "https://www.munhwa.com/article/11602734",
+          "source": "문화일보",
+          "published": "2026-07-15T09:13:28+09:00",
+          "latest": "2026-07-15T13:05:51+09:00",
+          "mention_count": 10,
+          "sources": [
+            "문화일보",
+            "경향신문",
+            "경기일보",
+            "v.daum.net",
+            "서울경제TV",
+            "뉴스1",
+            "녹색경제신문",
+            "한겨레",
+            "YTN",
+            "뉴스인"
+          ],
+          "summary": "15일 코스피 지수가 장 시작과 동시에 6% 이상 급등하며 7200선을 넘어섰다. SK하이닉스도 200만 원을 회복했다. 급등세가 이어지며 매수사이드카도 발동됐다. 이날 유가증권 시장에 따르면 코스피 지수는 9시7분 현재 전거래일보다 5.68% 오른 7247.38에 거"
         },
         {
           "title": "SK하이닉스 美 ADR 9% 급락…가격 격차 37%→19%로 줄어 [분석+]",
@@ -214,43 +260,23 @@
           "summary": "SK하이닉스 美 ADR 9% 급락…가격 격차 37%→19%로 줄어 [분석+], \"적정 가치 맞춰 두 가격 서로 수렴\""
         },
         {
-          "title": "[속보]코스피 6%급등 사이드카…하닉200만원 회복",
-          "link": "https://www.munhwa.com/article/11602734",
-          "source": "문화일보",
-          "published": "2026-07-15T09:13:28+09:00",
-          "latest": "2026-07-15T11:31:00+09:00",
-          "mention_count": 9,
-          "sources": [
-            "문화일보",
-            "경향신문",
-            "경기일보",
-            "v.daum.net",
-            "서울경제TV",
-            "뉴스1",
-            "녹색경제신문",
-            "한겨레",
-            "YTN"
-          ],
-          "summary": "15일 코스피 지수가 장 시작과 동시에 6% 이상 급등하며 7200선을 넘어섰다. SK하이닉스도 200만 원을 회복했다. 급등세가 이어지며 매수사이드카도 발동됐다. 이날 유가증권 시장에 따르면 코스피 지수는 9시7분 현재 전거래일보다 5.68% 오른 7247.38에 거"
-        },
-        {
-          "title": "코스피, 삼전닉스 급등에 매수 사이드카…지수 6% 상승(상보)",
-          "link": "https://www.news1.kr/finance/general-stock/6228567",
-          "source": "뉴스1",
-          "published": "2026-07-15T09:19:41+09:00",
-          "latest": "2026-07-15T10:39:11+09:00",
+          "title": "뉴욕증시, '중동 리스크' 하락 마감... SK하이닉스 ADR·반도체株 급락",
+          "link": "https://m.joseilbo.com/news/view.htm?newsid=571837",
+          "source": "조세일보",
+          "published": "2026-07-14T08:45:00+09:00",
+          "latest": "2026-07-15T10:14:49+09:00",
           "mention_count": 8,
           "sources": [
-            "뉴스1",
-            "KBC광주방송",
-            "매일경제 마켓",
-            "팍스경제TV",
-            "뉴스핌",
-            "MBC 뉴스",
-            "연합뉴스TV",
-            "비즈니스포스트"
+            "조세일보",
+            "블록미디어",
+            "네이버 프리미엄콘텐츠",
+            "여성신문",
+            "조선일보",
+            "DealSite경제TV",
+            "산경투데이",
+            "v.daum.net"
           ],
-          "summary": "코스피 지수가 15일 삼성전자(005930)와 SK하이닉스(000660)의 개장 직후 급등에 힘입어 6% 넘게 상승함에 따라 프로그램 매수호가 일시정지(사이드카) …"
+          "summary": "��&hellip;����=�����Ϻ� �׷���.�̱��� �̶��� ������ ������ ���� �����Ǹ鼭 ���� ���������� �ߵ��� ��ݿ� �۽ο���. ȣ������ ������ ���� ���� ���� ����� ����������…"
         },
         {
           "title": "[속보][뉴욕증시] 인플레 완화·반도체 반등에 상승…SK하닉, 27% 폭등",
@@ -271,6 +297,24 @@
           ]
         },
         {
+          "title": "코스피, 7% 급등하며 7,300선 회복‥SK하이닉스 12% '폭등'",
+          "link": "https://v.daum.net/v/20260715095508796",
+          "source": "v.daum.net",
+          "published": "2026-07-15T09:55:08+09:00",
+          "latest": "2026-07-15T11:51:54+09:00",
+          "mention_count": 7,
+          "sources": [
+            "v.daum.net",
+            "한국경제",
+            "KBS 뉴스",
+            "브릿지경제",
+            "진일보",
+            "동아일보",
+            "뉴스1"
+          ],
+          "summary": "오늘 코스피 지수는 어제보다 226.08포인트, 3.3% 오른 7천82.91에 출발해 7천 선을 회복한 뒤 현재 7%대 상승률을 보이며 7천300을 넘어섰습니다. 장 초반 매수세가 급격히 몰리면서 개장 6분 만인 9시 6분에는 프로그램 매수 호가 효력을 일시 정지하는…"
+        },
+        {
           "title": "AI 경쟁 뒤처진 IBM…실적 부진 예고에 주가 급락세",
           "link": "https://www.yna.co.kr/view/AKR20260715002500072",
           "source": "연합뉴스",
@@ -289,22 +333,22 @@
           "summary": "이지헌 특파원 = 미국의 기술기업 IBM이 2분기 실적 악화를 예고하면서 14일(현지시간) 주가가 장중 20%대 급락세를 나타..."
         },
         {
-          "title": "뉴욕증시, '중동 리스크' 하락 마감... SK하이닉스 ADR·반도체株 급락",
-          "link": "https://m.joseilbo.com/news/view.htm?newsid=571837",
-          "source": "조세일보",
-          "published": "2026-07-14T08:45:00+09:00",
-          "latest": "2026-07-15T08:03:53+09:00",
+          "title": "투심 악화 지속…코스피·코스닥 동반 약세",
+          "link": "https://www.newstomato.com/ReadNews.aspx?no=1307074",
+          "source": "뉴스토마토",
+          "published": "2026-07-14T09:21:16+09:00",
+          "latest": "2026-07-15T10:34:00+09:00",
           "mention_count": 7,
           "sources": [
-            "조세일보",
-            "블록미디어",
-            "네이버 프리미엄콘텐츠",
-            "여성신문",
-            "조선일보",
-            "DealSite경제TV",
-            "산경투데이"
+            "뉴스토마토",
+            "아시아경제",
+            "v.daum.net",
+            "뉴스1",
+            "뉴시스",
+            "hidomin.com",
+            "YTN"
           ],
-          "summary": "��&hellip;����=�����Ϻ� �׷���.�̱��� �̶��� ������ ������ ���� �����Ǹ鼭 ���� ���������� �ߵ��� ��ݿ� �۽ο���. ȣ������ ������ ���� ���� ���� ����� ����������…"
+          "summary": "대외 악재에 투자심리가 얼어붙으면서 코스피와 코스닥이 장 초반 나란히 하락세를 보이고 있습니다. 한국거래소에 따르면 이날 오전 9시10분 기준 코스피는 전날보다 141"
         },
         {
           "title": "브릴스, 증권신고서 제출…코스닥 상장 돌입",
@@ -342,38 +386,21 @@
           ]
         },
         {
-          "title": "코스피, 7% 급등하며 7,300선 회복‥SK하이닉스 12% '폭등'",
-          "link": "https://v.daum.net/v/20260715095508796",
-          "source": "v.daum.net",
-          "published": "2026-07-15T09:55:08+09:00",
-          "latest": "2026-07-15T11:51:54+09:00",
+          "title": "예상 밑돈 물가에 한숨 돌린 뉴욕 증시, 나스닥 0.9%↑",
+          "link": "https://www.chosun.com/international/international_general/2026/07/15/EDHTI3N7TFHNLC6HHYBRGMOQDE/",
+          "source": "조선일보",
+          "published": "2026-07-15T05:19:00+09:00",
+          "latest": "2026-07-15T09:21:01+09:00",
           "mention_count": 6,
           "sources": [
-            "v.daum.net",
-            "한국경제",
-            "KBS 뉴스",
-            "브릿지경제",
-            "동아일보",
-            "뉴스1"
-          ],
-          "summary": "오늘 코스피 지수는 어제보다 226.08포인트, 3.3% 오른 7천82.91에 출발해 7천 선을 회복한 뒤 현재 7%대 상승률을 보이며 7천300을 넘어섰습니다. 장 초반 매수세가 급격히 몰리면서 개장 6분 만인 9시 6분에는 프로그램 매수 호가 효력을 일시 정지하는…"
-        },
-        {
-          "title": "투심 악화 지속…코스피·코스닥 동반 약세",
-          "link": "https://www.newstomato.com/ReadNews.aspx?no=1307074",
-          "source": "뉴스토마토",
-          "published": "2026-07-14T09:21:16+09:00",
-          "latest": "2026-07-15T09:52:23+09:00",
-          "mention_count": 6,
-          "sources": [
-            "뉴스토마토",
-            "아시아경제",
-            "v.daum.net",
-            "뉴스1",
+            "조선일보",
             "뉴시스",
-            "hidomin.com"
+            "뉴시안",
+            "KB Think",
+            "뉴데일리",
+            "글로벌이코노믹"
           ],
-          "summary": "대외 악재에 투자심리가 얼어붙으면서 코스피와 코스닥이 장 초반 나란히 하락세를 보이고 있습니다. 한국거래소에 따르면 이날 오전 9시10분 기준 코스피는 전날보다 141"
+          "summary": "예상 밑돈 물가에 한숨 돌린 뉴욕 증시, 나스닥 0.9%↑ 예상치 밑돌았던 미 CPI 호재로 작용 SK하이닉스 27.3% 급등 국제 유가, 1%대 상승에 그쳐"
         },
         {
           "title": "[코스닥] 21.73p(2.77%) 오른 805.71(개장)",
@@ -407,22 +434,6 @@
             "블루밍비트"
           ],
           "summary": "이지헌 특파원 = 도널드 트럼프 미국 대통령이 대이란 해상 봉쇄 재개와 함께 호르무즈 통항 선박에 통행료 부과 방침을 밝히면서..."
-        },
-        {
-          "title": "[美증시 특징주] 반도체주 SK하이닉스 훈풍에 급등...엔비디아·마이크론 주도",
-          "link": "https://www.mediapen.com/news/view/1110207",
-          "source": "미디어펜",
-          "published": "2026-07-15T05:09:41+09:00",
-          "latest": "2026-07-15T10:29:02+09:00",
-          "mention_count": 5,
-          "sources": [
-            "미디어펜",
-            "2news.co.kr",
-            "마켓인",
-            "edaily.co.kr",
-            "중소기업신문"
-          ],
-          "summary": "미국 증시에서 반도체주가 SK하이닉스 ADR 폭등과 인플레이션 완화를 발판으로 급등했다.14일(현지시간) 나스닥시장에서 글로벌 인공지능(AI) 반도체 대장"
         }
       ]
     },
@@ -435,7 +446,7 @@
           "source": "Investing.com 한국어",
           "published": "2026-07-14T20:46:00+09:00",
           "latest": "2026-07-15T10:49:37+09:00",
-          "mention_count": 12,
+          "mention_count": 13,
           "sources": [
             "Investing.com 한국어",
             "연합뉴스",
@@ -443,12 +454,12 @@
             "연합뉴스 한민족센터",
             "v.daum.net",
             "KBS 뉴스",
+            "경북매일",
             "오피니언뉴스",
             "글로벌경제신문",
             "연합인포맥스",
             "더구루",
-            "블루밍비트",
-            "서울이코노미뉴스"
+            "블루밍비트"
           ]
         },
         {
@@ -457,7 +468,7 @@
           "source": "머니투데이",
           "published": "2026-07-14T10:13:03+09:00",
           "latest": "2026-07-15T06:42:05+09:00",
-          "mention_count": 11,
+          "mention_count": 13,
           "sources": [
             "머니투데이",
             "법률신문",
@@ -467,18 +478,38 @@
             "한국경제",
             "중앙일보",
             "서울경제TV",
+            "intn.co.kr",
             "시사저널",
             "로이슈",
-            "매일경제 마켓"
+            "비욘드포스트"
           ],
           "summary": "법무법인 세종(오종한 대표변호사)은 SK하이닉스의 미국 ADR(American Depositary Receipt, 주식예탁증서) 상장 거래에서 법률자문사로 참여해 거래 전 과정에 대한 법률 자문을 성공적으로 수행했다고 14일 밝혔다."
+        },
+        {
+          "title": "李대통령 \"자본시장 정상화 중요…주가 누르기 방지법 등 입법 속도내야\"",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425101",
+          "source": "연합인포맥스",
+          "published": "2026-07-15T10:56:42+09:00",
+          "latest": "2026-07-15T14:10:00+09:00",
+          "mention_count": 8,
+          "sources": [
+            "연합인포맥스",
+            "머니투데이",
+            "한겨레",
+            "아시아투데이",
+            "뉴데일리",
+            "v.daum.net",
+            "아이뉴스24",
+            "헤럴드경제"
+          ],
+          "summary": "이재명 대통령은 15일 자본시장 정상화와 선진화를 \"매우 중요한 국가정책\"이라고 강조하며 주가 누르기 방지법 등 관련 입법에 속도를 내 달라고 주문했다.이 대통령은 이날 오전 청와대에서 열린 경제 부처 업무보고에서 \"자본시장 정상화, 선진화는 매우 중요한 국가정책\"이라…"
         },
         {
           "title": "'삼전닉스 레버리지' 또 다시 논란…'상장폐지' 주장까지",
           "link": "https://www.mediapen.com/news/view/1110091",
           "source": "미디어펜",
           "published": "2026-07-14T14:27:29+09:00",
-          "latest": "2026-07-15T10:57:00+09:00",
+          "latest": "2026-07-15T11:00:00+09:00",
           "mention_count": 8,
           "sources": [
             "미디어펜",
@@ -493,22 +524,36 @@
           "summary": "국내 증시가 거친 파동을 나타내며 투자자들을 연일 혼란에 빠뜨리고 있는 가운데, 국내 증시 변동성의 중심에 놓여 있는 삼성전자·SK하이닉스(삼전닉스) 단일"
         },
         {
-          "title": "李대통령 \"자본시장 정상화 중요…주가 누르기 방지법 등 입법 속도내야\"",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425101",
-          "source": "연합인포맥스",
-          "published": "2026-07-15T10:56:42+09:00",
-          "latest": "2026-07-15T11:45:53+09:00",
-          "mention_count": 7,
+          "title": "한국투자증권, ELW 340종목 신규 상장",
+          "link": "https://www.etoday.co.kr/news/view/2603977",
+          "source": "이투데이",
+          "published": "2026-07-15T10:39:00+09:00",
+          "latest": "2026-07-15T14:34:40+09:00",
+          "mention_count": 5,
           "sources": [
-            "연합인포맥스",
-            "머니투데이",
-            "한겨레",
-            "아시아투데이",
-            "뉴데일리",
-            "v.daum.net",
-            "아이뉴스24"
+            "이투데이",
+            "fetv.co.kr",
+            "오피니언뉴스",
+            "비즈월드",
+            "더팩트"
           ],
-          "summary": "이재명 대통령은 15일 자본시장 정상화와 선진화를 \"매우 중요한 국가정책\"이라고 강조하며 주가 누르기 방지법 등 관련 입법에 속도를 내 달라고 주문했다.이 대통령은 이날 오전 청와대에서 열린 경제 부처 업무보고에서 \"자본시장 정상화, 선진화는 매우 중요한 국가정책\"이라…"
+          "summary": "▲한국투자증권이 ELW 340종을 신규 상장한다. (사진제공=한국투자증권)한국투자증권이 주식워런트증권(ELW) 340종목을 신규 상장한다고 15일 밝혔다."
+        },
+        {
+          "title": "IBM, 주가 25% 폭락…블랙먼데이 당시보다 충격 커",
+          "link": "https://v.daum.net/v/20260715040530433",
+          "source": "v.daum.net",
+          "published": "2026-07-15T04:05:30+09:00",
+          "latest": "2026-07-15T14:21:20+09:00",
+          "mention_count": 5,
+          "sources": [
+            "v.daum.net",
+            "초이스스탁",
+            "글로벌이코노믹",
+            "뉴스1",
+            "마켓인"
+          ],
+          "summary": "IBM 주가가 14일(현지시간) 부진한 예비 실적 발표 충격으로 25% 폭락했다. 이날 낙폭은 1987년 블랙먼데이 당시 낙폭 23.7%를 웃돌았다. AP 뉴시스 IBM 주가가 14일(현지시간) 25% 폭락했다. 부진한 2분기 실적 예비발표가 주가 폭락 방아쇠가 됐다.…"
         },
         {
           "title": "SK하이닉스 미국 상장 ADR에 '프리미엄' 유지 전망, 로이터 \"물량 희소성 따른 프리미엄\"",
@@ -525,22 +570,6 @@
             "더구루"
           ],
           "summary": "SK하이닉스 미국 상장 ADR에 '프리미엄' 유지 전망, 로이터 \"물량 희소성 따른 프리미엄\""
-        },
-        {
-          "title": "IBM, 주가 25% 폭락…블랙먼데이 당시보다 충격 커",
-          "link": "https://v.daum.net/v/20260715040530433",
-          "source": "v.daum.net",
-          "published": "2026-07-15T04:05:30+09:00",
-          "latest": "2026-07-15T07:36:55+09:00",
-          "mention_count": 5,
-          "sources": [
-            "v.daum.net",
-            "초이스스탁",
-            "글로벌이코노믹",
-            "뉴스1",
-            "마켓인"
-          ],
-          "summary": "IBM 주가가 14일(현지시간) 부진한 예비 실적 발표 충격으로 25% 폭락했다. 이날 낙폭은 1987년 블랙먼데이 당시 낙폭 23.7%를 웃돌았다. AP 뉴시스 IBM 주가가 14일(현지시간) 25% 폭락했다. 부진한 2분기 실적 예비발표가 주가 폭락 방아쇠가 됐다.…"
         },
         {
           "title": "삼성자산, KODEX 200커버드콜액티브 신규 상장",
@@ -560,7 +589,7 @@
         },
         {
           "title": "딥시크, 연내 IPO 신청…2027년 상장 목표",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jYTR2RWVBcUxYM2drajJZOTIyeDNoTXFncHdjWlVCaHUxNDVveElTaUtIZUpseFJrZEJ5QTJETW9oN3FfRnlpb0lBWTJUaVozSW1RWWcyNHNMWHBId2FjTXRCR0Q1dWxYOFFnZC1NTmTSAXRBVV95cUxPQVp5RDFqa1BFWDNqRnBnclJRaXRfLTRBNy1oUU1jcHlQY0gtM3ZyWTZJb0hUdVRZQThaSnM0NC0tNEZKVkd3QUxMdjJpVUFiRkdBQnV0dnlKMHFtWFJ5STdJX1RtQkFjUkdoMWtvVDBmZjJFYw?oc=5",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165838",
           "source": "IT조선",
           "published": "2026-07-15T10:45:15+09:00",
           "latest": "2026-07-15T12:13:27+09:00",
@@ -569,7 +598,22 @@
             "IT조선",
             "플래텀(Platum)",
             "뉴스1"
-          ]
+          ],
+          "summary": "중국 인공지능(AI) 스타트업 딥시크가 대규모 투자 유치에 이어 기업공개(IPO) 절차에 착수했다. 기업가치는 수개월 만에 500억달러에서 700억달러 안팎으로 뛰었으며 이르면 올해 안에 중국 본토 상장 신청서를 제출할 전망이다.15일(현지시각) 블룸버그통신은 복수의…"
+        },
+        {
+          "title": "한투證 GS리테일, 편의점·홈쇼핑 실적 개선 본격화…목표주가 10%↑",
+          "link": "https://www.ajunews.com/view/20260715082952403",
+          "source": "아주경제",
+          "published": "2026-07-15T08:31:42+09:00",
+          "latest": "2026-07-15T08:38:54+09:00",
+          "mention_count": 3,
+          "sources": [
+            "아주경제",
+            "v.daum.net",
+            "비즈니스포스트"
+          ],
+          "summary": "한국투자증권은 15일 GS리테일에 대해 편의점과 홈쇼핑 사업 호조로 실적 개선세가 이어질 것이라며 목표주가를 기존 3만원에서 3만3000원으로 10% 상향 조정했..."
         },
         {
           "title": "엔비디아, 中 수출길 트였나...H200 수출 개시 소식에 주가 '쑥'",
@@ -614,54 +658,28 @@
           "summary": "NH-Amundi자산운용은 미국 광통신 밸류체인 핵심 기업에 집중 투자하는"
         },
         {
-          "title": "'상장예비심사 미제출' IBKS제23호스팩 상장폐지 결정…16일부터 7일간 정리매매",
-          "link": "https://www.datatooza.com/article/20260714180514590452ef322013_80",
-          "source": "데이터투자",
-          "published": "2026-07-14T18:05:14+09:00",
-          "latest": "2026-07-15T11:41:07+09:00",
+          "title": "中1위 창신메모리도 상장 전 거래…암호화폐시장 '프리 IPO' 확산",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CaWIyZzEwQno2eEd3MmxIa280bEJaYW93TEw5c1lNSC1URVNMd2tkWUFXU0YwOEJFQTV5X0hWSy1xWmZHWnZ0UVFRZW0xQl9kTlZmamZuOFYwOFJ1S0pLOUpZTXlIdUk?oc=5",
+          "source": "뉴스1",
+          "published": "2026-07-15T14:33:04+09:00",
+          "latest": "2026-07-15T14:34:57+09:00",
           "mention_count": 2,
           "sources": [
-            "데이터투자",
-            "마켓인"
-          ],
-          "summary": "한국거래소는 코스닥 상장법인인 아이비케이에스제23호기업인수목적 주식회사에 대해 2026년 7월 15일 하루 동안 주권매매거래를 정지한다고 공시했다.이번 주권매매거래정지의 사유는 상장폐지 사유 발생이다. 근거 규정은 코스닥시장상장규정 제18조 및 동규정시행세칙 제19조에…"
-        },
-        {
-          "title": "한국투자증권, ELW 340종목 신규 상장",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwa3BRZ0N4Y1QxTU42TmR6X3QxR3Q3cEltUVFCYkdkdk1YLWJZSUZUTTBBUHcwSUoxSHpuS2RkYWhrOGxuWEdqbnNNN2pPcHRBYUlaUg?oc=5",
-          "source": "이투데이",
-          "published": "2026-07-15T10:39:00+09:00",
-          "latest": "2026-07-15T11:12:37+09:00",
-          "mention_count": 2,
-          "sources": [
-            "이투데이",
-            "fetv.co.kr"
+            "뉴스1",
+            "v.daum.net"
           ]
         },
         {
-          "title": "딥시크, IPO 준비 착수…이르면 올해 상장 신청",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Y0htTVRYWm13VFlVbVhCNUxGOFdKamNuUlRmazJlcU1PQ2VLbi1sWDJldFNzd1hVMlhmWHBxd1FxTzRVb29BTHo2R3ZRWERVWTBqaGdn?oc=5",
-          "source": "지디넷코리아",
-          "published": "2026-07-15T09:20:25+09:00",
-          "latest": "2026-07-15T09:49:15+09:00",
+          "title": "[게시판] 금감원, '2026년 주권상장법인 감사인 설명회' 개최",
+          "link": "https://stock.mk.co.kr/news/view/1121520",
+          "source": "매일경제 마켓",
+          "published": "2026-07-15T14:00:04+09:00",
+          "latest": "2026-07-15T14:04:20+09:00",
           "mention_count": 2,
           "sources": [
-            "지디넷코리아",
-            "아주경제"
+            "매일경제 마켓",
+            "intn.co.kr"
           ]
-        },
-        {
-          "title": "[하반기 성장전략] 상장주 '주가누르기' 차단…투기대출 죄고 실수요 청년은 배려",
-          "link": "https://www.yna.co.kr/view/AKR20260713154900002",
-          "source": "연합뉴스",
-          "published": "2026-07-14T11:40:48+09:00",
-          "latest": "2026-07-15T09:49:14+09:00",
-          "mention_count": 2,
-          "sources": [
-            "연합뉴스",
-            "세이프타임즈"
-          ],
-          "summary": "정부가 대주주의 의도적인 '주가 누르기'를 막아 상속세 편법을 차단하고, 주가순자산비율(PBR) 저평가 상장사..."
         }
       ]
     },
@@ -698,6 +716,20 @@
           ]
         },
         {
+          "title": "15% 폭락 하루 만에 27% 폭등…SK하이닉스, 월가가 다시 샀다",
+          "link": "https://m.news.nate.com/view/20260715n04095?mid=m02&list=recent&cpcd=",
+          "source": "네이트",
+          "published": "2026-07-15T06:47:00+09:00",
+          "latest": "2026-07-15T09:02:56+09:00",
+          "mention_count": 3,
+          "sources": [
+            "네이트",
+            "매일경제 마켓",
+            "매일경제"
+          ],
+          "summary": "�Ѵ��� ���� ���� : ���� - ���� : [��������=���մ���]���� ���ÿ��� 15% �Ѱ� �����ϸ� ���ڽɸ��� ���ٰ� �ߴ� SK���̴н��� �̱� ���忡���� �Ϸ� ���� 27% �Ѱ� �޵��ߴ�. �̱�…"
+        },
+        {
           "title": "2026년 7월 14일 금융시장 동향",
           "link": "https://kbthink.com/investment/trend/daily/260714.html",
           "source": "KB Think",
@@ -724,41 +756,68 @@
           "summary": "삼성전자·SK하이닉스 단일종목 레버리지 상품 출시 이후 국내 증시의 변동성이 커지면서 관련 상품을 먼저 도입한 미국 시장과의 차이에도 관심이 쏠리고 있다. 미국에서는 단일종목 레버리지 상품이 다양한 기초자산으로 분산된 반면, 국내에서는 지수 영향력이 큰 삼성전자와 S.…"
         },
         {
+          "title": "스페이스X에 SK하이닉스까지 '자금조달 러시…강세장 끝물 신호?",
+          "link": "https://www.newsis.com/view/NISX20260715_0003710309",
+          "source": "뉴시스",
+          "published": "2026-07-15T14:46:14+09:00",
+          "latest": "2026-07-15T14:46:14+09:00",
+          "mention_count": 1,
+          "sources": [
+            "뉴시스"
+          ],
+          "summary": "세계 최대 기업들이 앞다퉈 대규모 자금 조달에 나서면서 3년 9개월째 이어진 미국 증시 강세장이 막바지에 접어든 것 아니냐는 우려가 커지고 있다.14일(현지시간) 월스트리트저널(WSJ)에 따르면 스페이스X는 750억 달러 규모 기업공개(IPO)를 실시했고, 구글 모회사…"
+        },
+        {
+          "title": "\"30만전자 깨졌지만, 변한건 없다\" 60만원 간다는 증권사, \"매수 기회\" 확고한 이유",
+          "link": "https://v.daum.net/v/20260715144329095",
+          "source": "v.daum.net",
+          "published": "2026-07-15T14:43:29+09:00",
+          "latest": "2026-07-15T14:43:29+09:00",
+          "mention_count": 1,
+          "sources": [
+            "v.daum.net"
+          ],
+          "summary": "/사진=뉴시스 [파이낸셜뉴스] 삼성전자의 가파른 주가 변동성에도 핵심 펀더멘탈은 변화가 없다며 중장기적 관점에서 매수 기회가 될 수 있다고 증권가 전망이 나왔다. KB증권 \"AI투자 우려에 30% 하락... 펀더멘털은 여전\" KB증권은 15일 리포트를 통해 \"최근 삼성…"
+        },
+        {
           "title": "[단독] 삼성, 美 ADR 공식 부인했지만…물밑 검토 착수",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nT3h1X0hxWm5jaGFZeGVuUGZzWGtDM2lFaWtwWmFMSGRvM0tPXzU5WlU0T1NTS3E1cTNyalNNdkhWZXZnWDA4SXVhMXNIZXZqbXVj?oc=5",
+          "link": "https://news.nate.com/view/20260715n12448",
           "source": "네이트",
           "published": "2026-07-15T10:39:00+09:00",
           "latest": "2026-07-15T10:39:00+09:00",
           "mention_count": 1,
           "sources": [
             "네이트"
-          ]
+          ],
+          "summary": "�Ѵ��� ���� ���� : ���� - ���� : /���� ����=�Ｚ�Ｚ���ڰ� ���������� �̱� ADR(�̱��ֽĿ�Ź����) ���� �ó������� �����ϸ� �ǹ� �������� ������ ������ �ľǵƴ�. �������…"
         },
         {
           "title": "[글로벌 마켓 리포트 7월 15일]",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mbzNjZ2JVUEszNTZjNFIyY2ZmZ0hxT3RVOGV3Q192eHJlNmhkT2M5a0pkZWExejdrYjJCOWpWSnM3VFA2cWN2T2w1Ym1rTHdhUTNkb2h5NzBlVTY2?oc=5",
+          "link": "https://www.newspim.com/news/view/20260715000205",
           "source": "뉴스핌",
           "published": "2026-07-15T09:45:00+09:00",
           "latest": "2026-07-15T09:45:00+09:00",
           "mention_count": 1,
           "sources": [
             "뉴스핌"
-          ]
+          ],
+          "summary": "14일(현지시간) 미국 뉴욕증시 주요 지수는 일제히 상승 마감했다. 다우존스30산업평균지수는 9.63포인트(0.02%) 오른 5만2508.27을 기록했다. 대형주 위주의 스탠더드앤드푸어스(S&P)500지수는 28.25포인트"
         },
         {
           "title": "월가 전문가 \"데이터독, AI수혜 지속…300달러까지 상승 전망\"",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jSkdiS1RzTThsQy1YV0t2anR2c0paN0tFWnFtUTMzdmYxUFBFMkZFdHY5LXQ0aEg3YWIxQ0IyU3JaRjVMX1BWVkhPSWRLZmR5aU1rbkp3RDhWdW1Fd1ZQR0h2N1dRMzBPb2pXeDYwUjVmdw?oc=5",
+          "link": "https://kbthink.com/news-list/view.html?newsId=20260715092401497",
           "source": "KB Think",
           "published": "2026-07-15T09:24:00+09:00",
           "latest": "2026-07-15T09:24:00+09:00",
           "mention_count": 1,
           "sources": [
             "KB Think"
-          ]
+          ],
+          "summary": "김지연 기자 = 클라우드 데이터 플랫폼 업체 데이터독이 인공지능 수혜에 힘입어 주가가 300달러까지 오를 것이란 전망이 나왔다. 14일 CNBC에 칼럼을 기고하는 토드 고든은 데이터독을 소프트웨어 업종 내에서 상대적 강세를 보이는 종목 가운데 하나로 꼽으며 이같이 내다"
         },
         {
           "title": "“SK하이닉스 고점比 36% 빠졌지만… 420만원 간다” [오늘 나온 보고서]",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnOUwzZ29wRUFRTDY1ajkwcXBsc0JWNUhBdEJFMlJQcHJkZ0FZSmRkQUxMck1rOWJCc0dTVW5reTM5djROWGJpUDhNTHlMc2Q0RFE?oc=5",
+          "link": "https://stock.mk.co.kr/news/view/1121194",
           "source": "매일경제 마켓",
           "published": "2026-07-15T09:01:13+09:00",
           "latest": "2026-07-15T09:01:13+09:00",
@@ -778,18 +837,6 @@
             "아시아경제"
           ],
           "summary": "코스닥 시장 출범 30년을 맞은 가운데 부실기업 퇴출 제도가 대대적으로 정비되고 있다. 이달 1일부터 주가 1000원 미만"
-        },
-        {
-          "title": "15% 폭락 하루 만에 27% 폭등…SK하이닉스, 월가가 다시 샀다",
-          "link": "https://m.news.nate.com/view/20260715n04095?mid=m02&list=recent&cpcd=",
-          "source": "네이트",
-          "published": "2026-07-15T06:47:00+09:00",
-          "latest": "2026-07-15T06:47:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "네이트"
-          ],
-          "summary": "�Ѵ��� ���� ���� : ���� - ���� : [��������=���մ���]���� ���ÿ��� 15% �Ѱ� �����ϸ� ���ڽɸ��� ���ٰ� �ߴ� SK���̴н��� �̱� ���忡���� �Ϸ� ���� 27% �Ѱ� �޵��ߴ�. �̱�…"
         },
         {
           "title": "[투자심리 실험실] 지금 가장 조심해야 할 행동—AI 주도주를 빚내서 추격매수하는 순간",
@@ -826,36 +873,369 @@
             "이투데이"
           ],
           "summary": "SK하닉 ADR 9%↓...필라델피아반도체 4.8%↓AI 랠리 균열에 한미 기술주 동조화 심화“SK하닉 변동성, 나스닥으로 수입”“꼬리, 몸통 흔드는"
-        },
-        {
-          "title": "'단일종목 레버리지 ETF' 당국 허들 초고속 통과했다",
-          "link": "https://kbthink.com/news-list/view.html?newsId=20260714155718348",
-          "source": "KB Think",
-          "published": "2026-07-14T15:57:17+09:00",
-          "latest": "2026-07-14T15:57:17+09:00",
-          "mention_count": 1,
-          "sources": [
-            "KB Think"
-          ],
-          "summary": "초고위험인데 초고속으로…심사 대폭 단축 업계 \"고위험 감안해 더 신중히 들여다봤어야\" 신민경 기자 = 금융감독당국과 한국거래소가 초고위험 상품으로 분류되는 '단일종목 레버리지 상장지수펀드'의 상장 심사 절차를 평소보다 대폭 단축했던 것으로 파악됐다. 속도감 있게 추진되"
-        },
-        {
-          "title": "“美도 빚투로 난리, 금융위기 때도 이랬다”…신용거래 1년새 54% 폭증",
-          "link": "https://stock.mk.co.kr/news/view/1120761",
-          "source": "매일경제 마켓",
-          "published": "2026-07-14T15:17:08+09:00",
-          "latest": "2026-07-14T15:17:08+09:00",
-          "mention_count": 1,
-          "sources": [
-            "매일경제 마켓"
-          ]
         }
       ]
     }
   ],
-  "total_articles": 1090,
-  "total_issues": 473,
+  "total_articles": 1198,
+  "total_issues": 506,
   "raw": [
+    {
+      "title": "스페이스X에 SK하이닉스까지 '자금조달 러시…강세장 끝물 신호?",
+      "link": "https://www.newsis.com/view/NISX20260715_0003710309",
+      "source": "뉴시스",
+      "published": "2026-07-15T14:46:14+09:00",
+      "summary": "세계 최대 기업들이 앞다퉈 대규모 자금 조달에 나서면서 3년 9개월째 이어진 미국 증시 강세장이 막바지에 접어든 것 아니냐는 우려가 커지고 있다.14일(현지시간) 월스트리트저널(WSJ)에 따르면 스페이스X는 750억 달러 규모 기업공개(IPO)를 실시했고, 구글 모회사…"
+    },
+    {
+      "title": "\"30만전자 깨졌지만, 변한건 없다\" 60만원 간다는 증권사, \"매수 기회\" 확고한 이유",
+      "link": "https://v.daum.net/v/20260715144329095",
+      "source": "v.daum.net",
+      "published": "2026-07-15T14:43:29+09:00",
+      "summary": "/사진=뉴시스 [파이낸셜뉴스] 삼성전자의 가파른 주가 변동성에도 핵심 펀더멘탈은 변화가 없다며 중장기적 관점에서 매수 기회가 될 수 있다고 증권가 전망이 나왔다. KB증권 \"AI투자 우려에 30% 하락... 펀더멘털은 여전\" KB증권은 15일 리포트를 통해 \"최근 삼성…"
+    },
+    {
+      "title": "엠아이티, 기술성평가 A등급 획득…코스닥 기특 상장 추진",
+      "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=04316486645514848",
+      "source": "마켓인",
+      "published": "2026-07-15T14:39:16+09:00"
+    },
+    {
+      "title": "中1위 창신메모리도 상장 전 거래…암호화폐시장 '프리 IPO' 확산",
+      "link": "https://v.daum.net/v/20260715143457650",
+      "source": "v.daum.net",
+      "published": "2026-07-15T14:34:57+09:00"
+    },
+    {
+      "title": "한국투자증권, ELW 340종목 신규 상장",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yYnVTUDczZUlHeVRZVWJtMlZJWWFpRHc5b0JQdnJHRnhmSUlmQVZVSUV6MXZiejlac3FZeXVtb3NIREEzdTJ4UG5ILU93SnlpNVZnVGpHSUg5QdIBVEFVX3lxTFBOUHRaa3gyVlB3MmdlNlpMZDdkNXRDTGhESGt1MTd2V2JxcWJ4Rm5aRnJEZ0JWd0tfaXFjOWxpY09tcFJnVWc4eEZXajN2YkpOaDBRYg?oc=5",
+      "source": "더팩트",
+      "published": "2026-07-15T14:34:40+09:00"
+    },
+    {
+      "title": "SK하이닉스, 본주·ADR 괴리 51%까지 벌어졌다… 프리미엄 적정선은? - 조선비즈",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/07/15/UXN2SIDWMNFK5OYQVGV6RHFJLM/",
+      "source": "Chosunbiz",
+      "published": "2026-07-15T14:34:00+09:00"
+    },
+    {
+      "title": "中1위 창신메모리도 상장 전 거래…암호화폐시장 '프리 IPO' 확산",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CaWIyZzEwQno2eEd3MmxIa280bEJaYW93TEw5c1lNSC1URVNMd2tkWUFXU0YwOEJFQTV5X0hWSy1xWmZHWnZ0UVFRZW0xQl9kTlZmamZuOFYwOFJ1S0pLOUpZTXlIdUk?oc=5",
+      "source": "뉴스1",
+      "published": "2026-07-15T14:33:04+09:00"
+    },
+    {
+      "title": "간밤 27% 오르더니…상장 사흘만에 51% ‘쑥’ 커지는 SK하이닉스 ADR 프리미엄 [투자360]",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BVHNFdHlSa3RZNXBJZUVSYm1ZX2pxMlVvLUlwOWYyZHk1YkRvRXpMN2FEVUhoV09vUmJmNi01dHlHemo2MGt6dldHUWRZRnJVa3prNFdn?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-07-15T14:30:25+09:00"
+    },
+    {
+      "title": "반도체 검사 '엠아이티', 코스닥 기술특례 기평 'A등급'…IPO 목전",
+      "link": "https://www.mt.co.kr/future/2026/07/15/2026071510240523586",
+      "source": "머니투데이",
+      "published": "2026-07-15T14:30:00+09:00"
+    },
+    {
+      "title": "증시 상승기에 매력 잃은 연금저축보험...해약금만 1.7조",
+      "link": "https://economist.co.kr/article/view/ecn202607150036",
+      "source": "이코노미스트",
+      "published": "2026-07-15T14:29:00+09:00"
+    },
+    {
+      "title": "코어 리튬, 2026년 4분기 재가동 진전 발표에도 주가 하락",
+      "link": "https://kr.investing.com/news/transcripts/article-93CH-2015733",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-15T14:29:00+09:00"
+    },
+    {
+      "title": "코어 리튬, 2026년 4분기 재가동 추진 중 주가 하락",
+      "link": "https://kr.investing.com/news/transcripts/article-93CH-2015728",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-15T14:28:00+09:00"
+    },
+    {
+      "title": "IPO 주관 판도 변화…예비심사서 미래·한투 증가, 신한투자 급감",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kMUhZZDlURGFNbzBTYjNtMGNRc3pRbTRwME1XRW5WNnVFMHdiQU81WkxJN1dia3RZTE5VMFN2dUh5Nk9pdzFwbFVMdG90QQ?oc=5",
+      "source": "전자신문",
+      "published": "2026-07-15T14:25:02+09:00"
+    },
+    {
+      "title": "스페이스X, 상장 첫 달 변동성 극복하고 장기 성장 궤도 오르나",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHBRZWlYS1laUkYwbndudnl5eVY1b09rS2NOZ3NqZWVaRDJYTnNnM2oxWmU2bzNGVGk5ZklrRGIxdy04dGJPYkhya0xFNUdnRGF4T19FRm1hMldvN0MxblVhNlF4akJiNkloYnJBMTZmU21GaGRVOEMtSmNTeG4tZTMtVjZnWFk?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-15T14:23:06+09:00"
+    },
+    {
+      "title": "[셀럽의 한 수] 코스피 '오르락내리락' 변동성 극심…'8천선' 붕괴",
+      "link": "https://v.daum.net/v/20260715142219084",
+      "source": "v.daum.net",
+      "published": "2026-07-15T14:22:18+09:00"
+    },
+    {
+      "title": "[KBS 열린토론] 급등락 반복하는 코스피…전문가들이 보는 원인은?",
+      "link": "https://v.daum.net/v/20260715142148058",
+      "source": "v.daum.net",
+      "published": "2026-07-15T14:21:48+09:00"
+    },
+    {
+      "title": "IBM 주가 '사상 최대' 25% 폭락…AI 붐에 기업 지출 '소프트웨어서 하드웨어로'",
+      "link": "https://v.daum.net/v/20260715142120045",
+      "source": "v.daum.net",
+      "published": "2026-07-15T14:21:20+09:00"
+    },
+    {
+      "title": "[KBS 열린토론] 급등락 반복하는 코스피…전문가들이 보는 원인은?",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8611466",
+      "source": "KBS 뉴스",
+      "published": "2026-07-15T14:20:00+09:00"
+    },
+    {
+      "title": "\"실적은 좋은데 가이드라인이 꽁꽁\"… 마쓰야, 깜짝 실적에도 '호재 소멸'에 주가 7% 폭락",
+      "link": "https://www.g-enews.com/article/Global-Biz/2026/07/202607151414346126e7e8286d56_1",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-15T14:16:27+09:00"
+    },
+    {
+      "title": "디에스자산운용, 코스닥 ETF 상장 첫날 수익률 3.49%",
+      "link": "https://zdnet.co.kr/view/?no=20260715113935",
+      "source": "지디넷코리아",
+      "published": "2026-07-15T14:13:56+09:00"
+    },
+    {
+      "title": "외국인.기관 '쌍끌이'에 코스피 7300선 회복",
+      "link": "https://stock.mk.co.kr/news/view/1121524?type=theme",
+      "source": "매일경제 마켓",
+      "published": "2026-07-15T14:13:00+09:00"
+    },
+    {
+      "title": "이 대통령 “주가 누르기 방지법 속도 내라…선진국 지수 편입 왜 안 되나”",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1268332.html",
+      "source": "한겨레",
+      "published": "2026-07-15T14:10:00+09:00"
+    },
+    {
+      "title": "대법, 김건희 ‘주가조작·무상 여론조사’ 선고 24일로 연기",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1268337.html",
+      "source": "한겨레",
+      "published": "2026-07-15T14:09:00+09:00"
+    },
+    {
+      "title": "금융감독원, '2026년도 주권상장법인 감사인 설명회' 개최",
+      "link": "http://www.intn.co.kr/news/articleView.html?idxno=2051967",
+      "source": "intn.co.kr",
+      "published": "2026-07-15T14:04:20+09:00"
+    },
+    {
+      "title": "\"中 에어컨 수출 40% 증가…가전업체 주가는 부진\"",
+      "link": "https://kbthink.com/news-list/view.html?newsId=20260715140105828",
+      "source": "KB Think",
+      "published": "2026-07-15T14:01:04+09:00"
+    },
+    {
+      "title": "[게시판] 금감원, '2026년 주권상장법인 감사인 설명회' 개최",
+      "link": "https://stock.mk.co.kr/news/view/1121520",
+      "source": "매일경제 마켓",
+      "published": "2026-07-15T14:00:04+09:00"
+    },
+    {
+      "title": "아더 에너지 주가, 오늘 급등한 이유는?",
+      "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2015707",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-15T13:59:00+09:00"
+    },
+    {
+      "title": "타슬리 제약 주가, 오늘 급등 이유는?",
+      "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2015708",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-15T13:59:00+09:00"
+    },
+    {
+      "title": "햇반·다시다 아닌 바이오에 달린 CJ제일제당 주가",
+      "link": "https://www.hankyung.com/article/202607156280i",
+      "source": "한국경제",
+      "published": "2026-07-15T13:57:14+09:00"
+    },
+    {
+      "title": "코스피, 7400선 탈환…외인·기관 매수 '쌍끌이'",
+      "link": "https://www.g-enews.com/article/Securities/2026/07/202607151326193805923c501012_1",
+      "source": "글로벌이코노믹",
+      "published": "2026-07-15T13:53:20+09:00"
+    },
+    {
+      "title": "한국투자증권, ELW 340종목 신규 상장",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16aGhYTG1GLVE2aS1wb2tra1l2cXJFWThqLUR4YzB1ZVBaSVEyaEVubTh3YjM3UENuU0Y2SWdOclJyU2wwTmFqVE1Kb2VXS2ZTdkdURXJVZkVjQktnRE8wUlllWFgwclJqQ3c?oc=5",
+      "source": "비즈월드",
+      "published": "2026-07-15T13:52:00+09:00"
+    },
+    {
+      "title": "중국건축재료 주가, 오늘 급락한 이유는?",
+      "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2015705",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-15T13:48:00+09:00"
+    },
+    {
+      "title": "李 \"증시 돌덩이 과감히 골라내라\"…이억원 \"체질·구조 바꿀 것\"(종합)",
+      "link": "https://www.news1.kr/finance/general-stock/6228987",
+      "source": "뉴스1",
+      "published": "2026-07-15T13:44:44+09:00"
+    },
+    {
+      "title": "블룸버그 \"韓 증시, 레버리지가 시장 흔드는 실험장 … AI 랠리, 변동성 키웠다\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/07/15/2026071500205.html",
+      "source": "뉴데일리",
+      "published": "2026-07-15T13:44:25+09:00"
+    },
+    {
+      "title": "디에스운용 첫 ETF 'DS 코스닥액티브', 첫날 120억원 판매",
+      "link": "https://www.sentv.co.kr/article/view/sentv202607150116",
+      "source": "서울경제TV",
+      "published": "2026-07-15T13:39:05+09:00"
+    },
+    {
+      "title": "[食전食후] 코스피, 7400선 돌파…외국인 2.2조 순매수에 8%↑",
+      "link": "https://v.daum.net/v/20260715133003923",
+      "source": "v.daum.net",
+      "published": "2026-07-15T13:30:03+09:00"
+    },
+    {
+      "title": "코스피, 장중 8% 급등에 7400 재돌파...'외인이 돌아왔다'",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141577",
+      "source": "오피니언뉴스",
+      "published": "2026-07-15T13:25:22+09:00"
+    },
+    {
+      "title": "코스피, 삼전닉스 강한 반등에 6∼7% 상승세…7,300선 등락",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026071513254894M",
+      "source": "연합뉴스TV",
+      "published": "2026-07-15T13:25:00+09:00"
+    },
+    {
+      "title": "[경제읽기] ’7천피’ 탈환 코스피…매수 사이드카 발동도",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260715131831YR7",
+      "source": "연합뉴스TV",
+      "published": "2026-07-15T13:18:00+09:00"
+    },
+    {
+      "title": "“매수 서킷은 없나?” 외인 ‘2조 매수’에 코스피 8% 반등, 7400선 복귀 [이런국장 저런주식]",
+      "link": "https://www.sedaily.com/article/20068041",
+      "source": "서울경제",
+      "published": "2026-07-15T13:12:24+09:00"
+    },
+    {
+      "title": "대법원, 김건희 주가조작 등 상고심 선고 24일로 연기",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4095225",
+      "source": "BBS불교방송",
+      "published": "2026-07-15T13:09:28+09:00"
+    },
+    {
+      "title": "코스피 8% 급등해 7400선 회복…외국인·기관 ‘쌍끌이’",
+      "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=04031126645514848",
+      "source": "마켓인",
+      "published": "2026-07-15T13:09:11+09:00"
+    },
+    {
+      "title": "삼성전자, 美 ADR 상장설 일축 \"자금 여력 충분\"",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=345103",
+      "source": "녹색경제신문",
+      "published": "2026-07-15T13:08:00+09:00"
+    },
+    {
+      "title": "코스피 7300선 탈환·코스닥 820선 회복…외국인 매수세에 사이드카 동시 발동",
+      "link": "https://www.newsin.co.kr/news/articleView.html?idxno=132624",
+      "source": "뉴스인",
+      "published": "2026-07-15T13:05:51+09:00"
+    },
+    {
+      "title": "코스피, 반도체 강세에 7,300선 회복…매수 사이드카",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260715130329Yqq",
+      "source": "연합뉴스TV",
+      "published": "2026-07-15T13:03:00+09:00"
+    },
+    {
+      "title": "하이닉스 이어 삼성전자도?…美 상장설 언급에 투자자 셈법 ‘복잡’",
+      "link": "https://v.daum.net/v/20260715130153997",
+      "source": "v.daum.net",
+      "published": "2026-07-15T13:01:52+09:00"
+    },
+    {
+      "title": "혼돈의 증시 어디로…\"반도체 쥐고 AI 인프라 타라\"",
+      "link": "https://ket.kr/news/article.html?no=39406",
+      "source": "경제타임스",
+      "published": "2026-07-15T13:01:12+09:00"
+    },
+    {
+      "title": "하이닉스 이어 삼성전자도?…美 상장설 언급에 투자자 셈법 ‘복잡’",
+      "link": "https://news.tf.co.kr/read/economy/2343621.htm",
+      "source": "더팩트",
+      "published": "2026-07-15T13:00:13+09:00"
+    },
+    {
+      "title": "한국투자증권, ELW 340 종목 상장...코스피 200 및 하이닉스·KB금융 기초",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ybndUZW5tNm5FdVNkbnNZMVNvNUE1X0NVZ01mQ1BMTU5kVEpTaU1ZeS0tQ1ExejhDd3ZVN3pvcDdRWGtXX3lMOThnOWo5Y05aMEZhNHRvQS1wejZSS1BtcDB4QnFsZHUwLTVWX3NkNHU?oc=5",
+      "source": "오피니언뉴스",
+      "published": "2026-07-15T12:59:44+09:00"
+    },
+    {
+      "title": "코스피 7,417.87 코스닥 825.33",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8611435",
+      "source": "KBS 뉴스",
+      "published": "2026-07-15T12:54:00+09:00"
+    },
+    {
+      "title": "홍콩 증시, 美 증시 강세에 나흘째 상승…H주 1.20%↑",
+      "link": "https://www.newsis.com/view/NISX20260715_0003710352",
+      "source": "뉴시스",
+      "published": "2026-07-15T12:51:41+09:00"
+    },
+    {
+      "title": "씨티 \"코스피 조정에 외인자금 유출 압력 완화…환율 추가 안정화\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425147",
+      "source": "연합인포맥스",
+      "published": "2026-07-15T12:46:10+09:00"
+    },
+    {
+      "title": "중국 AI스타트업 딥시크, 내년 중국 본토 증시 상장 추진",
+      "link": "https://www.foeconomy.co.kr/news/view.php?no=8815",
+      "source": "포커스온경제",
+      "published": "2026-07-15T12:43:42+09:00"
+    },
+    {
+      "title": "코스닥 ‘빚투’ 2.3조 빠졌다…삼전·하닉으로 흐르는 신용 자금",
+      "link": "https://www.viva100.com/article/20260715500738",
+      "source": "브릿지경제",
+      "published": "2026-07-15T12:43:00+09:00"
+    },
+    {
+      "title": "미 CPI 둔화에 아시아 증시 상승…이란 긴장·중국 GDP 부진 주시",
+      "link": "https://kr.investing.com/news/stock-market-news/article-2015692",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-15T12:36:00+09:00"
+    },
+    {
+      "title": "李 대통령 “주가 누르기 방지법·레버리지 ETF 대책 서둘러라”",
+      "link": "https://biz.heraldcorp.com/article/10809709",
+      "source": "헤럴드경제",
+      "published": "2026-07-15T12:32:53+09:00"
+    },
+    {
+      "title": "삼성전자 \"ADR 발행 검토 안 해\"...미국 상장설 공식 부인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212773",
+      "source": "AI타임스",
+      "published": "2026-07-15T12:30:35+09:00"
+    },
+    {
+      "title": "삼성전자 \"美 ADR 발행 검토 안 해, 상황 다르다\"… 나스닥 상장설 부인",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=266644",
+      "source": "파이낸셜포스트",
+      "published": "2026-07-15T12:24:24+09:00"
+    },
+    {
+      "title": "대법, 김건희 '주가조작' 상고심 선고 24일로 연기",
+      "link": "https://v.daum.net/v/20260715121608142",
+      "source": "v.daum.net",
+      "published": "2026-07-15T12:16:08+09:00"
+    },
     {
       "title": "주가 하락에 바이오 CB 전환가 줄하향…커지는 오버행 우려",
       "link": "https://dailypharm.com/user/news/340409",
@@ -864,19 +1244,19 @@
     },
     {
       "title": "\"中딥시크, 본토 IPO 준비 본격 착수…2027년 상장 목표\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VDlqUjRpYlZyUmFuQ0o3WTdqVl9UeUlHcnhVZXV5aWVQTmtZYUhpdjZ4SFNER1oxMmU4RkF2RGV0amJ1SXVESEVtVkxwVzlHdlQxTDhfd2J5NFZ3RHc?oc=5",
+      "link": "https://www.news1.kr/world/northeast-asia/6228907",
       "source": "뉴스1",
       "published": "2026-07-15T12:13:27+09:00"
     },
     {
       "title": "광고 상장기업 2026년 7월 브랜드평판...제일기획, 이노션, SM C&C 順",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xS3Byc01LQ3VNalhhUUJTcktOZldDeUtQSGRveV9TT2V5UUVuTlFpZnVVUVZwcVdMUmtrOGtIdXB4bDk5YmJyUng0cHFZcmhJR1V3bHl2Q0d0ZjFuRW9Pa2tSaXAtR1JuamFDa1A4S3pEdw?oc=5",
+      "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=226823",
       "source": "에너지신문",
       "published": "2026-07-15T12:10:01+09:00"
     },
     {
       "title": "화장품 상장기업 2026년 7월 브랜드평판...아모레퍼시픽, LG생활건강, 한국콜마 順",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yaHVZakRkLUNtWTI4bEN3RXhZVS1EbUdxZVpKVnVOTjJmaW9vN0hadG1wTEsyZ2RHZTVmV0dsRmVQVVpNckczMEhnMU0zYXMxTW0yeFROelA5SG5Bc2dmUlBkVGZpalN4R1JVSnVwa28tUQ?oc=5",
+      "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=226822",
       "source": "에너지신문",
       "published": "2026-07-15T12:06:53+09:00"
     },
@@ -936,7 +1316,7 @@
     },
     {
       "title": "반도체 검사·계측장비 ‘엠아이티’, 기술성 평가 A 등급…코스닥 상장 추진",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82M2h4OTdWY2lwWWpxYW5hT2t3bTgzcGEwazdwOEJHaF9sQXJoRDBzWnBtbUVjMlFsWlhJeUw5TkFuNUZlNlIzWjRnNVZnM0E?oc=5",
+      "link": "https://wowtale.net/2026/07/15/261528/",
       "source": "와우테일",
       "published": "2026-07-15T11:52:49+09:00"
     },
@@ -954,19 +1334,19 @@
     },
     {
       "title": "[단독] TKMS, 캐나다 잠수함 '승자의 저주' 빠졌나…주가 일주일새 15% 넘게 폭락",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aaVBMbEhkWHJPYzBUX0Y3VEo2Qkd1Vk9FMTVFUWJkMWU3V1I1Um1RbXBwYndGd3dXY2MyX3JkZGtjSlh6eDk4YzYtUUM4S21uMDlPaFlVZGx4bzcwb0xNVnJvTQ?oc=5",
+      "link": "https://www.theguru.co.kr/news/article.html?no=104442",
       "source": "더구루",
       "published": "2026-07-15T11:50:13+09:00"
     },
     {
       "title": "美서 대박 난 SK하이닉스 ADR…삼성전자도 나스닥 갈까",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vbmtNeU14dF9uTXBjNDFiOGJEXzRhZHZKTW80V0JfTjRHT3NTRzlTVnRIX1ZfMWllWmVEam1ETUdhbF9tYVN3VVMyNm1mS191RDd2Z2xSemJxellTb0lIUQ?oc=5",
+      "link": "https://mydaily.co.kr/page/view/2026071511112493526",
       "source": "마이데일리",
       "published": "2026-07-15T11:46:33+09:00"
     },
     {
       "title": "[속보] 대법, 김건희 ‘도이치모터스 주가조작 등’ 선고 24일로 연기",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EZmNfN0pMQ1BvVzlsTVZPQXZad2hqRWdYN29YVjBxZFNCU1dLLV9KRlNsVFVfdXNKcVloVlZaQ29Sem5yNlJzV0VUSTh5Rlo0OFFrVHVta1hfX00?oc=5",
+      "link": "https://www.kyeonggi.com/article/20260715580122",
       "source": "경기일보",
       "published": "2026-07-15T11:46:06+09:00"
     },
@@ -978,13 +1358,13 @@
     },
     {
       "title": "李 \"'주가누르기 방지법' 입법 지연…어떻게든 협조 얻어야\"",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUTXltbnlLRWVOMWlaXzZ2VUtfZGk5c3J0NHVNQXRoaWlCLTVndnhZM2JwdjRqZGxmNmZuNzBDc242NmxwcjZXanpjRQ?oc=5",
+      "link": "http://www.inews24.com/view/1985729",
       "source": "아이뉴스24",
       "published": "2026-07-15T11:45:53+09:00"
     },
     {
       "title": "대법원, 김건희 주가조작 등 혐의 선고 24일로 연기",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTmhEWjFsNEY5QTlZMGpKVU5tcDkxYmwyZFNwZDNDdEkydXZxcjRYNWEwUzltd3lJVEVienZKTnFmT3JaNG9SWVRNVWs4VG1CUGdJWE92VmtDX1JHT3lwV0xEcUlUeWptY0ZDLTZBT0poQQ?oc=5",
+      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=449015",
       "source": "굿모닝충청",
       "published": "2026-07-15T11:45:39+09:00"
     },
@@ -996,7 +1376,7 @@
     },
     {
       "title": "대법, 김건희 '주가조작' 상고심 선고 24일로 연기…尹 유죄 판결 검토",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uTElJVkN2RE1zOU9USjI4eUNIUnlGOWw5XzhwYW8wbzJ4VVpMMXBPZ0lPMkdHX0hYcjZaTHFNZWNyVE1CTU1OcHBoTFIyT2VqUXBKMnJrQ05PcmtaakxJag?oc=5",
+      "link": "https://www.asiae.co.kr/article/2026071511443182502",
       "source": "아시아경제",
       "published": "2026-07-15T11:44:31+09:00"
     },
@@ -1008,13 +1388,13 @@
     },
     {
       "title": "IBKS제23호스팩, 28일 상장폐지…청산 절차 돌입",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91T0tXSmFlNFoyanA1ZVZjWHNjQVFsRDR5RWFUa1FzaUVlcmdoRk03WXJBUzBreVNja1RPS0RaXzdVR28xamF3NzJnR0xjNTZLZ3FnZU9kV1JyeHFZY1U1QzZ4XzZtTTdhNkJ1M2JNM2FIMWc?oc=5",
+      "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=03873686645514848",
       "source": "마켓인",
       "published": "2026-07-15T11:41:07+09:00"
     },
     {
       "title": "딥시크, 중국 본토 IPO 준비…이르면 연말 신청·2027년 상장 추진",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SblN5enl3cHpfOHVRSERDQ25Ycy00N1Ryc2VaS3JSNm1ReXMxLWhESHcyZXlWdXRMTGl3aG02MENtUHMxSkkwdw?oc=5",
+      "link": "https://platum.kr/archives/290936",
       "source": "플래텀(Platum)",
       "published": "2026-07-15T11:41:02+09:00"
     },
@@ -1056,7 +1436,7 @@
     },
     {
       "title": "\"미국 증시에서도 2배 베팅\"···SK하이닉스 ADR 레버리지 ETF 월가 첫 등판",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMVM1dUpQRXc2UFdxUFpmc1Z5QkVlWEFFa3lHQlhibmlkb21xZy16ckdUME55dnZwOU5lbmdWV0NpS3h6YUlRa2o4VWFBNEdFOFlpdXhSUTF1SEJxM2R5TndhSW1oanhZTWtCZEU2UHZHaFFncHFYN21LRnpBMVZWZlJYVmRyaFBuSHo4eWYtdWhNX2dtZWtDU0diSDJDQVlHVG91NV8wNHVqM05KN3M3X1lFWHZfY3c0SE91aEFkSmpnZ0tncjliQkxHY280djM1bnNoMlBuYTNDRVl4SHZPT0c5UDhRd0dDYXgtNjQtVjdnRmV1ck02cGRJX05WX0VsVm40d2ZWdXFxSWRzaGtPaHBsRjRneEVvVElneHdKYVByRWx1bUVReUZmeXNtMDlkQmVvaUxNeFNiclk2QkFmYg?oc=5",
+      "link": "https://kr.benzinga.com/news/usa/trading/%EB%AF%B8%EA%B5%AD-%EC%A6%9D%EC%8B%9C%EC%97%90%EC%84%9C%EB%8F%84-2%EB%B0%B0-%EB%B2%A0%ED%8C%85sk%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-adr-%EB%A0%88%EB%B2%84%EB%A6%AC%EC%A7%80-etf/",
       "source": "Benzinga",
       "published": "2026-07-15T11:30:32+09:00"
     },
@@ -1098,13 +1478,13 @@
     },
     {
       "title": "\"코스닥 살리자\" 기술기업에 문턱 낮추고 해외기업 코스닥 진입 지원",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHQlVNYWMyWHlTWlVGeFNteUxVY2FkN185bkZ4bGlvMmlabXRlNE1oeFU0NWF0YmxLY19NeWJJWWUwc2pwUzdDZmlRVVZCRXJFRGhYLVU3ellqTThDZjJuTmpwT2oySzFt0gFuQVVfeXFMUEMzZ19VOUFoMFI5cjF0dEFJeGNRMUhXWWhCblRSSTZoX21sX1hjcF9TclFmT0NSeDVUNEhzV1MyLWcwTnBvdGNuSkxMQmJKMVlxN01YNERyY2hDY0NjaF8wcHlnUDh6ZWE0ZzRlaXc?oc=5",
+      "link": "https://www.mt.co.kr/stock/2026/07/15/2026071417053610482",
       "source": "머니투데이",
       "published": "2026-07-15T11:27:57+09:00"
     },
     {
       "title": "李 대통령 \"주가 누르기 방지법 지연 … 입법 속도 내라\"",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2UWRFTFhZaXBiWklpOGF6OG9PRUpVcEtaanpOZ3pZbVp1UTFaMGZUYlBELTVwUzRMdzZlWk1iVU9oUGhKNTBGbXl5QTdHU21IR191eEQwcklFN2VjZzNzZWExcFJ2ZkNIN0pnLWpOaS1zQjZKdGdMZVVoc9IBgAFBVV95cUxObEE4MDlNaGFDTHhJV25DVk1KcmI3cTFyZU5BWlNsUUdwZ1l4MUhXdjRRUHhCMlJXaWJYaUMxbGtWalpBM2NIRDdXS1JLckJFc2RuaUFNc2VkVDdhOXdWVWpmUS1LRldkcVNuTTFvM2s3dFM2c3BNcldBVnl0QmtnbQ?oc=5",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/07/15/2026071500154.html",
       "source": "뉴데일리",
       "published": "2026-07-15T11:27:43+09:00"
     },
@@ -1116,7 +1496,7 @@
     },
     {
       "title": "대법, 김건희 ‘도이치모터스 주가조작 등’ 선고 24일로 연기",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zVTBJYzFLcGdNV2wxM3VOX216eTd6M2FuMGkzYmJ6SFdCLV9zWmF6aFBOS0VZWkN3b2NiVWZuYWJjX1dLaDktRkJBMHVUa28?oc=5",
+      "link": "https://v.daum.net/v/20260715112637112",
       "source": "v.daum.net",
       "published": "2026-07-15T11:26:37+09:00"
     },
@@ -1134,13 +1514,13 @@
     },
     {
       "title": "대법, 김건희 ‘도이치모터스 주가조작 등’ 선고 24일로 연기",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZYk5mRWdvbHliQnl1SWFRWGltMnRhQXlad1BPbEFmcmN3WnAtSDFueVg2cmhGUUlOZTFXSlVTTjdfVThDSVFtSXpQMHYzZVl6dXNQTVl3?oc=5",
+      "link": "https://www.joongang.co.kr/article/25445232",
       "source": "중앙일보",
       "published": "2026-07-15T11:24:29+09:00"
     },
     {
       "title": "李대통령 “주가누르기방지법 속도 내라…MSCI 편입 왜 안됐나”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52UUtnMEdFeHdlUk16U3pfLXBRWHFoMjgteENQeWo4dzRTb0FsemJJem9tbzZQT3VueVJnTzh5MXVaLWFaN0gtejlubXVrdmVBanFuZlpOTFExdnMyQWNEWVFzSWhfM0d4ZGc5UDJ3?oc=5",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005620",
       "source": "아시아투데이",
       "published": "2026-07-15T11:24:19+09:00"
     },
@@ -1152,19 +1532,25 @@
     },
     {
       "title": "대법, ‘주가조작·금품수수’ 김건희 상고심 선고 24일로 연기",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9meFlnX0hXRlhRNUM5aVBrdjQ0NjJuQXpyZlRqTmlQdVhoNXNfd1lwZjRQLXJQSTlpTGJTcEl1WndFaU1DUlRBTlNrOUhfb01ma2hfaXRUczBDMXFxRGhtRDJIc1lEV21iREk2ajNIWHh0VFp1WXfSAWZBVV95cUxQeXFaTnFLUzhHaHdlRU1XSDRrT0QtSVVaaUtxNkJ4VjJ5dUV3LWhnRGo1MG9DbmxRYjZEbFNwMlFiVkJZLWZZdEJlRnhtaUg3bXcwN1FqZmVpTkZJUFpyaXEyR2d3SHc?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260715/134302720/1",
       "source": "동아일보",
       "published": "2026-07-15T11:23:00+09:00"
     },
     {
+      "title": "코스피, 美 훈풍에 6% 급등해 '7천피' 회복…SK하이닉스 ADR 27% 폭등",
+      "link": "https://biz.sbs.co.kr/article/20000322654",
+      "source": "SBS Biz",
+      "published": "2026-07-15T11:20:00+09:00"
+    },
+    {
       "title": "외국인, 5월 美증권 1320억달러 순매수…주식 1340억달러 몰려",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wVy16WDQxYVBId2NmTUNOc3BJY3JXQXBma1d0NmgzeHJqTXItUDRISFkwSkVSUmhsVUZXb3RXSk1mNU5uUWZUaEQzb2d4dFNSR3FFb1ItU1M?oc=5",
+      "link": "https://www.news1.kr/world/usa-canada/6228841",
       "source": "뉴스1",
       "published": "2026-07-15T11:19:17+09:00"
     },
     {
       "title": "미래에셋증권 주가 장중 8%대 올라, 2분기 실적 개선 기대감 반영",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95NVlKYk90cU5fcG90YS15dkx0RjNrdU1Cdm5RRENIYjF5Z0NFajBsTE5MelQ3Z0JQQmdlU3h5d284SG9yRjItajYyTHJtRUdIWE1fNngzUHA4TFF1dW9jN04zTDNNMUpyZUdKbEZOWkVZb2M?oc=5",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442397",
       "source": "비즈니스포스트",
       "published": "2026-07-15T11:18:32+09:00"
     },
@@ -1187,6 +1573,12 @@
       "published": "2026-07-15T11:16:00+09:00"
     },
     {
+      "title": "\"다음 접속만 해도 삼전 주가 뉴스 배달\"…다음이 꿈꾸는 AI 에이전트",
+      "link": "https://www.mt.co.kr/tech/2026/07/15/2026071510561251427",
+      "source": "머니투데이",
+      "published": "2026-07-15T11:15:27+09:00"
+    },
+    {
       "title": "해외 IB “韓 증시 흔들림은 단기 조정…반도체 전망 여전히 밝아”",
       "link": "https://v.daum.net/v/20260715111507393",
       "source": "v.daum.net",
@@ -1200,7 +1592,7 @@
     },
     {
       "title": "한국투자증권, ELW 340종목 신규 상장",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DbmRyV0NQeUJwNjhZWXhrOWVOOGVuXzBsYWFoUjYwZ1MzcUMzNE1QZGFyNWFLa3NqeU5MSHZiWE83RURTajhtdFdVS1RON2tpbGxpQm9FRkpIQWRUalNCNEc0YjdvVHVy?oc=5",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=306510",
       "source": "fetv.co.kr",
       "published": "2026-07-15T11:12:37+09:00"
     },
@@ -1235,6 +1627,12 @@
       "published": "2026-07-15T11:09:27+09:00"
     },
     {
+      "title": "유진투자 \"JYP엔터 목표주가 하향, 목표 주가수익비율 기존 24배에서 20배로 낮춰\"",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442392",
+      "source": "비즈니스포스트",
+      "published": "2026-07-15T11:09:19+09:00"
+    },
+    {
       "title": "[특징주] 삼성증권, 코스피·코스닥 지수 급등 속 +9%대 ↑",
       "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274889",
       "source": "전국매일신문",
@@ -1254,7 +1652,7 @@
     },
     {
       "title": "[속보] 대법, 김건희 '주가조작·무상 여론조사' 상고심 선고 24일로 연기",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81QUVnc1lkaDJ2bWRnVnFrdG1NM19ORmNtZDlRYUV1Nlowd1pYXzVSTkxDalVuSm9NNF9pX0hsT2czZkIwd2VNeFpXbVM3U1ZWT2g1NWItNDRtSktE?oc=5",
+      "link": "https://www.newspim.com/news/view/20260715000567",
       "source": "뉴스핌",
       "published": "2026-07-15T11:08:00+09:00"
     },
@@ -1266,13 +1664,19 @@
     },
     {
       "title": "[속보]대법, 김건희 ‘도이치 주가조작 등’ 상고심 선고 24일로 연기",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SR2tMY29lUWw3cnM0XzF3S0gteVVrMXpacWF4Q3RxVW5JSnRCQWdHTHBtWVpDUGg0aXpNdWFoR3dXVVBJUW1WTzkzQThrT1lRRG5YVlVrQ0RFVzgyeGfSAWNBVV95cUxQYzNLWlRXSk9uWkNYWkV5bFZtb0VkT29sUmgyV1FKeXZTNjkwWXVrMk9ZSGkxZHp1MGhvcVp0cWZaWTJ6VVBrNTllQ3A5cFEzLW9zWG81anlZVUJzelV0SXNmNk0?oc=5",
+      "link": "https://ichannela.com/news/detail/000000539821.do",
       "source": "채널A",
       "published": "2026-07-15T11:07:00+09:00"
     },
     {
+      "title": "[속보] 대법, 김건희 '주가조작 등' 상고심 선고 24일로 연기",
+      "link": "https://v.daum.net/v/20260715110642938",
+      "source": "v.daum.net",
+      "published": "2026-07-15T11:06:42+09:00"
+    },
+    {
       "title": "[속보] 대법원, 김건희 ‘주가조작 등’ 상고심 선고 24일로 연기 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUWpxb1JUTURwUlR4YlBVdV9IZmdtOVpLbjFqNFdJVXg0T1NoNXVIU0JnUFJsOFpRT0FERy1wVEp6T3hOdV9vTXBQa04zM2tsaWhWdk9DVU9hSHFYOW9zUDdHMlM0U2Y3N1d6RkNYZTFLS0Z5a284dVVIMVllaVlTV29yNNIBlwFBVV95cUxQUVI0UUZtc1V0VFJQRXR2TVZjT2FvSE1NOGNFbWZocUg4RnRaRDhtUDFOV2ZJWjAtQmtqY2kwSnZLZTRnVzFQVS1ERDdtb01RTFdJNzgxZmFjOEtFZlM4c1lOTWs1Mkl6MnhNS2I3bmZoTTFQV0lRMC1NWHNteGlOeUNjOUJRNUEzSjUwYzBVbGxqUUtpY3lr?oc=5",
+      "link": "https://biz.chosun.com/topics/law_firm/2026/07/15/CH3TWUYLYRFGZFWCEFOYAVC7QA/",
       "source": "Chosunbiz",
       "published": "2026-07-15T11:06:00+09:00"
     },
@@ -1290,7 +1694,7 @@
     },
     {
       "title": "[속보] 대법, 김건희 '주가조작 등' 상고심 선고 24일로 연기",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGTmZtdWQ2R2hBSHNLeUlYT1YxelpaR2ZoaVJ6THQtNEhYMERidU5TeWJ5Q1FFQzlXUEJDRWJjdDVRYm1FX093R3FaTkJ2S2NFdzZRT3drMXZvRDDSAWBBVV95cUxQVkhCLUxiT3BTVkRFYm4xZHBoOHQweFpCRWREaVBpdkFuN01YMUNsclpRODI1LTVxZjhFSUlWellFNjBXTkV4a0N5aUxlWmc1NzhtWE5kX2hqcWJyOWU0cUs?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20260715082300004",
       "source": "연합뉴스",
       "published": "2026-07-15T11:04:34+09:00"
     },
@@ -1299,6 +1703,12 @@
       "link": "https://www.mt.co.kr/politics/2026/07/15/2026071510511292770",
       "source": "머니투데이",
       "published": "2026-07-15T11:03:47+09:00"
+    },
+    {
+      "title": "해외 투자은행들도 “삼전닉스 레버리지, 증시 변동성 초래 요인”",
+      "link": "https://www.hani.co.kr/arti/economy/finance/1268330.html",
+      "source": "한겨레",
+      "published": "2026-07-15T11:00:00+09:00"
     },
     {
       "title": "[굿모닝! 금융지식] 외국인이 주식을 사면 왜 증시가 오를까",
@@ -1332,14 +1742,20 @@
       "published": "2026-07-15T10:54:00+09:00"
     },
     {
+      "title": "“한방에 상황 반전, 흔들리던 증시 반등”…美 CPI 둔화에 7월 금리인상 확률 10% 뚝",
+      "link": "https://stock.mk.co.kr/news/view/1121388",
+      "source": "매일경제 마켓",
+      "published": "2026-07-15T10:51:12+09:00"
+    },
+    {
       "title": "AI 반도체 일제 매도…SK하이닉스 미국 상장이 부른 ‘수입된 변동성’",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xYVdxTUYxRFBqQnh5c04wT1JrZjNZOHdfUjVLWmR0clVaMlllbHdkN0FteEY5VHNDRHoxZjVDeVQyblgtNHRraURIYjJrQWJoQklOSld3?oc=5",
+      "link": "https://zdnet.co.kr/view/?no=20260715105046",
       "source": "지디넷코리아",
       "published": "2026-07-15T10:50:46+09:00"
     },
     {
       "title": "SK하이닉스 ADR 27% 폭등…바클레이스, “목표 주가 330달러”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OZFdTUnJDY0I1Q2FHb3JZbVk1dmR5dFZxZWltQjJjNHRFUVcxRkxyQ3F4Zm1SeHdBSWc2RHZvQ1p5aURVV0V5VUpOcnp5dzV5MHA5VWUxelBfVXdQVldiaFNhNUNTYjNvUmRNNTZB?oc=5",
+      "link": "http://www.seouleconews.com/news/articleView.html?idxno=92417",
       "source": "서울이코노미뉴스",
       "published": "2026-07-15T10:49:37+09:00"
     },
@@ -1369,13 +1785,14 @@
     },
     {
       "title": "딥시크, 연내 IPO 신청…2027년 상장 목표",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jYTR2RWVBcUxYM2drajJZOTIyeDNoTXFncHdjWlVCaHUxNDVveElTaUtIZUpseFJrZEJ5QTJETW9oN3FfRnlpb0lBWTJUaVozSW1RWWcyNHNMWHBId2FjTXRCR0Q1dWxYOFFnZC1NTmTSAXRBVV95cUxPQVp5RDFqa1BFWDNqRnBnclJRaXRfLTRBNy1oUU1jcHlQY0gtM3ZyWTZJb0hUdVRZQThaSnM0NC0tNEZKVkd3QUxMdjJpVUFiRkdBQnV0dnlKMHFtWFJ5STdJX1RtQkFjUkdoMWtvVDBmZjJFYw?oc=5",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165838",
       "source": "IT조선",
-      "published": "2026-07-15T10:45:15+09:00"
+      "published": "2026-07-15T10:45:15+09:00",
+      "summary": "중국 인공지능(AI) 스타트업 딥시크가 대규모 투자 유치에 이어 기업공개(IPO) 절차에 착수했다. 기업가치는 수개월 만에 500억달러에서 700억달러 안팎으로 뛰었으며 이르면 올해 안에 중국 본토 상장 신청서를 제출할 전망이다.15일(현지시각) 블룸버그통신은 복수의…"
     },
     {
       "title": "CPI 호조에 반도체주 급등...\"과매도 구간의 기술적 반등\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zS1lFQUo0TXJHSUZ3SEFscmZUNzU4eTFENWZLcl9IRDdPYk9HRXNSelV3SlBLNWMzbGdGUFR3bExVZUtJWTQ1ME92V2RWT1R2eWFyOW00Z2poM3gybC1VVnhJQ1I3cjI4UjlZag?oc=5",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=604941",
       "source": "메디컬투데이",
       "published": "2026-07-15T10:43:12+09:00"
     },
@@ -1387,7 +1804,7 @@
     },
     {
       "title": "미국 증시, 실적·CPI·중동 리스크 삼중 시험대",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EYmNZMjhTRTVZcHRMZTlOcDVrNkoyYUdpUlc5UVp1cHhFT1ZmcGFBVlg4bS1OZlVRVWJlUS0wWEJEYkM2Q1U4Zw?oc=5",
+      "link": "https://chaovietnam.co.kr/165380/",
       "source": "씬짜오베트남",
       "published": "2026-07-15T10:41:06+09:00"
     },
@@ -1405,43 +1822,51 @@
     },
     {
       "title": "코스피 미국 물가상승 둔화에 장중 5%대 상승 7209선, 코스닥과 동반 '매수 사이드카'",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xdGItMkd1MEVBRV9MbTlfSjFnSmxzNGdNZjV5dFdlSXRqU1BzYVFxR0l4YWZVZllQcXVVNGkzOURjazdoTFFoS1oxaVJIOVJveDFobjdhTW5YRzZSR0t6Mk1rMVVIM0daSWJ6RlRXb2ZJY1E?oc=5",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442381",
       "source": "비즈니스포스트",
       "published": "2026-07-15T10:39:11+09:00"
     },
     {
       "title": "[단독] 삼성, 美 ADR 공식 부인했지만…물밑 검토 착수",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nT3h1X0hxWm5jaGFZeGVuUGZzWGtDM2lFaWtwWmFMSGRvM0tPXzU5WlU0T1NTS3E1cTNyalNNdkhWZXZnWDA4SXVhMXNIZXZqbXVj?oc=5",
+      "link": "https://news.nate.com/view/20260715n12448",
       "source": "네이트",
-      "published": "2026-07-15T10:39:00+09:00"
+      "published": "2026-07-15T10:39:00+09:00",
+      "summary": "�Ѵ��� ���� ���� : ���� - ���� : /���� ����=�Ｚ�Ｚ���ڰ� ���������� �̱� ADR(�̱��ֽĿ�Ź����) ���� �ó������� �����ϸ� �ǹ� �������� ������ ������ �ľǵƴ�. �������…"
     },
     {
       "title": "한국투자증권, ELW 340종목 신규 상장",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwa3BRZ0N4Y1QxTU42TmR6X3QxR3Q3cEltUVFCYkdkdk1YLWJZSUZUTTBBUHcwSUoxSHpuS2RkYWhrOGxuWEdqbnNNN2pPcHRBYUlaUg?oc=5",
+      "link": "https://www.etoday.co.kr/news/view/2603977",
       "source": "이투데이",
-      "published": "2026-07-15T10:39:00+09:00"
+      "published": "2026-07-15T10:39:00+09:00",
+      "summary": "▲한국투자증권이 ELW 340종을 신규 상장한다. (사진제공=한국투자증권)한국투자증권이 주식워런트증권(ELW) 340종목을 신규 상장한다고 15일 밝혔다."
     },
     {
       "title": "미국 개미 몰린 SK하이닉스 ADR…27% 폭등한 배경은",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13WTBET0UzRmlRTl9DNm1zUEczTEdZTHE4aEhOMVd2UVloY001YXVjVWl0QkQ3bUFnaDU2Q1VaZm0yOThhS1IxQXZXSHA2SFZQZTFlQkxOb0t4eF90OExyNdIBeEFVX3lxTE5uT2Q3X2RuM2lQUnJpT05VUnFPODdrRVI4dUxMMXMzOGR2OHR5U0VybmZZdzlLeGlMQWhSdDBST0VGbW5ZQ0VQci11RUZsUkxiNFY1a3ZjUV8ydHpka2p6QnBUZjVfclZBUERISWpSd1FlNF82MUtjag?oc=5",
+      "link": "https://www.newsis.com/view/NISX20260715_0003709951",
       "source": "뉴시스",
       "published": "2026-07-15T10:38:22+09:00"
     },
     {
       "title": "삼성전자, 美 ADR 상장 왜 안 하나…현금 많고 공시·소송 리스크는 폭증[biz-플러스]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iZzBPQU9iNmZCc1o2a2lFTzJocGFpV0VaTHp5MVowUkJHeTFQa25tLUVQMjFmcjQ3ZllxSV9EV28xV011N3lNX1JnQmcxMk9mRHfSAVNBVV95cUxQSlozRGktZ0Jubm5MdFlMazJ4WDU1b0d5OWM3dVVHYlU5c3JIVXN5SnRzVGxMaVJ0QWFwd3JNVjFid1lvNk5wWFFRU3poX00wd21oNA?oc=5",
+      "link": "https://www.sedaily.com/article/20067971",
       "source": "서울경제",
       "published": "2026-07-15T10:37:06+09:00"
     },
     {
       "title": "삼성전자, ADR 통한 미 증사 상장 공식 부인…\"사실무근\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pNG1nYnZ0NnhaYmpaQ1VnQkQyQjVpYmdzWkNOdzhoM05xWkw3dGxUakllM1FpWmE4UDFUbko5NE1sU3E2N0dUcVR3eFlUZFhhM2ZxV1g5MkUtbFFRTUxnRU1LUXJETE5tTkpWQTBUbXI?oc=5",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141564",
       "source": "오피니언뉴스",
       "published": "2026-07-15T10:35:21+09:00"
     },
     {
+      "title": "미 증시 훈풍에 코스피·코스닥 동반 매수 사이드카",
+      "link": "https://www.ytn.co.kr/_ln/0102_202607151034241143",
+      "source": "YTN",
+      "published": "2026-07-15T10:34:00+09:00"
+    },
+    {
       "title": "'ADR 훈풍'에 SK하이닉스 10% 급등",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWWGlVak5TbUVBTkVPeTN0RXZVVFVnQThlTVVaUVJrbDVzVUFxb3VZNGtLSjk2US15Y0pjdDJnS29VYlhkMmtTU0JabW0xdWJCaVhfcXk1elZWcEkwSGFYbVZxMFFfSFhHdEprN1dn?oc=5",
+      "link": "https://www.smedaily.co.kr/news/articleView.html?idxno=360303",
       "source": "중소기업신문",
       "published": "2026-07-15T10:29:02+09:00"
     },
@@ -1452,20 +1877,32 @@
       "published": "2026-07-15T10:28:51+09:00"
     },
     {
+      "title": "삼성증권 \"디어유 목표주가 하향, 수익성 개선에도 엔터 업종 가치평가 하락\"",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442380",
+      "source": "비즈니스포스트",
+      "published": "2026-07-15T10:28:45+09:00"
+    },
+    {
       "title": "디에스자산운용 첫 ETF, 상장 첫날 120억원 판매",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1SHpJbjVhWWw5b2pGWkd0aHFuTDF5NHdTOTJoVVF2NGZSMklFMUw2c21Rd1I4aV9GUEtEVnN2akxFbGxldG01Z29keTRDdmNaQlN5clRVT0JxTE3SAWBBVV95cUxNQmlUanRmSTA2M2g5cnJhdE5zdWRwQWZsTFFOZHZmTllXWkJuN0ZBeW1fZDJoZS12akJhOG5Xc1pUZ0RSRnpUcTluajlvb1pXVFRLZExJUVVNeFVXc0I2VE4?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20260715067900008",
       "source": "연합뉴스",
       "published": "2026-07-15T10:23:12+09:00"
     },
     {
       "title": "“한미반도체, 해외 수주 기반 견조한 실적…목표주가 50만원 유지”[클릭e종목]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZW1vc3J6MTRvRXhXdUotWXo5eXhkMXlsalYxZXVlWjU2b2J5TVEzODB4c2Y2eW54SU5pcmR1cjVyMWRZdm10RXRGenJOSWM?oc=5",
+      "link": "https://v.daum.net/v/20260715102243321",
       "source": "v.daum.net",
       "published": "2026-07-15T10:22:43+09:00"
     },
     {
+      "title": "“한미반도체, 해외 수주 기반 견조한 실적…목표주가 50만원 유지”[클릭e종목]",
+      "link": "https://www.asiae.co.kr/article/2026071510210280669",
+      "source": "아시아경제",
+      "published": "2026-07-15T10:21:02+09:00"
+    },
+    {
       "title": "디에스운용 첫 ETF 'DS 코스닥액티브', 상장 첫날 120억원 판매",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZU296WkJxQU9UVk5EckpjZ0tfNl9hc2h0elFYWVZUMF9HVFJBMlRmUUZaaTdKYkk4YzRhZkh5d1AyNHh5M0xtUHR0cmc2cXM?oc=5",
+      "link": "https://v.daum.net/v/20260715102050220",
       "source": "v.daum.net",
       "published": "2026-07-15T10:20:50+09:00"
     },
@@ -1488,16 +1925,46 @@
       "published": "2026-07-15T10:19:00+09:00"
     },
     {
+      "title": "코스피, 사흘 만에 7000선 회복…SK하이닉스 '200만원' 탈환",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000050058",
+      "source": "진일보",
+      "published": "2026-07-15T10:18:24+09:00"
+    },
+    {
       "title": "'DS 코스닥액티브', 상장 첫날 120억원 판매…수익률 지수 상회",
       "link": "https://core.asiae.co.kr/article/2026071510180850954",
       "source": "아시아경제",
       "published": "2026-07-15T10:18:00+09:00"
     },
     {
+      "title": "코스피·코스닥 급등, 장 초반 매수 사이드카 발동",
+      "link": "https://www.newspim.com/news/view/20260715000381",
+      "source": "뉴스핌",
+      "published": "2026-07-15T10:16:00+09:00"
+    },
+    {
+      "title": "코스피 급등에 7,000선 회복…매수 사이드카 발동",
+      "link": "https://v.daum.net/v/20260715101531909",
+      "source": "v.daum.net",
+      "published": "2026-07-15T10:15:31+09:00"
+    },
+    {
       "title": "[개장시황] 코스피 7300선 회복…장 초반 양시장 ‘사이드카’",
       "link": "https://www.viva100.com/article/20260715500421",
       "source": "브릿지경제",
       "published": "2026-07-15T10:15:00+09:00"
+    },
+    {
+      "title": "서학개미, SK하이닉스 ADR 美 상장 첫날 4000억 투자… 8.4만명 몰려 - 조선비즈",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/07/15/DRKJZF4J7NC4HHRFRG7A52VZLA/",
+      "source": "Chosunbiz",
+      "published": "2026-07-15T10:15:00+09:00"
+    },
+    {
+      "title": "돌아온 반도체 랠리… 뉴욕증시 ADR 27% 급등에 SK하이닉스 10%대 강세",
+      "link": "https://v.daum.net/v/20260715101449864",
+      "source": "v.daum.net",
+      "published": "2026-07-15T10:14:49+09:00"
     },
     {
       "title": "코스피 급등에 7,000선 회복…매수 사이드카 발동",
@@ -1519,7 +1986,7 @@
     },
     {
       "title": "특징주, 매드업-2026 하반기 신규상장 테마 상승세에 5.64% ↑",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14aUltNXhtdDBLTWlLWVRYNjlpWTA2OXlCVjFuSk5KS05WWUJXYjdKSkJsdkJNQmhXaWhVUmhLQWpXZW1xaHRvTDlsN3YwTmFHRXc?oc=5",
+      "link": "https://stock.mk.co.kr/news/view/1121353",
       "source": "매일경제 마켓",
       "published": "2026-07-15T10:12:46+09:00"
     },
@@ -1531,7 +1998,7 @@
     },
     {
       "title": "[오늘증시] '급락'보다 빠른 '급반등'…코스피, 7300선 단숨에 회복",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBET1V3T3BKakFGZGd6U1VUTks0RGlOLV9NRnExUnRxUzRfM0dvRDZuU0tMbXpfdS1uQVBOV0ZPYktWWEJodWFxZDRFSnBmNlE3WGdiT1RCNTQ0S3BBQks1cEY0clhVS0JZYWdvaVg0czA1Sk0?oc=5",
+      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=806689",
       "source": "오늘경제",
       "published": "2026-07-15T10:12:12+09:00"
     },
@@ -1543,7 +2010,7 @@
     },
     {
       "title": "특징주, 인벤테라-2026 상반기 신규상장 테마 상승세에 5.76% ↑",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xN1NjZm5XMXRfZ21pdmFGRkNGMmZSTDNBdVVQbEIzWk9Wc1VwS1ZkYXBJR1dWOUJKZTVndzdxQW9KNDlZZjBpS1RWa25yZnVSQ0E?oc=5",
+      "link": "https://stock.mk.co.kr/news/view/1121314",
       "source": "매일경제 마켓",
       "published": "2026-07-15T10:11:51+09:00"
     },
@@ -1555,7 +2022,7 @@
     },
     {
       "title": "한미반도체 주가 장중 23%대 급등, 2분기 시장 전망 넘어선 '역대급' 실적 발표",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLeXp1TXduUXczQU5uWVd0WHlHT1F1Q0puTDFBTVNVcERBcnRqaXl2ckJNa0FNb1pZb0o0bVRTLVJYQ0RMdzBiUDNtQUo3LUxsaGEwV0ljWlVEYzg4X0ZNMG1YV3JheFBoc0J1bjlSSlZzcHc?oc=5",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442375",
       "source": "비즈니스포스트",
       "published": "2026-07-15T10:10:45+09:00"
     },
@@ -1566,8 +2033,14 @@
       "published": "2026-07-15T10:10:44+09:00"
     },
     {
+      "title": "엔비디아, 화요일 주가 4% 상승한 이유는?",
+      "link": "https://kr.benzinga.com/news/usa/trading/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%ED%99%94%EC%9A%94%EC%9D%BC-%EC%A3%BC%EA%B0%80-4-%EC%83%81%EC%8A%B9%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94/",
+      "source": "Benzinga",
+      "published": "2026-07-15T10:10:26+09:00"
+    },
+    {
       "title": "[뉴욕증시포커스] 미국 물가 둔화에 상승…AI 반도체·금융주 강세",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KR0M2bGhya2pVX2t4RTh1cEh6U2NMbnFNTGE5dVI3S1NYMUpWZmZvTW9rdGxmUUdlZzQ2cjEtNWtBanFSZDg0U3BMQW5UazJfOE5BZVBlMDRhLTNmLURwQTNjZ3VQYXhqSFNTWA?oc=5",
+      "link": "https://www.goodkyung.com/news/articleView.html?idxno=289235",
       "source": "굿모닝경제",
       "published": "2026-07-15T10:09:30+09:00"
     },
@@ -1579,7 +2052,7 @@
     },
     {
       "title": "SK하이닉스, 美 상장 첫날 개미 8만 명 몰려…ADR 열풍 뒤 급락",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UUEFhQXV1YmJBaWdGLV82N0xrVlFtRDZfNmswMmZQOXpmZ3ZXaEJ5N19hN0REenNaMWNTSnFhem9YTWNMcHNVaHZEakR1LVk?oc=5",
+      "link": "https://v.daum.net/v/20260715100307251",
       "source": "v.daum.net",
       "published": "2026-07-15T10:03:07+09:00"
     },
@@ -1597,7 +2070,7 @@
     },
     {
       "title": "디에스운용 첫 ETF, 상장 첫날 120억원 판매",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qSG9DWHRmakZrbzZvOU1wRElqMEtqRDVPYnBNRThrY05PRG1tdEo5QnJWTzNRcTFoR2VPcGNiOW9CXzR0cDBmb3BRMnk2VmFVNTNpZEVBQjdpQXFyX0d4bGdoQVk?oc=5",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1391690",
       "source": "매일일보",
       "published": "2026-07-15T10:02:20+09:00"
     },
@@ -1609,7 +2082,7 @@
     },
     {
       "title": "SK하이닉스, 美 상장 첫날 개미 8만 명 몰려…ADR 열풍 뒤 급락",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaalIzSFdyT1JNdDRWQnJyaW84WjB0dzg2U3dTRl9oTHJBU214UVhzMmdPSlJSUDduQWZZNFEzWDJNRTQwR2xaQWFYYUZYTEtUVjBrRFpUb1h3LVZTOVhnS2FLVnJiOFhJaDcwZmVSONIBc0FVX3lxTE9GZ010ODhvVnpzRDA1NV9WQjA4aElFak5lMkk3ZlhhY3JSbTNqRXlISnpvNGx2NkhDTktJUFoxTk9TNXRjcU5ESVBlczlyTm5meUdObDF5OTVEYkczWUxkZTlVT0trT2M2ampGQ29FdEtuQ28?oc=5",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=379879",
       "source": "시사저널",
       "published": "2026-07-15T10:01:57+09:00"
     },
@@ -1626,8 +2099,14 @@
       "published": "2026-07-15T10:01:07+09:00"
     },
     {
+      "title": "코스피, 장중 6% 급등 '매수 사이드카'... 삼전 6%·닉스 11%↑",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92271",
+      "source": "뉴시안",
+      "published": "2026-07-15T10:00:38+09:00"
+    },
+    {
       "title": "[기자수첩] 코스피 비명은 자업자득···'주가'란 '가짜 지능'과 결별",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPdENsNmNsSVpoYlU3QmlpcG4xdzBoZGxrR3kwcVF1NWhRYmRnekJ1NTlUUkg0TDVmcURpX2xnNzJYaWM1RTFrenh0OUZNakRVeHJyX2hfN0MyMHpIRXM4aHJqclgxTjgzTTIxOE9DZnM2U03SAXdBVV95cUxQWmhvejU2ZFhDX2lVbjB3Z3VJcTNqdjB5dEhqRVgxMVZIZ2lMZXNFR1M0bVZMQjRITG5aa1UwNU1tM2FpMVlsd0lkckMtejlxbjV2NGxMWi1tWmFqTFVhaktsWEhIWjdTRHVYdjBBbXE2M3F3N3RhVQ?oc=5",
+      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256162",
       "source": "여성경제신문",
       "published": "2026-07-15T10:00:00+09:00"
     },
@@ -1654,6 +2133,12 @@
       "link": "https://v.daum.net/v/20260715095700888",
       "source": "v.daum.net",
       "published": "2026-07-15T09:57:00+09:00"
+    },
+    {
+      "title": "디에스자산운용 첫 ETF 'DS 코스닥액티브', 상장 첫날 120억원 판매",
+      "link": "https://www.lawissue.co.kr/view.php?ud=2026071509551532059817d053b9_12",
+      "source": "로이슈",
+      "published": "2026-07-15T09:55:38+09:00"
     },
     {
       "title": "코스피 7%대 급등…금리·하이닉스·미장 3박자 맞았다",
@@ -1689,7 +2174,7 @@
     },
     {
       "title": "삼성전자 \"미국 ADR 검토 안 한다\"…외신 보도 일축",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnaXdtTE1nZW5xYzc0bWlWSUdKaFZTMGFrTFRxWFVLNkNRRkRSX0JTeUpKb19nN0tmVUF1aU1GQllLV1dJdnVudElBZzhtai00enZDbERfWQ?oc=5",
+      "link": "https://news.dealsitetv.com/articles/173324/",
       "source": "DealSite경제TV",
       "published": "2026-07-15T09:51:29+09:00"
     },
@@ -1701,7 +2186,7 @@
     },
     {
       "title": "삼성전자 \"미국 ADR 상장 검토 안해\"...외신 보도 부인",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kTFZSTzVwTUJJUWc3ZjhOdlJtVGVGOGI0R1oweXloVjVyYi01VFRuTHg3bTMtUkJReUVqLXI5X3FKbWhNMTVBdmE5c2pGeWZ6U3lXdzJTODhKQjEzQ1pIc0xjUjE?oc=5",
+      "link": "https://news.mtn.co.kr/news-detail/2026071509464028543",
       "source": "MTN 머니투데이방송",
       "published": "2026-07-15T09:51:08+09:00"
     },
@@ -1719,7 +2204,7 @@
     },
     {
       "title": "Arm 홀딩스, HSBC의 밸류에이션 경고 후 주가 6% 급락",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQY2pZTlRTSk5xdGd6LVBHSzNrYzR1ZTI3Yms2Q0lGcnNHT1MyYlJvcjFvaHFJcmVKTG9wa2l6OU9qVktuOVdTN19SaHFaWmstY1pjUHAyU2ZsVjVRVndDckZjYVJYS0R3MGJWbUtuSzlrX1pWYkk0NmxyczY0LTFKUEp0NjhOVnNKbkRZaXNtSlcyV1lHNTRKNGtaektKYTJOSFIwWkh1ay0ycWpIRFRfX2p3b1lFRU5BNnJ6MU0zaGs3TEZadVE4bWhJbVFVbGM4UmFybVZuY2Vxck5MdWdXdmpPT3RkWVNxcVgzbklOa2dUbTJsNzBkbGw4dXpuU2NuelRrQndkYzFRY1lWdmcyc0JuV1U0cFd0VzNlZ1JVVFVGV0RHU09hbUl3?oc=5",
+      "link": "https://kr.benzinga.com/news/usa/trading/arm-%ED%99%80%EB%94%A9%EC%8A%A4-hsbc%EC%9D%98-%EB%B0%B8%EB%A5%98%EC%97%90%EC%9D%B4%EC%85%98-%EA%B2%BD%EA%B3%A0-%ED%9B%84-%EC%A3%BC%EA%B0%80-6-%EA%B8%89%EB%9D%BD/",
       "source": "Benzinga",
       "published": "2026-07-15T09:50:26+09:00"
     },
@@ -1749,13 +2234,13 @@
     },
     {
       "title": "딥시크, 이르면 연내 IPO 신청…2027년 中 본토 상장 추진",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3eVgtNWYtemZNRGYzUTBKa3NjUUluUzNtUzdLWlRhSjZWLWw3ZnNoN1JNczVwVXlGMjdjM1pYeWJxVHZoTHhuZ3pHQ0RIT2VEb19NckhXdTRGd9IBWEFVX3lxTE82U1ZfOC1WNExfdHREMDlaNFp3U2pfY0Y3QmpJUXZKWThuWFZTRDhxVkNqTkJtVUNmSGh0UEhkdW5PclBnSU9ZdXdGUTN1ZEN4TTRWYTk5X1M?oc=5",
+      "link": "https://www.ajunews.com/view/20260715091329544",
       "source": "아주경제",
       "published": "2026-07-15T09:49:15+09:00"
     },
     {
       "title": "대주주 '주가 누르기' 차단 … 상장주식 평가 개편",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hTk1ZS01wbUV2LXhmMmx4Z2JHdE92WlZNOGROeDFXc1p0bm5PTEgzLS1fS2x0NllEYUxtNmlFQy0xNVdzYkRieVJKcm1hblVRY0U3djRhUTJmQjYwZktrem1UYWxwTHBUUzk1cXpLY9IBc0FVX3lxTE5VUDBfNWpIYWNSOWQyRHFiblpUNEVwMkd2Zm9uUkNZamhKSFdia2pmY2FnS2VZV0k2SnQzUl9oaWVhZHRxLWJMa00ySkFjXzk0MUNLdW94T3VWcHhrQlJySXlMYUdDdjVZRXRNYzlfdFg0aUk?oc=5",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=244238",
       "source": "세이프타임즈",
       "published": "2026-07-15T09:49:14+09:00"
     },
@@ -1767,7 +2252,7 @@
     },
     {
       "title": "미국 반도체 랠리·물가우려 완화에…삼성전자 5%·SK하이닉스 10% 급등",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaODdmUUY3MEs4bndSYXRXNFJIM2oxMkFENVFoV0xJR3hhMFhVcmQ1U1l1X2NKWERDS3AzZlBQcGd0VThyc3B4YUh3NTRiUFlheEE?oc=5",
+      "link": "https://stock.mk.co.kr/news/view/1121269",
       "source": "매일경제 마켓",
       "published": "2026-07-15T09:47:45+09:00"
     },
@@ -1778,8 +2263,14 @@
       "published": "2026-07-15T09:47:00+09:00"
     },
     {
+      "title": "[속보] 코스피·코스닥 6%대 급등…연이어 매수 사이드카 발동",
+      "link": "https://m.kwnews.co.kr/article/20260715500091",
+      "source": "강원일보",
+      "published": "2026-07-15T09:46:44+09:00"
+    },
+    {
       "title": "SK하이닉스 주가 장중 12% 상승, 미국 물가상승 둔화에 나스닥 상장 ADR 급등",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5heUNHakEwQWNzbU94NFVwRE8xS1lVbUxzQ29lUndmcTkzbXNraWpZU0MxUlpNUEw5WnB1ME1GcGdUTEtZc3NjTWVQQjJZZHpjMS1QZXYzM1ZWSUJtNlozaFg0c3g4RGFqMzYzYU5KR1ZfRU0?oc=5",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442367",
       "source": "비즈니스포스트",
       "published": "2026-07-15T09:46:40+09:00"
     },
@@ -1791,13 +2282,14 @@
     },
     {
       "title": "[글로벌 마켓 리포트 7월 15일]",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mbzNjZ2JVUEszNTZjNFIyY2ZmZ0hxT3RVOGV3Q192eHJlNmhkT2M5a0pkZWExejdrYjJCOWpWSnM3VFA2cWN2T2w1Ym1rTHdhUTNkb2h5NzBlVTY2?oc=5",
+      "link": "https://www.newspim.com/news/view/20260715000205",
       "source": "뉴스핌",
-      "published": "2026-07-15T09:45:00+09:00"
+      "published": "2026-07-15T09:45:00+09:00",
+      "summary": "14일(현지시간) 미국 뉴욕증시 주요 지수는 일제히 상승 마감했다. 다우존스30산업평균지수는 9.63포인트(0.02%) 오른 5만2508.27을 기록했다. 대형주 위주의 스탠더드앤드푸어스(S&P)500지수는 28.25포인트"
     },
     {
       "title": "미국 증시는 인플레이션 둔화에 힘입어 상승했다.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rdmx4QlJYdk52eTI4TnVWcHlWU1YyUmhjdFFDUU1HdHlVbEZxemNYSV9BbDBXdW13R2VOU0ppOTNUM0ZGbjVYTUs2NFg4VEtBQnNwWWlNbmNPTjFuRlNvaEtfR0tVaklIb1FKXy04QTFwc2tYZ0oxMkZuYw?oc=5",
+      "link": "https://www.vietnam.vn/ko/chung-khoan-my-khoi-sac-nho-lam-phat-ha-nhiet",
       "source": "Vietnam.vn",
       "published": "2026-07-15T09:44:48+09:00"
     },
@@ -1821,7 +2313,7 @@
     },
     {
       "title": "정주영과 49년 인연, '잭팟' 터지나…英 공주 뜨자 주가 들썩 [종목+]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CU0pfQnlBeUVxak8tUVRXem5tbTR3SkdsWUFKQmRtd1BzU1hvUWZSRVBSVERNZTk2TERrR2tNNnFYUElMNk5PMWFtOVJjT184TjQ4Tl9pb1pwUQ?oc=5",
+      "link": "https://www.hankyung.com/article/2026071560926",
       "source": "한국경제",
       "published": "2026-07-15T09:39:59+09:00"
     },
@@ -1850,6 +2342,12 @@
       "published": "2026-07-15T09:38:48+09:00"
     },
     {
+      "title": "\"코스피·코스닥 동시 급등\"…매수 사이드카 나란히 발동",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7174332",
+      "source": "주간한국",
+      "published": "2026-07-15T09:38:40+09:00"
+    },
+    {
       "title": "[포토] 코스피, 급등 출발",
       "link": "https://www.asiae.co.kr/article/2026071509381576030",
       "source": "아시아경제",
@@ -1862,6 +2360,12 @@
       "published": "2026-07-15T09:38:00+09:00"
     },
     {
+      "title": "[특징주] 증권주, 코스피·코스닥 지수 급등에 강세",
+      "link": "https://www.hankyung.com/article/202607156086Y",
+      "source": "한국경제",
+      "published": "2026-07-15T09:36:55+09:00"
+    },
+    {
       "title": "장 시작 6분 만에 '매수 사이드카'...외국인 폭풍매수, 7200선 회복",
       "link": "https://www.mt.co.kr/stock/2026/07/15/2026071509290733981",
       "source": "머니투데이",
@@ -1869,7 +2373,7 @@
     },
     {
       "title": "배상면주가, '느린마을 막걸리 여름에디션' 출시",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fMVh0eExzYzFSM21pb2NJdlUwNHNSRzFFeFhfWWgtdmJfRzV4NUJIQ0JzaGxPZ3pvWF8waEZ5cGRDck9mRjFPR1Y0VXJfQQ?oc=5",
+      "link": "https://www.etnews.com/20260715000081",
       "source": "전자신문",
       "published": "2026-07-15T09:36:33+09:00"
     },
@@ -1917,7 +2421,7 @@
     },
     {
       "title": "SK증권 \"미래에셋증권 투자의견 '매수'로 상향, 스페이스X 주가 변동성은 부담 요인\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PZHRSQXIyS1A3eW9YUnpPbV91M0RGcXB4X3ozai1ybTVjY1RpT2JMTEFidGY5enJXb2lvNkUxQ0xaWEFuYXl4RlM5eWs0LXhIR2tiRGlTNEtGOF9USDFObzFvMVpWM19HZ0h1cjdrd2FtcEE?oc=5",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442365",
       "source": "비즈니스포스트",
       "published": "2026-07-15T09:33:48+09:00"
     },
@@ -1947,9 +2451,15 @@
     },
     {
       "title": "[특징주] 한성기업·모나미, ‘애국 테마’에 연일 급등…상폐 기준 벗어나",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XbTduWUh0MkUyb250c05uT2pDNWZ6Q3lwQnZ3Vmk4MUtrVktyQlAwajFBdV9TdDFEYVhJb0tPLVVEaHN3cURFald3MnpnTEx6SjdPUFJrdldvS3dFUk5BZktxQQ?oc=5",
+      "link": "https://www.ekn.kr/web/view.php?key=20260715026152628",
       "source": "에너지경제신문",
       "published": "2026-07-15T09:31:24+09:00"
+    },
+    {
+      "title": "[속보] 코스피 이어 코스닥도 매수 사이드카 발동",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260715093123HaI",
+      "source": "연합뉴스TV",
+      "published": "2026-07-15T09:31:00+09:00"
     },
     {
       "title": "코스피, 7200선 탈환 성공…장 초반 코스피·코스닥 동반 매수 사이드카",
@@ -1971,7 +2481,7 @@
     },
     {
       "title": "CIS케미칼, 코스닥 상장예비심사 신청…리튬 회수율 98% 독자 기술로 IPO 본격화",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZeUlfSUFuMTg5QVhOLUZsU2JHRjZsYmNBd0FrZ3BoNS1pT1ZIdm91UTVDVkRxUl9rSTM1TlZRQ0pXRlFvQXVHLTNxRTJBUQ?oc=5",
+      "link": "https://www.etnews.com/20260714000093",
       "source": "전자신문",
       "published": "2026-07-15T09:30:00+09:00"
     },
@@ -2018,6 +2528,12 @@
       "published": "2026-07-15T09:27:00+09:00"
     },
     {
+      "title": "코스피·코스닥, 급등에 연이어 매수 사이드카 발동(종합)",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260715041451008",
+      "source": "연합뉴스",
+      "published": "2026-07-15T09:26:33+09:00"
+    },
+    {
       "title": "코스닥 4% 급반등…장 초반 매수 사이드카 발동",
       "link": "https://www.edaily.co.kr/News/Read?newsId=03161926645514848&mediaCodeNo=257",
       "source": "edaily.co.kr",
@@ -2049,7 +2565,7 @@
     },
     {
       "title": "日 증시, 美 CPI 호재에 1%대 상승…닛케이 68,000선 회복",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NRXRTVDFrMzlnemRvaHBkV1VnanZ2MjdBOFRyMnhUUS1GaUd1a0Rxa2ZWd3I4eHJXQmpoWlllWGVoVUxCWlNMQTJaWndjYWM5VVJHdHZ4X2plclcwWWtheUlvNHVXYlhXNWM5bHI4MWxOdw?oc=5",
+      "link": "https://kbthink.com/news-list/view.html?newsId=20260715092429881",
       "source": "KB Think",
       "published": "2026-07-15T09:24:29+09:00"
     },
@@ -2067,13 +2583,14 @@
     },
     {
       "title": "월가 전문가 \"데이터독, AI수혜 지속…300달러까지 상승 전망\"",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jSkdiS1RzTThsQy1YV0t2anR2c0paN0tFWnFtUTMzdmYxUFBFMkZFdHY5LXQ0aEg3YWIxQ0IyU3JaRjVMX1BWVkhPSWRLZmR5aU1rbkp3RDhWdW1Fd1ZQR0h2N1dRMzBPb2pXeDYwUjVmdw?oc=5",
+      "link": "https://kbthink.com/news-list/view.html?newsId=20260715092401497",
       "source": "KB Think",
-      "published": "2026-07-15T09:24:00+09:00"
+      "published": "2026-07-15T09:24:00+09:00",
+      "summary": "김지연 기자 = 클라우드 데이터 플랫폼 업체 데이터독이 인공지능 수혜에 힘입어 주가가 300달러까지 오를 것이란 전망이 나왔다. 14일 CNBC에 칼럼을 기고하는 토드 고든은 데이터독을 소프트웨어 업종 내에서 상대적 강세를 보이는 종목 가운데 하나로 꼽으며 이같이 내다"
     },
     {
       "title": "스페이스X 주가, 공모가 턱밑까지 하락…상장 후 고점 대비 33% 급락",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnanktbzNzc19hdmtsSHI0ZFBDbmV0cm5uSVR4X05nU2xVMlRtSGNfT1M5QnJIR0JDWGdSdHd5MFNJZjFzaXJ2Sm5vVS04OFNU?oc=5",
+      "link": "https://bloomingbit.io/feed/news/116267",
       "source": "블루밍비트",
       "published": "2026-07-15T09:22:42+09:00"
     },
@@ -2108,6 +2625,12 @@
       "published": "2026-07-15T09:21:01+09:00"
     },
     {
+      "title": "바클레이스 \"SK하이닉스 ADR 2배로 상승 여력\"…주가 27% 급등",
+      "link": "https://v.daum.net/v/20260715092100014",
+      "source": "v.daum.net",
+      "published": "2026-07-15T09:21:00+09:00"
+    },
+    {
       "title": "[속보]코스피· 코스닥 급등세에 매수 사이드카...하이닉스 11%↑ 삼전 6%↑",
       "link": "https://www.ikbc.co.kr/article/view/kbc202607150014",
       "source": "KBC광주방송",
@@ -2121,7 +2644,7 @@
     },
     {
       "title": "딥시크, IPO 준비 착수…이르면 올해 상장 신청",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Y0htTVRYWm13VFlVbVhCNUxGOFdKamNuUlRmazJlcU1PQ2VLbi1sWDJldFNzd1hVMlhmWHBxd1FxTzRVb29BTHo2R3ZRWERVWTBqaGdn?oc=5",
+      "link": "https://zdnet.co.kr/view/?no=20260715085732",
       "source": "지디넷코리아",
       "published": "2026-07-15T09:20:25+09:00"
     },
@@ -2199,6 +2722,12 @@
       "published": "2026-07-15T09:18:00+09:00"
     },
     {
+      "title": "[속보] 코스피, 장 초반 급등에 ‘매수 사이드카’ 발동",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2061387",
+      "source": "강원도민일보",
+      "published": "2026-07-15T09:17:57+09:00"
+    },
+    {
       "title": "[속보] 코스닥, 매수 사이드카 발동…지수 4.6%↑",
       "link": "https://www.news1.kr/finance/market-exr/6228555",
       "source": "뉴스1",
@@ -2218,7 +2747,7 @@
     },
     {
       "title": "日증시, 美반도체주 강세에 상승 출발…닛케이지수 0.36%↑",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81Uy1BS1BicG1fN0tCaGtCNjl3SnBCRW5SdTNxRUo5TUJ4cGNPQ0REa0hxUzlNSmhVTjF3aWpYVEdTZ2d6NEUyX3BTRjRfQ2dpMDh2d0tLZ3lrbDh6MlI1StIBeEFVX3lxTE9YSzkxWFNoc1VrdndVV2Z4cjZYeVBlaEh1Y1VWNVR1a0NuczJVRDZ5czlBVXBKSDR3TlFXR2I5NkpCejZyMUc2Yl9iZDByUkhxMWZULUhjR0FfeXFMRlp0YnRibzV0eXNXcWoyMVoySVcxelhUcE14ZQ?oc=5",
+      "link": "https://www.newsis.com/view/NISX20260715_0003709758",
       "source": "뉴시스",
       "published": "2026-07-15T09:17:07+09:00"
     },
@@ -2235,8 +2764,14 @@
       "published": "2026-07-15T09:15:39+09:00"
     },
     {
+      "title": "코스피·코스닥 동시 급등하며 매수 사이드카 발동",
+      "link": "https://www.kyeonggi.com/article/20260715580033",
+      "source": "경기일보",
+      "published": "2026-07-15T09:15:39+09:00"
+    },
+    {
       "title": "[외신동향] 외신, 한국 증시 변동성·800조 예산안 주목…호르무즈 리스크도 재부상",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSNkFXRWcwcXpqd3VsbFFQaUJfeUtlUThtTmRXdExuZ2pJbEhoclhEbGZYV1VyRDBXVjVmaVZDUzlrb25TMExPb3U4YlEzdEEzc1lqOUZpX1g1eTBic1AxbUJfWEhPdmNBVU11RlF3?oc=5",
+      "link": "https://www.mediainnews.com/news/articleView.html?idxno=46535",
       "source": "미디어인뉴스",
       "published": "2026-07-15T09:14:09+09:00"
     },
@@ -2254,7 +2789,7 @@
     },
     {
       "title": "“SK하이닉스 ADR 두 배 더 간다”…월가, 장기 성장성 낙관론에 '27% 급등'",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50SXg2dEJvaDlyVk4wd0U4UTdZaDItaVRraXdvRzFXOUM0cFdTXzZhdUw3UXV0T3liajFrdk9RbTdDTGdqVVdVZ0VLNDlWQQ?oc=5",
+      "link": "https://www.etnews.com/20260715000049",
       "source": "전자신문",
       "published": "2026-07-15T09:13:44+09:00"
     },
@@ -2278,20 +2813,26 @@
       "published": "2026-07-15T09:12:49+09:00"
     },
     {
+      "title": "[친절한 경제] 흔들리는 반도체주 주가…너무 잘나가서 문제?",
+      "link": "https://v.daum.net/v/20260715091212560",
+      "source": "v.daum.net",
+      "published": "2026-07-15T09:12:12+09:00"
+    },
+    {
       "title": "IBM, 실적 부진 전망에 주가 25% 급락…IT 예산 메모리 편중 여파",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Oc2VybnQ3SndjSGVBeE5pX1JiczUycEx2NHVZd2ppSUFuX0VMV0RvMEY2RDgtZnp1T1hOUUtTajJyLU5VNEVrSDlkNjZIcWxuTVNFMUZ3?oc=5",
+      "link": "https://zdnet.co.kr/view/?no=20260715084014",
       "source": "지디넷코리아",
       "published": "2026-07-15T09:12:05+09:00"
     },
     {
       "title": "美반도체 훈풍에…삼성전자 6%·SK하이닉스 9%대 급등",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByU0JmMWl3bDlrd29PQUVrTWJfVU5VemNOU3FkNkk3VlR0czNJMGhCSE1hUGdZRFdGdHRYb1VyajlpMkY0VjhCc3d0c3o5eTlTUVdQaTVFVGw5YUhCVUFmUGhZdmd3TnFtUFBCek04bjFmTzQ?oc=5",
+      "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=03056966645514848",
       "source": "마켓인",
       "published": "2026-07-15T09:10:39+09:00"
     },
     {
       "title": "美반도체 훈풍에…삼성전자 6%·SK하이닉스 9%대 급등[특징주]",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWJvLTcyVkItTGppOWZaVlJDOG40T1JnRFpjMjZoeEJaR25FTlE2Z0VrU1BqQ1M5UHV3SjlMRXdsVHlscU9OS1ktNWxWSHBndmtTUHlheEFrV1VGMm1XdDNQX0h5OUU3NTdXbndZa2FUVXllRUFid3RiLVVtNnNyTg?oc=5",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=03056966645514848&mediaCodeNo=257",
       "source": "edaily.co.kr",
       "published": "2026-07-15T09:10:39+09:00"
     },
@@ -2303,15 +2844,21 @@
     },
     {
       "title": "[친절한 경제] 흔들리는 반도체주 주가…너무 잘나가서 문제?",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aVU1sNEhnZm54QXJJY2NIb1VGMDg4S0F1QjBzR0prNldlbFI4TG5wV0lRcmJFa05lVWhza1M0VHhCQ2VmN3lHd0dvQ2pYMUl5dWkwOVRJcEtQTzUyclAtdWZ2T1pPU3NrQ2fSAWZBVV95cUxOdzJndGppZkZwS2lMU0lqemFZSXV6d19SQUN3RVBjVXAtRG9oWlhHR0RvcWFXMWVHbF82WWl2VmJuN3VhR0pvM2IyU1VWUHU0UUR6YzFEb0V2c0I4TlJsN3pIN2FhRXc?oc=5",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008657926",
       "source": "news.sbs.co.kr",
       "published": "2026-07-15T09:10:00+09:00"
     },
     {
       "title": "SK하이닉스 미국 주식, 왜 한국보다 50% 비싸졌나 [마켓무버의 국장 힌트]",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HdUFhMGtjWXNEbXJvelBjZXpQdmdTNWVzOFlnRTh0NjgxWmxOWnZvNkF2NURtTE9DOWtqbk9ENm5mUzdXYTBDQU0wREhQcV93akdDOTFBbVpUcDM3aG0tbUVnSEJIaHM1T0dOMmwydUFyaVdkcjA0?oc=5",
+      "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150184",
       "source": "한국경제TV",
       "published": "2026-07-15T09:10:00+09:00"
+    },
+    {
+      "title": "코스피 최근 낙폭 확대...AI 투자 의구심에 ETF 매물 겹쳐",
+      "link": "http://www.joseilbo.com/news/htmls/2026/07/20260715571920.html",
+      "source": "조세일보",
+      "published": "2026-07-15T09:09:06+09:00"
     },
     {
       "title": "[속보] 코스피 3.30% 오른 7,082.91 개장",
@@ -2351,7 +2898,7 @@
     },
     {
       "title": "[개장 시황] 코스피, 급등 출발…미국 인플레 완화에 반도체 강세",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zQnR3ZzZFYlZ5SDdUN1FaeGFPS0NTMFpZOUlyaXYteHJaSzFqbl9TcXZsU21pU1NCRHZuNFh0U2Fia0p2TGs2SHNPLVJKclFleVdKVzhsdG5Kdk9yYjV3ZTk5cmJkVEo4NEHSAWxBVV95cUxQSkFyRFJLV3VrMUNhX1M1eW5MekVqX0JRYlFFdTlQbDBEVWhZR2NfOHc4Z1BjMHUtVlItMVhnbDFMODc5eVh6QVZQeTFrdjQyeDd0eGlXRWtaa2VqaktQSS1mNzh2cFZicXN1OVQ?oc=5",
+      "link": "https://www.fieldnews.kr/news/articleView.html?idxno=29973",
       "source": "필드뉴스",
       "published": "2026-07-15T09:07:10+09:00"
     },
@@ -2368,6 +2915,12 @@
       "published": "2026-07-15T09:07:00+09:00"
     },
     {
+      "title": "[속보] 코스피 급등에 매수 사이드카 발동",
+      "link": "https://www.joongang.co.kr/article/25445195",
+      "source": "중앙일보",
+      "published": "2026-07-15T09:06:37+09:00"
+    },
+    {
       "title": "[속보] 코스닥, 2.77% 오른 805.71 출발",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850362",
       "source": "한스경제",
@@ -2375,13 +2928,13 @@
     },
     {
       "title": "코스피, 이달 들어 시총 1800조 증발…주가 하락 과도 지배적",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhTFc2RXVfdVJRNUhtT2Ruc3pMZEZpOV9sOXZSNmR2QzRDbFNQaFQyUG1pS1lIdlJ6eW5kaFdQdFNwLTgtREdTcHdLLW9lTkRFMG9od1dwRVp1N1NLd2RuSA?oc=5",
+      "link": "http://www.s-d.kr/news/articleView.html?idxno=80420",
       "source": "증권일보",
       "published": "2026-07-15T09:05:00+09:00"
     },
     {
       "title": "SK하이닉스 ADR 상장이 본주 이탈 부른다?…“TSMC는 ADR 프리미엄 25% 넘자 본주 순매수” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWFUT2Z6TDNqYlo5UEtMbHpVX3k2d3ZURFFDWlVWMG52cXhmRHBNNVpoRWRoZXUtRkR1TkU0R3NNSS1uRE5QaTUwWUVKOU80Ynk3RTM2MFB6WnYwcHNiMGIxZV9VTGc0Y3dMZ2hrQkw0cGJHOUdmRGtKaVpDR29SWFowWnFEMzRo0gGcAUFVX3lxTE15d3RHM1hkeWNYMUdkUGs0OThHcE44VzhfcVRMd3RkRXlSNGxsWEVOaEpjajlDcjJoaUtpTkROcGlMTnVsMWVLX2MwREQzV0pHNkdKQWE1dUM3dG9WZEhOSF9iUlBjR29OV3F1OTZrcTV2YmRxRk5zME9RVFhZQ1FxcHFIRXk4YmZfQ0RsZm5CdFdjOFNrLTNXR3U4cg?oc=5",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/07/15/Q6P36UMJMNDHTGOTXXFFX43MNU/",
       "source": "Chosunbiz",
       "published": "2026-07-15T09:05:00+09:00"
     },
@@ -2393,7 +2946,7 @@
     },
     {
       "title": "삼성전자 “ADR 상장 검토 안해”",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9obWtHaFJ3S1VpZEZiZ0xTSFJiSGxVRXN0bTBlN3VrMjc4UktHTTB4VnhseGpuU0ZIWFpuTnNwVWtndHhUekpORHlsb2FlMF9wVXfSAVNBVV95cUxPWV9qNmlJZk1Jenowb25rV05DVk1lMUl3a1lMeEFoaTBWSHVUTnpTTF91MHh3RkpKNDBMWGtFRFhQQmRfX0hyUlFUWjk2TVdfbWtNVQ?oc=5",
+      "link": "https://www.sedaily.com/article/20067877",
       "source": "서울경제",
       "published": "2026-07-15T09:04:46+09:00"
     },
@@ -2408,6 +2961,24 @@
       "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=03030726645514848",
       "source": "마켓인",
       "published": "2026-07-15T09:03:43+09:00"
+    },
+    {
+      "title": "하이닉스 꽉 붙잡고 있으라는 증권사…“목표주가 420만원 유지” [오늘 나온 보고서]",
+      "link": "https://v.daum.net/v/20260715090307111",
+      "source": "v.daum.net",
+      "published": "2026-07-15T09:03:07+09:00"
+    },
+    {
+      "title": "“27% 폭등은 시작일 뿐?”…월가 “SK하이닉스, 아직 2배 더 간다”",
+      "link": "https://stock.mk.co.kr/news/view/1121195",
+      "source": "매일경제 마켓",
+      "published": "2026-07-15T09:02:56+09:00"
+    },
+    {
+      "title": "“27% 폭등은 시작일 뿐?”…월가 “SK하이닉스, 아직 2배 더 간다”",
+      "link": "https://www.mk.co.kr/news/business/12098882",
+      "source": "매일경제",
+      "published": "2026-07-15T09:02:56+09:00"
     },
     {
       "title": "코스닥, 21.73P 오른 805.71 출발(2.77%↑)",
@@ -2441,14 +3012,20 @@
     },
     {
       "title": "“SK하이닉스 고점比 36% 빠졌지만… 420만원 간다” [오늘 나온 보고서]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnOUwzZ29wRUFRTDY1ajkwcXBsc0JWNUhBdEJFMlJQcHJkZ0FZSmRkQUxMck1rOWJCc0dTVW5reTM5djROWGJpUDhNTHlMc2Q0RFE?oc=5",
+      "link": "https://stock.mk.co.kr/news/view/1121194",
       "source": "매일경제 마켓",
       "published": "2026-07-15T09:01:13+09:00"
     },
     {
       "title": "에넥스, 개미들 '애국기업 살리기'에 주가 급등…\"본업 경쟁력으로 보답\"",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sSGloR1NwQWFoaUxrVWNnTXhPMDVVajhsRk4ta1BWYU5DLU1qRTA5TTFGQkZOZ2dGX045S2U5MGdhS2haZERVSURuV19GdGg4?oc=5",
+      "link": "https://www.topdaily.kr/articles/110995",
       "source": "톱데일리",
+      "published": "2026-07-15T08:59:00+09:00"
+    },
+    {
+      "title": "코스피 7000선·코스닥 800선 회복 출발",
+      "link": "https://www.dailian.co.kr/news/view/1667267/%EC%BD%94%EC%8A%A4%ED%94%BC-7000%EC%84%A0%EC%BD%94%EC%8A%A4%EB%8B%A5-800%EC%84%A0-%ED%9A%8C%EB%B3%B5-2026",
+      "source": "데일리안",
       "published": "2026-07-15T08:59:00+09:00"
     },
     {
@@ -2500,6 +3077,18 @@
       "published": "2026-07-15T08:45:38+09:00"
     },
     {
+      "title": "中 딥시크, 내년 본토 증시 상장 추진",
+      "link": "https://www.hankyung.com/article/202607155647i",
+      "source": "한국경제",
+      "published": "2026-07-15T08:45:38+09:00"
+    },
+    {
+      "title": "국힘 \"코스피, 카지노 증시 전락…李정부 제도개선 나서야\"",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040977",
+      "source": "신아일보",
+      "published": "2026-07-15T08:45:34+09:00"
+    },
+    {
       "title": "\"단일종목 레버리지, 코스피 8,200~8,400대 매물벽…상방 저항\"",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425030",
       "source": "연합인포맥스",
@@ -2513,8 +3102,14 @@
     },
     {
       "title": "SK하이닉스 ADR 급등에 외국인 이탈?…“오히려 본주 매수할 것”",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3VONHZaLW1JdHZlZFA5ajRmekhNYWw4M3BsWmxkdm1KeGFieFl0SnVWZVB2QlVUSDMyZk5iOWxndzZwcXN2ajcyRVZpNjVXQ2pLMHpQbEcyLTdlSHloZElmcGY5dG11UU5aVnRUT0UxWGZsVVVwRWtQYzlDVTlhOA?oc=5",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02896246645514848&mediaCodeNo=257",
       "source": "edaily.co.kr",
+      "published": "2026-07-15T08:40:11+09:00"
+    },
+    {
+      "title": "SK하이닉스 ADR 급등에 외국인 이탈?…“오히려 본주 매수할 것”",
+      "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=02896246645514848",
+      "source": "마켓인",
       "published": "2026-07-15T08:40:11+09:00"
     },
     {
@@ -2522,6 +3117,12 @@
       "link": "https://www.etnews.com/20260715000032",
       "source": "전자신문",
       "published": "2026-07-15T08:39:14+09:00"
+    },
+    {
+      "title": "한국투자 \"GS리테일 목표주가 상향, 편의점·홈쇼핑 업황 예상보다 양호\"",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442358",
+      "source": "비즈니스포스트",
+      "published": "2026-07-15T08:38:54+09:00"
     },
     {
       "title": "증시 '큰손' 국민연금, 한미약품·한올바이오파마 매수…5개 제약사는 매도",
@@ -2572,6 +3173,12 @@
       "published": "2026-07-15T08:33:42+09:00"
     },
     {
+      "title": "[증시 포인트] 상승 출발 전망...반도체 저가매수 유입 기대",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141546",
+      "source": "오피니언뉴스",
+      "published": "2026-07-15T08:33:28+09:00"
+    },
+    {
       "title": "'수주 불발' 현대중공업·한화오션, 목표주가 88만원·14만4천원으로 하향",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425021",
       "source": "연합인포맥스",
@@ -2617,7 +3224,7 @@
     },
     {
       "title": "\"서학개미, SK하이닉스 나스닥 상장 첫날 ADR 3300억어치 순매수\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54RzVLRTN6S3pTNllHVnA0TGVYb3lnSzRXaUV5TmZhNzI1dlFhYUhjNzVCTVhvN2p1ZTFPN3AwNF9mQ3Q5bkRWNFNjeWNkd2NtT01LX2dabjNpSUFmV2xJZ1hXZk5CUmxjckcwaNIBcEFVX3lxTE1LZk1nQk5uMkd1TmJrOHlGelcwOGUtdHhqWnNMQzVCVjNGVEFCTUJOdnlEemp6emttQlVNQkhmZ0Nudjc3ZGE5aW03YmlMSGY0bHp0b1hXOVExeUJQanBxSi1GTWUzZUlEVUNJLXBPeGM?oc=5",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=875114",
       "source": "글로벌경제신문",
       "published": "2026-07-15T08:27:44+09:00"
     },
@@ -2635,7 +3242,7 @@
     },
     {
       "title": "美 ADR 상장 첫날⋯8만 서학개미, SK하이닉스 3400억 ‘폭풍 매수’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iQXVRQ0gtTHJDZ18zRUpPMUpvSmtDcDFCQWtlUlhmUjI3YnV2T3NzOWdaZGVyMWhUbzIwUVRKaWxNeExNSE54X19SNXNwS1FjT1lDNA?oc=5",
+      "link": "https://www.etoday.co.kr/news/view/2603810",
       "source": "이투데이",
       "published": "2026-07-15T08:23:00+09:00"
     },
@@ -2662,6 +3269,12 @@
       "link": "https://news.nate.com/view/20260715n05626",
       "source": "네이트",
       "published": "2026-07-15T08:18:00+09:00"
+    },
+    {
+      "title": "SK하이닉스 ADR ‘첫날 3000억 베팅’ 서학개미, 27% 급등에 ‘대박’ [코주부]",
+      "link": "https://www.sedaily.com/article/20067841",
+      "source": "서울경제",
+      "published": "2026-07-15T08:17:43+09:00"
     },
     {
       "title": "[굿모닝 증시]美, 예상보다 낮은 CPI 결과에 상승…韓, 강세 출발 전망",
@@ -2703,6 +3316,12 @@
       "title": "[서치 e종목] SOOP, 유명 스트리머 복귀로 후원경제 매출↑전망…주가 향방은?",
       "link": "https://www.dailyinvest.kr/news/articleView.html?idxno=71367",
       "source": "데일리인베스트",
+      "published": "2026-07-15T08:10:00+09:00"
+    },
+    {
+      "title": "뉴욕증시, 물가우려 완화 속 반도체 랠리 재개… SK하이닉스 ADR 27%↑",
+      "link": "http://www.joseilbo.com/news/htmls/2026/07/20260715571918.html",
+      "source": "조세일보",
       "published": "2026-07-15T08:10:00+09:00"
     },
     {
@@ -2749,7 +3368,7 @@
     },
     {
       "title": "[속보] SK하이닉스, 美 ADR 급등세 8% 급등…200만원 회복",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xM3UtZVRDdVFnUDE3N2Y1OU10WS16dXN5UHh1UXhJaXdZUTU1c0JNeXBQWGJpOFBoUzFHMERHMEZMZnZOaWdITFQ0UGFwakN2UE5TNUQwUEpvQQ?oc=5",
+      "link": "https://www.hankyung.com/article/2026071557087",
       "source": "한국경제",
       "published": "2026-07-15T08:06:47+09:00"
     },
@@ -2767,7 +3386,7 @@
     },
     {
       "title": "AI 반도체, 뉴욕증시 끌어올렸다···호르무즈 충돌엔 유가도 들썩",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WHF3ckhUVVlsdUhKQVdrYWphSjVZREgzY3Z1bmExYzdaWXJrYmpfcjFyX0pkY0g3Y3NKUzAtWWZGWHFGTzFMSjl6cDJMODY1VXk1bEptS2U4WGQ1UzlHLXVhSGVBU1NxRmdfUQ?oc=5",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=148580",
       "source": "스마트비즈",
       "published": "2026-07-15T08:06:08+09:00"
     },
@@ -2779,7 +3398,7 @@
     },
     {
       "title": "\"SK하이닉스 주가, 3주 만에 36%↓…과도한 우려 매수 기회\"-KB",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZ01BN2VHVnpVMWZoWGJrX0p2UmtENDJhNXNtd3phU29wVFNxRFI4WWhUNzZaaHhMZlpydExYZ2pmRDMtQ3RJRjRZaG51QlpxdnFsRjl3UktHUQ?oc=5",
+      "link": "https://www.hankyung.com/article/2026071556596",
       "source": "한국경제",
       "published": "2026-07-15T08:05:38+09:00"
     },
@@ -2845,13 +3464,13 @@
     },
     {
       "title": "SK하이닉스 ADR 27% 폭등…반도체 업종 투자 심리 회복되나",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcGYydmg0Zmo1NDROMEc3NEJDbGtFeEdkbHZTd0tBOHdYYy1PcE9wWVB4TVF4dGFVT25rbmNlSzR6VjdBYXFnWnJWN3hMNEVLemRSY2p0VkV2MVRURW9rTmRYaHpjaDRxcE00ZFFJaW11WldPU0RlNlhJVkRNdV9veG9ud2ZGdnlGVk1N?oc=5",
+      "link": "https://www.chosun.com/economy/stock-finance/2026/07/15/QJWK4TQCMRGEPHZJWLCYY5OCVM/",
       "source": "조선일보",
       "published": "2026-07-15T07:54:00+09:00"
     },
     {
       "title": "[3분증시] 뉴욕증시, 한풀 꺾인 CPI에 안도 랠리",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6Rjk3MkNESm11a3NtRUVzQTNkUTJUbkd3Z2VobS1SMnQ2Q2RsVENpOFNfVENIRzdrdW84alFFeFBrbHAxaFpwT2UwSE1ibjJ1Q29wXzZLVjY3QktvZWlaU18ydU5OYTluYllqNGhKWjRfWWhY?oc=5",
+      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1381740",
       "source": "연합뉴스 한민족센터",
       "published": "2026-07-15T07:52:10+09:00"
     },
@@ -2862,10 +3481,28 @@
       "published": "2026-07-15T07:50:00+09:00"
     },
     {
+      "title": "[ETF리그테이블] [2026년 상반기] 상반기 상장 ETF 99개…반도체로 쏠리더니 결국 웩더독",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95XzRFVG1uYVhqVm9GMHYyenEtR3BCMFR1am4xV2FPWXNjVUp2eTdkZDN0TFE4SVFFN3dMcVNfRXBIX2hjcjB6cG43a0lEc2M?oc=5",
+      "source": "딜사이트",
+      "published": "2026-07-15T07:50:00+09:00"
+    },
+    {
+      "title": "물가 둔화에 안도, 나스닥 +0.9%↑",
+      "link": "https://kbthink.com/investment/today-pick/2607/260715-1.html",
+      "source": "KB Think",
+      "published": "2026-07-15T07:49:17+09:00"
+    },
+    {
       "title": "삼성전자, 美 증시 상장설 일축…\"검토 사실무근\"",
       "link": "https://www.sentv.co.kr/article/view/sentv202607150005",
       "source": "서울경제TV",
       "published": "2026-07-15T07:49:15+09:00"
+    },
+    {
+      "title": "증시, 이제 나아질까‥? 염승환 \"다음 주가 중요 분기점\" [모닝콜]",
+      "link": "https://v.daum.net/v/20260715074908093",
+      "source": "v.daum.net",
+      "published": "2026-07-15T07:49:08+09:00"
     },
     {
       "title": "[개장] 뉴욕증시 상승, 물가 둔화에 안도..엔비디아 4%↑",
@@ -2977,7 +3614,7 @@
     },
     {
       "title": "\"삼성전자, ADR 검토 중\" 보도 나오자…공식 입장 발표 [지금이뉴스]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yZmxPMTJ2VmZrRGttRzFxSEpGeXVjU2VobHYweHZ0U2RaMF9JSnR0UldIYnVGRGdYZUl2b3k2bU5jNnNHWFc1b1ZTNkxiZzY0ZDBZVkNkc09nZ0hHU0E?oc=5",
+      "link": "https://www.ytn.co.kr/_ln/0545_202607150726539678",
       "source": "YTN",
       "published": "2026-07-15T07:26:00+09:00"
     },
@@ -3001,7 +3638,7 @@
     },
     {
       "title": "주가 다 떨어졌는데 그 와중에 연일 급등…2배 오른 기업",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkNGdkS2VXSnFsdFhrRnNORVNTZXdmOVNtejRMdzBKM0EzSkFpNnl2c0pLVm5LaXYtVVlxSURiN1I2a1EycXFUME9haWpQRFk?oc=5",
+      "link": "https://v.daum.net/v/20260715072150690",
       "source": "v.daum.net",
       "published": "2026-07-15T07:21:50+09:00"
     },
@@ -3037,6 +3674,12 @@
       "published": "2026-07-15T07:18:16+09:00"
     },
     {
+      "title": "뉴욕증시, 반도체 강세·물가 둔화에 상승…나스닥 0.9%↑",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92254",
+      "source": "뉴시안",
+      "published": "2026-07-15T07:17:22+09:00"
+    },
+    {
       "title": "美 증시 선물, CPI 둔화 랠리 후 보합권 혼조세…‘실적 장세’ 대기",
       "link": "https://www.g-enews.com/article/Securities/2026/07/202607150713292516e250e8e188_1",
       "source": "글로벌이코노믹",
@@ -3067,6 +3710,12 @@
       "published": "2026-07-15T07:13:28+09:00"
     },
     {
+      "title": "SK하이닉스 ADR 27% 폭등… 바클레이스 “주가 2배 더 간다”",
+      "link": "https://www.kbmaeil.com/article/20260715500024",
+      "source": "경북매일",
+      "published": "2026-07-15T07:12:00+09:00"
+    },
+    {
       "title": "[아주증시포커스] 코스피 '빚투' 41%가 삼전·닉스·스퀘어…강제청산 공포 커진다",
       "link": "https://v.daum.net/v/20260715070908527",
       "source": "v.daum.net",
@@ -3086,13 +3735,13 @@
     },
     {
       "title": "미국증시, CPI 둔화에 금리 부담 완화…엔비디아·반도체주 랠리",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KdUdvZ0RTVFRubHJWemxZUUJvazVCM1d2cjJydjMwMWtfRUx0aVc2V1VnMWIzQ05kU08zUms0U1l1VnBJWFNUUXlSVzVicUFzOGJ4MTBucjlEN1drVUkySzU5Y2R0SFRNTDZqOW1pNzlEQQ?oc=5",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16134890",
       "source": "TopStarNews",
       "published": "2026-07-15T07:06:02+09:00"
     },
     {
       "title": "\"SK하이닉스, 쌀 때 사라\"…목표주가 420만원 그대로 [클릭e종목]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oek9KNFR3RTB2YUhBMkNZUm9yY2xGQjlxQnBmdWZ0RGtlTjlUWVIxVlNfVjFWZmwwNVc4SUhjUEcya1JJbk1vbnVXdUoxRzQ?oc=5",
+      "link": "https://v.daum.net/v/20260715070151379",
       "source": "v.daum.net",
       "published": "2026-07-15T07:01:51+09:00"
     },
@@ -3213,6 +3862,12 @@
       "published": "2026-07-15T06:32:30+09:00"
     },
     {
+      "title": "\"AI칩 사재기에 밀렸다\"...IBM 어닝쇼크, 주가 25% 역대급 폭락",
+      "link": "https://www.mt.co.kr/world/2026/07/15/2026071506190267134",
+      "source": "머니투데이",
+      "published": "2026-07-15T06:32:30+09:00"
+    },
+    {
       "title": "SK하이닉스 美 ADR 프리미엄 51%까지 치솟아…옵션 거래에 투자 수요 집중",
       "link": "https://www.blockmedia.co.kr/archives/1116974",
       "source": "블록미디어",
@@ -3247,6 +3902,18 @@
       "link": "https://www.mediapen.com/news/view/1110213",
       "source": "미디어펜",
       "published": "2026-07-15T06:12:08+09:00"
+    },
+    {
+      "title": "SK하이닉스 ADR 프리미엄, 사흘만에 51%에 달해...美 옵션시장 거래 개시도 영향 미쳐",
+      "link": "https://www.beyondpost.co.kr/view.php?ud=2026071506050910852aaae0046f_30",
+      "source": "비욘드포스트",
+      "published": "2026-07-15T06:10:07+09:00"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(14일) 주요공시]",
+      "link": "https://stock.mk.co.kr/news/view/1121131",
+      "source": "매일경제 마켓",
+      "published": "2026-07-15T06:05:01+09:00"
     },
     {
       "title": "뉴욕증시, 美 CPI 둔화에 일제히 '상승'…나스닥 0.9%↑",
@@ -3317,7 +3984,7 @@
     },
     {
       "title": "화장품신문 (Beautynury.com) :: [기업분석] 상장 화장품기업 1분기 ROE 평균 3.03%",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83Qmc3NnJJMnVDVUNMZVFkXzhfVm1iUV9nSS1heTNxWm8yQzl2ZXpTZ1F0UEpMTjBTLWhhUDY3eDQ2bUh6bm8ta0NlZ0lsMktIRUZRUFU4U05fY1hVMlFj?oc=5",
+      "link": "https://www.beautynury.com/news/view/111768/cat/10",
       "source": "뷰티누리",
       "published": "2026-07-15T06:00:00+09:00"
     },
@@ -3377,7 +4044,7 @@
     },
     {
       "title": "뉴욕증시, 물가우려 완화 속 반도체 랠리 재개…나스닥 1%↑(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQ1pESF9fdE1UTTdLUUlJNkxRRlRhM3M0LTk2ZVduYjJaN3NQS3dxZFdieHBYM1NjRkRFUkVkZDZSQ2pmQ2hEcFJ4Y1RYV0NZZzUtY1dSYXZKWXfSAWBBVV95cUxNemhaTElKSVpZazh4bVRlNjc4Rms0bUNlQmlVZ2tWYkhGdGxFLWVUVnQwQ0Q4TmNsVWNZVmhkWk9fNGNickhuTDJEbnVyV2R6V1E4cnVZdVBzQ3Y0STdONnY?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20260715008451072",
       "source": "연합뉴스",
       "published": "2026-07-15T05:45:58+09:00"
     },
@@ -3467,7 +4134,7 @@
     },
     {
       "title": "\"40년 만의 블랙먼데이 악몽\"… IBM, '어닝 쇼크' 선공개에 주가 23% 대폭락",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMWVNTGxSWnZfR0UtNVFQREVaVzIwNVRBRlpBYlFkbnFveDJncEN2SnhPTk9XYkt2cTVKZE5UTTN2a3FqeUZTRjVlZ1hCeUM5R0hOcnJhTmxRbS1lbVpqSkNBaTRMQ2s?oc=5",
+      "link": "https://www.choicestock.co.kr/stock/news_view/161684?bu=",
       "source": "초이스스탁",
       "published": "2026-07-15T05:32:00+09:00"
     },
@@ -3542,7 +4209,8 @@
       "title": "예상 밑돈 물가에 한숨 돌린 뉴욕 증시, 나스닥 0.9%↑",
       "link": "https://www.chosun.com/international/international_general/2026/07/15/EDHTI3N7TFHNLC6HHYBRGMOQDE/",
       "source": "조선일보",
-      "published": "2026-07-15T05:19:00+09:00"
+      "published": "2026-07-15T05:19:00+09:00",
+      "summary": "예상 밑돈 물가에 한숨 돌린 뉴욕 증시, 나스닥 0.9%↑ 예상치 밑돌았던 미 CPI 호재로 작용 SK하이닉스 27.3% 급등 국제 유가, 1%대 상승에 그쳐"
     },
     {
       "title": "반도체 랠리에 고물가 우려 완화… 뉴욕증시 일제히 상승",
@@ -4221,7 +4889,7 @@
     },
     {
       "title": "미국증시 CPI 둔화에 반등…유가 급등 속 엔비디아·테슬라 상승",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRdzNZMVA3Vkx3ZGJyRk5pYjVQdlMtTk5iMWhUVkVPeTFaa1RVUHFRc3Q0WGpPQlA1QUxFQzBBZ2kwZUZQOTJnVW13Y0tJLUdYU3V3R0dhbzBNYWpCenQ3T0pVTnVLdVR4YUxhVE1KQkJFQQ?oc=5",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16134435",
       "source": "TopStarNews",
       "published": "2026-07-14T22:52:33+09:00"
     },
@@ -4793,7 +5461,7 @@
     },
     {
       "title": "삼성전자 \"美 ADR 상장 검토 안해\"…공식 부인",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CRWxtaVZoTzBKQWhYQ284elVzQ2RrakIxNjJWSDN3cG1zT0R6amt4SzZlZ2VwRDI2OC1waEI3NEo4RWJSN29UMXZsdmJvWGc?oc=5",
+      "link": "https://v.daum.net/v/20260714191306931",
       "source": "v.daum.net",
       "published": "2026-07-14T19:13:06+09:00"
     },
@@ -4853,7 +5521,7 @@
     },
     {
       "title": "삼성전자 \"美 ADR 상장 검토 안해\"…공식 부인 입장",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iTWhmUWJBQzkwVWhLYmUtdzB2ZmlranBxMVF4ODNrSHpnNzZlc0lqWXNWOEthNHVLMl9HTUM2Y3Y3czUyTnhGMjNZZ1piTFJYWHpfMWZZRG5lYnpEaEdPbXpzTVFWQmgtdnZveTNXQnpqemJ5MEhOSzVmUQ?oc=5",
+      "link": "https://tv.edaily.co.kr/News/NewsRead?NewsId=05356246645514520&Kind=257",
       "source": "이데일리TV",
       "published": "2026-07-14T18:31:00+09:00"
     },
@@ -4868,6 +5536,12 @@
       "link": "https://kr.investing.com/news/stock-market-news/article-2014420",
       "source": "Investing.com 한국어",
       "published": "2026-07-14T18:30:00+09:00"
+    },
+    {
+      "title": "[기획] 코스닥, 결국 1년전 회귀... ‘삼전닉스’ 쏠림에 성장 뿌리 뽑힌다",
+      "link": "https://www.dt.co.kr/article/12072930",
+      "source": "dt.co.kr",
+      "published": "2026-07-14T18:29:01+09:00"
     },
     {
       "title": "\"상황 다르다\" 삼성전자, ADR 상장 \"검토 안해\"",
@@ -5566,6 +6240,12 @@
       "published": "2026-07-14T16:23:50+09:00"
     },
     {
+      "title": "법무법인(유) 세종, SK하이닉스 ADR 상장 거래 자문 성공 수행",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zTVBYVlBxWS1meEJnbzlUQmk3U1hxVkRkMlVTMXNsM1o1X2x5dmo2dlBYYU42MEtFU21HVFNiaWoyMGdJZ3BUX2FsNUR3Z0FWUElER0Y3bExXS1ZReWhCbzl1VlM0QV92NUE?oc=5",
+      "source": "intn.co.kr",
+      "published": "2026-07-14T16:22:53+09:00"
+    },
+    {
       "title": "불안해진 투심…코스피, 오르락내리락 끝에 0.7% 찔끔 상승(종합)",
       "link": "https://stock.mk.co.kr/news/view/1120822",
       "source": "매일경제 마켓",
@@ -6168,7 +6848,7 @@
     },
     {
       "title": "1000조 역대급 베팅…최태원, 美 상장 타고 '글로벌 승부수' [강경주의 테크X]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NN3lCams3eHRmcFhiWkx5YklwR3o1dUFmWnl4S3BFTERNbWViTHlTeklNcFNpaWFXbmtSUFdWWk9JUm5lN1VLdm9NVnc2eklDZ01kNUlySklZQQ?oc=5",
+      "link": "https://www.hankyung.com/article/2026071442076",
       "source": "한국경제",
       "published": "2026-07-14T14:16:15+09:00"
     },
@@ -7466,8 +8146,8 @@
         "link": "https://www.reuters.com/business/finance/wall-street-banks-ramp-up-digital-assistants-bid-to-win-productivity-race-2026-07-13/",
         "source": "Reuters",
         "published": "2026-07-14T01:41:13+09:00",
-        "latest": "2026-07-15T11:56:44+09:00",
-        "mention_count": 42,
+        "latest": "2026-07-15T14:31:01+09:00",
+        "mention_count": 44,
         "sources": [
           "Reuters",
           "24/7 Wall St.",
@@ -7495,17 +8175,40 @@
           "GuruFocus",
           "KXLY.com",
           "The Crescent-News",
+          "WSJ",
           "The Corner .eu",
           "Bloomberg.com",
           "Semafor",
           "Business Insider",
-          "WSJ",
           "The Korea Economic Daily Global Edition",
           "Crypto Briefing",
           "Seeking Alpha",
           "Yahoo Finance Australia"
         ],
         "title_en": "Federal Reserve to Purchase $10 Billion in Treasury Bonds Amid L"
+      },
+      {
+        "title": "3분기 주식 시장 전망: 투자자들은 균형 잡힌 위험과 선택적 기회에 직면해 있습니다",
+        "link": "https://global.morningstar.com/en-ca/markets/q3-stock-market-outlook-investors-face-balanced-risks-selective-opportunities",
+        "source": "Morningstar",
+        "published": "2026-07-14T01:34:54+09:00",
+        "latest": "2026-07-15T14:24:18+09:00",
+        "mention_count": 29,
+        "sources": [
+          "Morningstar",
+          "Fox Business",
+          "Barron's",
+          "MarketWatch",
+          "ABC Columbia",
+          "The American Action Forum",
+          "WSJ",
+          "CNBC",
+          "Klement on Investing | Substack",
+          "Yahoo Finance UK",
+          "eciks.org",
+          "Yahoo Finance"
+        ],
+        "title_en": "Q3 Stock Market Outlook: Investors Face Balanced Risks, Selective Opportunities"
       },
       {
         "title": "높고 변동성이 높은 인플레이션으로 인해 더욱 변동성이 큰 비즈니스 사이클이 발생합니다 - 애틀란타",
@@ -7531,35 +8234,12 @@
         "title_en": "High and Volatile Inflation Begets a More Volatile Business Cycle - Atlanta"
       },
       {
-        "title": "3분기 주식 시장 전망: 투자자들은 균형 잡힌 위험과 선택적 기회에 직면해 있습니다",
-        "link": "https://global.morningstar.com/en-ca/markets/q3-stock-market-outlook-investors-face-balanced-risks-selective-opportunities",
-        "source": "Morningstar",
-        "published": "2026-07-14T01:34:54+09:00",
-        "latest": "2026-07-15T10:14:28+09:00",
-        "mention_count": 27,
-        "sources": [
-          "Morningstar",
-          "Fox Business",
-          "Barron's",
-          "MarketWatch",
-          "ABC Columbia",
-          "The American Action Forum",
-          "WSJ",
-          "CNBC",
-          "Klement on Investing | Substack",
-          "Yahoo Finance UK",
-          "eciks.org",
-          "Yahoo Finance"
-        ],
-        "title_en": "Q3 Stock Market Outlook: Investors Face Balanced Risks, Selective Opportunities"
-      },
-      {
         "title": "당시 연준 본부는 세금 매각 목록에 올랐습니다.",
         "link": "https://www.axios.com/2026/07/13/fed-building-controversy-pearl-harbor",
         "source": "Axios",
         "published": "2026-07-14T01:16:47+09:00",
-        "latest": "2026-07-15T11:36:26+09:00",
-        "mention_count": 23,
+        "latest": "2026-07-15T14:44:36+09:00",
+        "mention_count": 25,
         "sources": [
           "Axios",
           "Reuters",
@@ -7586,7 +8266,7 @@
             "link": "https://uk.finance.yahoo.com/news/nasdaq-set-rebound-dow-called-115400326.html",
             "source": "Yahoo Finance UK",
             "published": "2026-07-14T20:57:00+09:00",
-            "latest": "2026-07-15T10:25:00+09:00",
+            "latest": "2026-07-15T14:24:30+09:00",
             "mention_count": 18,
             "sources": [
               "Yahoo Finance UK",
@@ -7609,7 +8289,7 @@
             "link": "https://insight.factset.com/sp-500-financials-sector-earnings-preview-q2-2026",
             "source": "FactSet Insight",
             "published": "2026-07-14T01:27:16+09:00",
-            "latest": "2026-07-15T09:19:15+09:00",
+            "latest": "2026-07-15T14:25:55+09:00",
             "mention_count": 17,
             "sources": [
               "FactSet Insight",
@@ -7655,7 +8335,7 @@
             "link": "https://www.wsj.com/finance/stocks/oil-jumps-as-trump-vows-to-renew-iran-blockade-e69830e7",
             "source": "WSJ",
             "published": "2026-07-14T05:15:00+09:00",
-            "latest": "2026-07-15T09:15:40+09:00",
+            "latest": "2026-07-15T14:54:52+09:00",
             "mention_count": 15,
             "sources": [
               "WSJ",
@@ -7678,7 +8358,7 @@
             "link": "https://www.tradingview.com/news/tradingview:2f21bbd54094b:0-ixic-nasdaq-composite-sheds-over-1-5-as-chip-selloff-hits-wall-street-overvalued-much/",
             "source": "TradingView",
             "published": "2026-07-14T16:54:46+09:00",
-            "latest": "2026-07-15T09:00:29+09:00",
+            "latest": "2026-07-15T14:33:44+09:00",
             "mention_count": 15,
             "sources": [
               "TradingView",
@@ -7701,8 +8381,8 @@
             "link": "https://finance.yahoo.com/markets/stocks/articles/fastenal-nasdaq-fast-q2-cy2026-122152588.html",
             "source": "Yahoo Finance",
             "published": "2026-07-14T21:21:52+09:00",
-            "latest": "2026-07-15T11:47:52+09:00",
-            "mention_count": 11,
+            "latest": "2026-07-15T14:36:15+09:00",
+            "mention_count": 13,
             "sources": [
               "Yahoo Finance",
               "StockStory",
@@ -7714,7 +8394,8 @@
               "TradingView",
               "Seeking Alpha",
               "Investing.com Nigeria",
-              "The Globe and Mail"
+              "The Globe and Mail",
+              "NewMediaWire"
             ],
             "title_en": "Fastenal’s (NASDAQ:FAST) Q2 CY2026 Sales Top Estimates"
           },
@@ -7723,7 +8404,7 @@
             "link": "https://seekingalpha.com/article/4921767-why-i-doubled-down-on-micron-stock",
             "source": "Seeking Alpha",
             "published": "2026-07-14T16:12:02+09:00",
-            "latest": "2026-07-15T07:22:57+09:00",
+            "latest": "2026-07-15T14:33:45+09:00",
             "mention_count": 10,
             "sources": [
               "Seeking Alpha",
@@ -7738,6 +8419,26 @@
               "Stock Titan"
             ],
             "title_en": "Why I Doubled Down On Micron (NASDAQ:MU)"
+          },
+          {
+            "title": "폭스(FOX)가 38.77% 상승해 월스트리트 분석가들이 기대하는 수준에 도달할 수 있을까요?",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/fox-fox-climb-38-77-135504108.html",
+            "source": "Yahoo Finance",
+            "published": "2026-07-14T22:55:04+09:00",
+            "latest": "2026-07-15T13:01:30+09:00",
+            "mention_count": 9,
+            "sources": [
+              "Yahoo Finance",
+              "LancasterOnline",
+              "Yahoo Finance Singapore",
+              "American Enterprise Institute - AEI",
+              "WTVQ",
+              "Investing.com",
+              "RTTNews",
+              "The Motley Fool",
+              "The Daily Upside"
+            ],
+            "title_en": "Can Fox (FOX) Climb 38.77% to Reach the Level Wall Street Analysts Expect?"
           },
           {
             "title": "미국-이란 전쟁 공포가 재점화되면서 S&P 500, Nasdaq, Dow는 하락 마감 — PSKY, META, GOOGL, INTC, NFLX In Focus",
@@ -7779,30 +8480,11 @@
             "title_en": "Inside SK Hynix's AI Memory Debut on US' Nasdaq Market"
           },
           {
-            "title": "폭스(FOX)가 38.77% 상승해 월스트리트 분석가들이 기대하는 수준에 도달할 수 있을까요?",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/fox-fox-climb-38-77-135504108.html",
-            "source": "Yahoo Finance",
-            "published": "2026-07-14T22:55:04+09:00",
-            "latest": "2026-07-15T05:24:18+09:00",
-            "mention_count": 8,
-            "sources": [
-              "Yahoo Finance",
-              "LancasterOnline",
-              "Yahoo Finance Singapore",
-              "American Enterprise Institute - AEI",
-              "WTVQ",
-              "Investing.com",
-              "RTTNews",
-              "The Motley Fool"
-            ],
-            "title_en": "Can Fox (FOX) Climb 38.77% to Reach the Level Wall Street Analysts Expect?"
-          },
-          {
             "title": "Popular Inc.(NASDAQ:BPOP), 높은 성장 모멘텀과 돌파 설정 보여",
             "link": "https://www.chartmill.com/news/BPOP/Chartmill-50920-Popular-Inc-NASDAQBPOP-Shows-High-Growth-Momentum-and-Breakout-Setup",
             "source": "ChartMill",
             "published": "2026-07-14T17:10:27+09:00",
-            "latest": "2026-07-15T11:46:00+09:00",
+            "latest": "2026-07-15T14:24:29+09:00",
             "mention_count": 7,
             "sources": [
               "ChartMill",
@@ -7837,7 +8519,7 @@
             "link": "https://www.marketbeat.com/instant-alerts/equipmentsharecom-nasdaqeqpt-given-new-2500-price-target-at-wells-fargo-company-2026-07-14/",
             "source": "MarketBeat",
             "published": "2026-07-14T21:12:29+09:00",
-            "latest": "2026-07-15T11:42:33+09:00",
+            "latest": "2026-07-15T14:40:48+09:00",
             "mention_count": 5,
             "sources": [
               "MarketBeat",
@@ -7849,34 +8531,36 @@
             "title_en": "EquipmentShare.com (NASDAQ:EQPT) Given New $25.00 Price Target at Wells Fargo & Company"
           },
           {
-            "title": "Australian Oilseeds Holdings (COOT)가 Nasdaq 입찰 규칙을 충족하기 위해 180일을 추가로 확보했습니다.",
-            "link": "https://www.stocktitan.net/sec-filings/COOT/6-k-australian-oilseeds-holdings-ltd-current-report-foreign-issuer-73c84bc79886.html",
-            "source": "Stock Titan",
-            "published": "2026-07-15T05:15:52+09:00",
-            "latest": "2026-07-15T08:40:00+09:00",
-            "mention_count": 4,
-            "sources": [
-              "Stock Titan",
-              "The Motley Fool",
-              "Yahoo Finance",
-              "Quiver Quantitative"
-            ],
-            "title_en": "Australian Oilseeds Holdings (COOT) gains extra 180 days to meet Nasdaq bid rule"
-          },
-          {
             "title": "Goldman Sachs, 39년 만에 IBM 최악의 날에서 다우지수를 구하다",
             "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-saves-dow-ibms-172134777.html",
             "source": "Yahoo Finance",
             "published": "2026-07-15T02:21:34+09:00",
-            "latest": "2026-07-15T06:01:06+09:00",
-            "mention_count": 4,
+            "latest": "2026-07-15T14:24:49+09:00",
+            "mention_count": 5,
             "sources": [
               "Yahoo Finance",
               "CNBC",
               "MarketWatch",
-              "Barron's"
+              "Barron's",
+              "Investing.com"
             ],
             "title_en": "Goldman Sachs Saves the Dow From IBM's Worst Day in 39 Years"
+          },
+          {
+            "title": "Australian Oilseeds Holdings (COOT)가 Nasdaq 입찰 규칙을 충족하기 위해 180일을 추가로 확보했습니다.",
+            "link": "https://www.stocktitan.net/sec-filings/COOT/6-k-australian-oilseeds-holdings-ltd-current-report-foreign-issuer-73c84bc79886.html",
+            "source": "Stock Titan",
+            "published": "2026-07-15T05:15:52+09:00",
+            "latest": "2026-07-15T13:44:31+09:00",
+            "mention_count": 5,
+            "sources": [
+              "Stock Titan",
+              "The Motley Fool",
+              "Yahoo Finance",
+              "Quiver Quantitative",
+              "MarketBeat"
+            ],
+            "title_en": "Australian Oilseeds Holdings (COOT) gains extra 180 days to meet Nasdaq bid rule"
           }
         ]
       },
@@ -7889,7 +8573,7 @@
             "source": "U.S. News & World Report",
             "published": "2026-07-15T00:44:44+09:00",
             "latest": "2026-07-15T12:12:35+09:00",
-            "mention_count": 20,
+            "mention_count": 24,
             "sources": [
               "U.S. News & World Report",
               "WAAY 31 News",
@@ -7897,12 +8581,12 @@
               "WTVB",
               "CBS News",
               "Morningstar",
+              "FOX 56 News",
               "Bloomberg.com",
               "Federal Reserve (.gov)",
               "Semafor",
               "CNN",
-              "The Business Journals",
-              "CNBC"
+              "The Business Journals"
             ],
             "title_en": "Fed Chairman Warsh Vows to Solve Inflation | National News | U.S. News"
           },
@@ -7912,7 +8596,7 @@
             "source": "CNBC",
             "published": "2026-07-14T02:07:51+09:00",
             "latest": "2026-07-15T09:39:14+09:00",
-            "mention_count": 17,
+            "mention_count": 18,
             "sources": [
               "CNBC",
               "Financial Times",
@@ -7928,6 +8612,29 @@
               "MarketWatch"
             ],
             "title_en": "A July rate hike from the Fed? The odds are rising"
+          },
+          {
+            "title": "유가 하락으로 6월 일시적 인플레이션 완화",
+            "link": "https://www.investopedia.com/june-cpi-inflation-report-12018837",
+            "source": "Investopedia",
+            "published": "2026-07-14T22:22:20+09:00",
+            "latest": "2026-07-15T14:19:57+09:00",
+            "mention_count": 16,
+            "sources": [
+              "Investopedia",
+              "Politico",
+              "Pittsburgh Post-Gazette",
+              "Fox News",
+              "Fox Business",
+              "Crypto Briefing",
+              "WPDE",
+              "WSJ",
+              "CNBC",
+              "FXEmpire",
+              "Reuters",
+              "Quiver Quantitative"
+            ],
+            "title_en": "Gas Price Dip Gave Temporary Inflation Relief In June"
           },
           {
             "title": "아침 입찰: Warsh가 의회에 직면하면서 연준이 주목을 받음",
@@ -7951,29 +8658,6 @@
               "CBS News"
             ],
             "title_en": "Morning Bid: Fed in the spotlight as Warsh faces Congress"
-          },
-          {
-            "title": "유가 하락으로 6월 일시적 인플레이션 완화",
-            "link": "https://www.investopedia.com/june-cpi-inflation-report-12018837",
-            "source": "Investopedia",
-            "published": "2026-07-14T22:22:20+09:00",
-            "latest": "2026-07-15T11:55:21+09:00",
-            "mention_count": 14,
-            "sources": [
-              "Investopedia",
-              "Politico",
-              "Pittsburgh Post-Gazette",
-              "Fox News",
-              "Fox Business",
-              "Crypto Briefing",
-              "WPDE",
-              "WSJ",
-              "CNBC",
-              "FXEmpire",
-              "Reuters",
-              "Quiver Quantitative"
-            ],
-            "title_en": "Gas Price Dip Gave Temporary Inflation Relief In June"
           },
           {
             "title": "연준과의 대화: 새로운 무역경제학의 개봉",
@@ -8017,6 +8701,22 @@
             "title_en": "Trump's Tariffs Have Been Particularly Costly for Small Businesses"
           },
           {
+            "title": "IBM은 '실망스러운' 결과에 대해 20%를 크레이터로 평가했습니다. AI CapEx 변화로 빅블루 타격.",
+            "link": "https://www.investors.com/news/technology/ibm-stock-q2-2026-results/",
+            "source": "Investor's Business Daily",
+            "published": "2026-07-14T21:45:00+09:00",
+            "latest": "2026-07-15T14:05:26+09:00",
+            "mention_count": 5,
+            "sources": [
+              "Investor's Business Daily",
+              "NDTV",
+              "WSJ",
+              "MarketBeat",
+              "CNBC"
+            ],
+            "title_en": "IBM Craters 20% On 'Disappointing' Results. Big Blue Hit By AI CapEx Shift."
+          },
+          {
             "title": "오늘, 2026년 7월 14일 화요일 최고의 CD 가격: 오늘 APY 최대 4.10%까지 확보하세요.",
             "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-14-2026-lock-in-up-to-410-apy-today-100000616.html",
             "source": "Yahoo Finance",
@@ -8030,20 +8730,6 @@
               "The Globe and Mail"
             ],
             "title_en": "Best CD rates today, Tuesday, July 14, 2026: Lock in up to 4.10% APY today"
-          },
-          {
-            "title": "IBM은 '실망스러운' 결과에 대해 20%를 크레이터로 평가했습니다. AI CapEx 변화로 빅블루 타격.",
-            "link": "https://www.investors.com/news/technology/ibm-stock-q2-2026-results/",
-            "source": "Investor's Business Daily",
-            "published": "2026-07-14T21:45:00+09:00",
-            "latest": "2026-07-15T03:45:28+09:00",
-            "mention_count": 3,
-            "sources": [
-              "Investor's Business Daily",
-              "WSJ",
-              "MarketBeat"
-            ],
-            "title_en": "IBM Craters 20% On 'Disappointing' Results. Big Blue Hit By AI CapEx Shift."
           },
           {
             "title": "화물 조난 보고서: 운송업체, 물류 폐쇄로 245개 이상의 일자리가 사라짐",
@@ -8068,8 +8754,8 @@
             "link": "https://www.cnbc.com/2026/07/14/le-slip-francais-ipo-french-underwear.html",
             "source": "CNBC",
             "published": "2026-07-14T17:58:34+09:00",
-            "latest": "2026-07-15T11:32:52+09:00",
-            "mention_count": 15,
+            "latest": "2026-07-15T14:05:29+09:00",
+            "mention_count": 21,
             "sources": [
               "CNBC",
               "Yahoo Finance",
@@ -8110,7 +8796,7 @@
             "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-piper-sandler-raise-150907743.html",
             "source": "Yahoo Finance",
             "published": "2026-07-15T00:09:07+09:00",
-            "latest": "2026-07-15T08:15:23+09:00",
+            "latest": "2026-07-15T14:30:31+09:00",
             "mention_count": 4,
             "sources": [
               "Yahoo Finance",
@@ -8119,6 +8805,18 @@
               "House.gov"
             ],
             "title_en": "Why Did Piper Sandler Raise First Merchants (FRME) Stock Price Target?"
+          },
+          {
+            "title": "Norrhydro는 주문량이 적은 가운데 상반기 매출이 균일하다고 보고했습니다.",
+            "link": "https://www.investing.com/news/stock-market-news/norrhydro-reports-flat-h1-revenue-amid-weak-order-intake-93CH-4792158",
+            "source": "Investing.com",
+            "published": "2026-07-15T14:21:39+09:00",
+            "latest": "2026-07-15T14:21:39+09:00",
+            "mention_count": 1,
+            "sources": [
+              "Investing.com"
+            ],
+            "title_en": "Norrhydro reports flat H1 revenue amid weak order intake"
           },
           {
             "title": "Tenaya의 새 CFO는 0.8365달러의 행사 가격으로 165만 주에 대한 옵션을 얻습니다.",
@@ -8142,8 +8840,8 @@
             "link": "https://finance.yahoo.com/healthcare/articles/makes-anaptysbio-anab-investment-bet-145640838.html",
             "source": "Yahoo Finance",
             "published": "2026-07-14T23:56:40+09:00",
-            "latest": "2026-07-15T08:32:00+09:00",
-            "mention_count": 16,
+            "latest": "2026-07-15T12:27:22+09:00",
+            "mention_count": 17,
             "sources": [
               "Yahoo Finance",
               "Barchart.com",
@@ -8165,8 +8863,8 @@
             "link": "https://www.cnbc.com/2026/07/13/regulators-urge-banks-to-scrutinize-loans-to-unauthorized-immigrants.html",
             "source": "CNBC",
             "published": "2026-07-14T02:37:18+09:00",
-            "latest": "2026-07-15T07:44:43+09:00",
-            "mention_count": 15,
+            "latest": "2026-07-15T14:30:00+09:00",
+            "mention_count": 16,
             "sources": [
               "CNBC",
               "CBS News",
@@ -8188,8 +8886,8 @@
             "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-retain-tt-stock-133600581.html",
             "source": "Yahoo Finance",
             "published": "2026-07-14T22:36:00+09:00",
-            "latest": "2026-07-15T07:15:04+09:00",
-            "mention_count": 11,
+            "latest": "2026-07-15T07:42:51+09:00",
+            "mention_count": 12,
             "sources": [
               "Yahoo Finance",
               "Crypto Briefing",
@@ -8201,7 +8899,8 @@
               "Reuters",
               "Yahoo Finance Singapore",
               "Yahoo Finance UK",
-              "Yahoo! Finance Canada"
+              "Yahoo! Finance Canada",
+              "Trefis"
             ],
             "title_en": "Here's Why You Should Retain TT Stock in Your Portfolio Now"
           },
@@ -8210,7 +8909,7 @@
             "link": "https://www.wsj.com/world/x-putin-junior-partner-df611b88",
             "source": "WSJ",
             "published": "2026-07-14T10:06:00+09:00",
-            "latest": "2026-07-15T10:00:00+09:00",
+            "latest": "2026-07-15T12:00:00+09:00",
             "mention_count": 8,
             "sources": [
               "WSJ",
@@ -8291,6 +8990,33 @@
             "title_en": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China"
           },
           {
+            "title": "가격 예측: YTD 230% 상승, Dell은 이 날짜에 500달러를 기록할 것입니다.",
+            "link": "https://247wallst.com/investing/2026/07/14/price-prediction-up-230-ytd-dell-will-hit-500-on-this-date/",
+            "source": "24/7 Wall St.",
+            "published": "2026-07-14T21:30:19+09:00",
+            "latest": "2026-07-15T14:19:39+09:00",
+            "mention_count": 3,
+            "sources": [
+              "24/7 Wall St.",
+              "Seeking Alpha",
+              "CoinDesk"
+            ],
+            "title_en": "Price Prediction: Up 230% YTD, Dell Will Hit $500 on This Date"
+          },
+          {
+            "title": "트럼프가 호르무즈 해협 통행료 20%를 포기하자 유가 상승 포기",
+            "link": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+            "source": "CNBC",
+            "published": "2026-07-15T00:27:23+09:00",
+            "latest": "2026-07-15T14:11:51+09:00",
+            "mention_count": 2,
+            "sources": [
+              "CNBC",
+              "WSJ"
+            ],
+            "title_en": "Oil gives up gain after Trump abandons 20% fee on Strait of Hormuz traffic"
+          },
+          {
             "title": "애플 주가의 다음 상승은 아이폰 가격 인상에서 나올 수 있다",
             "link": "https://www.marketwatch.com/story/the-next-boost-to-apples-stock-could-come-from-an-iphone-price-hike-126150cf?mod=mw_rss_topstories",
             "source": "MarketWatch",
@@ -8315,19 +9041,6 @@
               "MarketWatch"
             ],
             "title_en": "Form 4 Steel Dynamics Inc For: 14 July"
-          },
-          {
-            "title": "트럼프가 호르무즈 해협 통행료 20%를 포기하자 유가 상승 포기",
-            "link": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
-            "source": "CNBC",
-            "published": "2026-07-15T00:27:23+09:00",
-            "latest": "2026-07-15T08:26:00+09:00",
-            "mention_count": 2,
-            "sources": [
-              "CNBC",
-              "WSJ"
-            ],
-            "title_en": "Oil gives up gain after Trump abandons 20% fee on Strait of Hormuz traffic"
           },
           {
             "title": "JPMorgan, AI 배포 중에 Bancorp Inc(CUBI) 고객 추천",
@@ -8367,32 +9080,348 @@
               "MarketWatch"
             ],
             "title_en": "Greenfire to acquire Canadian oil sands producer Connacher for $900m"
-          },
-          {
-            "title": "일일 스포트라이트: 2Q26의 부문 리더 및 후발 기업",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_47601_MarketOutlook_1784028832000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-            "source": "Yahoo Finance",
-            "published": "2026-07-14T20:33:52+09:00",
-            "latest": "2026-07-15T04:31:00+09:00",
-            "mention_count": 2,
-            "sources": [
-              "Yahoo Finance",
-              "Investor's Business Daily"
-            ],
-            "title_en": "Daily Spotlight: Sector Leaders & Laggards in 2Q26"
           }
         ]
       }
     ],
-    "total_articles": 883,
-    "total_issues": 71,
+    "total_articles": 946,
+    "total_issues": 73,
     "raw": [
+      {
+        "title": "미국, 이란 미사일 기지와 방어 시스템 공습, 항구 봉쇄 재개",
+        "link": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
+        "source": "CNBC",
+        "published": "2026-07-15T14:54:52+09:00",
+        "title_en": "U.S. strikes Iranian missile sites, defense systems and reinstates port blockade"
+      },
+      {
+        "title": "ASML, AI 칩 수요 강세로 올해 두 번째로 매출 전망 인상",
+        "link": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
+        "source": "CNBC",
+        "published": "2026-07-15T14:44:36+09:00",
+        "title_en": "ASML hikes sales forecast for second time this year on strong AI chip demand"
+      },
+      {
+        "title": "EquipmentShare.com Inc의 잠금 기간이 7월 22일에 만료됩니다(NASDAQ:EQPT)",
+        "link": "https://www.marketbeat.com/instant-alerts/equipmentsharecom-incs-lock-up-period-will-expire-on-july-22nd-nasdaqeqpt-2026-07-15/",
+        "source": "MarketBeat",
+        "published": "2026-07-15T14:40:48+09:00",
+        "title_en": "EquipmentShare.com Inc's Lock-Up Period Will Expire on July 22nd (NASDAQ:EQPT)"
+      },
+      {
+        "title": "ASML 2026년 2분기 슬라이드: AI 수요로 인해 지침 인상, Intel 이정표",
+        "link": "https://www.investing.com/news/company-news/asml-q2-2026-slides-ai-demand-drives-guidance-raise-intel-milestone-93CH-4792169",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:36:15+09:00",
+        "title_en": "ASML Q2 2026 slides: AI demand drives guidance raise, Intel milestone"
+      },
+      {
+        "title": "Core Lithium Q4 FY26 슬라이드는 재고 하락에도 불구하고 재개 모멘텀을 보여줍니다.",
+        "link": "https://www.investing.com/news/company-news/core-lithium-q4-fy26-slides-show-restart-momentum-despite-stock-slip-93CH-4792168",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:36:04+09:00",
+        "title_en": "Core Lithium Q4 FY26 slides show restart momentum despite stock slip"
+      },
+      {
+        "title": "Core Lithium Q4 FY26 슬라이드는 재고 하락에 따른 운영 모멘텀을 보여줍니다.",
+        "link": "https://www.investing.com/news/company-news/core-lithium-q4-fy26-slides-show-operational-momentum-as-stock-slips-93CH-4792167",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:33:56+09:00",
+        "title_en": "Core Lithium Q4 FY26 slides show operational momentum as stock slips"
+      },
+      {
+        "title": "Great Elm Group (NASDAQ:GEG) 주가 1.4% 하락 - 다음 단계는 무엇입니까?",
+        "link": "https://www.marketbeat.com/instant-alerts/great-elm-group-nasdaqgeg-stock-price-down-14-whats-next-2026-07-14/",
+        "source": "MarketBeat",
+        "published": "2026-07-15T14:33:45+09:00",
+        "title_en": "Great Elm Group (NASDAQ:GEG) Stock Price Down 1.4% - What's Next?"
+      },
+      {
+        "title": "HireQuest(NASDAQ:HQI) 거래 2.5% 하락 - 매도 시점?",
+        "link": "https://www.marketbeat.com/instant-alerts/hirequest-nasdaqhqi-trading-down-25-time-to-sell-2026-07-14/",
+        "source": "MarketBeat",
+        "published": "2026-07-15T14:33:44+09:00",
+        "title_en": "HireQuest (NASDAQ:HQI) Trading Down 2.5% - Time to Sell?"
+      },
+      {
+        "title": "ASML 2026년 2분기 슬라이드: AI 수요 전망 상향, 높은 NA 이정표",
+        "link": "https://www.investing.com/news/company-news/asml-q2-2026-slides-outlook-raised-on-ai-demand-high-na-milestone-93CH-4792166",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:32:50+09:00",
+        "title_en": "ASML Q2 2026 slides: outlook raised on AI demand, High NA milestone"
+      },
+      {
+        "title": "월스트리트 은행은 이제 AI 주식이다",
+        "link": "https://www.ft.com/content/b77558d3-5f7d-480b-94b3-df6141e7104c",
+        "source": "Financial Times",
+        "published": "2026-07-15T14:31:01+09:00",
+        "title_en": "Wall Street banks are AI stocks now"
+      },
+      {
+        "title": "ECB의 Kocher는 현재 이란 전쟁으로 인한 2차 영향은 없다고 보고 있지만 은행은 조치를 취할 준비가 되어 있습니다.",
+        "link": "https://www.investing.com/news/economy-news/ecbs-kocher-sees-currently-no-secondround-effects-from-iran-war-but-bank-is-ready-to-act-4792165",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:30:31+09:00",
+        "title_en": "ECB’s Kocher sees currently no second-round effects from Iran war, but bank is ready to act"
+      },
+      {
+        "title": "신흥 시장의 승자를 다시 생각해 볼 시간입니다. 광범위한 지수가 그것을 자르지 못하는 이유.",
+        "link": "https://www.barrons.com/articles/emerging-markets-investing-tech-stock-concentration-risk-818d8a8f",
+        "source": "Barron's",
+        "published": "2026-07-15T14:30:00+09:00",
+        "title_en": "Time to Rethink Emerging Market Winners. Why a Broad Index Won’t Cut It."
+      },
+      {
+        "title": "SEB, 투자은행 호조와 수수료 수입으로 2분기 이익 증가",
+        "link": "https://www.investing.com/news/stock-market-news/seb-posts-higher-q2-profit-on-strong-investment-banking-fee-income-4792164",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:26:48+09:00",
+        "title_en": "SEB posts higher Q2 profit on strong investment banking, fee income"
+      },
+      {
+        "title": "수익 통화 기록: Evolution Mining은 2026년 4분기에 기록적인 현금 흐름을 기록하고 주가는 하락합니다.",
+        "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-evolution-mining-posts-record-cash-flow-in-q4-2026-shares-fall-93CH-4792163",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:25:55+09:00",
+        "title_en": "Earnings call transcript: Evolution Mining posts record cash flow in Q4 2026, shares fall"
+      },
+      {
+        "title": "ASML, AI 칩 수요 2분기 예상치 상회",
+        "link": "https://www.investing.com/news/stock-market-news/asml-tops-q2-estimates-on-ai-chip-demand-4792151",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:25:16+09:00",
+        "title_en": "ASML tops Q2 estimates on AI chip demand"
+      },
+      {
+        "title": "TomTom, 비용 절감으로 수익 감소로 2분기 수익 기록",
+        "link": "https://www.investing.com/news/stock-market-news/tomtom-logs-q2-profit-as-lower-expenses-offset-weaker-revenue-4792162",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:25:04+09:00",
+        "title_en": "TomTom logs Q2 profit as lower expenses offset weaker revenue"
+      },
+      {
+        "title": "불균형이 악화되면서 중국의 2분기 경제성장률이 3년 반 만에 최저치로 냉각되었습니다.",
+        "link": "https://www.investing.com/news/economy-news/chinas-q2-gdp-growth-slows-to-43-yy-misses-market-forecast-4792122",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:24:49+09:00",
+        "title_en": "China’s Q2 economic growth cools to 3-1/2-year low as imbalances worsen"
+      },
+      {
+        "title": "IBM은 AI 붐이 소프트웨어 예산을 압박한다고 경고합니다. 부문별 패배로 주가가 하락하다",
+        "link": "https://www.investing.com/news/stock-market-news/ibm-expects-secondquarter-revenue-below-estimates-4790496",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:24:30+09:00",
+        "title_en": "IBM warns AI boom squeezing software budgets; shares sink in sector rout"
+      },
+      {
+        "title": "Cdon은 성장 투자가 마진에 부담을 주면서 2분기 손실을 보고했습니다.",
+        "link": "https://www.investing.com/news/stock-market-news/cdon-reports-q2-loss-as-growth-investments-weigh-on-margins-93CH-4792161",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:24:29+09:00",
+        "title_en": "Cdon reports Q2 loss as growth investments weigh on margins"
+      },
+      {
+        "title": "Solstad Maritime은 더 높은 선박 활동에 대한 2026년 지침을 높였습니다.",
+        "link": "https://www.investing.com/news/stock-market-news/solstad-maritime-raises-2026-guidance-on-higher-fleet-activity-93CH-4792160",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:24:18+09:00",
+        "title_en": "Solstad Maritime raises 2026 guidance on higher fleet activity"
+      },
+      {
+        "title": "Norrhydro는 주문량이 적은 가운데 상반기 매출이 균일하다고 보고했습니다.",
+        "link": "https://www.investing.com/news/stock-market-news/norrhydro-reports-flat-h1-revenue-amid-weak-order-intake-93CH-4792158",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:21:39+09:00",
+        "title_en": "Norrhydro reports flat H1 revenue amid weak order intake"
+      },
+      {
+        "title": "Hexatronic, 2분기에 11%의 유기적 매출 성장 보고",
+        "link": "https://www.investing.com/news/stock-market-news/hexatronic-reports-11-organic-sales-growth-in-second-quarter-93CH-4792157",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:21:27+09:00",
+        "title_en": "Hexatronic reports 11% organic sales growth in second quarter"
+      },
+      {
+        "title": "미국 CPI 하락에도 불구하고 유가 상승으로 인플레이션 우려가 되살아나면서 금 하락",
+        "link": "https://www.investing.com/news/stock-market-news/gold-steadies-after-cpiled-rally-as-warsh-tempers-fed-rate-cut-optimism-4792087",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:19:57+09:00",
+        "title_en": "Gold slips as oil rally revives inflation concerns despite softer U.S. CPI"
+      },
+      {
+        "title": "BTC, ETH, SOL 가격 뉴스: 연준의 금리 인상 기대가 떨어지면서 비트코인이 64,000달러를 넘어섰습니다.",
+        "link": "https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade",
+        "source": "CoinDesk",
+        "published": "2026-07-15T14:19:39+09:00",
+        "title_en": "BTC, ETH, SOL price news: Bitcoin tops $64,000 as Fed rate-hike expectations drop"
+      },
+      {
+        "title": "AFRY 2분기 매출은 구조조정 마무리로 예상보다 높아",
+        "link": "https://www.investing.com/news/stock-market-news/afry-q2-sales-edge-past-estimates-as-restructuring-wraps-up-93CH-4792155",
+        "source": "Investing.com",
+        "published": "2026-07-15T14:18:58+09:00",
+        "title_en": "AFRY Q2 sales edge past estimates as restructuring wraps up"
+      },
+      {
+        "title": "ZoomInfo Technologies(NASDAQ:ZI) 거래가 5.5% 상승 - 매수 시점?",
+        "link": "https://www.marketbeat.com/instant-alerts/zoominfo-technologies-nasdaqzi-trading-55-higher-time-to-buy-2026-07-14/",
+        "source": "MarketBeat",
+        "published": "2026-07-15T14:15:57+09:00",
+        "title_en": "ZoomInfo Technologies (NASDAQ:ZI) Trading 5.5% Higher - Time to Buy?"
+      },
+      {
+        "title": "미국이 이란에 대한 또 다른 공습과 이란 항구 봉쇄 이후 유가 상승",
+        "link": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html",
+        "source": "CNBC",
+        "published": "2026-07-15T14:11:51+09:00",
+        "title_en": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports"
+      },
+      {
+        "title": "BlackRock(BLK)의 새로운 Nasdaq 100 ETF 및 토큰화로 인해 핵심 내러티브가 재정의될까요?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-nasdaq-100-etf-051034602.html",
+        "source": "Yahoo Finance",
+        "published": "2026-07-15T14:10:00+09:00",
+        "title_en": "Will BlackRock’s (BLK) New Nasdaq 100 ETF and Tokenization Push Redefine Its Core Narrative?"
+      },
+      {
+        "title": "2026년 상반기 생명공학 IPO가 급증해 기록을 경신하고 지난해 전체 IPO가 두 배로 늘었습니다.",
+        "link": "https://www.biospace.com/business/biotech-ipos-surge-in-h1-2026-shattering-records-and-doubling-last-years-total",
+        "source": "BioSpace",
+        "published": "2026-07-15T14:05:29+09:00",
+        "title_en": "Biotech IPOs surge in H1 of 2026, shattering records and doubling last year’s total"
+      },
+      {
+        "title": "유럽이 갑자기 드론에 큰 투자를 하는 이유",
+        "link": "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
+        "source": "CNBC",
+        "published": "2026-07-15T14:05:26+09:00",
+        "title_en": "Why Europe is suddenly betting big on drones"
+      },
+      {
+        "title": "KLX 에너지 서비스(NASDAQ:KLXE) 2.4% 거래 하락 - 매도해야 할까요?",
+        "link": "https://www.marketbeat.com/instant-alerts/klx-energy-services-nasdaqklxe-trading-down-24-should-you-sell-2026-07-14/",
+        "source": "MarketBeat",
+        "published": "2026-07-15T13:44:31+09:00",
+        "title_en": "KLX Energy Services (NASDAQ:KLXE) Trading Down 2.4% - Should You Sell?"
+      },
+      {
+        "title": "대규모 거래와 거친 거래로 인해 월스트리트 은행 수익 급증",
+        "link": "https://www.reuters.com/video/watch/idRW804115072026RP1/",
+        "source": "Reuters",
+        "published": "2026-07-15T13:29:48+09:00",
+        "title_en": "Wall Street bank earnings surge, boosted by mega-deals, wild trading"
+      },
+      {
+        "title": "미국 인플레이션 둔화 데이터에 따라 월스트리트 랠리 후 아시아 증시 상승",
+        "link": "https://www.thestar.com/news/world/asian-shares-rise-after-rally-on-wall-street-as-data-show-us-inflation-slowing/article_ddb63dc4-f86d-52ae-a395-7983a526d8c9.html",
+        "source": "Toronto Star",
+        "published": "2026-07-15T13:13:44+09:00",
+        "title_en": "Asian shares rise after rally on Wall Street as data show US inflation slowing"
+      },
+      {
+        "title": "중국 경제, 2022년 이후 가장 약한 속도로 성장",
+        "link": "https://www.wsj.com/world/china/chinas-growth-cools-more-than-expected-in-second-quarter-132e0670",
+        "source": "WSJ",
+        "published": "2026-07-15T13:12:00+09:00",
+        "title_en": "China’s Economy Grows at Weakest Pace Since 2022"
+      },
+      {
+        "title": "미국 인플레이션 둔화 데이터에 따라 월스트리트 랠리 후 아시아 증시 상승",
+        "link": "https://www.wane.com/news/business/ap-business/ap-asian-shares-rise-after-rally-on-wall-street-as-data-show-us-inflation-slowing/",
+        "source": "WANE 15",
+        "published": "2026-07-15T13:09:38+09:00",
+        "title_en": "Asian shares rise after rally on Wall Street as data show US inflation slowing"
+      },
+      {
+        "title": "미국 인플레이션 둔화 데이터에 따라 월스트리트 랠리 후 아시아 증시 상승",
+        "link": "https://www.ottumwacourier.com/news/business/asian-shares-rise-after-rally-on-wall-street-as-data-show-us-inflation-slowing/article_a678906e-8bad-5051-97f2-9817b92c333e.html",
+        "source": "Ottumwa Courier",
+        "published": "2026-07-15T13:09:38+09:00",
+        "title_en": "Asian shares rise after rally on Wall Street as data show US inflation slowing"
+      },
+      {
+        "title": "미국 인플레이션 둔화 데이터에 따라 월스트리트 랠리 후 아시아 증시 상승",
+        "link": "https://www.oskaloosa.com/news/national_news/asian-shares-rise-after-rally-on-wall-street-as-data-show-us-inflation-slowing/article_d7ce0ab9-155d-5b8a-a0b4-db9d4decef99.html",
+        "source": "Oskaloosa Herald",
+        "published": "2026-07-15T13:09:38+09:00",
+        "title_en": "Asian shares rise after rally on Wall Street as data show US inflation slowing"
+      },
+      {
+        "title": "미국 인플레이션 둔화 데이터에 따라 월스트리트 랠리 후 아시아 증시 상승",
+        "link": "https://www.independent.co.uk/news/asian-tokyo-wall-street-south-korea-japan-b3015055.html",
+        "source": "The Independent",
+        "published": "2026-07-15T13:09:00+09:00",
+        "title_en": "Asian shares rise after rally on Wall Street as data show US inflation slowing"
+      },
+      {
+        "title": "월스트리트, 미국 경제 건전성을 예상하며 기록적인 성과 달성",
+        "link": "https://www.thedailyupside.com/finance/banking/mammoth-banking-haul-sets-wall-street-records-projecting-us-economic-health/",
+        "source": "The Daily Upside",
+        "published": "2026-07-15T13:01:30+09:00",
+        "title_en": "Wall Street Takes In Record Haul, Projecting US Economic Health"
+      },
+      {
+        "title": "부드러운 인플레이션 판독으로 시장이 상승함에 따라 주식 선물이 상승합니다. 실시간 업데이트",
+        "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "published": "2026-07-15T12:54:00+09:00",
+        "title_en": "Stock futures rise as soft inflation reading lifts market: Live updates"
+      },
+      {
+        "title": "홍콩 주식시장 업데이트 | 중국 소유 증권주 전반적으로 랠리; 중개업의 올해 중반 수익 전망은 강력한 성장을 예고하고 있으며 잠재적으로 현재 저점에서 밸류에이션 회복을 가져올 가능성이 있습니다.",
+        "link": "https://www.moomoo.com/news/post/72976399/hong-kong-stock-market-update-chinese-owned-brokerage-stocks-rally",
+        "source": "Moomoo",
+        "published": "2026-07-15T12:35:12+09:00",
+        "title_en": "Hong Kong Stock Market Update | Chinese‑owned brokerage stocks rally across the board; mid-year earnings forecasts for brokerages point to strong growth, potentially driving a valuation recovery from current lows."
+      },
+      {
+        "title": "한국 대통령, 격랑 이후 주식시장이 '불안정'하다",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-15/korean-president-calls-stock-market-unstable-after-wild-swings",
+        "source": "Bloomberg.com",
+        "published": "2026-07-15T12:33:00+09:00",
+        "title_en": "Korean President Calls Stock Market ‘Unstable’ After Wild Swings"
+      },
+      {
+        "title": "홍콩 주식시장 동향 | 메이투안-W(03690)는 다시 6% 이상 상승해 월간 20% 이상 상승했다. Citi Notes LongCat-2.0 오픈 소스로 경쟁력 강화",
+        "link": "https://www.moomoo.com/news/post/72976861/hong-kong-stock-market-movement-meituan-w-03690-rises-over",
+        "source": "Moomoo",
+        "published": "2026-07-15T12:27:22+09:00",
+        "title_en": "Hong Kong Stock Market Movement | Meituan-W (03690) Rises Over 6% Again, Up More Than 20% Month-to-Date; Citi Notes LongCat-2.0 Open Source Strengthens Competitive Moat"
+      },
       {
         "title": "항소 법원은 인종 차별 철폐 명령과 관련된 루이지애나 학교 시스템에 대한 미국의 감독을 종료합니다.",
         "link": "https://www.investing.com/news/politics-news/appeals-court-ends-us-oversight-of-louisiana-school-system-related-to-desegregation-mandate-4792132",
         "source": "Investing.com",
         "published": "2026-07-15T12:12:35+09:00",
         "title_en": "Appeals court ends US oversight of Louisiana school system related to desegregation mandate"
+      },
+      {
+        "title": "아시아 시장은 월스트리트를 더 높게 추적합니다.",
+        "link": "https://www.rttnews.com/3666904/asian-markets-track-wall-street-higher.aspx",
+        "source": "RTTNews",
+        "published": "2026-07-15T12:12:00+09:00",
+        "title_en": "Asian Markets Track Wall Street Higher"
+      },
+      {
+        "title": "AI 리더십이 시험에 직면하면서 나스닥 100 코일이 ASML 수익보다 앞섰습니다.",
+        "link": "https://www.forex.com/en-us/news-and-analysis/nasdaq-100-coils-ahead-of-asml-earnings-as-ai-leadership-faces-a-test/",
+        "source": "FOREX.com",
+        "published": "2026-07-15T12:10:21+09:00",
+        "title_en": "Nasdaq 100 Coils Ahead of ASML Earnings as AI Leadership Faces a Test"
+      },
+      {
+        "title": "월스트리트 은행의 기록적인 수확 뒤에는 무엇이 있는지 살펴보십시오.",
+        "link": "https://www.bloomberg.com/news/videos/2026-07-15/what-s-behind-wall-street-banks-record-haul-video",
+        "source": "Bloomberg.com",
+        "published": "2026-07-15T12:02:13+09:00",
+        "title_en": "Watch What's Behind Wall Street Banks' Record Haul?"
+      },
+      {
+        "title": "독점 | 중국, 분쟁 해역 공격적으로 순찰. 이제 미국 해안경비대가 움직이고 있습니다.",
+        "link": "https://www.wsj.com/world/asia/china-aggressively-patrols-disputed-waters-now-the-u-s-coast-guard-is-moving-in-89d6a646",
+        "source": "WSJ",
+        "published": "2026-07-15T12:00:00+09:00",
+        "title_en": "Exclusive | China Aggressively Patrols Disputed Waters. Now the U.S. Coast Guard Is Moving In."
       },
       {
         "title": "미국이 테헤란을 계속 공격하고 이란 항구 봉쇄를 재개함에 따라 유가가 상승합니다.",
@@ -8465,6 +9494,13 @@
         "title_en": "DeepSeek explores $71 billion funding round, prepares China IPO: Bloomberg"
       },
       {
+        "title": "전체 위원회는 연준의 통화 정책 보고서에 대한 청문회를 위해 Warsh 연준 의장을 주최합니다.",
+        "link": "https://www.einpresswire.com/article/926760641/full-committee-hosts-federal-reserve-chairman-warsh-for-hearing-on-federal-reserve-s-monetary-policy-report",
+        "source": "EIN Presswire",
+        "published": "2026-07-15T11:32:00+09:00",
+        "title_en": "Full Committee Hosts Federal Reserve Chairman Warsh for Hearing on Federal Reserve’s Monetary Policy Report"
+      },
+      {
         "title": "싱가포르의 DBS는 2030년까지 7,740억 달러 이상의 자산을 목표로 삼고 있습니다.",
         "link": "https://www.investing.com/news/stock-market-news/singapores-dbs-targets-over-774-billion-in-wealth-assets-by-2030-4792120",
         "source": "Investing.com",
@@ -8491,6 +9527,13 @@
         "source": "NAI500",
         "published": "2026-07-15T11:28:31+09:00",
         "title_en": "Federal Reserve Chairman Kevin Wosh Reiterates “Zero Tolerance” for Inflation"
+      },
+      {
+        "title": "일본 Nikkei, 월스트리트를 더 높게 추적하고 ASML 실적 주목",
+        "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N43H04F:0-japan-s-nikkei-tracks-wall-street-higher-eyes-asml-earnings/",
+        "source": "TradingView",
+        "published": "2026-07-15T11:27:00+09:00",
+        "title_en": "Japan's Nikkei tracks Wall Street higher, eyes ASML earnings"
       },
       {
         "title": "Tenaya의 새 CFO는 0.8365달러의 행사 가격으로 165만 주에 대한 옵션을 얻습니다.",
@@ -8577,6 +9620,13 @@
         "title_en": "Tenaya Therapeutics Reports Inducement Grants under NASDAQ Listing Rule 5635(c)(4)"
       },
       {
+        "title": "Kaplan Fox Alerts Hub Group, Inc.(NASDAQ: HUBG) 투자자에게 2026년 8월 28일 대표 원고 마감일이 다가오고 있음",
+        "link": "https://www.newmediawire.com/news/kaplan-fox-alerts-hub-group-inc-nasdaq-hubg-investors-of-an-approaching-lead-plaintiff-deadline-on-august-28-2026-7087716",
+        "source": "NewMediaWire",
+        "published": "2026-07-15T09:54:39+09:00",
+        "title_en": "Kaplan Fox Alerts Hub Group, Inc. (NASDAQ: HUBG) Investors of an Approaching Lead Plaintiff Deadline on August 28, 2026"
+      },
+      {
         "title": "SK하이닉스, 아시아 기술주 반등에 한국 주가 11% 급등",
         "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
         "source": "CNBC",
@@ -8610,6 +9660,13 @@
         "source": "MarketWatch",
         "published": "2026-07-15T09:28:00+09:00",
         "title_en": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump"
+      },
+      {
+        "title": "화요일에 세일즈포스 주가가 폭락한 이유",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-stock-slumped-tuesday-002359790.html",
+        "source": "Yahoo Finance",
+        "published": "2026-07-15T09:23:00+09:00",
+        "title_en": "Why Salesforce Stock Slumped on Tuesday"
       },
       {
         "title": "미국 2분기 실적 전망: 섹터 로테이션 및 Mag7 밸류에이션 재설정",
@@ -8731,6 +9788,13 @@
         "title_en": "Rio Tinto posts higher Q2 iron ore sales, keeps 2026 guidance unchanged"
       },
       {
+        "title": "워시 연준 의장, 의회에서 인플레이션에 대해 증언",
+        "link": "https://www.wave3.com/2026/07/14/fed-chair-warsh-testifies-inflation-before-congress/",
+        "source": "WAVE News",
+        "published": "2026-07-15T08:42:00+09:00",
+        "title_en": "Fed Chair Warsh testifies on inflation before Congress"
+      },
+      {
         "title": "707 Cayman Holdings Limited, Nasdaq 규정 준수를 유지하기 위해 12주 통합 발표",
         "link": "https://www.quiverquant.com/news/707+Cayman+Holdings+Limited+Announces+12-for-1+Share+Consolidation+to+Maintain+Nasdaq+Compliance",
         "source": "Quiver Quantitative",
@@ -8829,6 +9893,20 @@
         "title_en": "Mineros expands share buyback program to $175 million"
       },
       {
+        "title": "Kaplan Fox는 PicS N.V.(NASDAQ: PICS) 투자자들이 수석 원고 마감일인 2026년 8월 4일 전에 회사에 연락하도록 권장합니다.",
+        "link": "https://www.newmediawire.com/news/kaplan-fox-encourages-pics-n-v-nasdaq-pics-investors-to-contact-the-firm-before-the-lead-plaintiff-deadline-on-august-4-2026-7087715",
+        "source": "NewMediaWire",
+        "published": "2026-07-15T07:56:42+09:00",
+        "title_en": "Kaplan Fox Encourages PicS N.V. (NASDAQ: PICS) Investors to Contact the Firm Before the Lead Plaintiff Deadline on August 4, 2026"
+      },
+      {
+        "title": "Kaplan Fox는 잠재적인 증권법 위반 여부에 대해 Alignment Healthcare, Inc.(NASDAQ: ALHC)를 조사하고 있습니다. 투자자는 회사에 문의하시기 바랍니다.",
+        "link": "https://www.newmediawire.com/news/kaplan-fox-is-investigating-alignment-healthcare-inc-nasdaq-alhc-for-potential-securities-law-violations-investors-are-encouraged-to-contact-the-firm-7087714",
+        "source": "NewMediaWire",
+        "published": "2026-07-15T07:54:18+09:00",
+        "title_en": "Kaplan Fox is Investigating Alignment Healthcare, Inc. (NASDAQ: ALHC) for Potential Securities Law Violations - Investors are Encouraged to Contact the Firm"
+      },
+      {
         "title": "대형은행, 월스트리트 변동성 '황금'. 뒤에 무엇이 있습니까?",
         "link": "https://www.moomoo.com/community/discussion/big-banks-strikes-gold-in-wall-street-s-volatility-what-1990197265",
         "source": "Moomoo",
@@ -8871,6 +9949,13 @@
         "title_en": "Federal Reserve Chair Kevin Warsh knows what he is talking about, GOP lawmaker says"
       },
       {
+        "title": "뉴스 랩: 워시 연준 의장은 인플레이션이 '과거의 일'이 될 것이라고 약속",
+        "link": "https://www.pbs.org/newshour/show/news-wrap-fed-chair-warsh-pledges-inflation-will-be-thing-of-the-past",
+        "source": "PBS",
+        "published": "2026-07-15T07:45:35+09:00",
+        "title_en": "News Wrap: Fed Chair Warsh pledges inflation will be 'thing of the past'"
+      },
+      {
         "title": "양식 4 Duolingo Inc 날짜: 7월 14일",
         "link": "https://www.investing.com/news/filings/form-4-duolingo-inc-for-14-july-93CH-4791996",
         "source": "Investing.com",
@@ -8897,6 +9982,13 @@
         "source": "Yahoo Finance",
         "published": "2026-07-15T07:44:17+09:00",
         "title_en": "Wall Street ends higher on cool inflation data, solid bank earnings"
+      },
+      {
+        "title": "Netflix 주식의 플레이 영역은 얼마나 넓습니까?",
+        "link": "https://www.trefis.com/stock/nflx/articles/607073/how-wide-is-the-field-of-play-for-netflix-stock/2026-07-14",
+        "source": "Trefis",
+        "published": "2026-07-15T07:42:51+09:00",
+        "title_en": "How Wide Is The Field Of Play For Netflix Stock?"
       },
       {
         "title": "Stephen 'Sarge' Guilfoyle: 월스트리트의 나머지 사람들이 도망갔을 때, 나는 파고들기로 결정했습니다.",
@@ -10166,6 +11258,13 @@
         "title_en": "First Trust Developed Markets ex-US AlphaDEX Fund (NASDAQ:FDT) Short Interest Update"
       },
       {
+        "title": "역 분할로 인해 Nasdaq 생존 이동이 촉발됨에 따라 VMAR 주식 슬라이드",
+        "link": "https://stockstotrade.com/news/vision-marine-technologies-inc-vmar-news-2026_07_14-2/",
+        "source": "StocksToTrade",
+        "published": "2026-07-15T05:02:00+09:00",
+        "title_en": "VMAR Stock Slides As Reverse Split Triggers Nasdaq Survival Move"
+      },
+      {
         "title": "오늘의 주식 시장: 연준의 금리 인상 베팅 완화로 다우, S&P 500, 나스닥 상승, 칩주 랠리",
         "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
         "source": "Yahoo Finance",
@@ -10586,6 +11685,13 @@
         "title_en": "S&P 500 Earnings Growth Remains Narrow as Energy and Technology Lead"
       },
       {
+        "title": "고위험 증언에서 Warsh는 연준 운영 개편 중에 투명성을 약속합니다.",
+        "link": "https://www.scotsmanguide.com/news/in-high-stakes-testimony-warsh-pledges-transparency-amid-fed-operational-overhaul/",
+        "source": "Scotsman Guide",
+        "published": "2026-07-15T03:36:12+09:00",
+        "title_en": "In high-stakes testimony, Warsh pledges transparency amid Fed operational overhaul"
+      },
+      {
         "title": "애플, 아이폰에서 실행하기 위해 AI 모델 축소하는 스타트업과 논의 중",
         "link": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
         "source": "CNBC",
@@ -10705,6 +11811,13 @@
         "title_en": "Federal Reserve’s Barr warns uneven AI access could slow productivity growth"
       },
       {
+        "title": "Warsh는 연준이 높은 인플레이션을 용납하지 않지만 다음 조치에 대한 힌트는 제공하지 않는다고 말했습니다.",
+        "link": "https://fox56news.com/ap-feeds/ap-general/ap-warsh-says-fed-has-no-tolerance-for-high-inflation-but-provides-no-hints-on-next-move/",
+        "source": "FOX 56 News",
+        "published": "2026-07-15T02:47:06+09:00",
+        "title_en": "Warsh says Fed has ‘no tolerance’ for high inflation but provides no hints on next move"
+      },
+      {
         "title": "월스트리트의 뜨거운 분기 이후 대형 은행의 이익 급증",
         "link": "https://www.wsj.com/finance/banking/big-banks-profits-surge-after-a-red-hot-quarter-on-wall-street-7a25ffbe",
         "source": "WSJ",
@@ -10752,6 +11865,13 @@
         "source": "Reuters",
         "published": "2026-07-15T02:37:08+09:00",
         "title_en": "Citi shares fall as investor worry over expenses overshadows second-quarter profit beat"
+      },
+      {
+        "title": "워시 \"연준은 지속적으로 높은 인플레이션을 용납하지 않을 것\"",
+        "link": "https://english.elpais.com/economy-and-business/2026-07-14/warsh-says-the-fed-will-not-tolerate-persistently-high-inflation.html",
+        "source": "EL PAÍS English",
+        "published": "2026-07-15T02:37:07+09:00",
+        "title_en": "Warsh says the Fed will not tolerate persistently high inflation"
       },
       {
         "title": "월스트리트 은행들은 AI '슈퍼 사이클'이 거래와 자금 조달을 촉진할 것으로 보고 있습니다.",
@@ -12266,6 +13386,13 @@
         "title_en": "⁠JP Morgan Just Upgraded The Stock It Thinks Is Most Shielded From Geopolitical Crises"
       },
       {
+        "title": "IBM 주가는 초기 결과가 월스트리트를 실망시킨 후 24% 급락했습니다.",
+        "link": "https://www.ndtv.com/business-news/ibm-shares-crash-24-after-warning-of-disappointing-results-11770840",
+        "source": "NDTV",
+        "published": "2026-07-14T23:08:38+09:00",
+        "title_en": "IBM Shares Plummet 24% After Initial Results Disappoint Wall Street"
+      },
+      {
         "title": "Microsoft: 비용을 지불하지 않고 성장에 큰 투자(NASDAQ:MSFT)",
         "link": "https://seekingalpha.com/article/4921918-microsoft-betting-big-on-growth-without-paying-up-for-it",
         "source": "Seeking Alpha",
@@ -12719,6 +13846,13 @@
         "source": "Yahoo Finance",
         "published": "2026-07-14T22:30:04+09:00",
         "title_en": "Wall Street Bulls Look Optimistic About Delta (DAL): Should You Buy?"
+      },
+      {
+        "title": "월스트리트 분석가들이 낙관적으로 보이므로 AbbVie(ABBV)를 매수해야 합니까?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/abbvie-abbv-buy-wall-street-133004224.html",
+        "source": "Yahoo Finance",
+        "published": "2026-07-14T22:30:04+09:00",
+        "title_en": "Is AbbVie (ABBV) a Buy as Wall Street Analysts Look Optimistic?"
       },
       {
         "title": "월스트리트의 강세 전망을 토대로 JD.com(JD)에 투자할 가치가 있나요?",
@@ -14007,6 +15141,13 @@
         "source": "ChartMill",
         "published": "2026-07-14T17:10:27+09:00",
         "title_en": "Popular Inc. (NASDAQ:BPOP) Shows High Growth Momentum and Breakout Setup"
+      },
+      {
+        "title": "Lindsey Graham의 최종 임무 살펴보기: 우크라이나 구하기",
+        "link": "https://www.wsj.com/world/lindsey-graham-death-ukraine-russia-81ccfe7f",
+        "source": "WSJ",
+        "published": "2026-07-14T17:06:36+09:00",
+        "title_en": "Inside Lindsey Graham’s Final Mission: Saving Ukraine"
       },
       {
         "title": "삼성전자, SK하이닉스 나스닥 상장 후 ADR 상장 검토",
