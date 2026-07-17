@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T16:01:08.276778+09:00",
+  "generated_at": "2026-07-17T16:24:16.213513+09:00",
   "topic": {
     "id": "stock",
     "label": "주식",
@@ -59,8 +59,8 @@
       "link": "https://stock.mk.co.kr/news/view/1122818",
       "source": "매일경제 마켓",
       "published": "2026-07-17T10:38:04+09:00",
-      "latest": "2026-07-17T14:16:00+09:00",
-      "mention_count": 17,
+      "latest": "2026-07-17T15:51:20+09:00",
+      "mention_count": 18,
       "sources": [
         "매일경제 마켓",
         "v.daum.net",
@@ -599,6 +599,19 @@
           ]
         },
         {
+          "title": "반도체 주가 아닌 ‘가격’ 보라는 신현송…AI시대 메모리 역설",
+          "link": "https://www.koreadaily.com/article/20260716235039495",
+          "source": "미주중앙일보",
+          "published": "2026-07-17T15:50:00+09:00",
+          "latest": "2026-07-17T15:50:04+09:00",
+          "mention_count": 2,
+          "sources": [
+            "미주중앙일보",
+            "중앙일보"
+          ],
+          "summary": "“반도체 기업의 주가보다 반도체 가격 자체를 주시하는 게 좋습니다.” 지난 16일 한국은행 금융통화위원회 기자회견에서 신현송 총재가 던진 한마디는 이번 금리 인상의 의미를 압축한다. 이날 한은은 기준금리를 0.25%..."
+        },
+        {
           "title": "日 키옥시아 주가, 사상 최고치서 반토막",
           "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425590",
           "source": "연합인포맥스",
@@ -649,18 +662,6 @@
             "한겨레"
           ],
           "summary": "이재명 대통령이 ‘주가누르기 방지법(상속·증여세법 개정안)’ 통과에 속도를 내달라고 주문한 가운데, 해당 법안의 기준으로 거론되는 주가순자산비율(PBR) 0.8배 미만 기업이 국내 상장사의 절반에 육박하는 것으로 나타났다. 다만 증권가는 모든 저PBR 기업이 아니라 수…"
-        },
-        {
-          "title": "“공포가 주가 흔들면 저가매수”…반도체 피크아웃론 반박한 SK증권 [여의도란도란]",
-          "link": "https://stock.mk.co.kr/news/view/1122812",
-          "source": "매일경제 마켓",
-          "published": "2026-07-17T09:21:42+09:00",
-          "latest": "2026-07-17T09:21:42+09:00",
-          "mention_count": 2,
-          "sources": [
-            "매일경제 마켓",
-            "매일경제"
-          ]
         }
       ]
     },
@@ -879,9 +880,21 @@
       ]
     }
   ],
-  "total_articles": 731,
-  "total_issues": 324,
+  "total_articles": 741,
+  "total_issues": 327,
   "raw": [
+    {
+      "title": "Karnell 2026년 2분기 사상 최고 마진 기록, 주가 15% 급등",
+      "link": "https://kr.investing.com/news/transcripts/article-93CH-2019136",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-17T16:08:00+09:00"
+    },
+    {
+      "title": "‘中 D램 공룡’ CXMT 상장 임박…‘최대 IPO’ 도전장 [투자360]",
+      "link": "https://v.daum.net/v/20260717160212169",
+      "source": "v.daum.net",
+      "published": "2026-07-17T16:02:12+09:00"
+    },
     {
       "title": "구글 '제미나이 3.5 프로' 출시 지연에 알파벳 주가 4% 넘게 하락",
       "link": "https://www.hankyung.com/article/202607171084i",
@@ -895,10 +908,29 @@
       "published": "2026-07-17T15:55:24+09:00"
     },
     {
+      "title": "[속보]최태원 “SK하닉 가만히 갖고 있으면 돼, 주가 우상향”",
+      "link": "https://www.munhwa.com/article/11603254",
+      "source": "문화일보",
+      "published": "2026-07-17T15:51:20+09:00"
+    },
+    {
       "title": "반도체 주가 아닌 ‘가격’ 보라는 신현송…AI시대 메모리 역설",
       "link": "https://www.joongang.co.kr/article/25445935",
       "source": "중앙일보",
       "published": "2026-07-17T15:50:04+09:00"
+    },
+    {
+      "title": "반도체 주가 아닌 ‘가격’ 보라는 신현송…AI시대 메모리 역설",
+      "link": "https://www.koreadaily.com/article/20260716235039495",
+      "source": "미주중앙일보",
+      "published": "2026-07-17T15:50:00+09:00",
+      "summary": "“반도체 기업의 주가보다 반도체 가격 자체를 주시하는 게 좋습니다.” 지난 16일 한국은행 금융통화위원회 기자회견에서 신현송 총재가 던진 한마디는 이번 금리 인상의 의미를 압축한다. 이날 한은은 기준금리를 0.25%..."
+    },
+    {
+      "title": "번스타인 소시엣 제네랄, 넷플릭스 목표주가 하향 조정…매출 우려",
+      "link": "https://kr.investing.com/news/analyst-ratings/article-93CH-2019115",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-17T15:47:00+09:00"
     },
     {
       "title": "JP모건, 마진 부진 및 부진한 가이던스로 Wipro 목표주가 하향 조정",
@@ -926,6 +958,12 @@
       "summary": "“제헌절이 살렸다” 17일 한 포털사이트의 SK하이닉스 종목토론방에 올라온 글이다. SNS 등 온라인에 올라온 SK하이닉스 주식 관련 최태원 회장 밈(meme)이번주 들어 출렁이던 SK하이닉스 주가는 전날 각각 11% 하락한 184만2000원에 정규장 거래를 마무..."
     },
     {
+      "title": "\"제헌절이 살렸다\" 공포 속 개미, \"갖고 있으라\" 최태원에 \"믿는다\"",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02843766645515504&mediaCodeNo=257",
+      "source": "edaily.co.kr",
+      "published": "2026-07-17T15:32:56+09:00"
+    },
+    {
       "title": "몬타주 테크 주가, 오늘 왜 떨어졌나?",
       "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2019076",
       "source": "Investing.com 한국어",
@@ -943,6 +981,12 @@
       "source": "v.daum.net",
       "published": "2026-07-17T15:06:09+09:00",
       "summary": "일본 반도체 대장주 키옥시아가 17일 장중 하한가로 폭락하면서 메모리 반도체 투자 심리를 악화시키고 있다. 이날 국내 증시는 제헌절 공휴일로 문을 닫았다. 주말 사이 분위기 반전을 꿰하지 못하면 내주 국내 증시 투자 심리에도 부정적인 영향을 미칠 것으로 보인다. 17일…"
+    },
+    {
+      "title": "중동 긴장 고조에 유럽 증시 하락…호실적으로 주간 손실 제한",
+      "link": "https://kr.investing.com/news/stock-market-news/article-2019143",
+      "source": "Investing.com 한국어",
+      "published": "2026-07-17T14:59:00+09:00"
     },
     {
       "title": "[청원 언박싱] 코스닥 생태계 복원 및 정책 전면 수정 촉구에 관한 청원",
@@ -1356,6 +1400,12 @@
       "published": "2026-07-17T10:37:10+09:00"
     },
     {
+      "title": "아이렌, 목요일 주가 9% 급락한 이유는?",
+      "link": "https://kr.benzinga.com/news/usa/trading/%EC%95%84%EC%9D%B4%EB%A0%8C-%EB%AA%A9%EC%9A%94%EC%9D%BC-%EC%A3%BC%EA%B0%80-9-%EA%B8%89%EB%9D%BD%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94/",
+      "source": "Benzinga",
+      "published": "2026-07-17T10:24:08+09:00"
+    },
+    {
       "title": "“구글, 최신 AI 모델 출시 수개월 지연”…주가 4.4% 하락",
       "link": "https://www.sedaily.com/article/20068854",
       "source": "서울경제",
@@ -1564,6 +1614,12 @@
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000050572",
       "source": "진일보",
       "published": "2026-07-17T08:04:20+09:00"
+    },
+    {
+      "title": "코스피 뒤흔든 주범은 역대급 과속과 반도체 쏠림",
+      "link": "https://www.donga.com/news/amp/all/20260717/134315871/1",
+      "source": "동아일보",
+      "published": "2026-07-17T08:04:00+09:00"
     },
     {
       "title": "상장은 줄었는데 더 닮아간다…'AI 코인' 함께 담는 업비트·빗썸",
@@ -2493,6 +2549,12 @@
       "link": "https://www.joongang.co.kr/article/25445818",
       "source": "중앙일보",
       "published": "2026-07-17T00:20:00+09:00"
+    },
+    {
+      "title": "[박수련의 시시각각] ‘오겜 증시’의 무책임한 프런트맨",
+      "link": "https://v.daum.net/v/20260717001751295",
+      "source": "v.daum.net",
+      "published": "2026-07-17T00:17:51+09:00"
     },
     {
       "title": "‘오겜 증시’의 무책임한 프런트맨",
@@ -5331,7 +5393,7 @@
         "link": "https://www.detroitnews.com/story/business/2026/07/15/wall-street-rises-with-earnings-data-paypal-jumps-on-takeover-offer/90928536007/",
         "source": "The Detroit News",
         "published": "2026-07-16T05:24:00+09:00",
-        "latest": "2026-07-17T15:32:33+09:00",
+        "latest": "2026-07-17T16:04:18+09:00",
         "mention_count": 70,
         "sources": [
           "The Detroit News",
@@ -5400,7 +5462,7 @@
         "link": "https://www.thewellnews.com/federal-reserve/warsh-tells-congress-fed-remains-focused-on-price-stability/",
         "source": "The Well News",
         "published": "2026-07-16T06:10:59+09:00",
-        "latest": "2026-07-17T15:48:32+09:00",
+        "latest": "2026-07-17T16:04:35+09:00",
         "mention_count": 22,
         "sources": [
           "The Well News",
@@ -5423,8 +5485,8 @@
         "link": "https://www.arkansasonline.com/news/2026/jul/15/walmarts-ex-ceo-mcmillon-will-head-federal/",
         "source": "The Arkansas Democrat-Gazette",
         "published": "2026-07-16T11:10:00+09:00",
-        "latest": "2026-07-17T12:36:33+09:00",
-        "mention_count": 20,
+        "latest": "2026-07-17T15:58:12+09:00",
+        "mention_count": 21,
         "sources": [
           "The Arkansas Democrat-Gazette",
           "Northwest Arkansas Democrat-Gazette",
@@ -5446,6 +5508,29 @@
       {
         "name": "시황",
         "articles": [
+          {
+            "title": "Ford Motor Company(F)가 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ford-motor-company-f-beats-214505297.html",
+            "source": "Yahoo Finance",
+            "published": "2026-07-16T06:45:05+09:00",
+            "latest": "2026-07-17T15:40:52+09:00",
+            "mention_count": 19,
+            "sources": [
+              "Yahoo Finance",
+              "Bloomberg.com",
+              "HousingWire",
+              "Zacks Investment Research",
+              "Yahoo Finance Singapore",
+              "Investopedia",
+              "Reuters",
+              "CNBC",
+              "Semafor",
+              "The Week",
+              "Roll Call",
+              "A Wealth of Common Sense"
+            ],
+            "title_en": "Ford Motor Company (F) Beats Stock Market Upswing: What Investors Need to Know"
+          },
           {
             "title": "트럼프, 주식 매입 후 트루소셜 데이에 기업 홍보",
             "link": "https://www.cnn.com/2026/07/16/us/trump-stock-sales-truth-social-invs-vis",
@@ -5470,35 +5555,12 @@
             "title_en": "Trump promoted companies on Truth Social days after buying their stocks"
           },
           {
-            "title": "Ford Motor Company(F)가 주식 시장 상승세를 이겼습니다: 투자자가 알아야 할 사항",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/ford-motor-company-f-beats-214505297.html",
-            "source": "Yahoo Finance",
-            "published": "2026-07-16T06:45:05+09:00",
-            "latest": "2026-07-17T15:40:52+09:00",
-            "mention_count": 18,
-            "sources": [
-              "Yahoo Finance",
-              "Bloomberg.com",
-              "HousingWire",
-              "Zacks Investment Research",
-              "Yahoo Finance Singapore",
-              "Investopedia",
-              "Reuters",
-              "CNBC",
-              "Semafor",
-              "The Week",
-              "Roll Call",
-              "A Wealth of Common Sense"
-            ],
-            "title_en": "Ford Motor Company (F) Beats Stock Market Upswing: What Investors Need to Know"
-          },
-          {
             "title": "AI 주식은 전 세계적으로 다시 폭락하고 유가는 상승",
             "link": "https://lancasteronline.com/business/stock_market/asian-shares-mostly-decline-with-south-koreas-kospi-down-6-6-while-oil-prices-slip/article_fc8b7cdd-7df5-5bdb-85ed-74f4cef2e33f.html",
             "source": "LancasterOnline",
             "published": "2026-07-16T23:43:31+09:00",
             "latest": "2026-07-17T15:07:57+09:00",
-            "mention_count": 18,
+            "mention_count": 19,
             "sources": [
               "LancasterOnline",
               "Yahoo Finance",
@@ -5589,7 +5651,7 @@
             "link": "https://www.moomoo.com/community/feed/116930808053769",
             "source": "Moomoo",
             "published": "2026-07-16T23:15:00+09:00",
-            "latest": "2026-07-17T14:28:08+09:00",
+            "latest": "2026-07-17T15:51:59+09:00",
             "mention_count": 11,
             "sources": [
               "Moomoo",
@@ -5724,7 +5786,7 @@
             "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-426-4797053",
             "source": "Investing.com",
             "published": "2026-07-17T06:20:03+09:00",
-            "latest": "2026-07-17T15:30:05+09:00",
+            "latest": "2026-07-17T16:00:04+09:00",
             "mention_count": 5,
             "sources": [
               "Investing.com",
@@ -5761,7 +5823,7 @@
             "link": "https://www.cnbc.com/2026/07/16/us-treasury-yields-wall-street-inflation-employment-data.html",
             "source": "CNBC",
             "published": "2026-07-16T18:21:50+09:00",
-            "latest": "2026-07-17T15:16:17+09:00",
+            "latest": "2026-07-17T16:06:57+09:00",
             "mention_count": 14,
             "sources": [
               "CNBC",
@@ -5784,7 +5846,7 @@
             "link": "https://www.scmp.com/news/world/united-states-canada/article/3360731/ex-us-fed-adviser-gets-3-years-prison-china-secrets-case",
             "source": "South China Morning Post",
             "published": "2026-07-16T07:53:23+09:00",
-            "latest": "2026-07-17T15:14:51+09:00",
+            "latest": "2026-07-17T16:01:13+09:00",
             "mention_count": 12,
             "sources": [
               "South China Morning Post",
@@ -5807,8 +5869,8 @@
             "link": "https://www.reuters.com/commentary/breakingviews/foes-fed-independence-take-aim-enforcement-2026-07-16/",
             "source": "Reuters",
             "published": "2026-07-17T02:24:22+09:00",
-            "latest": "2026-07-17T14:30:00+09:00",
-            "mention_count": 9,
+            "latest": "2026-07-17T16:10:30+09:00",
+            "mention_count": 10,
             "sources": [
               "Reuters",
               "Breakingviews",
@@ -5818,7 +5880,8 @@
               "MarketWatch",
               "Investing.com",
               "WSJ",
-              "Digital Watch Observatory"
+              "Digital Watch Observatory",
+              "Benzinga"
             ],
             "title_en": "Breakingviews - Foes of Fed independence take aim at enforcement"
           },
@@ -5922,6 +5985,30 @@
             "title_en": "AptarGroup declares $0.48 quarterly dividend"
           },
           {
+            "title": "하니웰 주식은 7월 23일 수익 보고서에서 2.9% 움직일 수 있습니다.",
+            "link": "https://www.investing.com/news/stock-market-news/honeywell-stock-may-move-29-on-july-23-earnings-report-93CH-4796614",
+            "source": "Investing.com",
+            "published": "2026-07-17T03:55:24+09:00",
+            "latest": "2026-07-17T16:04:58+09:00",
+            "mention_count": 1,
+            "sources": [
+              "Investing.com"
+            ],
+            "title_en": "Honeywell stock may move 2.9% on July 23 earnings report"
+          },
+          {
+            "title": "Chipotle이 타코의 땅에 들어서고 있습니다. 멕시코 사람들이 물까요?",
+            "link": "https://www.investing.com/news/stock-market-news/chipotle-is-entering-the-land-of-the-taco-will-mexicans-bite-4797353",
+            "source": "Investing.com",
+            "published": "2026-07-17T11:48:26+09:00",
+            "latest": "2026-07-17T16:03:30+09:00",
+            "mention_count": 1,
+            "sources": [
+              "Investing.com"
+            ],
+            "title_en": "Chipotle is entering the land of the taco. Will Mexicans bite?"
+          },
+          {
             "title": "Momentum Group 2026년 2분기 슬라이드: 인수로 마진이 23% 증가",
             "link": "https://www.investing.com/news/company-news/momentum-group-q2-2026-slides-margins-jump-23-on-acquisitions-93CH-4797458",
             "source": "Investing.com",
@@ -5944,30 +6031,6 @@
               "Investing.com"
             ],
             "title_en": "Valterra Platinum expects earnings to surge over 1,300%"
-          },
-          {
-            "title": "Chipotle이 타코의 땅에 들어서고 있습니다. 멕시코 사람들이 물까요?",
-            "link": "https://www.investing.com/news/stock-market-news/chipotle-is-entering-the-land-of-the-taco-will-mexicans-bite-4797353",
-            "source": "Investing.com",
-            "published": "2026-07-17T11:48:26+09:00",
-            "latest": "2026-07-17T11:48:26+09:00",
-            "mention_count": 1,
-            "sources": [
-              "Investing.com"
-            ],
-            "title_en": "Chipotle is entering the land of the taco. Will Mexicans bite?"
-          },
-          {
-            "title": "하니웰 주식은 7월 23일 수익 보고서에서 2.9% 움직일 수 있습니다.",
-            "link": "https://www.investing.com/news/stock-market-news/honeywell-stock-may-move-29-on-july-23-earnings-report-93CH-4796614",
-            "source": "Investing.com",
-            "published": "2026-07-17T03:55:24+09:00",
-            "latest": "2026-07-17T04:10:06+09:00",
-            "mention_count": 1,
-            "sources": [
-              "Investing.com"
-            ],
-            "title_en": "Honeywell stock may move 2.9% on July 23 earnings report"
           }
         ]
       },
@@ -5979,7 +6042,7 @@
             "link": "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972",
             "source": "WSJ",
             "published": "2026-07-16T10:03:00+09:00",
-            "latest": "2026-07-17T13:00:33+09:00",
+            "latest": "2026-07-17T15:15:00+09:00",
             "mention_count": 8,
             "sources": [
               "WSJ",
@@ -6016,7 +6079,7 @@
             "link": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
             "source": "MarketWatch",
             "published": "2026-07-17T02:59:00+09:00",
-            "latest": "2026-07-17T12:49:10+09:00",
+            "latest": "2026-07-17T16:07:30+09:00",
             "mention_count": 5,
             "sources": [
               "MarketWatch",
@@ -6105,7 +6168,7 @@
             "link": "https://www.investing.com/news/stock-market-news/microsoft-coils-at-range-edge-amid-breakout-tension-live-levels-93CH-4788804",
             "source": "Investing.com",
             "published": "2026-07-17T04:09:19+09:00",
-            "latest": "2026-07-17T08:48:00+09:00",
+            "latest": "2026-07-17T16:04:41+09:00",
             "mention_count": 2,
             "sources": [
               "Investing.com",
@@ -6189,9 +6252,93 @@
         ]
       }
     ],
-    "total_articles": 737,
-    "total_issues": 69,
+    "total_articles": 756,
+    "total_issues": 70,
     "raw": [
+      {
+        "title": "나스닥은 칩 주식 매도 속에 1.5% 하락: 투자자 심리 약화, 탐욕 지수 '공포'로 이동",
+        "link": "https://www.benzinga.com/markets/market-summary/26/07/60516921/nasdaq-tumbles-1-5-amid-selloff-in-chip-stocks-investor-sentiment-weakens-greed-index-moves-to-fear-zone",
+        "source": "Benzinga",
+        "published": "2026-07-17T16:10:30+09:00",
+        "title_en": "Nasdaq Tumbles 1.5% Amid Selloff In Chip Stocks: Investor Sentiment Weakens, Greed Index Moves To ‘Fear’"
+      },
+      {
+        "title": "은은 가파른 하락세, RSI는 27: 시간별 수준",
+        "link": "https://www.investing.com/news/commodities-news/silver-plunges-15-toward-key-support-live-levels-93CH-4787512",
+        "source": "Investing.com",
+        "published": "2026-07-17T16:07:30+09:00",
+        "title_en": "Silver in steep downtrend, RSI at 27: Hourly levels"
+      },
+      {
+        "title": "트럼프, 선거 보안을 공화당 중간투쟁의 중심에 두다",
+        "link": "https://www.investing.com/news/politics-news/trump-puts-election-security-at-center-of-republicans-midterm-fight-4797482",
+        "source": "Investing.com",
+        "published": "2026-07-17T16:06:57+09:00",
+        "title_en": "Trump puts election security at center of Republicans’ midterm fight"
+      },
+      {
+        "title": "수익 통화 기록: Karnell은 2026년 2분기 마진 기록을 게시하고 주가는 15% 상승했습니다.",
+        "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-karnell-posts-record-q2-2026-margin-shares-jump-15-93CH-4797480",
+        "source": "Investing.com",
+        "published": "2026-07-17T16:04:58+09:00",
+        "title_en": "Earnings call transcript: Karnell posts record Q2 2026 margin, shares jump 15%"
+      },
+      {
+        "title": "비트코인이 Ichimoku Cloud 아래로 떨어지다: 라이브 약세 수준",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-at-supertrend-support-hourly-levels-93CH-4787508",
+        "source": "Investing.com",
+        "published": "2026-07-17T16:04:46+09:00",
+        "title_en": "Bitcoin breaks below Ichimoku Cloud: Live bearish levels"
+      },
+      {
+        "title": "$4,087 저항 아래의 금곰 깃발: 라이브 레벨",
+        "link": "https://www.investing.com/news/commodities-news/gold-trapped-below-4160-resistance-hourly-levels-93CH-4787504",
+        "source": "Investing.com",
+        "published": "2026-07-17T16:04:41+09:00",
+        "title_en": "Gold bear flag below $4,087 resistance: Live levels"
+      },
+      {
+        "title": "Saab 주문 급증으로 방산 수요가 강력한 매출 성장을 견인하면서 2분기 이익이 증가했습니다.",
+        "link": "https://www.investing.com/news/earnings/saab-order-surge-lifts-q2-profit-as-defense-demand-drives-strong-sales-growth-4797479",
+        "source": "Investing.com",
+        "published": "2026-07-17T16:04:35+09:00",
+        "title_en": "Saab order surge lifts Q2 profit as defense demand drives strong sales growth"
+      },
+      {
+        "title": "El-Erian은 Dow, S&P 500이 Nasdaq을 따라잡으면서 '매혹적인' 시장 변화를 표시했습니다.",
+        "link": "https://www.tradingview.com/news/stocktwits:65488d53d094b:0-el-erian-flags-fascinating-market-shift-as-dow-s-p-500-catch-up-to-nasdaq/",
+        "source": "TradingView",
+        "published": "2026-07-17T16:04:18+09:00",
+        "title_en": "El-Erian Flags ‘Fascinating’ Market Shift As Dow, S&P 500 Catch Up To Nasdaq"
+      },
+      {
+        "title": "비트코인은 금리 불안으로 63,000달러 아래로 하락하고 이란 긴장이 고조되고 있습니다.",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-63k-as-rate-jitters-iran-tensions-weigh-4797477",
+        "source": "Investing.com",
+        "published": "2026-07-17T16:03:30+09:00",
+        "title_en": "Bitcoin dips below $63k as rate jitters, Iran tensions weigh"
+      },
+      {
+        "title": "Wise는 회계연도 1분기에 25%의 매출 성장을 이룬 후 연간 지침을 반복합니다.",
+        "link": "https://www.investing.com/news/earnings/wise-reiterates-fullyear-guidance-after-25-revenue-growth-in-fiscal-q1-4797475",
+        "source": "Investing.com",
+        "published": "2026-07-17T16:01:13+09:00",
+        "title_en": "Wise reiterates full-year guidance after 25% revenue growth in fiscal Q1"
+      },
+      {
+        "title": "일본 증시는 장 마감에 하락세를 보이고 있습니다. 닛케이 225는 3.96% 하락",
+        "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-396-4797468",
+        "source": "Investing.com",
+        "published": "2026-07-17T16:00:04+09:00",
+        "title_en": "Japan stocks lower at close of trade; Nikkei 225 down 3.96%"
+      },
+      {
+        "title": "Raghuram Rajan 전 RBI ​​주지사, 미국 연방준비제도(Fed) 태스크포스에 2명의 PIO 임명",
+        "link": "https://www.connectedtoindia.com/ex-rbi-governor-raghuram-rajan-2-pios-named-to-key-us-federal-reserve-task-force/",
+        "source": "connectedtoindia.com",
+        "published": "2026-07-17T15:58:12+09:00",
+        "title_en": "Ex RBI Governor Raghuram Rajan, 2 PIOs named to key US Federal Reserve task force"
+      },
       {
         "title": "운송주와 AI 열풍에 힘입은 주식시장 랠리",
         "link": "https://www.krtv.com/videos/news/national-politics/stock-market-rally-fueled-by-transportation-stocks-and-ai-excitement",
@@ -6205,6 +6352,13 @@
         "source": "MarketBeat",
         "published": "2026-07-17T15:54:35+09:00",
         "title_en": "First Solar, Inc. (NASDAQ:FSLR) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts"
+      },
+      {
+        "title": "$E-mini NASDAQ 100 선물 (SEP6) (NQmain.US)$ 저렴하고 좋습니다. 가격 전쟁. 부정적인 ROI. 죽음의 나선.",
+        "link": "https://www.moomoo.com/community/feed/e-mini-nasdaq-100-futures-sep6-nqmain-us-cheap-n-116933992054790",
+        "source": "Moomoo",
+        "published": "2026-07-17T15:51:59+09:00",
+        "title_en": "$E-mini NASDAQ 100 Futures (SEP6) (NQmain.US)$ Cheap n Good. Price war. Negative ROI. Death spiral."
       },
       {
         "title": "Seven & i 주가는 폴란드 편의점 체인 Zabka와의 지분 협상 보고로 3.6% 상승 마감했습니다.",
@@ -6256,6 +6410,13 @@
         "title_en": "Bernstein SocGen cuts Netflix stock price target on revenue concerns"
       },
       {
+        "title": "칩 매각이 심화되면서 글로벌 기술주 하락; Z세대 쇼핑객 덕분에 버버리 매출 증대 – 비즈니스 라이브",
+        "link": "https://www.theguardian.com/business/live/2026/jul/17/global-tech-stocks-fall-chip-sell-off-burberry-sales-boost-economy-latest-news",
+        "source": "The Guardian",
+        "published": "2026-07-17T15:45:00+09:00",
+        "title_en": "Global tech stocks fall as chip sell-off deepens; Burberry sales boosted by gen Z shoppers – business live"
+      },
+      {
         "title": "Valterra Platinum은 수익이 1,300% 이상 급증할 것으로 예상합니다.",
         "link": "https://www.investing.com/news/company-news/valterra-platinum-expects-earnings-to-surge-over-1300-93CH-4797455",
         "source": "Investing.com",
@@ -6298,6 +6459,13 @@
         "title_en": "JPMorgan cuts Wipro stock price target on margin miss, weak guidance"
       },
       {
+        "title": "칩 패주 심화로 주식 하락, 원유 주간 상승 예상",
+        "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-17/",
+        "source": "Reuters",
+        "published": "2026-07-17T15:39:37+09:00",
+        "title_en": "Stocks sink as chip rout deepens, oil set for weekly gain"
+      },
+      {
         "title": "스웨덴 사브(Saab), 전투기 제조업체가 국방비 지출 증가로 기록적인 주문 기록",
         "link": "https://www.cnbc.com/2026/07/17/saab-stock-earnings-q2-report-defense-sales-orders.html",
         "source": "CNBC",
@@ -6324,6 +6492,13 @@
         "source": "Investing.com",
         "published": "2026-07-17T15:28:32+09:00",
         "title_en": "China’s Montage says S.Korea probes unit over potential competition law breach"
+      },
+      {
+        "title": "1stdibs.com, Inc. (NASDAQ:DIBS) 6월 단기 금리 81.9% 상승",
+        "link": "https://www.marketbeat.com/instant-alerts/1stdibscom-inc-nasdaqdibs-short-interest-up-819-in-june-2026-07-17/",
+        "source": "MarketBeat",
+        "published": "2026-07-17T15:26:21+09:00",
+        "title_en": "1stdibs.com, Inc. (NASDAQ:DIBS) Short Interest Up 81.9% in June"
       },
       {
         "title": "Abbott Laboratories 주식이 갑자기 월스트리트를 되찾고 있는 이유",
@@ -6387,6 +6562,13 @@
         "source": "CNBC",
         "published": "2026-07-17T15:16:04+09:00",
         "title_en": "Xi pitches China as AI partner to developing world, warns against risks and security overreach"
+      },
+      {
+        "title": "독점 | Meta는 Cloud Push를 고려하여 최고의 Amazon 컴퓨팅 임원을 고용할 계획입니다.",
+        "link": "https://www.wsj.com/tech/meta-plans-to-hire-top-amazon-computing-executive-as-it-weighs-cloud-push-2166869b",
+        "source": "WSJ",
+        "published": "2026-07-17T15:15:00+09:00",
+        "title_en": "Exclusive | Meta Plans to Hire Top Amazon Computing Executive as it Weighs Cloud Push"
       },
       {
         "title": "First Trust NASDAQ-100 Ex-Technology Sector Index Fund (NASDAQ:QQXT) 단기 이자 큰 폭 증가",
@@ -6464,6 +6646,13 @@
         "source": "LancasterOnline",
         "published": "2026-07-17T14:40:40+09:00",
         "title_en": "Asian shares sink, with Tokyo down more than 5% as slumping AI stocks drag world markets lower"
+      },
+      {
+        "title": "AI 주식 부진으로 세계 시장 하락세로 아시아 주가 하락, 도쿄는 거의 5% 하락",
+        "link": "https://www.wxii12.com/article/asian-shares-sink-slumping-ai-stocks-world-markets-lower/73042186",
+        "source": "WXII",
+        "published": "2026-07-17T14:33:00+09:00",
+        "title_en": "Asian shares sink, with Tokyo down nearly 5% as slumping AI stocks drag world markets lower"
       },
       {
         "title": "AI에 대한 걱정을 멈추고 나머지 시장에 집중하세요",
@@ -6576,6 +6765,13 @@
         "source": "KRIS 6 News Corpus Christi",
         "published": "2026-07-17T13:04:55+09:00",
         "title_en": "Stock market rally fueled by transportation stocks and AI excitement"
+      },
+      {
+        "title": "'투자자를 위한 카지노': 레버리지는 세계 최고 실적의 시장에 큰 변화를 가져옵니다",
+        "link": "https://www.ft.com/content/26ef9428-9445-4b34-8bdf-51166c7d4b3b?syn-25a6b1a6=1",
+        "source": "Financial Times",
+        "published": "2026-07-17T13:00:45+09:00",
+        "title_en": "‘A casino for investors’: leverage brings huge swings to world’s best-performing market"
       },
       {
         "title": "'개인 투자자를 위한 카지노': 레버리지가 세계 최고의 성과를 내는 시장을 이끄는 방법",
