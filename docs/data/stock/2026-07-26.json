@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T08:01:58.105396+09:00",
+  "generated_at": "2026-07-26T09:06:36.098840+09:00",
   "topic": {
     "id": "stock",
     "label": "주식",
@@ -406,7 +406,8 @@
           "mention_count": 1,
           "sources": [
             "CEO스코어데일리"
-          ]
+          ],
+          "summary": "국내 주요 상장 보험사들의 임원 평균연령이 10년 새 1.1세 높아진 것으로 나타났다. 새로운 보험회계제도인 IFRS17 도입과 규제 환경의 복잡화 등으로 인해 경험이 풍부한 전..."
         },
         {
           "title": "오원익스체인지·체크메이트·리플유에스디 [이주의 상장코인]",
@@ -719,7 +720,8 @@
       "title": "상장 보험사 임원 평균연령 10년 새 1.1세↑…삼성화재 여성임원 0→11명 ‘급증’",
       "link": "https://m.ceoscoredaily.com/page/view/2026071921350036679",
       "source": "CEO스코어데일리",
-      "published": "2026-07-26T07:00:00+09:00"
+      "published": "2026-07-26T07:00:00+09:00",
+      "summary": "국내 주요 상장 보험사들의 임원 평균연령이 10년 새 1.1세 높아진 것으로 나타났다. 새로운 보험회계제도인 IFRS17 도입과 규제 환경의 복잡화 등으로 인해 경험이 풍부한 전..."
     },
     {
       "title": "하루 6.23% 널뛴 코스피… 31일 ‘레버리지 빗장’ 효과 주목",
@@ -2407,17 +2409,32 @@
             "link": "https://news3lv.com/news/nation-world/economy-bringing-mixed-messages-ahead-of-next-federal-reserve-meeting-policy-stock-market-artificial-intelligence",
             "source": "KSNV",
             "published": "2026-07-25T04:52:38+09:00",
-            "latest": "2026-07-26T03:04:00+09:00",
-            "mention_count": 6,
+            "latest": "2026-07-26T08:36:24+09:00",
+            "mention_count": 7,
             "sources": [
               "KSNV",
               "KRCR",
               "WBFF",
               "WSJ",
               "Yahoo Finance",
-              "Investor's Business Daily"
+              "Investor's Business Daily",
+              "Investing.com"
             ],
             "title_en": "Economy bringing mixed messages ahead of next federal reserve meeting"
+          },
+          {
+            "title": "Warsh Fed 의장은 채권 수익률이 급등하면서 잔인한 여름을 맞이합니다.",
+            "link": "https://www.reuters.com/business/fed-chairman-warsh-faces-cruel-summer-bond-yields-spike-2026-07-24/",
+            "source": "Reuters",
+            "published": "2026-07-25T03:04:48+09:00",
+            "latest": "2026-07-26T08:30:29+09:00",
+            "mention_count": 3,
+            "sources": [
+              "Reuters",
+              "The Motley Fool",
+              "Investing.com"
+            ],
+            "title_en": "Fed Chairman Warsh faces cruel summer as bond yields spike"
           },
           {
             "title": "이란 전쟁으로 인해 유가는 100달러를 넘어섰습니다. 중국과 연준은 금리를 더 낮출 수 있습니다.",
@@ -2458,19 +2475,6 @@
               "WSJ"
             ],
             "title_en": "Trump sued hours after new tariffs take effect, as experts say they may not hold up"
-          },
-          {
-            "title": "Warsh Fed 의장은 채권 수익률이 급등하면서 잔인한 여름을 맞이합니다.",
-            "link": "https://www.reuters.com/business/fed-chairman-warsh-faces-cruel-summer-bond-yields-spike-2026-07-24/",
-            "source": "Reuters",
-            "published": "2026-07-25T03:04:48+09:00",
-            "latest": "2026-07-25T22:18:02+09:00",
-            "mention_count": 2,
-            "sources": [
-              "Reuters",
-              "The Motley Fool"
-            ],
-            "title_en": "Fed Chairman Warsh faces cruel summer as bond yields spike"
           }
         ]
       },
@@ -2482,7 +2486,7 @@
             "link": "https://www.wsj.com/business/media/paramount-agrees-to-pause-its-warner-bros-merger-88ae1de1",
             "source": "WSJ",
             "published": "2026-07-25T08:57:00+09:00",
-            "latest": "2026-07-26T07:33:00+09:00",
+            "latest": "2026-07-26T07:57:23+09:00",
             "mention_count": 8,
             "sources": [
               "WSJ",
@@ -2675,6 +2679,18 @@
             "title_en": "Samsung and SK Hynix unveil $950 billion U.S. chip supply partnerships"
           },
           {
+            "title": "Athletics-Hiltz가 다시 한 번 미국 1,500m 챔피언십 우승을 차지했습니다.",
+            "link": "https://www.investing.com/news/general-news/athleticshiltz-wins-us-championships-1500m-title-once-again-4812823",
+            "source": "Investing.com",
+            "published": "2026-07-26T08:24:56+09:00",
+            "latest": "2026-07-26T08:24:56+09:00",
+            "mention_count": 1,
+            "sources": [
+              "Investing.com"
+            ],
+            "title_en": "Athletics-Hiltz wins US championships 1,500m title once again"
+          },
+          {
             "title": "Elon Musk는 AI 야망을 강화하기 위해 조용히 이 화석 연료를 사용하고 있습니다.",
             "link": "https://finance.yahoo.com/energy/articles/elon-musk-quietly-turning-fossil-223500890.html",
             "source": "Yahoo Finance",
@@ -2733,25 +2749,41 @@
               "MarketWatch"
             ],
             "title_en": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
-          },
-          {
-            "title": "뉴욕시 화재로 최소 21명 부상",
-            "link": "https://www.investing.com/news/world-news/at-least-21-people-injured-in-new-york-city-fire-4812809",
-            "source": "Investing.com",
-            "published": "2026-07-26T04:06:09+09:00",
-            "latest": "2026-07-26T04:06:09+09:00",
-            "mention_count": 1,
-            "sources": [
-              "Investing.com"
-            ],
-            "title_en": "At least 21 people injured in New York City fire"
           }
         ]
       }
     ],
-    "total_articles": 407,
-    "total_issues": 50,
+    "total_articles": 411,
+    "total_issues": 51,
     "raw": [
+      {
+        "title": "브라질 관리들은 선거를 앞두고 트럼프 관리들에게 비자 요청이 거부되었다고 말했습니다.",
+        "link": "https://www.investing.com/news/world-news/us-aimed-to-send-envoys-to-brazil-to-question-its-electoral-system--sources-4812794",
+        "source": "Investing.com",
+        "published": "2026-07-26T08:36:24+09:00",
+        "title_en": "Brazil officials say visa requests denied to Trump officials ahead of election"
+      },
+      {
+        "title": "이란 전쟁이 홍해와 카스피해로 확산되고, 미국이 파업을 포기하면서 걸프만은 조용해졌습니다.",
+        "link": "https://www.investing.com/news/commodities-news/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-us-forgoes-strikes-4812822",
+        "source": "Investing.com",
+        "published": "2026-07-26T08:30:29+09:00",
+        "title_en": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes"
+      },
+      {
+        "title": "Athletics-Hiltz가 다시 한 번 미국 1,500m 챔피언십 우승을 차지했습니다.",
+        "link": "https://www.investing.com/news/general-news/athleticshiltz-wins-us-championships-1500m-title-once-again-4812823",
+        "source": "Investing.com",
+        "published": "2026-07-26T08:24:56+09:00",
+        "title_en": "Athletics-Hiltz wins US championships 1,500m title once again"
+      },
+      {
+        "title": "BofA, 장기 성장 전망을 반영하여 사이버보안 주식 목표 상향",
+        "link": "https://www.investing.com/news/stock-market-news/bofa-lifts-cybersecurity-stock-targets-to-reflect-longterm-growth-outlook-4812821",
+        "source": "Investing.com",
+        "published": "2026-07-26T07:57:23+09:00",
+        "title_en": "BofA lifts cybersecurity stock targets to reflect long-term growth outlook"
+      },
       {
         "title": "밤새 러시아 공격으로 우크라이나 수도 키예프에서 화재 발생",
         "link": "https://www.investing.com/news/world-news/overnight-russian-attack-triggers-fires-in-ukrainian-capital-kyiv-4812820",
