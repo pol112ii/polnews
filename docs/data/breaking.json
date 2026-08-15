@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:38:21.535108+09:00",
+  "generated_at": "2026-08-15T22:55:30.665713+09:00",
   "window_hours": 24,
   "items": [
     {
@@ -20,11 +20,12 @@
       "link": "https://www.mt.co.kr/society/2026/08/15/2026081519204253054",
       "source": "머니투데이",
       "published": "2026-08-15T20:43:03+09:00",
-      "latest": "2026-08-15T20:45:36+09:00",
-      "mention_count": 2,
+      "latest": "2026-08-15T21:12:05+09:00",
+      "mention_count": 3,
       "sources": [
         "머니투데이",
-        "edaily.co.kr"
+        "edaily.co.kr",
+        "mk.co.kr"
       ],
       "topics": []
     },
@@ -98,13 +99,14 @@
       "source": "연합뉴스",
       "published": "2026-08-15T19:25:52+09:00",
       "latest": "2026-08-15T20:17:40+09:00",
-      "mention_count": 7,
+      "mention_count": 8,
       "sources": [
         "연합뉴스",
         "머니투데이",
         "파이낸셜뉴스",
         "아시아경제",
         "asiae.co.kr",
+        "데일리안",
         "주간경향",
         "미디어오늘"
       ],
@@ -151,12 +153,13 @@
       "source": "v.daum.net",
       "published": "2026-08-15T19:21:58+09:00",
       "latest": "2026-08-15T19:33:00+09:00",
-      "mention_count": 6,
+      "mention_count": 7,
       "sources": [
         "v.daum.net",
         "연합뉴스 한민족센터",
         "뉴스핌",
         "시사저널",
+        "sisajournal.com",
         "아시아경제",
         "노컷뉴스"
       ],
@@ -215,7 +218,7 @@
       "source": "KBC광주방송",
       "published": "2026-08-15T19:14:27+09:00",
       "latest": "2026-08-15T20:32:35+09:00",
-      "mention_count": 22,
+      "mention_count": 25,
       "sources": [
         "KBC광주방송",
         "뉴시스",
@@ -226,9 +229,9 @@
         "v.daum.net",
         "브릿지경제",
         "중앙일보",
+        "mk.co.kr",
         "경기일보",
-        "아시아경제",
-        "주간경향"
+        "아시아경제"
       ],
       "topics": []
     },
@@ -931,11 +934,12 @@
       "source": "머니투데이",
       "published": "2026-08-15T10:40:01+09:00",
       "latest": "2026-08-15T10:44:07+09:00",
-      "mention_count": 3,
+      "mention_count": 4,
       "sources": [
         "머니투데이",
         "mt.co.kr",
-        "매일경제"
+        "매일경제",
+        "mk.co.kr"
       ],
       "topics": []
     },
@@ -1186,8 +1190,14 @@
       "topics": []
     }
   ],
-  "total_articles": 496,
+  "total_articles": 506,
   "raw": [
+    {
+      "title": "[속보] 제1237회 로또 1등 12명 각 12.1억원씩…당첨번호는?",
+      "link": "https://www.mk.co.kr/news/society/12128797",
+      "source": "mk.co.kr",
+      "published": "2026-08-15T21:12:05+09:00"
+    },
     {
       "title": "[경제][속보] 호우 피해 우려...부산 덕천천·대천천 산책로 통제",
       "link": "https://www.ytn.co.kr/_cs/_ln_0102_202608152057258450_005.html",
@@ -1217,6 +1227,12 @@
       "title": "[속보] 김민석, ‘민주당 전대 승부처’ 호남 당원 투표서 과반 승리",
       "link": "https://www.mk.co.kr/news/business/12128791",
       "source": "매일경제",
+      "published": "2026-08-15T20:32:35+09:00"
+    },
+    {
+      "title": "[속보] 김민석, ‘민주당 전대 승부처’ 호남 당원 투표서 과반 승리",
+      "link": "https://www.mk.co.kr/news/business/12128791",
+      "source": "mk.co.kr",
       "published": "2026-08-15T20:32:35+09:00"
     },
     {
@@ -1332,6 +1348,12 @@
       "published": "2026-08-15T19:41:59+09:00"
     },
     {
+      "title": "[속보] 민주당 최고위원 누계 박선원 1위…최민희·서미화·김용·한민수 순",
+      "link": "https://www.dailian.co.kr/news/view/1678902/%EC%86%8D%EB%B3%B4-%EB%AF%BC%EC%A3%BC%EB%8B%B9-%EC%B5%9C%EA%B3%A0%EC%9C%84%EC%9B%90-%EB%88%84%EA%B3%84-%EB%B0%95%EC%84%A0%EC%9B%90-1-2026",
+      "source": "데일리안",
+      "published": "2026-08-15T19:40:00+09:00"
+    },
+    {
       "title": "[속보] 與 최고위원 누적 1위 박선원…서미화·최민희·김용·이성윤 순",
       "link": "https://www.asiae.co.kr/article/2026081519382399961",
       "source": "아시아경제",
@@ -1368,6 +1390,12 @@
       "published": "2026-08-15T19:34:00+09:00"
     },
     {
+      "title": "[속보] 與 호남권 당원투표서 김민석 과반 승리",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260815.99099004147",
+      "source": "kookje.co.kr",
+      "published": "2026-08-15T19:34:00+09:00"
+    },
+    {
       "title": "[속보]민주당 호남 경선…金 57.54%·鄭 32.65%·宋 9.81%",
       "link": "https://www.nocutnews.co.kr/news/6563531",
       "source": "노컷뉴스",
@@ -1377,6 +1405,12 @@
       "title": "[속보]김민석, 민주당 전남광주·전북 합산 당원투표서 승리",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260815191955vB2",
       "source": "연합뉴스TV",
+      "published": "2026-08-15T19:33:00+09:00"
+    },
+    {
+      "title": "[속보]김민석, 민주당 전남광주·전북 합산 당원투표서 승리",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260815191955vB2",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-08-15T19:33:00+09:00"
     },
     {
@@ -1431,6 +1465,12 @@
       "title": "[속보] 與 호남 당원투표…김민석 57.54%, 정청래 32.65% 송영길 9.81%",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=383763",
       "source": "시사저널",
+      "published": "2026-08-15T19:28:01+09:00"
+    },
+    {
+      "title": "[속보] 與 호남 당원투표…김민석 57.54%, 정청래 32.65% 송영길 9.81%",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=383763",
+      "source": "sisajournal.com",
       "published": "2026-08-15T19:28:01+09:00"
     },
     {
@@ -1539,6 +1579,12 @@
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=383762",
       "source": "시사저널",
       "published": "2026-08-15T19:21:52+09:00"
+    },
+    {
+      "title": "[속보] 김민석, ‘與전대 승부처’ 호남 당원투표서 과반 승리",
+      "link": "https://www.mk.co.kr/news/politics/12128780",
+      "source": "mk.co.kr",
+      "published": "2026-08-15T19:21:47+09:00"
     },
     {
       "title": "[속보] 민주당 전당대회 호남서 김민석 1위…57.54%로 과반 득표",
@@ -2552,6 +2598,12 @@
       "published": "2026-08-15T10:44:07+09:00"
     },
     {
+      "title": "[속보] 이재명 대통령 대북 청사진…‘포용적·안정적·세계기여’",
+      "link": "https://www.mk.co.kr/news/politics/12128704",
+      "source": "mk.co.kr",
+      "published": "2026-08-15T10:44:07+09:00"
+    },
+    {
       "title": "[속보] 李대통령 대북 청사진…'포용적·안정적·세계기여' 평화공존",
       "link": "https://v.daum.net/v/20260815104353368",
       "source": "v.daum.net",
@@ -3295,6 +3347,12 @@
       "published": "2026-08-15T09:00:00+09:00"
     },
     {
+      "title": "[단독] 정부 특허 유지비, 민간 돈으로 5년째 돌려막기 [결산대해부⑯]",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=383599",
+      "source": "sisajournal.com",
+      "published": "2026-08-15T09:00:00+09:00"
+    },
+    {
       "title": "[속보] 트럼프 “호르무즈, 미국 영토로 선언할 것”",
       "link": "https://www.mk.co.kr/news/business/12128676",
       "source": "매일경제",
@@ -3426,6 +3484,12 @@
       "title": "[속보] 다카이치, 야스쿠니 공물 대금 봉납…\"자민당 총재 자격\"",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260815082408BQY",
       "source": "연합뉴스TV",
+      "published": "2026-08-15T08:24:00+09:00"
+    },
+    {
+      "title": "[속보] 다카이치, 야스쿠니 공물 대금 봉납…\"자민당 총재 자격\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260815082408BQY",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-08-15T08:24:00+09:00"
     },
     {
