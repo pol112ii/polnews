@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T15:56:57.436732+09:00",
+  "generated_at": "2026-08-19T16:46:16.741290+09:00",
   "topic": {
     "id": "stock",
     "label": "주식",
@@ -36,8 +36,8 @@
       "link": "https://news.jtbc.co.kr/article/NB12313981",
       "source": "JTBC",
       "published": "2026-08-19T09:03:00+09:00",
-      "latest": "2026-08-19T15:51:19+09:00",
-      "mention_count": 50,
+      "latest": "2026-08-19T16:32:38+09:00",
+      "mention_count": 52,
       "sources": [
         "JTBC",
         "서울신문",
@@ -106,7 +106,7 @@
       "source": "블루밍비트",
       "published": "2026-08-19T03:50:22+09:00",
       "latest": "2026-08-19T09:02:38+09:00",
-      "mention_count": 23,
+      "mention_count": 24,
       "sources": [
         "블루밍비트",
         "연합뉴스",
@@ -117,9 +117,9 @@
         "MBC 뉴스",
         "imnews.imbc.com",
         "뉴스웍스",
+        "newsworks.co.kr",
         "bntnews.co.kr",
-        "KBS 뉴스",
-        "news.kbs.co.kr"
+        "KBS 뉴스"
       ],
       "summary": "미국 증시 3대 지수가 하락세를 보이고 있다. 나스닥 종합 지수는 19일 전일 대비 1.27% 하락한 2만6305.98 포인트에 거래되고 있다. 다우 존스 지수는 0.10% 하락한 5만3405.385 포인트, S&P500 지수는 0.57% 하락한 7700.99 포인트를"
     },
@@ -128,8 +128,8 @@
       "link": "https://v.daum.net/v/20260818080850952",
       "source": "v.daum.net",
       "published": "2026-08-18T08:08:50+09:00",
-      "latest": "2026-08-19T08:00:00+09:00",
-      "mention_count": 18,
+      "latest": "2026-08-19T16:10:11+09:00",
+      "mention_count": 20,
       "sources": [
         "v.daum.net",
         "경북매일",
@@ -157,7 +157,7 @@
           "source": "메트로신문",
           "published": "2026-08-18T15:42:28+09:00",
           "latest": "2026-08-19T09:03:01+09:00",
-          "mention_count": 17,
+          "mention_count": 18,
           "sources": [
             "메트로신문",
             "asiae.co.kr",
@@ -179,7 +179,7 @@
           "link": "https://www.news1.kr/photos/8060743",
           "source": "뉴스1",
           "published": "2026-08-18T15:54:01+09:00",
-          "latest": "2026-08-19T15:49:32+09:00",
+          "latest": "2026-08-19T16:15:14+09:00",
           "mention_count": 16,
           "sources": [
             "뉴스1",
@@ -220,6 +220,51 @@
           ]
         },
         {
+          "title": "[속보]코스피 5.8% 급락·6471 마감…코스닥 824·1.17%↓",
+          "link": "https://www.nocutnews.co.kr/news/6564922",
+          "source": "노컷뉴스",
+          "published": "2026-08-19T15:34:00+09:00",
+          "latest": "2026-08-19T16:23:17+09:00",
+          "mention_count": 15,
+          "sources": [
+            "노컷뉴스",
+            "연합뉴스",
+            "머니투데이",
+            "한국경제",
+            "hankyung.com",
+            "news.sbs.co.kr",
+            "뉴스1",
+            "v.daum.net",
+            "국제신문",
+            "조세일보",
+            "뉴데일리",
+            "kbmaeil.com"
+          ]
+        },
+        {
+          "title": "뉴욕증시, 글로벌 국채금리 급등에 부담… S&P 500, 3거래일 연속 내림세",
+          "link": "https://www.newspim.com/news/view/20260819000020",
+          "source": "뉴스핌",
+          "published": "2026-08-19T05:35:00+09:00",
+          "latest": "2026-08-19T14:26:15+09:00",
+          "mention_count": 15,
+          "sources": [
+            "뉴스핌",
+            "서울경제",
+            "sedaily.com",
+            "v.daum.net",
+            "아주경제",
+            "오피니언뉴스",
+            "opinionnews.co.kr",
+            "TBS 서울",
+            "연합뉴스 한민족센터",
+            "yonhapnewstv.co.kr",
+            "연합뉴스TV",
+            "이투데이"
+          ],
+          "summary": "권지언 특파원 = 뉴욕증시가 18일(현지시각) 일제히 하락했다. 중동을 둘러싼 긴장이 다시 고조되면서 국제유가가 오르고 미국 국채금리가 급등하자, 그동안 인공지능(AI) 열풍에 힘입어 가파르게 상승했던 기술주를 중심으로 차익실현 매물이 쏟아졌"
+        },
+        {
           "title": "코스피 1.55% 내린 6869.83 마감…코스닥은 3%대 약세",
           "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=04129526645548632",
           "source": "마켓인",
@@ -243,35 +288,12 @@
           "summary": "코스피가 18일 장 초반 7200선을 넘어섰다가 장중 6700선까지 밀리는 롤러코스터 장세 끝에 1%대 하락 마감했다. 기관이 8000억원 가까이 순매도한 가운데 하락 종목이 680개를 넘어서며 시장 전반의 투자심리가 위축됐다.18일 엠피닥터에 따르면 이날 코스피는 전…"
         },
         {
-          "title": "뉴욕증시, 글로벌 국채금리 급등에 부담… S&P 500, 3거래일 연속 내림세",
-          "link": "https://www.newspim.com/news/view/20260819000020",
-          "source": "뉴스핌",
-          "published": "2026-08-19T05:35:00+09:00",
-          "latest": "2026-08-19T14:26:15+09:00",
-          "mention_count": 14,
-          "sources": [
-            "뉴스핌",
-            "서울경제",
-            "sedaily.com",
-            "v.daum.net",
-            "아주경제",
-            "오피니언뉴스",
-            "TBS 서울",
-            "연합뉴스 한민족센터",
-            "yonhapnewstv.co.kr",
-            "연합뉴스TV",
-            "이투데이",
-            "한국강사신문"
-          ],
-          "summary": "권지언 특파원 = 뉴욕증시가 18일(현지시각) 일제히 하락했다. 중동을 둘러싼 긴장이 다시 고조되면서 국제유가가 오르고 미국 국채금리가 급등하자, 그동안 인공지능(AI) 열풍에 힘입어 가파르게 상승했던 기술주를 중심으로 차익실현 매물이 쏟아졌"
-        },
-        {
           "title": "\"日 국채 금리 급등\"…코스피, 다시 7000선 아래로",
           "link": "https://www.newsis.com/view/NISX20260818_0003752537",
           "source": "뉴시스",
           "published": "2026-08-18T11:55:46+09:00",
-          "latest": "2026-08-19T13:33:00+09:00",
-          "mention_count": 12,
+          "latest": "2026-08-19T16:04:10+09:00",
+          "mention_count": 13,
           "sources": [
             "뉴시스",
             "Chosunbiz",
@@ -289,56 +311,12 @@
           "summary": "18일 장 초반 2%대 상승하며 7200선을 넘어섰던 코스피가 하락 반전, 다시 7000선 아래로 내려섰다.한국거래소에 따르면 이날 오전 11시38분 현재 코스피는 전 거래일보다 0.32% 하락한 6955.79를 나타내고 있다. 일본 국채금리 상승과 중국 경기불안으로…"
         },
         {
-          "title": "삼전·닉스 급락에 코스피 6%대 급락…올해 25번째 매도 사이드카",
-          "link": "https://www.newsprime.co.kr/news/article/?no=744262",
-          "source": "프라임경제",
-          "published": "2026-08-19T09:29:14+09:00",
-          "latest": "2026-08-19T15:45:00+09:00",
-          "mention_count": 11,
-          "sources": [
-            "프라임경제",
-            "MTN 머니투데이방송",
-            "news.mtn.co.kr",
-            "v.daum.net",
-            "프레시안",
-            "뉴데일리",
-            "KBC광주방송",
-            "노컷뉴스",
-            "한국경제",
-            "Investing.com 한국어",
-            "아시아경제"
-          ],
-          "summary": "코스피가 장 초반 6% 넘게 급락하면서 매도 사이드카가 발동됐다. 미국 장기금리 상승과 반도체주 약세 여파가 국내 증시로 번진 가운데 외국인이 1조원 넘게 순매도하면서 삼성전자와 SK하이닉스를 비롯한 시가총액 상위주가 일제히 급락하고 있다.19일 한국거래소에 따르면 이…"
-        },
-        {
-          "title": "코스피, 장중 하락 전환...코스닥, 낙폭 확대",
-          "link": "https://www.ytn.co.kr/_ln/0102_202608181138263944",
-          "source": "YTN",
-          "published": "2026-08-18T11:38:00+09:00",
-          "latest": "2026-08-19T13:30:02+09:00",
-          "mention_count": 11,
-          "sources": [
-            "YTN",
-            "경향신문",
-            "연합뉴스",
-            "연합뉴스TV",
-            "yonhapnewstv.co.kr",
-            "아이뉴스24",
-            "아주경제",
-            "월요신문",
-            "비즈니스포스트",
-            "오피니언뉴스",
-            "v.daum.net"
-          ],
-          "summary": "간밤에 미국 반도체주 상승 등의 영향을 받아 강세로 출발한 코스피가 장중 상승분을 줄이고 하락세로 돌아섰습니다.강세로 출발한 코스닥은 하락 전환한 뒤 낙폭을 키우..."
-        },
-        {
           "title": "뉴욕증시, 국제유가 상승에 일제히 하락…다우 0.5%↓(종합)",
           "link": "https://www.yna.co.kr/view/AKR20260818006451072",
           "source": "연합뉴스",
           "published": "2026-08-18T06:34:30+09:00",
-          "latest": "2026-08-19T11:06:37+09:00",
-          "mention_count": 11,
+          "latest": "2026-08-19T16:09:24+09:00",
+          "mention_count": 12,
           "sources": [
             "연합뉴스",
             "연합뉴스TV",
@@ -350,9 +328,56 @@
             "YTN",
             "이투데이",
             "Chosunbiz",
-            "ebn.co.kr"
+            "ebn.co.kr",
+            "아주경제"
           ],
           "summary": "김연숙 특파원 = 17일(현지시간) 미국 뉴욕증시는 미국과 이란 간 긴장 고조에 따른 국제유가 상승과 미 국채금리 급등 여파로..."
+        },
+        {
+          "title": "삼전·닉스 급락에 코스피 6%대 급락…올해 25번째 매도 사이드카",
+          "link": "https://www.newsprime.co.kr/news/article/?no=744262",
+          "source": "프라임경제",
+          "published": "2026-08-19T09:29:14+09:00",
+          "latest": "2026-08-19T15:47:49+09:00",
+          "mention_count": 12,
+          "sources": [
+            "프라임경제",
+            "MTN 머니투데이방송",
+            "news.mtn.co.kr",
+            "v.daum.net",
+            "프레시안",
+            "뉴데일리",
+            "KBC광주방송",
+            "노컷뉴스",
+            "한국경제",
+            "Investing.com 한국어",
+            "아시아경제",
+            "core.asiae.co.kr"
+          ],
+          "summary": "코스피가 장 초반 6% 넘게 급락하면서 매도 사이드카가 발동됐다. 미국 장기금리 상승과 반도체주 약세 여파가 국내 증시로 번진 가운데 외국인이 1조원 넘게 순매도하면서 삼성전자와 SK하이닉스를 비롯한 시가총액 상위주가 일제히 급락하고 있다.19일 한국거래소에 따르면 이…"
+        },
+        {
+          "title": "코스피, 장중 하락 전환...코스닥, 낙폭 확대",
+          "link": "https://www.ytn.co.kr/_ln/0102_202608181138263944",
+          "source": "YTN",
+          "published": "2026-08-18T11:38:00+09:00",
+          "latest": "2026-08-19T13:30:02+09:00",
+          "mention_count": 12,
+          "sources": [
+            "YTN",
+            "경향신문",
+            "연합뉴스",
+            "연합뉴스TV",
+            "yonhapnewstv.co.kr",
+            "아이뉴스24",
+            "아주경제",
+            "월요신문",
+            "비즈니스포스트",
+            "오피니언뉴스",
+            "opinionnews.co.kr",
+            "v.daum.net"
+          ],
+          "summary": "간밤에 미국 반도체주 상승 등의 영향을 받아 강세로 출발한 코스피가 장중 상승분을 줄이고 하락세로 돌아섰습니다.강세로 출발한 코스닥은 하락 전환한 뒤 낙폭을 키우..."
         },
         {
           "title": "코스피, 7200 찍고 6869 마감…기관 7800억 순매도",
@@ -375,6 +400,27 @@
             "인포스탁데일리"
           ],
           "summary": "장 초반 7200선을 돌파했던 코스피지수가 기관의 대규모 매도에 6800선으로 밀려 마감했다. 코스닥지수도 3% 넘게 급락했다. 두 지수 모두 5거래일 연속 상승"
+        },
+        {
+          "title": "넥스트바이오메디컬, 코스닥 라이징스타 2년 연속 선정",
+          "link": "https://www.newspim.com/news/view/20260819000163",
+          "source": "뉴스핌",
+          "published": "2026-08-19T08:58:00+09:00",
+          "latest": "2026-08-19T14:38:48+09:00",
+          "mention_count": 10,
+          "sources": [
+            "뉴스핌",
+            "바이오타임즈",
+            "biotimes.co.kr",
+            "정보통신신문",
+            "boannews.com",
+            "보안뉴스",
+            "더스탁(The Stock)",
+            "the-stock.kr",
+            "메디컬투데이",
+            "아시아경제"
+          ],
+          "summary": "의료기기 전문기업 넥스트바이오메디컬이 한국거래소가 주관하는"
         },
         {
           "title": "中 유니트리, 2m 뛰는 로봇 공개…내일 상하이 증시 상장",
@@ -437,45 +483,6 @@
             "한스경제",
             "서울경제"
           ]
-        },
-        {
-          "title": "[속보]코스피 5.8% 급락·6471 마감…코스닥 824·1.17%↓",
-          "link": "https://www.nocutnews.co.kr/news/6564922",
-          "source": "노컷뉴스",
-          "published": "2026-08-19T15:34:00+09:00",
-          "latest": "2026-08-19T15:45:00+09:00",
-          "mention_count": 9,
-          "sources": [
-            "노컷뉴스",
-            "연합뉴스",
-            "머니투데이",
-            "한국경제",
-            "news.sbs.co.kr",
-            "뉴스1",
-            "v.daum.net",
-            "국제신문",
-            "조세일보"
-          ]
-        },
-        {
-          "title": "넥스트바이오메디컬, 코스닥 라이징스타 2년 연속 선정",
-          "link": "https://www.newspim.com/news/view/20260819000163",
-          "source": "뉴스핌",
-          "published": "2026-08-19T08:58:00+09:00",
-          "latest": "2026-08-19T14:38:48+09:00",
-          "mention_count": 9,
-          "sources": [
-            "뉴스핌",
-            "바이오타임즈",
-            "정보통신신문",
-            "boannews.com",
-            "보안뉴스",
-            "더스탁(The Stock)",
-            "the-stock.kr",
-            "메디컬투데이",
-            "아시아경제"
-          ],
-          "summary": "의료기기 전문기업 넥스트바이오메디컬이 한국거래소가 주관하는"
         }
       ]
     },
@@ -487,21 +494,21 @@
           "link": "https://www.inthenews.co.kr/news/article.html?no=90671",
           "source": "인더뉴스",
           "published": "2026-08-19T12:11:49+09:00",
-          "latest": "2026-08-19T15:32:18+09:00",
-          "mention_count": 13,
+          "latest": "2026-08-19T16:14:42+09:00",
+          "mention_count": 17,
           "sources": [
             "인더뉴스",
             "pointe.co.kr",
             "포인트경제",
             "오피니언뉴스",
+            "opinionnews.co.kr",
             "파이낸셜포스트",
             "financialpost.co.kr",
             "etoday.co.kr",
             "이투데이",
             "한국경제",
-            "뉴스락",
-            "아시아경제",
-            "퍼블릭뉴스통신"
+            "hankyung.com",
+            "뉴스락"
           ],
           "summary": "인더뉴스 박호식 기자ㅣ한국투자증권(사장 김성환)이 주식워런트증권(ELW) 271종목을 신규상장합니다. 이번 상장종목은 코스피200을 기초자산으로 하는 지수형 ELW 92종목과 삼성전자, SK하이닉스, NAVER, 산일전기 등을 기초자산으로 하는 종목형 ELW 179종목…"
         },
@@ -511,13 +518,14 @@
           "source": "v.daum.net",
           "published": "2026-08-19T10:41:11+09:00",
           "latest": "2026-08-19T15:06:50+09:00",
-          "mention_count": 11,
+          "mention_count": 13,
           "sources": [
             "v.daum.net",
             "yonhapnewstv.co.kr",
             "연합뉴스TV",
             "뉴시스",
             "경향신문",
+            "khan.co.kr",
             "글로벌이코노믹",
             "foeconomy.co.kr",
             "포커스온경제",
@@ -533,7 +541,7 @@
           "source": "v.daum.net",
           "published": "2026-08-18T14:21:01+09:00",
           "latest": "2026-08-19T10:34:09+09:00",
-          "mention_count": 9,
+          "mention_count": 10,
           "sources": [
             "v.daum.net",
             "머니투데이",
@@ -543,7 +551,8 @@
             "연합뉴스TV",
             "yonhapnewstv.co.kr",
             "한겨레",
-            "메디컬투데이"
+            "메디컬투데이",
+            "알파경제"
           ],
           "summary": "검찰이 쌍방울그룹의 주가조작 의혹과 관련해 강제수사에 착수했다. 한국거래소가 관련 종목을 심리한 결과 일부 종목에서 이상 거래 징후를 포착하면서 검찰 수사가 본격화한 것으로 전해졌다. 18일 법조계에 따르면 서울남부지검 금융·증권범죄합동수사부(부장검사 신동환)는 이날…"
         },
@@ -654,7 +663,22 @@
             "딜사이트",
             "Naver Blog",
             "blog.naver.com"
-          ]
+          ],
+          "summary": "NH투자증권 주관으로 지분율 78%까지 확대…최대 30% 프리미엄 적용"
+        },
+        {
+          "title": "SK하이닉스, 40조원 자사주 사들여 전량 소각…시간외서 주가 급반등",
+          "link": "https://www.chosun.com/economy/stock-finance/2026/08/19/AWKVOCY4S5AXXMAO2MITDWBMVI/",
+          "source": "조선일보",
+          "published": "2026-08-19T16:06:50+09:00",
+          "latest": "2026-08-19T16:17:00+09:00",
+          "mention_count": 3,
+          "sources": [
+            "조선일보",
+            "hankyung.com",
+            "뉴스핌"
+          ],
+          "summary": "SK하이닉스가 AI 메모리 시장 호황에 따른 주주 환원 강화 목적으로 40조 원 규모의 자사주 취득 및 소각 계획을 발표했습니다. 발행 주식의 3.3%를 매입해 소각함으로써 주당순이익을 높이고 주주 가치를 제고하겠다는 전략입니다. 11월까지 매입이 진행되며, 향후 20…"
         },
         {
           "title": "‘저스트 두 잇’의 추락… 나이키 주가 12년 만에 최저",
@@ -711,18 +735,6 @@
             "중앙일보"
           ],
           "summary": "세계 최대 스포츠웨어 업체 나이키의 주가가 12년 전으로 돌아갔다. 중국 사업이 부진한 데다 아디다스·호카 등 경쟁자에게 밀린 탓이다. 오랜 기간 ‘강자’로 평가받았던 브랜드 지배력에 대한 의구심도 커지고 있다. 월스트리트저널(WSJ)에 따르면 17일(현지시간) 뉴욕…"
-        },
-        {
-          "title": "싸이큐리온, 50만 달러 자사주 매입 승인..주가 저평가 판단",
-          "link": "https://stock.mk.co.kr/news/view/1144399",
-          "source": "매일경제 마켓",
-          "published": "2026-08-19T06:00:09+09:00",
-          "latest": "2026-08-19T15:51:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "매일경제 마켓",
-            "연합인포맥스"
-          ]
         }
       ]
     },
@@ -851,6 +863,19 @@
           "summary": "코스닥 상장사의 올해 상반기 연결 기준 부채비율이 전년 말 대비 12%포인트(p) 넘게 상승한 것으로 나타났다.19일 한국거래소에 따르면 코스닥 12월 결산법인 1375사 가운데 전년 동기 실적이 비교 가능한 법인 1264사를 분석한 결과, 올해 상반기 연결 기준 부채…"
         },
         {
+          "title": "크레이머 \"시장 지나치게 비관적…조정은 매수 기회\"",
+          "link": "https://kbthink.com/news-list/view.html?newsId=20260819095822187",
+          "source": "KB Think",
+          "published": "2026-08-19T09:58:21+09:00",
+          "latest": "2026-08-19T09:58:21+09:00",
+          "mention_count": 2,
+          "sources": [
+            "KB Think",
+            "kbthink.com"
+          ],
+          "summary": "김지연 기자 = CNBC의 짐 크레이머는 금융시장의 비관론이 지나치다며 주가 하락을 매수 기회로 활용할 수 있다고 주장했다. 18일 CNBC에 따르면 크레이머는 방송에 출연해 금리 상승과 고유가, 인플레이션 우려가 주식시장에 부담을 주고 있지만 미국 경제가 여전히 견조"
+        },
+        {
           "title": "No.1 경제·증권 채널 : @HKWOWTV",
           "link": "https://www.wowtv.co.kr/Broad/ProgramMain/Index?menuSeq=644&programCode=P3893&broadWatchNumber=150730",
           "source": "한국경제TV",
@@ -940,25 +965,350 @@
             "contents.premium.naver.com"
           ],
           "summary": "'돈이 어디로 이동하는지(자금 흐름)'와 '시장의 현재 상태(심리)'를 동시에 파악하는 지표입니다. 용도는 추세추종, 가치투자 순환매에 쓰입니다. 1. 지수 공포탐욕 대시보드 시장 심리 온도를 한눈에 비교하여 중·단기 저점과 고점을 시각적으로 포착합니다. 2. 스마트머"
-        },
-        {
-          "title": "국내 기관들 글로벌 코인주 골라 샀다…종합투자·채굴기업에는 한 방향",
-          "link": "https://supple.kr/news/cmsznbv9i000bd8qyjdjzzc15",
-          "source": "supple.kr",
-          "published": "2026-08-19T14:20:00+09:00",
-          "latest": "2026-08-19T14:20:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "supple.kr"
-          ],
-          "summary": "이투데이 · 경제/금융 핵심 정리 · 국민연금·KIC·미래에셋, 로빈후드·아이렌 보유량 나란히 확대 코인베이스·스트래티지·라이엇은 기관별 엇갈린 선택 KIC는 서클 신규 편입…ARK도 종목별 선별 투자 ▲여의도 증권가. (게티이미지뱅크) 국내 주요 기관투..."
         }
       ]
     }
   ],
-  "total_articles": 1383,
-  "total_issues": 493,
+  "total_articles": 1491,
+  "total_issues": 519,
   "raw": [
+    {
+      "title": "금리·유가에 발목 잡힌 코스피, 6500선 밑으로 '털썩'",
+      "link": "https://v.daum.net/v/20260819163528680",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:35:28+09:00"
+    },
+    {
+      "title": "AI 투자가 AI 주식을 타격했다?... 반도체지수 5% 급락의 역설",
+      "link": "https://www.chosun.com/special/2026/08/19/5QZG7A2P2JF6NPZYDJNVH5O2EQ/",
+      "source": "조선일보",
+      "published": "2026-08-19T16:35:00+09:00"
+    },
+    {
+      "title": "‘장기금리 발작’에 코스피 6500선 밑으로…매도 사이드카 발동",
+      "link": "https://v.daum.net/v/20260819163238556",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:32:38+09:00"
+    },
+    {
+      "title": "미 금리 쇼크에 아시아 증시 동반 급락…코스피 5.8%↓",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=04378806645548960&mediaCodeNo=257",
+      "source": "edaily.co.kr",
+      "published": "2026-08-19T16:32:10+09:00"
+    },
+    {
+      "title": "“한국서 사면 되잖아, 왜 그래” 월가 ‘깜짝’ 놀랐다…하이닉스 ADR 1조 베팅에 “말도 안 되는 일”",
+      "link": "https://www.sedaily.com/article/20080959",
+      "source": "서울경제",
+      "published": "2026-08-19T16:31:39+09:00"
+    },
+    {
+      "title": "미 금리 충격에 코스피 5.8%↓...매도 사이드카 발동",
+      "link": "https://www.ytn.co.kr/_ln/0102_202608191631104343",
+      "source": "YTN",
+      "published": "2026-08-19T16:31:00+09:00"
+    },
+    {
+      "title": "개인 ETF 9조…코스닥 장비주가 움직인다",
+      "link": "https://www.newspim.com/news/view/20260819000929",
+      "source": "뉴스핌",
+      "published": "2026-08-19T16:30:00+09:00"
+    },
+    {
+      "title": "법정 공방으로 번진 코스닥 ‘다산다사’…“왜 이렇게 서두르냐”",
+      "link": "https://v.daum.net/v/20260819162911377",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:29:11+09:00"
+    },
+    {
+      "title": "[중국증시 마감] 글로벌 장기금리 충격에 급락 '성장주 폭탄매물 6%대↓'",
+      "link": "https://www.newspim.com/news/view/20260819001059",
+      "source": "뉴스핌",
+      "published": "2026-08-19T16:26:00+09:00"
+    },
+    {
+      "title": "中 양쯔메모리도 내년 중 IPO...상장 전 ‘지도검수’ 마쳐",
+      "link": "https://www.hankyung.com/article/202608190028i",
+      "source": "hankyung.com",
+      "published": "2026-08-19T16:25:07+09:00"
+    },
+    {
+      "title": "인제니아 상장에 큐라클 Tie2 파이프라인 재조명…이유는?",
+      "link": "https://v.daum.net/v/20260819162500173",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:25:00+09:00"
+    },
+    {
+      "title": "코스피, 글로벌 국채금리·美데이터센터 지연 우려에 5.8% 급락(종합)",
+      "link": "https://v.daum.net/v/20260819162351107",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:23:51+09:00"
+    },
+    {
+      "title": "[장마감] 코스피 5.80%↓(6471.17), 코스닥 1.17%↓(824.46)",
+      "link": "https://www.buffettlab.co.kr/news/view.php?idx=56205",
+      "source": "버핏연구소",
+      "published": "2026-08-19T16:23:17+09:00"
+    },
+    {
+      "title": "[일본 증시] 닛케이, AI·반도체주 약세에 6만6000선 붕괴",
+      "link": "https://www.newspim.com/news/view/20260819001055",
+      "source": "뉴스핌",
+      "published": "2026-08-19T16:23:00+09:00"
+    },
+    {
+      "title": "유니트리 상장 첫날 460% 급등…시총 3천420억 위안",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819162203CkE",
+      "source": "연합뉴스TV",
+      "published": "2026-08-19T16:22:00+09:00"
+    },
+    {
+      "title": "FLSmidth 주가, 오늘 급등한 이유는?",
+      "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2067047",
+      "source": "Investing.com 한국어",
+      "published": "2026-08-19T16:21:00+09:00"
+    },
+    {
+      "title": "코스피, 중동 리스크에 5%대 급락…6400선대로",
+      "link": "https://www.sentv.co.kr/article/view/sentv202608190156",
+      "source": "서울경제TV",
+      "published": "2026-08-19T16:19:40+09:00"
+    },
+    {
+      "title": "코스피 하루 새 7000→6400… 美 장기금리 충격, 왜 한국이 더 아플까 - 조선비즈",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/08/19/6PKRMFHDZJHT5F22YNCAIE4QI4/",
+      "source": "Chosunbiz",
+      "published": "2026-08-19T16:18:00+09:00"
+    },
+    {
+      "title": "[종합] 40조 자사주 소각, SK하이닉스 韓증시 새 역사 썼다",
+      "link": "https://www.newspim.com/news/view/20260819001018",
+      "source": "뉴스핌",
+      "published": "2026-08-19T16:17:00+09:00"
+    },
+    {
+      "title": "[중국증시-마감] 반도체 약세에 상하이 2%대·선전 4%대 하락",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430817",
+      "source": "연합인포맥스",
+      "published": "2026-08-19T16:16:46+09:00"
+    },
+    {
+      "title": "中 YMTC 내년 상반기 상장 전망, CXMT 이어 메모리 신화 기대",
+      "link": "https://www.fnnews.com/news/202608191541587587",
+      "source": "파이낸셜뉴스",
+      "published": "2026-08-19T16:16:10+09:00"
+    },
+    {
+      "title": "'단독상장 코인' 헤미, 박스권 뚫고 하루 새 33% '껑충'[특징코인]",
+      "link": "https://www.news1.kr/finance/blockchain-fintech/6263383",
+      "source": "뉴스1",
+      "published": "2026-08-19T16:16:05+09:00"
+    },
+    {
+      "title": "[장외시황] 어피닛, 코스닥 상장예비심사 청구",
+      "link": "https://www.etoday.co.kr/news/view/2616045",
+      "source": "etoday.co.kr",
+      "published": "2026-08-19T16:16:00+09:00"
+    },
+    {
+      "title": "코스피 반등에 증시 대기자금 ‘꿈틀’…투자자예탁금 105조원 육박",
+      "link": "https://www.sankyungtoday.com/news/articleView.html?idxno=62570",
+      "source": "산경투데이",
+      "published": "2026-08-19T16:15:24+09:00"
+    },
+    {
+      "title": "[증시-마감] 코스피, 금리 발작에 5.8% 급락",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430815",
+      "source": "연합인포맥스",
+      "published": "2026-08-19T16:15:20+09:00"
+    },
+    {
+      "title": "기관 이어 외국인마저 “팔자”…코스피, 5%대 급락 마감",
+      "link": "https://v.daum.net/v/20260819161514626",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:15:14+09:00"
+    },
+    {
+      "title": "한국투자증권, ELW 271종목 신규 상장…개별주 포함",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1403818",
+      "source": "매일일보",
+      "published": "2026-08-19T16:14:42+09:00"
+    },
+    {
+      "title": "기관 이어 외국인마저 “팔자”…코스피, 5%대 급락 마감",
+      "link": "https://stock.mk.co.kr/news/view/1144795",
+      "source": "매일경제 마켓",
+      "published": "2026-08-19T16:14:09+09:00"
+    },
+    {
+      "title": "코스피 6% 추락 딛고 버틴 코스닥…알테오젠 반등",
+      "link": "https://ket.kr/news/article.html?no=40173",
+      "source": "경제타임스",
+      "published": "2026-08-19T16:12:59+09:00"
+    },
+    {
+      "title": "韓·日증시 이틀째 하락…반도체주 약세 뚜렷",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850843",
+      "source": "newsworks.co.kr",
+      "published": "2026-08-19T16:12:19+09:00"
+    },
+    {
+      "title": "Oxford Nanopore 주가 4% 이상 상승, 5거래일 하락세 마감",
+      "link": "https://kr.investing.com/news/earnings/article-2067037",
+      "source": "Investing.com 한국어",
+      "published": "2026-08-19T16:12:00+09:00"
+    },
+    {
+      "title": "외인 떠나고 반도체株 '와르르'⋯코스피 '6500선' 붕괴",
+      "link": "https://v.daum.net/v/20260819161011354",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:10:11+09:00"
+    },
+    {
+      "title": "\"SK하닉 경쟁력, 주가에 반영 안 돼\"…40조 자사주 소각",
+      "link": "https://www.hankyung.com/article/202608190053g",
+      "source": "hankyung.com",
+      "published": "2026-08-19T16:09:49+09:00"
+    },
+    {
+      "title": "[中 증시 마감] 기술주 일제히 하락...가격상승에 석탄주 급등",
+      "link": "https://v.daum.net/v/20260819160924307",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:09:24+09:00"
+    },
+    {
+      "title": "[中 증시 마감] 기술주 일제히 하락...가격상승에 석탄주 급등",
+      "link": "https://www.ajunews.com/view/20260819160657073",
+      "source": "아주경제",
+      "published": "2026-08-19T16:09:17+09:00"
+    },
+    {
+      "title": "유럽 증시, 한 달 만에 최악의 하락세…라가르드 발언·Fed 의사록 주목",
+      "link": "https://kr.investing.com/news/stock-market-news/article-2067031",
+      "source": "Investing.com 한국어",
+      "published": "2026-08-19T16:09:00+09:00"
+    },
+    {
+      "title": "캔버스엔, 20일 보통주 거래 재개…액면병합 주권 변경상장 완료",
+      "link": "https://www.datatooza.com/article/20260819160804122752ef36c1f7_80",
+      "source": "데이터투자",
+      "published": "2026-08-19T16:08:04+09:00"
+    },
+    {
+      "title": "[마감시황] 코스피, 외인·기관 매도에 5.80% 급락…6471선 마감",
+      "link": "https://www.newspim.com/news/view/20260819001007",
+      "source": "뉴스핌",
+      "published": "2026-08-19T16:07:00+09:00"
+    },
+    {
+      "title": "SK하이닉스, 40조원 자사주 사들여 전량 소각…시간외서 주가 급반등",
+      "link": "https://www.chosun.com/economy/stock-finance/2026/08/19/AWKVOCY4S5AXXMAO2MITDWBMVI/",
+      "source": "조선일보",
+      "published": "2026-08-19T16:06:50+09:00",
+      "summary": "SK하이닉스가 AI 메모리 시장 호황에 따른 주주 환원 강화 목적으로 40조 원 규모의 자사주 취득 및 소각 계획을 발표했습니다. 발행 주식의 3.3%를 매입해 소각함으로써 주당순이익을 높이고 주주 가치를 제고하겠다는 전략입니다. 11월까지 매입이 진행되며, 향후 20…"
+    },
+    {
+      "title": "코스피 5.80% 하락한 6471.17 마감",
+      "link": "https://mobile.newsis.com/photo/NISI20260819_0021403865",
+      "source": "뉴시스",
+      "published": "2026-08-19T16:05:55+09:00"
+    },
+    {
+      "title": "국채금리 급등 여파에 6% 급락…7000선과 멀어지는 코스피",
+      "link": "https://v.daum.net/v/20260819160410060",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:04:10+09:00"
+    },
+    {
+      "title": "주가 급락에도 환율 하락…원/달러 환율, 11개월만에 1300원대로",
+      "link": "https://www.mt.co.kr/economy/2026/08/19/2026081915472154210",
+      "source": "머니투데이",
+      "published": "2026-08-19T16:03:28+09:00"
+    },
+    {
+      "title": "누보, 주식소각에 따른 변경상장 예정",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16167564",
+      "source": "톱스타뉴스",
+      "published": "2026-08-19T16:02:57+09:00"
+    },
+    {
+      "title": "코스피, 반도체 급락에 5.8% 폭락…환율 1390원대 마감",
+      "link": "https://www.viva100.com/article/20260819501170",
+      "source": "브릿지경제",
+      "published": "2026-08-19T16:02:00+09:00"
+    },
+    {
+      "title": "코스피, 금리 부담·반도체株 약세에 '6400선 후퇴'…코스닥 1.17%↓",
+      "link": "https://www.newsprime.co.kr/news/article/?no=744347",
+      "source": "프라임경제",
+      "published": "2026-08-19T16:01:57+09:00"
+    },
+    {
+      "title": "개인 투심 회복?…코스피 장중 7천선 회복에 예탁금 4조 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260819134100008",
+      "source": "연합뉴스",
+      "published": "2026-08-19T16:01:20+09:00"
+    },
+    {
+      "title": "개인 투심 회복?…코스피 장중 7천선 회복에 예탁금 4조 증가",
+      "link": "https://stock.mk.co.kr/news/view/1144790",
+      "source": "매일경제 마켓",
+      "published": "2026-08-19T16:01:20+09:00"
+    },
+    {
+      "title": "日증시 3.16% 급락…AI·반도체주 '검은 수요일'",
+      "link": "https://www.fnnews.com/news/202608191555222636",
+      "source": "파이낸셜뉴스",
+      "published": "2026-08-19T16:01:15+09:00"
+    },
+    {
+      "title": "[국제동향] 국채금리 19년 최고치에 증시 동반 하락…캐나다 관세 압박·中 기술 탈취 진술까지",
+      "link": "https://industryjournal.co.kr/news/247070",
+      "source": "산업종합저널",
+      "published": "2026-08-19T16:01:10+09:00"
+    },
+    {
+      "title": "1조 실탄 쥔 中 유니트리 상장… K-로봇 ‘양산·가격’ 포위망 뚫어라[산업이(異)면]",
+      "link": "https://v.daum.net/v/20260819160107881",
+      "source": "v.daum.net",
+      "published": "2026-08-19T16:01:07+09:00"
+    },
+    {
+      "title": "성공투자 오후증시",
+      "link": "https://www.wowtv.co.kr/Broad/ProgramMain/Index?menuSeq=644&programCode=P3883&broadWatchNumber=150735",
+      "source": "한국경제TV",
+      "published": "2026-08-19T15:59:39+09:00"
+    },
+    {
+      "title": "증시 단기 하락? 2026년 30% 초과 수익 달성한 12개 AI 전략",
+      "link": "https://kr.investing.com/news/stock-market-news/article-2067016",
+      "source": "Investing.com 한국어",
+      "published": "2026-08-19T15:58:00+09:00"
+    },
+    {
+      "title": "외국인 3.5조 던졌다…코스피 5.8% 폭락, 6471 마감",
+      "link": "https://www.kbmaeil.com/article/20260819500537",
+      "source": "kbmaeil.com",
+      "published": "2026-08-19T15:58:00+09:00"
+    },
+    {
+      "title": "코스피, 외국인·기관 '쌍끌이 매도'에 5.8% 급락 … 6470선 후퇴",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/19/2026081900270.html",
+      "source": "뉴데일리",
+      "published": "2026-08-19T15:57:39+09:00"
+    },
+    {
+      "title": "상반기 상장사 `실적 잭팟`…코스피·코스닥 영업익 254%·62% 급증",
+      "link": "https://www.imaeil.com/page/view/2026081915491850694",
+      "source": "매일신문",
+      "published": "2026-08-19T15:57:33+09:00"
+    },
+    {
+      "title": "상반기 '역대 최대' 실적…삼전닉스 빼도 코스피 영업익 143조",
+      "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=04241046645548960",
+      "source": "마켓인",
+      "published": "2026-08-19T15:57:13+09:00"
+    },
     {
       "title": "씨메스로보틱스, 상장 때 약속한 '2026년 흑자전환' 빨간불",
       "link": "https://zdnet.co.kr/view/?no=20260819151516",
@@ -966,10 +1316,34 @@
       "published": "2026-08-19T15:54:43+09:00"
     },
     {
+      "title": "씨메스로보틱스, 상장 때 약속한 '2026년 흑자전환' 빨간불",
+      "link": "https://zdnet.co.kr/view/?no=20260819151516",
+      "source": "지디넷코리아",
+      "published": "2026-08-19T15:54:43+09:00"
+    },
+    {
       "title": "BTS 돌아왔는데 주가는 왜 이래...수익률 최하위 엔터ETF",
       "link": "https://www.hankyung.com/article/202608199815i",
       "source": "한국경제",
       "published": "2026-08-19T15:54:22+09:00"
+    },
+    {
+      "title": "'BTS 돌아왔는데 주가 왜 이래?'…엔터주 산 개미들 '멘붕'",
+      "link": "https://www.hankyung.com/article/202608199815i",
+      "source": "hankyung.com",
+      "published": "2026-08-19T15:54:22+09:00"
+    },
+    {
+      "title": "코스피, 6% 가까이 급락‥환율은 10개월여 만에 1,300원대",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6845810_36932.html",
+      "source": "MBC 뉴스",
+      "published": "2026-08-19T15:53:17+09:00"
+    },
+    {
+      "title": "코스피, 5% 급락에 6500선 아래로…삼전·닉스도 ‘와르르’",
+      "link": "https://www.g-enews.com/article/Securities/2026/08/202608191544047528923c501012_1",
+      "source": "글로벌이코노믹",
+      "published": "2026-08-19T15:52:47+09:00"
     },
     {
       "title": "데이터센터 불안에 코스피 급락과 달러‑원 환율 연저점까지 이시각 주요뉴스",
@@ -996,6 +1370,12 @@
       "published": "2026-08-19T15:49:32+09:00"
     },
     {
+      "title": "대외 변수에 국내 증시 ‘휘청’…외인 매도·사이드카 발동 [마감 시황]",
+      "link": "https://m.ekn.kr/view.php?key=20260819022274189",
+      "source": "에너지경제신문",
+      "published": "2026-08-19T15:49:09+09:00"
+    },
+    {
       "title": "루살 주가 오늘 상승하는 이유?",
       "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2067007",
       "source": "Investing.com 한국어",
@@ -1008,10 +1388,22 @@
       "published": "2026-08-19T15:47:51+09:00"
     },
     {
+      "title": "코스피, 6% 급락 마감…장중 매도 사이드카",
+      "link": "https://v.daum.net/v/20260819154749104",
+      "source": "v.daum.net",
+      "published": "2026-08-19T15:47:49+09:00"
+    },
+    {
       "title": "[도쿄증시-마감] 글로벌 금리 상승·美 반도체주 약세에 3%대 급락",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430803",
       "source": "연합인포맥스",
       "published": "2026-08-19T15:47:30+09:00"
+    },
+    {
+      "title": "[도쿄증시-마감] 글로벌 금리 상승·美 반도체주 약세에 3%대 급락",
+      "link": "https://kbthink.com/news-list/view.html?newsId=20260819154721615",
+      "source": "kbthink.com",
+      "published": "2026-08-19T15:47:20+09:00"
     },
     {
       "title": "상장 VC 2분기 실적 ‘훈풍’…주요 운용사 영업이익 개선",
@@ -1044,15 +1436,45 @@
       "published": "2026-08-19T15:45:00+09:00"
     },
     {
+      "title": "코스피, 6% 급락 마감…장중 매도 사이드카",
+      "link": "https://core.asiae.co.kr/article/2026081915454701870",
+      "source": "core.asiae.co.kr",
+      "published": "2026-08-19T15:45:00+09:00"
+    },
+    {
+      "title": "상장 VC 2Q ‘100억 클럽’, 아주IB·미래에셋벤처·DSC ‘활짝’",
+      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=47133",
+      "source": "뉴스톱",
+      "published": "2026-08-19T15:44:52+09:00"
+    },
+    {
       "title": "속보 코스피 5.8%·코스닥 1.17% 하락 마감",
       "link": "https://www.ytn.co.kr/_ln/0102_202608191543367280",
       "source": "YTN",
       "published": "2026-08-19T15:43:00+09:00"
     },
     {
+      "title": "[경제][속보] 코스피 5.8%·코스닥 1.17% 하락 마감",
+      "link": "https://www.ytn.co.kr/_cs/_ln_0102_202608191543367280_005.html",
+      "source": "YTN",
+      "published": "2026-08-19T15:43:00+09:00"
+    },
+    {
+      "title": "코스피 약 6% 급락해 6400대로 털썩…코스닥은 1.2% 하락",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004365",
+      "source": "국민일보",
+      "published": "2026-08-19T15:42:00+09:00"
+    },
+    {
       "title": "코스피, 5%대 급락해 6400선으로 밀려…삼전닉스↓",
       "link": "https://www.hankyung.com/article/2026081999186",
       "source": "한국경제",
+      "published": "2026-08-19T15:41:52+09:00"
+    },
+    {
+      "title": "코스피, 5%대 급락해 6400선으로 밀려…삼전닉스↓",
+      "link": "https://www.hankyung.com/article/2026081999186",
+      "source": "hankyung.com",
       "published": "2026-08-19T15:41:52+09:00"
     },
     {
@@ -1092,6 +1514,12 @@
       "published": "2026-08-19T15:37:45+09:00"
     },
     {
+      "title": "반도체만 보면 더 오를 것 같지만 … “코스피 6000에 사고 7000에 팔아라”",
+      "link": "https://www.mk.co.kr/news/stock/12131216",
+      "source": "매일경제",
+      "published": "2026-08-19T15:37:41+09:00"
+    },
+    {
       "title": "코스피 마감, 6,471.17P (-5.8%↓) SK스퀘어, SK하이닉스등 하락세",
       "link": "https://stock.mk.co.kr/news/view/1144764",
       "source": "매일경제 마켓",
@@ -1110,6 +1538,12 @@
       "published": "2026-08-19T15:36:35+09:00"
     },
     {
+      "title": "코스피, 5.8% 급락해 6,471 마감…코스닥은 1.2% 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260819127800008",
+      "source": "연합뉴스",
+      "published": "2026-08-19T15:36:28+09:00"
+    },
+    {
       "title": "[속보] 코스피, 5.8% 급락해 6,471 마감…코스닥은 1.2%↓",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008711998&plink=RSSLINK&cooper=GSTAND",
       "source": "news.sbs.co.kr",
@@ -1125,6 +1559,12 @@
       "title": "[속보］코스피, 5.8% 급락해 6471.17 마감…코스닥은 1.2%↓",
       "link": "https://www.hankyung.com/article/2026081999136",
       "source": "한국경제",
+      "published": "2026-08-19T15:35:04+09:00"
+    },
+    {
+      "title": "[속보] 코스피, 5.8% 급락해 6471.17 마감…코스닥은 1.2%↓",
+      "link": "https://www.hankyung.com/article/2026081999136",
+      "source": "hankyung.com",
       "published": "2026-08-19T15:35:04+09:00"
     },
     {
@@ -1176,6 +1616,12 @@
       "published": "2026-08-19T15:33:00+09:00"
     },
     {
+      "title": "[특파원] 日 증시, 중동 불안·美 증시 약세에 급락…닛케이 장중 2000엔↓ By 알파경제 alphabiz",
+      "link": "https://kr.investing.com/news/stock-market-news/article-2066953",
+      "source": "Investing.com 한국어",
+      "published": "2026-08-19T15:33:00+09:00"
+    },
+    {
       "title": "한투증권, ELW 271종목 신규 상장",
       "link": "https://www.newsis.com/view/NISX20260819_0003754547",
       "source": "뉴시스",
@@ -1183,6 +1629,12 @@
     },
     {
       "title": "[속보] 美 금리 쇼크에 흘러내린 코스피…5% 급락해 6400선 마감",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/08/19/D4S2PJUIVFFWPC36YQXDL3TKG4/",
+      "source": "Chosunbiz",
+      "published": "2026-08-19T15:32:00+09:00"
+    },
+    {
+      "title": "[마켓뷰] 美 금리 쇼크에 흘러내린 코스피…6470선에 ‘털썩’ - 조선비즈",
       "link": "https://biz.chosun.com/stock/stock_general/2026/08/19/D4S2PJUIVFFWPC36YQXDL3TKG4/",
       "source": "Chosunbiz",
       "published": "2026-08-19T15:32:00+09:00"
@@ -1218,6 +1670,12 @@
       "published": "2026-08-19T15:20:48+09:00"
     },
     {
+      "title": "\"과도한 레버리지 해소\"…HSBC, 韓증시 투자의견 '비중확대' 상향",
+      "link": "https://bloomingbit.io/feed/news/118620",
+      "source": "블루밍비트",
+      "published": "2026-08-19T15:20:48+09:00"
+    },
+    {
       "title": "미국 금리 충격에 6% 급락‥코스피 '매도 사이드카'",
       "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6845796_36974.html",
       "source": "MBC 뉴스",
@@ -1236,6 +1694,12 @@
       "published": "2026-08-19T15:12:49+09:00"
     },
     {
+      "title": "\"바닥 확인한 증시, 당분간 박스권\"",
+      "link": "https://www.hankyung.com/article/2026081753021",
+      "source": "hankyung.com",
+      "published": "2026-08-19T15:12:49+09:00"
+    },
+    {
       "title": "중국 메모리반도체 YMTC도 상장 절차에 속도, CXMT '대성공' 사례 재현 전망",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445091",
       "source": "비즈니스포스트",
@@ -1245,6 +1709,12 @@
       "title": "아시아 증시, 美 금리 공포에 대부분 하락",
       "link": "https://kbthink.com/news-list/view.html?newsId=20260819151206777",
       "source": "KB Think",
+      "published": "2026-08-19T15:12:05+09:00"
+    },
+    {
+      "title": "아시아 증시, 美 금리 공포에 대부분 하락",
+      "link": "https://kbthink.com/news-list/view.html?newsId=20260819151206777",
+      "source": "kbthink.com",
       "published": "2026-08-19T15:12:05+09:00"
     },
     {
@@ -1263,6 +1733,12 @@
       "title": "중국 휴머노이드 선두 유니트리, 상장 첫날 공모가 대비 629% '폭등'",
       "link": "https://zdnet.co.kr/view/?no=20260819145329",
       "source": "zdnet.co.kr",
+      "published": "2026-08-19T15:06:50+09:00"
+    },
+    {
+      "title": "중국 휴머노이드 선두 유니트리, 상장 첫날 공모가 대비 629% '폭등'",
+      "link": "https://zdnet.co.kr/view/?no=20260819145329",
+      "source": "지디넷코리아",
       "published": "2026-08-19T15:06:50+09:00"
     },
     {
@@ -1338,6 +1814,12 @@
       "published": "2026-08-19T14:48:00+09:00"
     },
     {
+      "title": "유니트리, 상장 첫날 600% 폭등...웃지 못하는 국내 로봇주 [마켓딥다이브]",
+      "link": "https://v.daum.net/v/20260819144653606",
+      "source": "v.daum.net",
+      "published": "2026-08-19T14:46:53+09:00"
+    },
+    {
       "title": "Zaptec, 2026년 2분기 사상 최고 매출 기록…주가는 소폭 상승",
       "link": "https://kr.investing.com/news/transcripts/article-93CH-2066942",
       "source": "Investing.com 한국어",
@@ -1380,6 +1862,18 @@
       "published": "2026-08-19T14:39:11+09:00"
     },
     {
+      "title": "일본 증시 급락…닛케이 한때 2,100엔 넘게 하락",
+      "link": "https://www.jk-daily.co.kr/news/articleView.html?idxno=41306",
+      "source": "재팬코리아데일리",
+      "published": "2026-08-19T14:39:11+09:00"
+    },
+    {
+      "title": "상반기 코스닥 상장사 순이익 9조7069억원…전년比 286.95%↑",
+      "link": "https://v.daum.net/v/20260819143905213",
+      "source": "v.daum.net",
+      "published": "2026-08-19T14:39:05+09:00"
+    },
+    {
       "title": "트루엔, 2년 연속 '코스닥 라이징 스타' 선정",
       "link": "https://www.asiae.co.kr/article/2026081914384834773",
       "source": "아시아경제",
@@ -1401,6 +1895,12 @@
       "title": "[특파원] 日 증시, 중동 불안·美 증시 약세에 급락…닛케이 장중 2000엔↓",
       "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=172642",
       "source": "alphabiz.co.kr",
+      "published": "2026-08-19T14:37:39+09:00"
+    },
+    {
+      "title": "[특파원] 日 증시, 중동 불안·美 증시 약세에 급락…닛케이 장중 2000엔↓",
+      "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=172642",
+      "source": "알파경제",
       "published": "2026-08-19T14:37:39+09:00"
     },
     {
@@ -1473,6 +1973,12 @@
       "title": "7,000선에 또 막힌 코스피…\"금리 아닌 데이터센터 지연發 매물 출회\"",
       "link": "https://kbthink.com/news-list/view.html?newsId=20260819142440028",
       "source": "KB Think",
+      "published": "2026-08-19T14:24:39+09:00"
+    },
+    {
+      "title": "7,000선에 또 막힌 코스피…\"금리 아닌 데이터센터 지연發 매물 출회\"",
+      "link": "https://kbthink.com/news-list/view.html?newsId=20260819142440028",
+      "source": "kbthink.com",
       "published": "2026-08-19T14:24:39+09:00"
     },
     {
@@ -1598,6 +2104,12 @@
       "published": "2026-08-19T13:54:42+09:00"
     },
     {
+      "title": "한국투자증권, ELW 271종목 신규 상장",
+      "link": "https://core.asiae.co.kr/article/2026081913544214024",
+      "source": "core.asiae.co.kr",
+      "published": "2026-08-19T13:54:00+09:00"
+    },
+    {
       "title": "\"상장하자마자 600% 폭등\"…개미들 돈 몰린 '로봇 회사'",
       "link": "https://www.asiae.co.kr/article/2026081913491270644",
       "source": "아시아경제",
@@ -1613,6 +2125,12 @@
       "title": "한국투자증권, ELW 271종목 신규 상장",
       "link": "https://www.hankyung.com/article/2026081995786",
       "source": "한국경제",
+      "published": "2026-08-19T13:46:07+09:00"
+    },
+    {
+      "title": "한국투자증권, ELW 271종목 신규 상장",
+      "link": "https://www.hankyung.com/article/2026081995786",
+      "source": "hankyung.com",
       "published": "2026-08-19T13:46:07+09:00"
     },
     {
@@ -1644,6 +2162,12 @@
       "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2066875",
       "source": "Investing.com 한국어",
       "published": "2026-08-19T13:36:00+09:00"
+    },
+    {
+      "title": "‘앞으로 강세장’ “이걸 믿는 사람 많다니”…기술주 피하라는 美억만장자의 경고",
+      "link": "https://www.sedaily.com/article/20080843",
+      "source": "서울경제",
+      "published": "2026-08-19T13:34:59+09:00"
     },
     {
       "title": "외인ㆍ기관 4.5조 매도에 코스피 6500선 아래로⋯삼전닉스 7~8%↓",
@@ -1832,6 +2356,12 @@
       "published": "2026-08-19T12:34:39+09:00"
     },
     {
+      "title": "한국투자증권, ELW 271종목 상장…코스피200 및 '삼전닉스' 기초",
+      "link": "https://www.opinionnews.co.kr/news/articleView.html?idxno=143234",
+      "source": "opinionnews.co.kr",
+      "published": "2026-08-19T12:34:39+09:00"
+    },
+    {
       "title": "\"7월 하락장과 다르다\"…다시 흔들리는 증시, 대응 전략은",
       "link": "https://www.newsis.com/view/NISX20260819_0003753689",
       "source": "뉴시스",
@@ -1856,6 +2386,12 @@
       "published": "2026-08-19T12:31:00+09:00"
     },
     {
+      "title": "중국 로봇기업 유니트리, 상장 첫날 주가 629% 상승",
+      "link": "https://www.khan.co.kr/article/202608191231001",
+      "source": "khan.co.kr",
+      "published": "2026-08-19T12:31:00+09:00"
+    },
+    {
       "title": "코스피 상장사 상반기 순익 4배 '껑충'…반도체 쌍두마차가 견인",
       "link": "https://www.youthdaily.co.kr/news/article.html?no=225340",
       "source": "청년일보",
@@ -1865,6 +2401,12 @@
       "title": "상장 첫날부터 '7배' 폭등…中, 작정하고 키우는 '이것' [차이나 워치]",
       "link": "https://www.hankyung.com/article/202608199464i",
       "source": "한국경제",
+      "published": "2026-08-19T12:29:34+09:00"
+    },
+    {
+      "title": "상장 첫날부터 '7배' 폭등…中, 작정하고 키우는 '이것' [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202608199464i",
+      "source": "hankyung.com",
       "published": "2026-08-19T12:29:34+09:00"
     },
     {
@@ -1890,6 +2432,12 @@
       "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83452",
       "source": "포인트경제",
       "published": "2026-08-19T12:16:27+09:00"
+    },
+    {
+      "title": "프로퓨사, 506% 랠리 후 시간외 숨고르기···주가 과열된 이유는?",
+      "link": "https://kr.benzinga.com/news/usa/trading/%ED%94%84%EB%A1%9C%ED%93%A8%EC%82%AC-506-%EB%9E%A0%EB%A6%AC-%ED%9B%84-%EC%8B%9C%EA%B0%84%EC%99%B8-%EC%88%A8%EA%B3%A0%EB%A5%B4%EA%B8%B0%EC%A3%BC%EA%B0%80-%EA%B3%BC%EC%97%B4%EB%90%9C/",
+      "source": "Benzinga",
+      "published": "2026-08-19T12:13:53+09:00"
     },
     {
       "title": "美 금리 '충격'에‥코스피 매도 사이드카",
@@ -2279,6 +2827,12 @@
       "published": "2026-08-19T11:31:00+09:00"
     },
     {
+      "title": "[장중수급포착] 프로티나, 외국인/기관 동시 순매수… 주가 +8.10%",
+      "link": "https://www.newspim.com/news/view/20260819000556",
+      "source": "뉴스핌",
+      "published": "2026-08-19T11:31:00+09:00"
+    },
+    {
       "title": "[상반기 결산] 코스피 영업익 3.5배 뛴 388조…삼전·닉스가 60% 차지",
       "link": "https://www.metroseoul.co.kr/article/20260819500145",
       "source": "메트로신문",
@@ -2568,6 +3122,12 @@
       "published": "2026-08-19T10:59:00+09:00"
     },
     {
+      "title": "'신용융자 31조' 코스피 등락하자 증가세…\"변동성 키울 우려\"",
+      "link": "https://www.news1.kr/finance/general-stock/6262853",
+      "source": "뉴스1",
+      "published": "2026-08-19T10:58:58+09:00"
+    },
+    {
       "title": "“코스닥 저평가, 정보 비대칭부터 해결해야”",
       "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=03283286645548960",
       "source": "마켓인",
@@ -2710,6 +3270,12 @@
       "title": "외인, 코스피 팔고 코스닥 '사자'...코스닥 장중 플러스 전환",
       "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143220",
       "source": "오피니언뉴스",
+      "published": "2026-08-19T10:33:17+09:00"
+    },
+    {
+      "title": "외인, 코스피 팔고 코스닥 '사자'...코스닥 장중 플러스 전환",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143220",
+      "source": "opinionnews.co.kr",
       "published": "2026-08-19T10:33:17+09:00"
     },
     {
@@ -3051,6 +3617,12 @@
       "summary": "김지연 기자 = CNBC의 짐 크레이머는 금융시장의 비관론이 지나치다며 주가 하락을 매수 기회로 활용할 수 있다고 주장했다. 18일 CNBC에 따르면 크레이머는 방송에 출연해 금리 상승과 고유가, 인플레이션 우려가 주식시장에 부담을 주고 있지만 미국 경제가 여전히 견조"
     },
     {
+      "title": "크레이머 \"시장 지나치게 비관적…조정은 매수 기회\"",
+      "link": "https://kbthink.com/news-list/view.html?newsId=20260819095822187",
+      "source": "kbthink.com",
+      "published": "2026-08-19T09:58:21+09:00"
+    },
+    {
       "title": "[뉴욕증시포커스] 중동 리스크·금리 급등에 사흘째 하락…AI·반도체주 직격탄",
       "link": "https://www.goodkyung.com/news/articleView.html?idxno=290391",
       "source": "굿모닝경제",
@@ -3181,6 +3753,12 @@
       "title": "넥스트바이오메디컬, 코스닥 라이징스타 2년 연속 선정…넥스파우더 경쟁력 재확인",
       "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=33879",
       "source": "바이오타임즈",
+      "published": "2026-08-19T09:42:51+09:00"
+    },
+    {
+      "title": "넥스트바이오메디컬, 코스닥 라이징스타 2년 연속 선정…넥스파우더 경쟁력 재확인",
+      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=33879",
+      "source": "biotimes.co.kr",
       "published": "2026-08-19T09:42:51+09:00"
     },
     {
@@ -3408,6 +3986,12 @@
       "published": "2026-08-19T09:26:00+09:00"
     },
     {
+      "title": "또 '급락'...코스피, 25번째 '매도 사이드카'",
+      "link": "https://magazine.hankyung.com/business/article/202608198842b",
+      "source": "한경매거진&북",
+      "published": "2026-08-19T09:26:00+09:00"
+    },
+    {
       "title": "코스피, 美 악재에 장 초반 '매도 사이드카'...6500선 붕괴",
       "link": "https://www.g-enews.com/article/Securities/2026/08/202608190918314761923c501012_1",
       "source": "글로벌이코노믹",
@@ -3435,6 +4019,12 @@
       "title": "日 증시, 美 반도체 급락 하락…닛케이 3%대 ↓",
       "link": "https://kbthink.com/news-list/view.html?newsId=20260819092412938",
       "source": "KB Think",
+      "published": "2026-08-19T09:24:12+09:00"
+    },
+    {
+      "title": "日 증시, 美 반도체 급락 하락…닛케이 3%대 ↓",
+      "link": "https://kbthink.com/news-list/view.html?newsId=20260819092412938",
+      "source": "kbthink.com",
       "published": "2026-08-19T09:24:12+09:00"
     },
     {
@@ -3943,6 +4533,12 @@
       "published": "2026-08-19T09:03:01+09:00"
     },
     {
+      "title": "[속보] 코스피, 5%대 급락 출발…코스닥도 3%대 하락",
+      "link": "https://www.hankyung.com/article/2026081986316",
+      "source": "hankyung.com",
+      "published": "2026-08-19T09:03:01+09:00"
+    },
+    {
       "title": "6거래일 만에 하락 마감한 코스피...오늘 증시는?",
       "link": "https://www.ytn.co.kr/_ln/0102_202608190903551011",
       "source": "YTN",
@@ -4223,6 +4819,12 @@
       "published": "2026-08-19T08:42:03+09:00"
     },
     {
+      "title": "검찰, '주가조작 의혹' 쌍방울그룹 압수수색",
+      "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=172550",
+      "source": "알파경제",
+      "published": "2026-08-19T08:42:03+09:00"
+    },
+    {
       "title": "[개장] 뉴욕증시, 중동 불안과 고금리 충격에 하락..마이크론 7%↓ By 알파경제 alphabiz",
       "link": "https://kr.investing.com/news/stock-market-news/article-2066658",
       "source": "Investing.com 한국어",
@@ -4259,6 +4861,12 @@
       "published": "2026-08-19T08:32:31+09:00"
     },
     {
+      "title": "외국인 장바구니에 담긴 코스닥 바이오주 5인방, 향후 주가전망 따져보니",
+      "link": "https://www.hankyung.com/article/202608198543i",
+      "source": "hankyung.com",
+      "published": "2026-08-19T08:32:31+09:00"
+    },
+    {
       "title": "미국 30년물 5.33% 돌파｜재정적자·AI 회사채가 장기금리를 밀어올리는 이유",
       "link": "https://contents.premium.naver.com/finlit/wfpm/contents/260819083238923ik",
       "source": "네이버 프리미엄콘텐츠",
@@ -4275,6 +4883,12 @@
       "title": "[증시 포인트] 하락 출발 전망...장중 낙폭 만회 가능성도",
       "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143209",
       "source": "오피니언뉴스",
+      "published": "2026-08-19T08:29:52+09:00"
+    },
+    {
+      "title": "[증시 포인트] 하락 출발 전망...장중 낙폭 만회 가능성도",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143209",
+      "source": "opinionnews.co.kr",
       "published": "2026-08-19T08:29:52+09:00"
     },
     {
@@ -4371,6 +4985,12 @@
       "title": "美 증시 반도체 쇼크…마이크론 7%·하이닉스 샌디스크 9%↓",
       "link": "https://www.hankyung.com/article/2026081985136",
       "source": "한국경제",
+      "published": "2026-08-19T08:14:08+09:00"
+    },
+    {
+      "title": "美 증시 반도체 쇼크…마이크론 7%·하이닉스 샌디스크 9%↓",
+      "link": "https://www.hankyung.com/article/2026081985136",
+      "source": "hankyung.com",
       "published": "2026-08-19T08:14:08+09:00"
     },
     {
@@ -4509,6 +5129,12 @@
       "title": "국가도 막지 못한 AI의 상장...앤트로픽 IPO가 바꿀 '권력의 지도'",
       "link": "https://contents.premium.naver.com/themiilk/business/contents/260818154848461ea",
       "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-08-19T08:00:00+09:00"
+    },
+    {
+      "title": "[코스닥 상폐 딜레마㊤] '200억 문턱' 아래 109곳…흑자기업도 퇴출 시계",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850700",
+      "source": "newsworks.co.kr",
       "published": "2026-08-19T08:00:00+09:00"
     },
     {
@@ -4693,6 +5319,12 @@
       "published": "2026-08-19T07:22:39+09:00"
     },
     {
+      "title": "[오늘의 글로벌마켓] 뉴욕증시, 국채금리 급등에 3대지수 일제히 하락",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143202",
+      "source": "opinionnews.co.kr",
+      "published": "2026-08-19T07:22:39+09:00"
+    },
+    {
       "title": "[상장사 생존의 갈림길] 51억 쏟아도 '동전주' 못 막았다…옴니시스템, 시장 '퇴출 위기'",
       "link": "https://dealsite.co.kr/articles/167316",
       "source": "딜사이트",
@@ -4846,6 +5478,12 @@
     {
       "title": "뉴욕증시, 중동 긴장·국채금리 급등에 사흘째 하락 … 나스닥 1.33%↓",
       "link": "http://www.newdaily.co.kr/site/data/html/2026/08/19/2026081900009.html",
+      "source": "뉴데일리",
+      "published": "2026-08-19T06:47:09+09:00"
+    },
+    {
+      "title": "美 증시, 마이크론 7%· 하닉 ADR 9.2%↓ … 韓 '검은 수요일' 맞나",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/08/19/2026081900009.html",
       "source": "뉴데일리",
       "published": "2026-08-19T06:47:09+09:00"
     },
@@ -5051,6 +5689,12 @@
       "title": "뉴욕증시, 중동 긴장·장기금리 상승에 사흘째 '하락'…나스닥 1.3% '뚝'",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850740",
       "source": "뉴스웍스",
+      "published": "2026-08-19T06:01:07+09:00"
+    },
+    {
+      "title": "뉴욕증시, 중동 긴장·장기금리 상승에 사흘째 '하락'…나스닥 1.3% '뚝'",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850740",
+      "source": "newsworks.co.kr",
       "published": "2026-08-19T06:01:07+09:00"
     },
     {
@@ -5820,6 +6464,12 @@
       "summary": "국채수익률 상승 여파로 美 증시 하락…반도체주 일제 하락, 브렌트유 91달러, 필라델피아반도체지수 5% 하락 금리스왑시장은 9월 금리동결 전망 여전히 60% 넘어"
     },
     {
+      "title": "국채수익률 상승 여파로 美 증시 하락…반도체주 일제 하락",
+      "link": "https://www.hankyung.com/article/202608188217i",
+      "source": "hankyung.com",
+      "published": "2026-08-18T23:12:15+09:00"
+    },
+    {
       "title": "미국증시 장초반, 장기금리·유가 부담에 기술주 약세…엔비디아·반도체주 흔들",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16166514",
       "source": "topstarnews.net",
@@ -6084,6 +6734,12 @@
       "published": "2026-08-18T22:00:01+09:00"
     },
     {
+      "title": "월마트도 반한 '한국의 맛' 뭐길래…\"주가 60만원 갑니다\" [종목+]",
+      "link": "https://www.hankyung.com/article/2026081874916",
+      "source": "hankyung.com",
+      "published": "2026-08-18T22:00:01+09:00"
+    },
+    {
       "title": "뉴욕증시 프리뷰, 美·이란 긴장에 유가 91달러 돌파…나스닥 선물 1.3%↓·반도체주 급락",
       "link": "https://www.newspim.com/news/view/20260818001272",
       "source": "뉴스핌",
@@ -6117,6 +6773,12 @@
       "title": "삼전닉스 다시 뛰는데…코스피 상승에 숨겨진 '이상 신호'",
       "link": "https://www.hankyung.com/article/2026081880646",
       "source": "한국경제",
+      "published": "2026-08-18T21:30:01+09:00"
+    },
+    {
+      "title": "삼전닉스 다시 뛰는데…코스피 상승에 숨겨진 '이상 신호'",
+      "link": "https://www.hankyung.com/article/2026081880646",
+      "source": "hankyung.com",
       "published": "2026-08-18T21:30:01+09:00"
     },
     {
@@ -9340,8 +10002,8 @@
         "link": "https://www.reuters.com/business/nasdaq-futures-gain-tech-stocks-climb-2026-08-17/",
         "source": "Reuters",
         "published": "2026-08-18T07:44:27+09:00",
-        "latest": "2026-08-19T15:36:38+09:00",
-        "mention_count": 65,
+        "latest": "2026-08-19T16:29:23+09:00",
+        "mention_count": 67,
         "sources": [
           "Reuters",
           "reuters.com",
@@ -9363,7 +10025,7 @@
         "link": "https://www.cnbc.com/2026/08/18/gold-extends-gains-on-easing-rate-hike-fears-markets-await-fed-minutes.html",
         "source": "CNBC",
         "published": "2026-08-18T11:50:00+09:00",
-        "latest": "2026-08-19T15:52:12+09:00",
+        "latest": "2026-08-19T16:08:19+09:00",
         "mention_count": 41,
         "sources": [
           "CNBC",
@@ -9386,7 +10048,7 @@
         "link": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
         "source": "Bloomberg",
         "published": "2026-08-18T07:07:13+09:00",
-        "latest": "2026-08-19T14:52:00+09:00",
+        "latest": "2026-08-19T16:33:36+09:00",
         "mention_count": 28,
         "sources": [
           "Bloomberg",
@@ -9409,8 +10071,8 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/why-dow-p-500-nasdaq-035640202.html",
         "source": "Yahoo Finance",
         "published": "2026-08-18T12:56:00+09:00",
-        "latest": "2026-08-19T15:47:16+09:00",
-        "mention_count": 26,
+        "latest": "2026-08-19T16:29:09+09:00",
+        "mention_count": 28,
         "sources": [
           "Yahoo Finance",
           "thestreet.com",
@@ -9423,7 +10085,7 @@
           "Seeking Alpha",
           "seekingalpha.com",
           "thewealthadvisor.com",
-          "Investing.com"
+          "Moomoo"
         ],
         "title_en": "Why Dow, S&P 500, Nasdaq Futures Are Slipping Overnight: SNDK, MSTR, NBIS, NKE Stocks Are In Focus"
       },
@@ -9433,7 +10095,7 @@
         "source": "Morningstar",
         "published": "2026-08-18T06:24:33+09:00",
         "latest": "2026-08-19T15:32:49+09:00",
-        "mention_count": 25,
+        "mention_count": 26,
         "sources": [
           "Morningstar",
           "Yahoo Finance",
@@ -9460,8 +10122,8 @@
             "link": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-08-18/",
             "source": "Reuters",
             "published": "2026-08-18T10:16:00+09:00",
-            "latest": "2026-08-19T08:58:13+09:00",
-            "mention_count": 20,
+            "latest": "2026-08-19T16:28:03+09:00",
+            "mention_count": 22,
             "sources": [
               "Reuters",
               "reuters.com",
@@ -9484,7 +10146,7 @@
             "source": "Investing.com",
             "published": "2026-08-18T12:11:24+09:00",
             "latest": "2026-08-19T15:52:55+09:00",
-            "mention_count": 19,
+            "mention_count": 20,
             "sources": [
               "Investing.com",
               "Seeking Alpha",
@@ -9506,7 +10168,7 @@
             "link": "https://www.wsj.com/cio-journal/the-bright-side-of-ais-impact-on-the-labor-market-190287fc",
             "source": "WSJ",
             "published": "2026-08-18T21:18:00+09:00",
-            "latest": "2026-08-19T12:01:32+09:00",
+            "latest": "2026-08-19T15:55:57+09:00",
             "mention_count": 14,
             "sources": [
               "WSJ",
@@ -9552,8 +10214,8 @@
             "link": "https://www.marketbeat.com/instant-alerts/amkor-technology-nasdaqamkr-shares-down-84-heres-what-happened-2026-08-18/",
             "source": "MarketBeat",
             "published": "2026-08-19T00:45:16+09:00",
-            "latest": "2026-08-19T11:52:45+09:00",
-            "mention_count": 9,
+            "latest": "2026-08-19T16:23:04+09:00",
+            "mention_count": 10,
             "sources": [
               "MarketBeat",
               "WSJ",
@@ -9563,7 +10225,8 @@
               "24/7 Wall St.",
               "Investing.com",
               "Yahoo! Finance Canada",
-              "247wallst.com"
+              "247wallst.com",
+              "marketbeat.com"
             ],
             "title_en": "Amkor Technology (NASDAQ:AMKR) Shares Down 8.4% - Here's What Happened"
           },
@@ -9660,6 +10323,36 @@
             "title_en": "KLA Sees Unusually High Options Volume (NASDAQ:KLAC)"
           },
           {
+            "title": "코스피가 5.2% 하락하고 유가가 급등하면서 아시아 주가가 하락했습니다.",
+            "link": "https://www.wftv.com/news/business/shares-fall-asia/PYNRV2SIF4Z5FCF7CVHW7TITYY/",
+            "source": "WFTV",
+            "published": "2026-08-19T12:05:00+09:00",
+            "latest": "2026-08-19T15:06:50+09:00",
+            "mention_count": 4,
+            "sources": [
+              "WFTV",
+              "AP News",
+              "95.5 WSB",
+              "Boston 25 News"
+            ],
+            "title_en": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump"
+          },
+          {
+            "title": "월스트리트가 기록을 세웠고 채권은 주식을 폭락시켰습니다.",
+            "link": "https://beincrypto.com/bonds-slam-stocks-record-highs/",
+            "source": "BeInCrypto",
+            "published": "2026-08-19T10:19:00+09:00",
+            "latest": "2026-08-19T12:13:08+09:00",
+            "mention_count": 4,
+            "sources": [
+              "BeInCrypto",
+              "Reuters",
+              "reuters.com",
+              "BlackPressUSA"
+            ],
+            "title_en": "Wall Street Notches Records, Then Bonds Slam Stocks Back Down"
+          },
+          {
             "title": "Nvidia의 2분기 미리보기: 도달 가능한 시가총액 7조 달러(NASDAQ:NVDA)",
             "link": "https://seekingalpha.com/article/4937849-nvidia-q2-preview-a-7-trillion-market-cap-within-reach",
             "source": "Seeking Alpha",
@@ -9703,35 +10396,6 @@
               "cnbc.com"
             ],
             "title_en": "Warren Buffett's 12-Word Strategy for Navigating a Fear-Driven Market"
-          },
-          {
-            "title": "컬럼비아 상장기업, 직원 20% 감축, 나스닥 상장폐지 직면",
-            "link": "https://www.bizjournals.com/baltimore/news/2026/08/18/rekor-systems-ai-traffic-cuts-layoffs-delisting.html",
-            "source": "The Business Journals",
-            "published": "2026-08-18T18:30:00+09:00",
-            "latest": "2026-08-19T06:01:05+09:00",
-            "mention_count": 4,
-            "sources": [
-              "The Business Journals",
-              "bizjournals.com",
-              "Investing.com UK",
-              "Stock Titan"
-            ],
-            "title_en": "Columbia public company cuts staff by 20%, faces Nasdaq delisting"
-          },
-          {
-            "title": "코스피가 5.2% 하락하고 유가가 급등하면서 아시아 주가가 하락했습니다.",
-            "link": "https://www.wftv.com/news/business/shares-fall-asia/PYNRV2SIF4Z5FCF7CVHW7TITYY/",
-            "source": "WFTV",
-            "published": "2026-08-19T12:05:00+09:00",
-            "latest": "2026-08-19T15:06:50+09:00",
-            "mention_count": 3,
-            "sources": [
-              "WFTV",
-              "AP News",
-              "95.5 WSB"
-            ],
-            "title_en": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump"
           }
         ]
       },
@@ -9743,8 +10407,8 @@
             "link": "https://www.reuters.com/commentary/reuters-open-interest/rate-hikes-may-be-blunt-tool-theyre-all-fed-has-cool-inflation-2026-08-17/",
             "source": "Reuters",
             "published": "2026-08-18T08:30:32+09:00",
-            "latest": "2026-08-19T12:01:14+09:00",
-            "mention_count": 18,
+            "latest": "2026-08-19T16:21:18+09:00",
+            "mention_count": 19,
             "sources": [
               "Reuters",
               "reuters.com",
@@ -9767,7 +10431,7 @@
             "source": "Financial Post",
             "published": "2026-08-19T02:49:32+09:00",
             "latest": "2026-08-19T15:16:57+09:00",
-            "mention_count": 8,
+            "mention_count": 9,
             "sources": [
               "Financial Post",
               "Investing.com",
@@ -9776,7 +10440,8 @@
               "Yahoo Finance",
               "finance.yahoo.com",
               "24/7 Wall St.",
-              "MarketBeat"
+              "MarketBeat",
+              "marketbeat.com"
             ],
             "title_en": "U.S. economy is losing momentum, says David Rosenberg"
           },
@@ -9785,8 +10450,8 @@
             "link": "https://www.wsj.com/finance/walter-dodgers-lakers-investigation-3e114ef9",
             "source": "WSJ",
             "published": "2026-08-18T06:40:25+09:00",
-            "latest": "2026-08-19T15:41:20+09:00",
-            "mention_count": 7,
+            "latest": "2026-08-19T16:38:06+09:00",
+            "mention_count": 8,
             "sources": [
               "WSJ",
               "Stanford Graduate School of Business",
@@ -9794,7 +10459,8 @@
               "The Japan Times",
               "Macworld",
               "MarketWatch",
-              "Investing.com"
+              "Investing.com",
+              "reuters.com"
             ],
             "title_en": "The Web of Hidden Deals That Snared the Dodgers Owner in a Federal Probe"
           },
@@ -9828,6 +10494,18 @@
               "WSJ"
             ],
             "title_en": "Trump holds off on new 50% tariffs for Canadian goods"
+          },
+          {
+            "title": "CNBC Daily Open: 로봇 상승, 관세 전환 및 항복 신경",
+            "link": "https://www.cnbc.com/2026/08/19/cnbc-daily-open-robots-rising-tariff-turnaround-and-yield-nerves.html",
+            "source": "CNBC",
+            "published": "2026-08-19T15:10:54+09:00",
+            "latest": "2026-08-19T15:10:54+09:00",
+            "mention_count": 1,
+            "sources": [
+              "CNBC"
+            ],
+            "title_en": "CNBC Daily Open: Robots rising, tariff turnaround and yield nerves"
           }
         ]
       },
@@ -9839,7 +10517,7 @@
             "link": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
             "source": "CNBC",
             "published": "2026-08-18T18:09:19+09:00",
-            "latest": "2026-08-19T14:24:29+09:00",
+            "latest": "2026-08-19T16:19:27+09:00",
             "mention_count": 17,
             "sources": [
               "CNBC",
@@ -9877,6 +10555,21 @@
             "title_en": "WillScot Mobile Mini (WSC): Buy, Sell, or Hold Post Q2 Earnings?"
           },
           {
+            "title": "Anthropic 창립자들은 IPO 전에 추가 투표권을 추구합니다",
+            "link": "https://www.briefs.co/news/anthropic-s-founders-seek-extra-voting-power-ahead-of-stock/",
+            "source": "Briefs Finance",
+            "published": "2026-08-19T10:52:23+09:00",
+            "latest": "2026-08-19T16:12:59+09:00",
+            "mention_count": 4,
+            "sources": [
+              "Briefs Finance",
+              "briefs.co",
+              "Moomoo",
+              "Investing.com"
+            ],
+            "title_en": "Anthropic Founders Seek Extra Voting Power Before IPO"
+          },
+          {
             "title": "Hims & Hers CEO는 FTC 소송이 회사의 운영 방식을 오해했다고 말합니다.",
             "link": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
             "source": "CNBC",
@@ -9896,11 +10589,12 @@
             "link": "https://www.investing.com/news/insider-trading-news/invivyd-cco-timothy-lee-sells-31670-in-shares-93CH-4866312",
             "source": "Investing.com",
             "published": "2026-08-19T10:30:57+09:00",
-            "latest": "2026-08-19T15:45:59+09:00",
-            "mention_count": 2,
+            "latest": "2026-08-19T15:46:55+09:00",
+            "mention_count": 3,
             "sources": [
               "Investing.com",
-              "Bloomberg.com"
+              "Bloomberg.com",
+              "marketbeat.com"
             ],
             "title_en": "Invivyd CCO Timothy Lee sells $31,670 in shares"
           },
@@ -9909,7 +10603,7 @@
             "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-stealth-group-posts-record-h2-2026-results-93CH-4866380",
             "source": "Investing.com",
             "published": "2026-08-19T11:35:16+09:00",
-            "latest": "2026-08-19T14:17:37+09:00",
+            "latest": "2026-08-19T16:20:41+09:00",
             "mention_count": 2,
             "sources": [
               "Investing.com",
@@ -9918,17 +10612,28 @@
             "title_en": "Earnings call transcript: Stealth Group posts record H2 2026 results"
           },
           {
-            "title": "Anthropic 창립자들은 IPO 전에 추가 투표권을 추구합니다",
-            "link": "https://www.briefs.co/news/anthropic-s-founders-seek-extra-voting-power-ahead-of-stock/",
-            "source": "Briefs Finance",
-            "published": "2026-08-19T10:52:23+09:00",
-            "latest": "2026-08-19T11:28:11+09:00",
-            "mention_count": 2,
+            "title": "Elmera 2026년 2분기 슬라이드: 거래 검토가 진행됨에 따라 이익이 30% 증가",
+            "link": "https://www.investing.com/news/company-news/elmera-q2-2026-slides-profit-jumps-30-as-deal-review-proceeds-93CH-4866562",
+            "source": "Investing.com",
+            "published": "2026-08-19T16:25:47+09:00",
+            "latest": "2026-08-19T16:26:52+09:00",
+            "mention_count": 1,
             "sources": [
-              "Briefs Finance",
-              "Moomoo"
+              "Investing.com"
             ],
-            "title_en": "Anthropic Founders Seek Extra Voting Power Before IPO"
+            "title_en": "Elmera Q2 2026 slides: profit jumps 30% as deal review proceeds"
+          },
+          {
+            "title": "스마트폰 압박 완화로 2분기 실적 이후 샤오미 주가 상승",
+            "link": "https://www.investing.com/news/stock-market-news/xiaomi-shares-climb-after-q2-earnings-as-smartphone-pressure-eases-4866404",
+            "source": "Investing.com",
+            "published": "2026-08-19T12:37:19+09:00",
+            "latest": "2026-08-19T16:15:33+09:00",
+            "mention_count": 1,
+            "sources": [
+              "Investing.com"
+            ],
+            "title_en": "Xiaomi shares climb after Q2 earnings as smartphone pressure eases"
           },
           {
             "title": "Idun Industrier, 인수로 2분기 매출 성장 12.7% 보고",
@@ -9941,18 +10646,6 @@
               "Investing.com"
             ],
             "title_en": "Idun Industrier reports 12.7% Q2 sales growth on acquisitions"
-          },
-          {
-            "title": "스마트폰 압박 완화로 2분기 실적 이후 샤오미 주가 상승",
-            "link": "https://www.investing.com/news/stock-market-news/xiaomi-shares-climb-after-q2-earnings-as-smartphone-pressure-eases-4866404",
-            "source": "Investing.com",
-            "published": "2026-08-19T12:37:19+09:00",
-            "latest": "2026-08-19T14:32:38+09:00",
-            "mention_count": 1,
-            "sources": [
-              "Investing.com"
-            ],
-            "title_en": "Xiaomi shares climb after Q2 earnings as smartphone pressure eases"
           }
         ]
       },
@@ -9964,7 +10657,7 @@
             "link": "https://www.wsj.com/opinion/donald-trump-kim-jong-un-military-exercises-south-korea-d7cf812a",
             "source": "WSJ",
             "published": "2026-08-18T06:49:00+09:00",
-            "latest": "2026-08-19T15:48:23+09:00",
+            "latest": "2026-08-19T16:20:38+09:00",
             "mention_count": 15,
             "sources": [
               "WSJ",
@@ -10030,7 +10723,7 @@
             "link": "https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-quotes-185319925.html",
             "source": "Yahoo Finance",
             "published": "2026-08-19T03:53:19+09:00",
-            "latest": "2026-08-19T15:46:03+09:00",
+            "latest": "2026-08-19T16:14:51+09:00",
             "mention_count": 8,
             "sources": [
               "Yahoo Finance",
@@ -10087,7 +10780,7 @@
             "link": "https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html",
             "source": "Yahoo Finance",
             "published": "2026-08-19T00:18:21+09:00",
-            "latest": "2026-08-19T15:48:18+09:00",
+            "latest": "2026-08-19T16:06:09+09:00",
             "mention_count": 7,
             "sources": [
               "Yahoo Finance",
@@ -10106,12 +10799,13 @@
             "source": "Investing.com",
             "published": "2026-08-18T22:24:26+09:00",
             "latest": "2026-08-19T15:41:28+09:00",
-            "mention_count": 4,
+            "mention_count": 5,
             "sources": [
               "Investing.com",
               "Yahoo Finance",
               "TradingView",
-              "Daily Norseman"
+              "Daily Norseman",
+              "dailynorseman.com"
             ],
             "title_en": "Texas Stock Exchange wins first primary listings with TCBI’s ETFs"
           },
@@ -10121,12 +10815,13 @@
             "source": "CNBC",
             "published": "2026-08-19T01:13:21+09:00",
             "latest": "2026-08-19T15:25:28+09:00",
-            "mention_count": 4,
+            "mention_count": 5,
             "sources": [
               "CNBC",
               "MarketWatch",
               "Investing.com",
-              "MarketBeat"
+              "MarketBeat",
+              "marketbeat.com"
             ],
             "title_en": "Nvidia's AI moat is shifting from chips to capital"
           },
@@ -10136,9 +10831,10 @@
             "source": "PYMNTS.com",
             "published": "2026-08-19T02:14:24+09:00",
             "latest": "2026-08-19T05:48:05+09:00",
-            "mention_count": 4,
+            "mention_count": 5,
             "sources": [
               "PYMNTS.com",
+              "pymnts.com",
               "MarketWatch",
               "StockStory",
               "stockstory.org"
@@ -10161,11 +10857,39 @@
             "title_en": "Can Taylor Swift Turn the Samoyed Into the Next Frenchie?"
           },
           {
+            "title": "오늘 추가로 16% 상승했습니다. AI가 선정한 이 의료기술 주식이 현재 +92% 상승한 이유를 알아보세요.",
+            "link": "https://www.investing.com/news/stock-market-news/up-another-16-today-see-why-this-aipicked-medtech-stock-is-now-up-92-4866205",
+            "source": "Investing.com",
+            "published": "2026-08-19T07:30:45+09:00",
+            "latest": "2026-08-19T16:20:23+09:00",
+            "mention_count": 3,
+            "sources": [
+              "Investing.com",
+              "Yahoo Finance",
+              "finance.yahoo.com"
+            ],
+            "title_en": "Up another 16% TODAY, see why this AI-picked medtech stock is now up +92%"
+          },
+          {
+            "title": "디즈니, ABC, 방송 라이센스 위협으로 FCC 고소",
+            "link": "https://www.investing.com/news/stock-market-news/disney-abc-sue-us-regulator-over-threats-to-broadcast-licenses-4865165",
+            "source": "Investing.com",
+            "published": "2026-08-19T07:06:37+09:00",
+            "latest": "2026-08-19T10:48:00+09:00",
+            "mention_count": 3,
+            "sources": [
+              "Investing.com",
+              "Yahoo Finance",
+              "finance.yahoo.com"
+            ],
+            "title_en": "Disney, ABC sue FCC over threats to broadcast licenses"
+          },
+          {
             "title": "Tenon Medical(TNON) 주식은 시간외 77% 상승: 추세인 이유",
             "link": "https://www.benzinga.com/markets/equities/26/08/61292033/tenon-medical-shares-surge-77-percent-after-hours",
             "source": "Benzinga",
             "published": "2026-08-19T13:35:37+09:00",
-            "latest": "2026-08-19T15:25:11+09:00",
+            "latest": "2026-08-19T16:20:02+09:00",
             "mention_count": 2,
             "sources": [
               "Benzinga",
@@ -10185,39 +10909,237 @@
               "WSJ"
             ],
             "title_en": "Mercury Systems Q4 FY26 slides: record bookings offset margin pressure"
-          },
-          {
-            "title": "변동성이 떨어지고 있습니다. 옵션을 다시 구매하기 좋은 시기입니다.",
-            "link": "https://www.barrons.com/articles/stock-market-volatility-options-trades-c542301b",
-            "source": "Barron's",
-            "published": "2026-08-19T14:30:00+09:00",
-            "latest": "2026-08-19T14:30:00+09:00",
-            "mention_count": 2,
-            "sources": [
-              "Barron's",
-              "barrons.com"
-            ],
-            "title_en": "Volatility Is Falling. It’s a Good Time to Buy Options Again."
-          },
-          {
-            "title": "Akso Health Group 주가는 1.03 USD로 52주 최저치를 기록했습니다.",
-            "link": "https://www.investing.com/news/company-news/akso-health-group-stock-hits-52week-low-at-103-usd-93CH-4865950",
-            "source": "Investing.com",
-            "published": "2026-08-19T05:01:30+09:00",
-            "latest": "2026-08-19T13:59:06+09:00",
-            "mention_count": 2,
-            "sources": [
-              "Investing.com",
-              "Trefis"
-            ],
-            "title_en": "Akso Health Group stock hits 52-week low at 1.03 USD"
           }
         ]
       }
     ],
-    "total_articles": 924,
-    "total_issues": 77,
+    "total_articles": 980,
+    "total_issues": 82,
     "raw": [
+      {
+        "title": "일본은 채권 매각으로 인해 재정 계획이 위험에 빠지기 때문에 답이 거의 없습니다.",
+        "link": "https://www.reuters.com/world/asia-pacific/japan-has-few-answers-bond-rout-puts-fiscal-plans-risk-2026-08-19/",
+        "source": "reuters.com",
+        "published": "2026-08-19T16:38:06+09:00",
+        "title_en": "Japan has few answers as bond rout puts fiscal plans at risk"
+      },
+      {
+        "title": "중국의 역회전 로봇 제조업체, 주식 시장 데뷔로 주가 6배 급등",
+        "link": "https://uk.finance.yahoo.com/news/chinese-maker-backflipping-robots-sees-073336858.html",
+        "source": "Yahoo Finance UK",
+        "published": "2026-08-19T16:33:36+09:00",
+        "title_en": "Chinese maker of backflipping robots sees shares soar sixfold on stock market debut"
+      },
+      {
+        "title": "Nasdaq, Inc.의 주식 37,194,072개 $NDAQ BlackRock Inc.에 인수됨",
+        "link": "https://www.marketbeat.com/instant-alerts/filing-37194072-shares-in-nasdaq-inc-ndaq-acquired-by-blackrock-inc-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T16:31:13+09:00",
+        "title_en": "37,194,072 Shares in Nasdaq, Inc. $NDAQ Acquired by BlackRock Inc."
+      },
+      {
+        "title": "월스트리트 후퇴 후 비트코인 ​​하락 - 시장 토크",
+        "link": "https://www.moomoo.com/news/post/74910303/bitcoin-falls-after-wall-street-retreats-market-talk",
+        "source": "Moomoo",
+        "published": "2026-08-19T16:29:23+09:00",
+        "title_en": "Bitcoin Falls After Wall Street Retreats -- Market Talk"
+      },
+      {
+        "title": "Pulse Biosciences(NASDAQ:PLSE)가 1년 최고치를 기록했습니다. 그 이유는 다음과 같습니다.",
+        "link": "https://www.marketbeat.com/instant-alerts/pulse-biosciences-nasdaqplse-sets-new-1-year-high-heres-why-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T16:29:09+09:00",
+        "title_en": "Pulse Biosciences (NASDAQ:PLSE) Sets New 1-Year High - Here's Why"
+      },
+      {
+        "title": "나스닥은 채권 수익률 상승으로 인해 350포인트 이상 하락: 투자자 심리 약화, 공포 및 탐욕 지수",
+        "link": "https://www.benzinga.com/markets/market-summary/26/08/61293031/nasdaq-tumbles-over-350-points-amid-elevated-bond-yields-investor-sentiment-weakens-fear-greed-index-moves-to-neutral-zone",
+        "source": "Benzinga",
+        "published": "2026-08-19T16:28:03+09:00",
+        "title_en": "Nasdaq Tumbles Over 350 Points Amid Elevated Bond Yields: Investor Sentiment Weakens, Fear & Greed Index"
+      },
+      {
+        "title": "Elmera 2026년 2분기 슬라이드: Fortum 거래가 진행됨에 따라 이익이 30% 증가",
+        "link": "https://www.investing.com/news/company-news/elmera-q2-2026-slides-profit-jumps-30-as-fortum-deal-advances-93CH-4866563",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:26:52+09:00",
+        "title_en": "Elmera Q2 2026 slides: profit jumps 30% as Fortum deal advances"
+      },
+      {
+        "title": "Elmera 2026년 2분기 슬라이드: 거래 검토가 진행됨에 따라 이익이 30% 증가",
+        "link": "https://www.investing.com/news/company-news/elmera-q2-2026-slides-profit-jumps-30-as-deal-review-proceeds-93CH-4866562",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:25:47+09:00",
+        "title_en": "Elmera Q2 2026 slides: profit jumps 30% as deal review proceeds"
+      },
+      {
+        "title": "모건스탠리, 하니웰에어로스페이스 주가 평가 등급 상향",
+        "link": "https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-honeywell-aerospace-stock-rating-on-valuation-93CH-4866561",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:25:03+09:00",
+        "title_en": "Morgan Stanley upgrades Honeywell Aerospace stock rating on valuation"
+      },
+      {
+        "title": "독점-Chery의 로봇 사업부가 IPO를 목표로 경찰 로봇의 해외 시장을 목표로 하고 있습니다.",
+        "link": "https://www.investing.com/news/stock-market-news/exclusivecherys-robot-unit-eyes-ipo-targets-overseas-market-for-police-robots-4866533",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:24:31+09:00",
+        "title_en": "Exclusive-Chery’s robot unit eyes IPO, targets overseas market for police robots"
+      },
+      {
+        "title": "Roku(NASDAQ:ROKU)가 1년 최고치를 기록했습니다. 그 이유는 다음과 같습니다.",
+        "link": "https://www.marketbeat.com/instant-alerts/roku-nasdaqroku-hits-new-1-year-high-heres-why-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T16:23:05+09:00",
+        "title_en": "Roku (NASDAQ:ROKU) Hits New 1-Year High - Here's Why"
+      },
+      {
+        "title": "Climb Bio (NASDAQ:CLYM)가 52주 최고가를 경신했습니다. 매수해야 할까요?",
+        "link": "https://www.marketbeat.com/instant-alerts/climb-bio-nasdaqclym-hits-new-52-week-high-should-you-buy-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T16:23:05+09:00",
+        "title_en": "Climb Bio (NASDAQ:CLYM) Hits New 52-Week High - Should You Buy?"
+      },
+      {
+        "title": "Avalyn Pharma(NASDAQ:AVLN)가 1년 최고치를 기록했습니다. 그 이유는 다음과 같습니다.",
+        "link": "https://www.marketbeat.com/instant-alerts/avalyn-pharma-nasdaqavln-sets-new-1-year-high-heres-why-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T16:23:04+09:00",
+        "title_en": "Avalyn Pharma (NASDAQ:AVLN) Sets New 1-Year High - Here's Why"
+      },
+      {
+        "title": "슬로바키아의 7월 인플레이션은 전년 동기 대비 3.2%로 상승했습니다.",
+        "link": "https://www.investing.com/news/economic-indicators/slovakias-july-inflation-rises-to-32-yearonyear-93CH-4866539",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:21:28+09:00",
+        "title_en": "Slovakia’s July inflation rises to 3.2% year-on-year"
+      },
+      {
+        "title": "오늘의 FTSE 100: 인플레이션 급등에도 불구하고 광부들의 반등으로 주가 상승",
+        "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-climb-as-miners-rally-despite-inflation-jump-4866538",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:21:18+09:00",
+        "title_en": "FTSE 100 today: Stocks climb as miners rally despite inflation jump"
+      },
+      {
+        "title": "수익 통화 기록: Xplora는 2026년 2분기 업데이트 이후 15.9% 하락했습니다.",
+        "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-xplora-slides-159-after-q2-2026-update-93CH-4866537",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:20:41+09:00",
+        "title_en": "Earnings call transcript: Xplora slides 15.9% after Q2 2026 update"
+      },
+      {
+        "title": "SK하이닉스, 40조원 규모 자사주 매입 및 소각 승인",
+        "link": "https://www.investing.com/news/company-news/sk-hynix-approves-40-trillion-won-share-buyback-and-cancellation-93CH-4866536",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:20:38+09:00",
+        "title_en": "SK hynix approves 40 trillion won share buyback and cancellation"
+      },
+      {
+        "title": "오늘 FLSmidth 주가가 급등하는 이유는 무엇입니까?",
+        "link": "https://www.investing.com/news/stock-market-news/why-is-flsmidth-stock-surging-today-93CH-4866535",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:20:23+09:00",
+        "title_en": "Why is FLSmidth stock surging today?"
+      },
+      {
+        "title": "오늘 Ithaca Energy 주가가 상승하는 이유는 무엇입니까?",
+        "link": "https://www.investing.com/news/stock-market-news/why-is-ithaca-energy-stock-rallying-today-93CH-4866534",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:20:02+09:00",
+        "title_en": "Why is Ithaca Energy stock rallying today?"
+      },
+      {
+        "title": "5% 수율 테스트: 잭슨홀부터 중간고사까지",
+        "link": "https://www.moomoo.com/community/feed/the-5-yield-test-from-jackson-hole-to-the-midterms-117120956301318",
+        "source": "Moomoo",
+        "published": "2026-08-19T16:19:27+09:00",
+        "title_en": "The 5% Yield Test: From Jackson Hole to the Midterms"
+      },
+      {
+        "title": "Amylyx는 방금 3단계 승리를 인쇄했습니다. 월 스트리트는 가격이 책정되지 않았습니다.",
+        "link": "https://moneymorning.com/2026/08/19/amylyx-amlx-lucidity-phase-3-avexitide-pbh-august-2026",
+        "source": "Money Morning",
+        "published": "2026-08-19T16:17:22+09:00",
+        "title_en": "Amylyx Just Printed a Phase 3 Win Wall Street Wasn't Pricing"
+      },
+      {
+        "title": "SK하이닉스, 280억 달러 자사주 매입",
+        "link": "https://www.investing.com/news/stock-market-news/sk-hynix-to-buy-back-28-bln-in-treasury-shares-4866528",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:15:33+09:00",
+        "title_en": "SK Hynix to buy back $28 bln in treasury shares"
+      },
+      {
+        "title": "유럽 ​​증시는 한 달 중 최악의 날부터 하락세를 보이고 있습니다. 라가르드, Fed 분 대기 중",
+        "link": "https://www.investing.com/news/stock-market-news/european-stocks-reel-from-worst-day-in-a-month-lagarde-fed-minutes-awaited-4866488",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:14:51+09:00",
+        "title_en": "European stocks reel from worst day in a month; Lagarde, Fed minutes awaited"
+      },
+      {
+        "title": "Unitree, 중국 휴머노이드 로봇 분야의 이정표인 상하이 데뷔로 급상승",
+        "link": "https://www.investing.com/news/stock-market-news/unitree-soars-in-shanghai-debut-a-milestone-for-chinas-humanoid-robotics-sector-4866527",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:12:59+09:00",
+        "title_en": "Unitree soars in Shanghai debut, a milestone for China’s humanoid robotics sector"
+      },
+      {
+        "title": "SK하이닉스, 290억 달러 규모 자사주 매입·소각",
+        "link": "https://www.investing.com/news/stock-market-news/sk-hynix-to-buy-back-cancel-29-billion-worth-of-treasury-shares-4866523",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:12:35+09:00",
+        "title_en": "SK Hynix to buy back, cancel $29 billion worth of treasury shares"
+      },
+      {
+        "title": "25,000-25,630 범위에 갇힌 Hang Seng: 시간별 수준",
+        "link": "https://www.investing.com/news/stock-market-news/hang-seng-trapped-in-cloud-at-2505025650-live-levels-93CH-4862072",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:11:37+09:00",
+        "title_en": "Hang Seng trapped in 25,000-25,630 range: Hourly levels"
+      },
+      {
+        "title": "UAE가 테헤란과 무역을 중단함에 따라 이란은 유럽의 미국 목표물에 대한 공격을 고려하고 있는 것으로 알려졌습니다.",
+        "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+        "source": "CNBC",
+        "published": "2026-08-19T16:08:19+09:00",
+        "title_en": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran"
+      },
+      {
+        "title": "젤렌스키는 전 국방장관이 선거를 요구하면서 전시 통치에 대한 도전에 직면했다.",
+        "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
+        "source": "CNBC",
+        "published": "2026-08-19T16:06:09+09:00",
+        "title_en": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election"
+      },
+      {
+        "title": "AC Immune (NASDAQ:ACIU) 주식이 50일 이동 평균을 넘어섰습니다. 그 이유는 다음과 같습니다.",
+        "link": "https://www.marketbeat.com/instant-alerts/ac-immune-nasdaqaciu-stock-passes-above-50-day-moving-average-heres-why-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T16:03:10+09:00",
+        "title_en": "AC Immune (NASDAQ:ACIU) Stock Passes Above 50-Day Moving Average - Here's Why"
+      },
+      {
+        "title": "이 주식은 Needham의 2026년 최고의 반도체 장비 선택입니다",
+        "link": "https://www.investing.com/news/stock-market-news/this-stock-is-needhams-top-semiconductor-equipment-pick-for-2026-93CH-4866516",
+        "source": "Investing.com",
+        "published": "2026-08-19T16:01:36+09:00",
+        "title_en": "This Stock is Needham’s Top Semiconductor Equipment Pick for 2026"
+      },
+      {
+        "title": "Carlsberg는 낮은 수준의 지침을 해제하고 청량음료와 무알코올 맥주 분야에서 강력한 성장을 기록하고 있습니다.",
+        "link": "https://www.wsj.com/business/earnings/carlsberg-lifts-lower-end-of-guidance-books-strong-growth-in-soft-drinks-alcohol-free-brews-0ca981ff",
+        "source": "WSJ",
+        "published": "2026-08-19T15:57:00+09:00",
+        "title_en": "Carlsberg Lifts Lower End of Guidance, Books Strong Growth in Soft Drinks, Alcohol-Free Brews"
+      },
+      {
+        "title": "Goldman은 AI가 노동 시장을 압박하는 부분을 연구했습니다. 찾은 내용은 다음과 같습니다.",
+        "link": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+        "source": "CNBC",
+        "published": "2026-08-19T15:55:57+09:00",
+        "title_en": "Goldman studied where AI is squeezing labor markets. Here's what it found"
+      },
       {
         "title": "나스닥, 암호화폐 모델이 월스트리트에 도달함에 따라 23시간 거래 목표",
         "link": "https://yellow.com/news/nasdaq-23-hour-crypto-trading",
@@ -10231,6 +11153,13 @@
         "source": "CNBC",
         "published": "2026-08-19T15:52:12+09:00",
         "title_en": "Iran reportedly weighs attacks on European military targets as UAE severs trade with Tehran"
+      },
+      {
+        "title": "Kalshi는 주식 시장을 겨냥합니다.",
+        "link": "https://www.marketscreener.com/news/kalshi-takes-aim-at-the-stock-market-ce7859ddd18ff226",
+        "source": "marketscreener.com",
+        "published": "2026-08-19T15:49:53+09:00",
+        "title_en": "Kalshi takes aim at the stock market"
       },
       {
         "title": "호르무즈 수출 불확실성 장기화로 유가 상승세 연장",
@@ -10252,6 +11181,13 @@
         "source": "Investing.com",
         "published": "2026-08-19T15:47:16+09:00",
         "title_en": "Why is Rusal stock gaining today?"
+      },
+      {
+        "title": "Cellectis(NASDAQ:CLLS) 주가가 50일 이동 평균을 넘어섰습니다. 그 이유는 다음과 같습니다.",
+        "link": "https://www.marketbeat.com/instant-alerts/cellectis-nasdaqclls-shares-pass-above-fifty-day-moving-average-heres-why-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T15:46:55+09:00",
+        "title_en": "Cellectis (NASDAQ:CLLS) Shares Pass Above Fifty Day Moving Average - Here's Why"
       },
       {
         "title": "최고의 월스트리트 예측자들은 2분기 실적을 앞두고 TJX 기대치를 개편했습니다",
@@ -10310,6 +11246,13 @@
         "title_en": "FLSmidth raises full-year guidance after strong Q2 profit growth"
       },
       {
+        "title": "영국 인플레이션이 7월에 상승했습니다",
+        "link": "https://www.wsj.com/economy/global/u-k-inflation-picked-up-in-july-15b2b0be",
+        "source": "WSJ",
+        "published": "2026-08-19T15:39:00+09:00",
+        "title_en": "U.K. Inflation Picked Up in July"
+      },
+      {
         "title": "미국 주식 선물은 월스트리트가 높은 수익률과 원유로 인해 타격을 입은 후 하락했습니다.",
         "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-hit-by-higher-yields-oil-4866292",
         "source": "Investing.com",
@@ -10324,9 +11267,23 @@
         "title_en": "PENN Entertainment, Inc. (NASDAQ:PENN) Receives Average Rating of \"Moderate Buy\" from Analysts"
       },
       {
+        "title": "PENN Entertainment, Inc.(나스닥:PENN), 애널리스트로부터 평균 \"보통 매수\" 등급 획득",
+        "link": "https://www.marketbeat.com/instant-alerts/penn-entertainment-inc-nasdaqpenn-receives-average-rating-of-moderate-buy-from-analysts-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T15:32:50+09:00",
+        "title_en": "PENN Entertainment, Inc. (NASDAQ:PENN) Receives Average Rating of \"Moderate Buy\" from Analysts"
+      },
+      {
         "title": "CommVault Systems, Inc.(NASDAQ:CVLT), 분석가들의 \"보통 매수\" 권고에 동의",
         "link": "https://www.marketbeat.com/instant-alerts/commvault-systems-inc-nasdaqcvlt-given-consensus-recommendation-of-moderate-buy-by-analysts-2026-08-19/",
         "source": "MarketBeat",
+        "published": "2026-08-19T15:32:49+09:00",
+        "title_en": "CommVault Systems, Inc. (NASDAQ:CVLT) Given Consensus Recommendation of \"Moderate Buy\" by Analysts"
+      },
+      {
+        "title": "CommVault Systems, Inc.(NASDAQ:CVLT), 분석가들의 \"보통 매수\" 권고에 동의",
+        "link": "https://www.marketbeat.com/instant-alerts/commvault-systems-inc-nasdaqcvlt-given-consensus-recommendation-of-moderate-buy-by-analysts-2026-08-19/",
+        "source": "marketbeat.com",
         "published": "2026-08-19T15:32:49+09:00",
         "title_en": "CommVault Systems, Inc. (NASDAQ:CVLT) Given Consensus Recommendation of \"Moderate Buy\" by Analysts"
       },
@@ -10373,6 +11330,13 @@
         "title_en": "First Capital (NASDAQ:FCAP) Stock Price Passes Above 200-Day Moving Average - Here's Why"
       },
       {
+        "title": "First Capital(NASDAQ:FCAP) 주가가 200일 이동 평균을 넘어섰습니다. 그 이유는 다음과 같습니다.",
+        "link": "https://www.marketbeat.com/instant-alerts/first-capital-nasdaqfcap-stock-price-passes-above-200-day-moving-average-heres-why-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T15:24:48+09:00",
+        "title_en": "First Capital (NASDAQ:FCAP) Stock Price Passes Above 200-Day Moving Average - Here's Why"
+      },
+      {
         "title": "Avita Medical Inc.(NASDAQ:RCEL), 애널리스트로부터 평균 \"보통 매수\" 등급 획득",
         "link": "https://www.marketbeat.com/instant-alerts/avita-medical-inc-nasdaqrcel-receives-average-rating-of-moderate-buy-from-analysts-2026-08-19/",
         "source": "MarketBeat",
@@ -10387,11 +11351,25 @@
         "title_en": "SailPoint, Inc. (NASDAQ:SAIL) Given Consensus Recommendation of \"Moderate Buy\" by Analysts"
       },
       {
+        "title": "SailPoint, Inc.(NASDAQ:SAIL), 애널리스트들의 \"보통 매수\" 권고에 동의",
+        "link": "https://www.marketbeat.com/instant-alerts/sailpoint-inc-nasdaqsail-given-consensus-recommendation-of-moderate-buy-by-analysts-2026-08-19/",
+        "source": "marketbeat.com",
+        "published": "2026-08-19T15:16:57+09:00",
+        "title_en": "SailPoint, Inc. (NASDAQ:SAIL) Given Consensus Recommendation of \"Moderate Buy\" by Analysts"
+      },
+      {
         "title": "골드만삭스, 일본 최고의 전자부품 주식 선정",
         "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-japan-electronic-components-stocks-93CH-4866468",
         "source": "Investing.com",
         "published": "2026-08-19T15:16:34+09:00",
         "title_en": "Goldman Sachs Names Top Japan Electronic Components Stocks"
+      },
+      {
+        "title": "CNBC Daily Open: 로봇 상승, 관세 전환 및 항복 신경",
+        "link": "https://www.cnbc.com/2026/08/19/cnbc-daily-open-robots-rising-tariff-turnaround-and-yield-nerves.html",
+        "source": "CNBC",
+        "published": "2026-08-19T15:10:54+09:00",
+        "title_en": "CNBC Daily Open: Robots rising, tariff turnaround and yield nerves"
       },
       {
         "title": "인도 주식, BofA 여론조사에서 아시아에서 가장 덜 선호하는 주식으로 인도네시아 1위",
@@ -10411,6 +11389,13 @@
         "title": "코스피가 5.7% 하락하고 유가가 급등하면서 아시아 주가는 하락했습니다.",
         "link": "https://www.wsbradio.com/news/business/shares-fall-asia/PYNRV2SIF4Z5FCF7CVHW7TITYY/",
         "source": "95.5 WSB",
+        "published": "2026-08-19T15:06:50+09:00",
+        "title_en": "Shares fall in Asia, with Kospi down 5.7%, while oil prices jump"
+      },
+      {
+        "title": "코스피가 5.7% 하락하고 유가가 급등하면서 아시아 주가는 하락했습니다.",
+        "link": "https://www.boston25news.com/news/business/shares-fall-asia/PYNRV2SIF4Z5FCF7CVHW7TITYY/",
+        "source": "Boston 25 News",
         "published": "2026-08-19T15:06:50+09:00",
         "title_en": "Shares fall in Asia, with Kospi down 5.7%, while oil prices jump"
       },
@@ -10611,6 +11596,13 @@
         "title_en": "The ‘tax on the City’ fuelling the stock market’s collapse"
       },
       {
+        "title": "증시 붕괴 부추긴 '도시세'",
+        "link": "https://finance.yahoo.com/economy/policy/articles/tax-city-fuelling-stock-market-050000661.html",
+        "source": "finance.yahoo.com",
+        "published": "2026-08-19T14:00:00+09:00",
+        "title_en": "The ‘tax on the City’ fuelling the stock market’s collapse"
+      },
+      {
         "title": "S&P 500 주식 14개 종목이 방금 52주 최고치를 경신했습니다.",
         "link": "https://www.trefis.com/stock/spy/articles/611829/14-sp-500-stocks-just-made-new-52-week-highs/2026-08-19",
         "source": "Trefis",
@@ -10642,6 +11634,13 @@
         "title": "Robinhood CEO Vlad Tenev는 2026년 온체인 주식 거래가 사상 최고치를 기록함에 따라 '토큰화 슈퍼사이클'이 이제 막 시작되었다고 말합니다.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-ceo-vlad-tenev-says-043633057.html",
         "source": "Yahoo Finance",
+        "published": "2026-08-19T13:36:00+09:00",
+        "title_en": "Robinhood CEO Vlad Tenev Says ‘Tokenization Supercycle’ Is Just Beginning – As On-Chain Equity Trading Reportedly Hits Record High In 2026"
+      },
+      {
+        "title": "Robinhood CEO Vlad Tenev는 '토큰화 슈퍼사이클'이 이제 막 시작되었다고 말합니다. 2026년 온체인 주식 거래가 사상 최고치를 기록할 것으로 알려졌습니다.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-ceo-vlad-tenev-says-043633057.html",
+        "source": "finance.yahoo.com",
         "published": "2026-08-19T13:36:00+09:00",
         "title_en": "Robinhood CEO Vlad Tenev Says ‘Tokenization Supercycle’ Is Just Beginning – As On-Chain Equity Trading Reportedly Hits Record High In 2026"
       },
@@ -10803,6 +11802,13 @@
         "title": "Chipmaker의 새로운 출시로 인해 CBRS 주가 급락 - Cathie Wood, Dip Ticker 구매:",
         "link": "https://finance.yahoo.com/markets/stocks/articles/cbrs-stock-plunges-amid-chipmaker-032130626.html",
         "source": "Yahoo Finance",
+        "published": "2026-08-19T12:21:00+09:00",
+        "title_en": "CBRS Stock Plunges Amid Chipmaker’s New Launches – Cathie Wood Buys The Dip Tickers:"
+      },
+      {
+        "title": "Chipmaker의 새로운 출시로 인해 CBRS 주가 급락 - Cathie Wood, Dip Ticker 구매:",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cbrs-stock-plunges-amid-chipmaker-032130626.html",
+        "source": "finance.yahoo.com",
         "published": "2026-08-19T12:21:00+09:00",
         "title_en": "CBRS Stock Plunges Amid Chipmaker’s New Launches – Cathie Wood Buys The Dip Tickers:"
       },
@@ -11010,6 +12016,13 @@
         "title_en": "Bond selloff slows but stocks sink"
       },
       {
+        "title": "채권 매각 속도 둔화됐지만 주가는 하락",
+        "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-19/",
+        "source": "reuters.com",
+        "published": "2026-08-19T11:51:00+09:00",
+        "title_en": "Bond selloff slows but stocks sink"
+      },
+      {
         "title": "트럼프, 캐나다에 예정된 50% 관세 3일 중단, 오타와와 '협상' 발표",
         "link": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
         "source": "CNBC",
@@ -11122,6 +12135,13 @@
         "title_en": "KLAR Stock Recovers Overnight As Management Touts Strong US Growth: Retail Turns Extremely Bullish, Says Klarna Is ‘Undervalued’"
       },
       {
+        "title": "KLAR 주식은 경영진이 강력한 미국 성장을 선전함에 따라 하룻밤 사이에 회복됩니다. 소매업은 극도로 낙관적으로 변하고 Klarna는 '저평가'되어 있다고 말합니다",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/klar-stock-recovers-overnight-management-023434092.html",
+        "source": "finance.yahoo.com",
+        "published": "2026-08-19T11:34:00+09:00",
+        "title_en": "KLAR Stock Recovers Overnight As Management Touts Strong US Growth: Retail Turns Extremely Bullish, Says Klarna Is ‘Undervalued’"
+      },
+      {
         "title": "Santos H1 2026 슬라이드: Barossa, Pikka 램프로 생산 변화 주도",
         "link": "https://www.investing.com/news/company-news/santos-h1-2026-slides-barossa-pikka-ramp-drives-production-shift-93CH-4866378",
         "source": "Investing.com",
@@ -11153,6 +12173,13 @@
         "title": "인도 주식은 원유, 국채 수익률 상승으로 하락",
         "link": "https://www.reuters.com/world/india/indian-shares-set-muted-start-higher-oil-prices-treasury-yields-weigh-2026-08-19/",
         "source": "Reuters",
+        "published": "2026-08-19T11:30:00+09:00",
+        "title_en": "Indian shares subdued on higher crude, Treasury yields"
+      },
+      {
+        "title": "인도 주식은 원유, 국채 수익률 상승으로 하락",
+        "link": "https://www.reuters.com/world/india/indian-shares-set-muted-start-higher-oil-prices-treasury-yields-weigh-2026-08-19/",
+        "source": "reuters.com",
         "published": "2026-08-19T11:30:00+09:00",
         "title_en": "Indian shares subdued on higher crude, Treasury yields"
       },
@@ -11206,6 +12233,13 @@
         "title_en": "Vikings Stock Market Report After First Preseason Game"
       },
       {
+        "title": "첫 프리시즌 경기 후 바이킹스 주식 시장 보고서",
+        "link": "https://www.dailynorseman.com/minnesota-vikings-preseason/98203/vikings-stock-market-report-after-first-preseason-game",
+        "source": "dailynorseman.com",
+        "published": "2026-08-19T11:12:00+09:00",
+        "title_en": "Vikings Stock Market Report After First Preseason Game"
+      },
+      {
         "title": "미국 주식은 중동 긴장, 수익률 급등으로 하락",
         "link": "https://www.chosun.com/english/market-money-en/2026/08/19/V2QWF7RWZBCFXH7J5YPFL4QWS4/",
         "source": "조선일보",
@@ -11255,6 +12289,13 @@
         "title_en": "Anthropic Founders Seek Extra Voting Power Before IPO"
       },
       {
+        "title": "Anthropic 창립자들은 IPO 전에 추가 투표권을 추구합니다",
+        "link": "https://www.briefs.co/news/anthropic-s-founders-seek-extra-voting-power-ahead-of-stock/",
+        "source": "briefs.co",
+        "published": "2026-08-19T10:52:23+09:00",
+        "title_en": "Anthropic Founders Seek Extra Voting Power Before IPO"
+      },
+      {
         "title": "중국 로봇 거대 기업 유니트리(Unitree)가 주식시장에 상장했다.",
         "link": "https://www.bbc.com/news/articles/c0qv4w9492zo",
         "source": "BBC",
@@ -11272,6 +12313,13 @@
         "title": "Cathie Wood의 ARK가 가득 찬 후 RKLB 주식이 밤새 상승합니다. CFO는 우주군이 승리하는 가운데 250만 달러의 주식 선물을 공개합니다.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rises-overnight-cathie-014806149.html",
         "source": "Yahoo Finance",
+        "published": "2026-08-19T10:48:00+09:00",
+        "title_en": "RKLB Stock Rises Overnight After Cathie Wood’s ARK Loads Up — CFO Discloses $2.5M Share Gift Amid Space Force Wins"
+      },
+      {
+        "title": "Cathie Wood의 ARK가 가득 찬 후 RKLB 주식이 밤새 상승합니다. CFO는 우주군이 승리하는 가운데 250만 달러의 주식 선물을 공개합니다.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rises-overnight-cathie-014806149.html",
+        "source": "finance.yahoo.com",
         "published": "2026-08-19T10:48:00+09:00",
         "title_en": "RKLB Stock Rises Overnight After Cathie Wood’s ARK Loads Up — CFO Discloses $2.5M Share Gift Amid Space Force Wins"
       },
@@ -11416,6 +12464,13 @@
         "title_en": "Earnings call transcript: Service Stream lifts profit in H2 2026 as defence ramps"
       },
       {
+        "title": "트럼프의 항상 존재하는 수석 보좌관이 어떻게 워싱턴의 화제가 되었습니까?",
+        "link": "https://www.wsj.com/politics/policy/who-is-natalie-harp-trump-aide-c11634c3",
+        "source": "WSJ",
+        "published": "2026-08-19T10:27:00+09:00",
+        "title_en": "How Trump’s Ever-Present Executive Assistant Became the Talk of Washington"
+      },
+      {
         "title": "Temple & Webster FY26 슬라이드: 기록적인 매출, 약한 FY27 시작",
         "link": "https://www.investing.com/news/company-news/temple--webster-fy26-slides-record-revenue-weak-fy27-start-93CH-4866308",
         "source": "Investing.com",
@@ -11505,6 +12560,13 @@
         "source": "WSJ",
         "published": "2026-08-19T10:00:00+09:00",
         "title_en": "The Highs and Lows of My $2,500 Flight in Alaska’s New Long-Haul Business Class"
+      },
+      {
+        "title": "중국 주식 시장은 수요일에 활력을 잃을 수도 있습니다",
+        "link": "https://www.rttnews.com/3681692/china-stock-market-may-run-out-of-steam-on-wednesday.aspx",
+        "source": "RTTNews",
+        "published": "2026-08-19T10:00:00+09:00",
+        "title_en": "China Stock Market May Run Out Of Steam On Wednesday"
       },
       {
         "title": "이 중국 EV 주식은 해당 부문에서 최고의 펀더멘털을 보유하고 있습니다.",
@@ -13838,6 +14900,13 @@
         "title_en": "How to compare life insurance quotes"
       },
       {
+        "title": "중간고사, 성추행 스캔들 쌓여",
+        "link": "https://www.wsj.com/politics/sexual-misconduct-scandals-pile-up-in-midterms-c48dcb87",
+        "source": "WSJ",
+        "published": "2026-08-19T03:53:00+09:00",
+        "title_en": "Sexual Misconduct Scandals Pile Up in Midterms"
+      },
+      {
         "title": "시장 시간의 죽음: 나스닥은 23시간 거래로 암호화폐를 모방합니다",
         "link": "https://www.tradingview.com/news/coinpedia:4f4f312af094b:0-the-death-of-market-hours-nasdaq-mimics-crypto-with-23-hour-trading/",
         "source": "TradingView",
@@ -14258,6 +15327,13 @@
         "title_en": "Crypto Trade Group Backs Custodia’s Supreme Court Bid"
       },
       {
+        "title": "Crypto Trade Group, Custodia의 대법원 입찰을 지지",
+        "link": "https://www.pymnts.com/cryptocurrency/2026/blockchain-group-asks-supreme-court-review-federal-reserve-denial-crypto-bank-bid-master-account/",
+        "source": "pymnts.com",
+        "published": "2026-08-19T02:14:24+09:00",
+        "title_en": "Crypto Trade Group Backs Custodia’s Supreme Court Bid"
+      },
+      {
         "title": "The Princeton Review에 따르면 2026년 재정 지원을 받는 상위 10개 대학과 가족이 실제로 지불하는 금액",
         "link": "https://www.cnbc.com/2026/08/18/colleges-best-financial-aid-2026-princeton-review.html",
         "source": "CNBC",
@@ -14543,6 +15619,13 @@
         "source": "Star Beacon",
         "published": "2026-08-19T01:31:23+09:00",
         "title_en": "Sinking AI stocks pull Wall Street further from its record"
+      },
+      {
+        "title": "메타 스톡: 시장은 AI 지출을 처벌하고 있습니다. 내가 여전히 낙관적인 이유는 다음과 같습니다.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-market-punishing-ai-163003484.html",
+        "source": "finance.yahoo.com",
+        "published": "2026-08-19T01:30:03+09:00",
+        "title_en": "Meta Stock: The Market Is Punishing AI Spending. Here’s Why I’m Still Bullish"
       },
       {
         "title": "KLA, 비정상적으로 높은 옵션 거래량 확인(NASDAQ:KLAC)",
@@ -15054,6 +16137,13 @@
         "source": "Morningstar",
         "published": "2026-08-18T22:59:37+09:00",
         "title_en": "10 Stocks the Best Europe Equity Income Fund Managers Have Been Buying"
+      },
+      {
+        "title": "미국 주식 시장 업데이트 | 칩 주식은 크게 감소합니다. SanDisk(SNDK.US)가 6% 이상 하락",
+        "link": "https://www.moomoo.com/news/post/74870136/us-stock-market-update-chip-stocks-decline-broadly-sandisk-sndkus",
+        "source": "Moomoo",
+        "published": "2026-08-18T22:57:03+09:00",
+        "title_en": "US Stock Market Update | Chip Stocks Decline Broadly; SanDisk (SNDK.US) Drops Over 6%"
       },
       {
         "title": "AI 주식의 하락으로 월스트리트의 기록이 더 이상 떨어졌습니다.",
