@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T02:36:08.920638+09:00",
+  "generated_at": "2026-08-20T02:55:19.740680+09:00",
   "window_hours": 24,
   "items": [
     {
@@ -34,20 +34,20 @@
       "source": "한국경제TV",
       "published": "2026-08-20T00:31:00+09:00",
       "latest": "2026-08-20T01:38:04+09:00",
-      "mention_count": 13,
+      "mention_count": 16,
       "sources": [
         "한국경제TV",
         "연합뉴스",
         "v.daum.net",
         "미주중앙일보",
         "중앙일보",
+        "joongang.co.kr",
         "머니투데이",
         "mt.co.kr",
         "뉴스1",
         "news1.kr",
         "한겨레",
-        "매일경제",
-        "munhwa.com"
+        "hani.co.kr"
       ],
       "summary": "트럼프 \"김정은 57개 강력 핵무기 갖고 있어…그는 괜찮을 것\"(끝)<저작권자 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지>",
       "topics": []
@@ -222,12 +222,13 @@
       "source": "연합뉴스 한민족센터",
       "published": "2026-08-19T22:22:11+09:00",
       "latest": "2026-08-19T23:10:01+09:00",
-      "mention_count": 6,
+      "mention_count": 7,
       "sources": [
         "연합뉴스 한민족센터",
         "koreancenter.or.kr",
         "연합뉴스",
         "연합뉴스TV",
+        "yonhapnewstv.co.kr",
         "아시아경제",
         "강원도민일보"
       ],
@@ -297,7 +298,7 @@
       "source": "연합뉴스 한민족센터",
       "published": "2026-08-19T22:13:33+09:00",
       "latest": "2026-08-19T23:15:35+09:00",
-      "mention_count": 21,
+      "mention_count": 22,
       "sources": [
         "연합뉴스 한민족센터",
         "yna.co.kr",
@@ -463,8 +464,8 @@
       "sources": [
         "busan.com"
       ],
-      "topics": [],
-      "summary": "산업용 전기요금에 대해 권역별 차등요금을 적용하는 ‘산업용 지역전기요금제’ 관련 공청회가 오는 26일 개최된다. 서울 시내 한 빌라에서 관계자가..."
+      "summary": "산업용 전기요금에 대해 권역별 차등요금을 적용하는 ‘산업용 지역전기요금제’ 관련 공청회가 오는 26일 개최된다. 서울 시내 한 빌라에서 관계자가...",
+      "topics": []
     },
     {
       "title": "[속보] 中왕이, 북미회담 중재 여부에 \"美, 대북 적대정책 바꿔야\"",
@@ -1170,7 +1171,7 @@
       "topics": []
     }
   ],
-  "total_articles": 765,
+  "total_articles": 782,
   "raw": [
     {
       "title": "[속보] 트럼프 “김정은, 57개 핵무기 보유… 연내 만날 것”",
@@ -1185,10 +1186,22 @@
       "published": "2026-08-20T01:38:04+09:00"
     },
     {
+      "title": "[속보]트럼프 “김정은, 57개 핵무기 있어…연내 만날 것”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260820/134508698/1",
+      "source": "동아일보",
+      "published": "2026-08-20T01:23:00+09:00"
+    },
+    {
       "title": "[속보] 트럼프 “김정은, 57개 핵무기 보유…연내 만날 것”",
       "link": "https://www.mk.co.kr/news/politics/12131716",
       "source": "매일경제",
       "published": "2026-08-20T01:22:58+09:00"
+    },
+    {
+      "title": "[속보] 트럼프 “김정은, 연내 만날 것…핵무기 57개 갖고 있어”",
+      "link": "https://www.hani.co.kr/arti/international/america/1273698.html",
+      "source": "hani.co.kr",
+      "published": "2026-08-20T01:16:00+09:00"
     },
     {
       "title": "[속보] 트럼프 “김정은, 연내 만날 것…핵무기 57개 갖고 있어”",
@@ -1261,6 +1274,12 @@
       "title": "[속보] 트럼프 “김정은 57개 강력 핵무기 갖고 있어…그는 괜찮을 것”",
       "link": "https://www.joongang.co.kr/article/25454639",
       "source": "중앙일보",
+      "published": "2026-08-20T00:34:51+09:00"
+    },
+    {
+      "title": "[속보] 트럼프 “김정은 57개 강력 핵무기 갖고 있어…그는 괜찮을 것”",
+      "link": "https://www.joongang.co.kr/article/25454639",
+      "source": "joongang.co.kr",
       "published": "2026-08-20T00:34:51+09:00"
     },
     {
@@ -1404,6 +1423,12 @@
       "published": "2026-08-19T22:46:00+09:00"
     },
     {
+      "title": "[속보] 北김여정 \"북미 지도자 간 소통 전혀 알지 못해\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819224608qxi",
+      "source": "yonhapnewstv.co.kr",
+      "published": "2026-08-19T22:46:00+09:00"
+    },
+    {
       "title": "[속보] 김여정, ‘한미훈련 축소’에 “전혀 흥미 없어…북미 소통 전혀 알지 못하는 일”",
       "link": "https://www.kado.net/news/articleView.html?idxno=2067603",
       "source": "강원도민일보",
@@ -1482,6 +1507,12 @@
       "source": "동아일보",
       "published": "2026-08-19T22:28:00+09:00",
       "summary": "김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장이 19일 한미연합훈련 축소 결정과 관련해 “훈련의 규모나 기일이 줄어든다고 해서 도발적, 공격적 성격의 군사 연습의 본질이 달라지는 것이 아니다”며 “미국 측이 이번에 취한 조치를 ‘선의의 조치’로 선전해보려고 …"
+    },
+    {
+      "title": "[속보] 靑 “李대통령-金·鄭·宋, 만찬서 ’더 강한 원팀’ 공감대“",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608192228333Y6",
+      "source": "yonhapnewstv.co.kr",
+      "published": "2026-08-19T22:28:00+09:00"
     },
     {
       "title": "[속보]정청래, 김민석에 \"내란 넘은 전우…정권 재창출 힘 모아야\"",
@@ -1940,6 +1971,12 @@
       "published": "2026-08-19T20:04:50+09:00"
     },
     {
+      "title": "[속보] 中왕이 “북미대화 양국이 결정할 일…美, 대북 적대정책 바꿔야”",
+      "link": "https://www.joongang.co.kr/article/25454544",
+      "source": "joongang.co.kr",
+      "published": "2026-08-19T20:04:50+09:00"
+    },
+    {
       "title": "[단독] ‘산업용 지역전기요금제 공청회’ 26일 오후 1시 열린다",
       "link": "https://www.busan.com/view/busan/view.php?code=2026081919404267323",
       "source": "busan.com",
@@ -2084,6 +2121,12 @@
       "title": "[단독] ‘관사 위장 전입·뇌물 의혹’ 강제수사 착수…양산서 압수수색",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8640705",
       "source": "news.kbs.co.kr",
+      "published": "2026-08-19T19:23:00+09:00"
+    },
+    {
+      "title": "[단독] ‘관사 위장 전입·뇌물 의혹’ 강제수사 착수…양산서 압수수색",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8640705",
+      "source": "KBS 뉴스",
       "published": "2026-08-19T19:23:00+09:00"
     },
     {
@@ -2643,6 +2686,12 @@
       "title": "[속보] 종합특검, ’서강대교 회군’ 조성현 불구속 기소",
       "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819162729drT",
       "source": "연합뉴스TV",
+      "published": "2026-08-19T16:27:00+09:00"
+    },
+    {
+      "title": "[속보] 종합특검, ’서강대교 회군’ 조성현 불구속 기소",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819162729drT",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-08-19T16:27:00+09:00"
     },
     {
@@ -3442,6 +3491,12 @@
       "summary": "연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 강은나래(rae@yna.co.kr)"
     },
     {
+      "title": "[속보] 국회 과방위 파행…이진숙 이석 거부에 결국 산회",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819141226gE2",
+      "source": "yonhapnewstv.co.kr",
+      "published": "2026-08-19T14:12:00+09:00"
+    },
+    {
       "title": "금융당국 긴급조치권, 증권시장 안정 위한 ‘구제책’ 될까",
       "link": "https://www.fntimes.com/html/view.php?ud=202608191343031502a735e27af_18",
       "source": "한국금융신문",
@@ -3629,9 +3684,21 @@
       "published": "2026-08-19T13:28:45+09:00"
     },
     {
+      "title": "[단독] 두 기관 겸직하며 12억 횡령…경기도태권도협회 전·현직 회장 송치",
+      "link": "https://www.koreadaily.com/article/20260818212912899",
+      "source": "미주중앙일보",
+      "published": "2026-08-19T13:28:00+09:00"
+    },
+    {
       "title": "[속보] 법사위, ’조희대 출석 요구’ 범여권 주도 의결",
       "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819130848BK5",
       "source": "연합뉴스TV",
+      "published": "2026-08-19T13:08:00+09:00"
+    },
+    {
+      "title": "[속보] 법사위, ’조희대 출석 요구’ 범여권 주도 의결",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819130848BK5",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-08-19T13:08:00+09:00"
     },
     {
@@ -3644,6 +3711,12 @@
       "title": "[속보] 법사위, ’조희대 출석 요구’ 범여권 주도 의결…국힘 반발",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819125341K2Q",
       "source": "연합뉴스TV",
+      "published": "2026-08-19T12:53:00+09:00"
+    },
+    {
+      "title": "[속보] 법사위, ’조희대 출석 요구’ 범여권 주도 의결…국힘 반발",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819125341K2Q",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-08-19T12:53:00+09:00"
     },
     {
@@ -4394,6 +4467,12 @@
       "published": "2026-08-19T10:25:00+09:00"
     },
     {
+      "title": "[속보] 김민석, 조희대에 \"내란공범 자청…당장 나가라\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819102548E0A",
+      "source": "yonhapnewstv.co.kr",
+      "published": "2026-08-19T10:25:00+09:00"
+    },
+    {
       "title": "[단독] “1+1 추가주택도 조합원분양가로 달라” 소송 패소…법원 “분양가격은 조합 재량”",
       "link": "https://www.dpnews.co.kr/news/articleView.html?idxno=2258",
       "source": "디벨로퍼뉴스",
@@ -4504,6 +4583,12 @@
       "title": "[속보] 김민석 \"최고위 비공개 사안 공개되면 지위고하 막론 퇴출\"",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819101025vIM",
       "source": "연합뉴스TV",
+      "published": "2026-08-19T10:10:00+09:00"
+    },
+    {
+      "title": "[속보] 김민석 \"최고위 비공개 사안 공개되면 지위고하 막론 퇴출\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819101025vIM",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-08-19T10:10:00+09:00"
     },
     {
@@ -4652,6 +4737,12 @@
       "published": "2026-08-19T09:42:00+09:00"
     },
     {
+      "title": "[속보] 한미, 21일까지 UFS 연합연습…일정·규모 축소",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819094202t9h",
+      "source": "yonhapnewstv.co.kr",
+      "published": "2026-08-19T09:42:00+09:00"
+    },
+    {
       "title": "[속보] 한미 UFS 연습, 21일에 조기종료…야외기동훈련 일부 축소",
       "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052570",
       "source": "신아일보",
@@ -4752,6 +4843,12 @@
     {
       "title": "[속보] 한미 UFS 연습, 21일에 조기종료…야외기동훈련 일부 축소",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR202608190936526yc",
+      "source": "yonhapnewstv.co.kr",
+      "published": "2026-08-19T09:36:00+09:00"
+    },
+    {
+      "title": "[속보] 軍 \"미측 제안으로 UFS 연습 기간·규모 일부 조정\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819093600Zf9",
       "source": "yonhapnewstv.co.kr",
       "published": "2026-08-19T09:36:00+09:00"
     },
@@ -5009,6 +5106,12 @@
       "title": "[속보] 코스피 5~6%대 급락…매도 사이드카 발동",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819090816tlR",
       "source": "연합뉴스TV",
+      "published": "2026-08-19T09:08:00+09:00"
+    },
+    {
+      "title": "[속보] 코스피 5~6%대 급락…매도 사이드카 발동",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260819090816tlR",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-08-19T09:08:00+09:00"
     },
     {
