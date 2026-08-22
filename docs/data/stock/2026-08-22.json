@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T16:38:01.328384+09:00",
+  "generated_at": "2026-08-22T17:39:12.045539+09:00",
   "topic": {
     "id": "stock",
     "label": "주식",
@@ -106,7 +106,7 @@
       "source": "Chosunbiz",
       "published": "2026-08-21T23:27:00+09:00",
       "latest": "2026-08-22T12:05:42+09:00",
-      "mention_count": 10,
+      "mention_count": 11,
       "sources": [
         "Chosunbiz",
         "YTN",
@@ -114,6 +114,7 @@
         "연합뉴스",
         "v.daum.net",
         "여성신문",
+        "이투데이",
         "중소기업신문",
         "오피니언뉴스",
         "네이버 프리미엄콘텐츠",
@@ -122,31 +123,52 @@
       "summary": "뉴욕증시, 저가 매수세에 반등국채금리 숨 고르기"
     },
     {
-      "title": "코스피, 1%대 하락 출발…코스닥도 2%대 약세",
-      "link": "https://v.daum.net/v/20260821090550286",
-      "source": "v.daum.net",
-      "published": "2026-08-21T09:05:50+09:00",
-      "latest": "2026-08-21T11:43:00+09:00",
+      "title": "카카오, 인적 분할 결정…주가 7%대 약세",
+      "link": "https://www.newsis.com/view/NISX20260821_0003757299",
+      "source": "뉴시스",
+      "published": "2026-08-21T10:52:50+09:00",
+      "latest": "2026-08-22T10:07:32+09:00",
       "mention_count": 10,
       "sources": [
-        "v.daum.net",
-        "연합뉴스TV",
-        "Chosunbiz",
-        "연합뉴스",
-        "조선일보",
-        "MBC 뉴스",
+        "뉴시스",
         "연합인포맥스",
-        "아시아경제",
-        "YTN",
-        "강원일보"
+        "머니투데이",
+        "인베스트조선",
+        "뉴스웍스",
+        "ebn.co.kr",
+        "Investing.com 한국어",
+        "더팩트",
+        "bntnews.co.kr",
+        "자본시장뉴스"
       ],
-      "summary": "전날 급등했던 코스피가 21일 하락 출발했다. 한국거래소에 따르면 이날 오전 9시 2분 현재 코스피는 전 거래일 대비 77.14포인트(1.13%) 하락한 6,775.44다. 지수는 92.63포인트(1.35%) 내린 6,759.95로 출발한 뒤 1%대 하락률을 보이고 있…"
+      "summary": "인적분할을 결정한 카카오가 7% 넘게 급락하고 있다.21일 오전 10시41분 현재 카카오는 전일 대비 2800원(7.24%) 내린 3만5900원에 거래되고 있다.인적분할 소식이 주가에 부정적으로 작용하고 있다는 평가다.이날 카카오는 인공지능(AI) 사업을 전담하는 '카…"
     }
   ],
   "sections": [
     {
       "name": "시황",
       "articles": [
+        {
+          "title": "코스피, 1%대 하락 출발…코스닥도 2%대 약세",
+          "link": "https://v.daum.net/v/20260821090550286",
+          "source": "v.daum.net",
+          "published": "2026-08-21T09:05:50+09:00",
+          "latest": "2026-08-21T11:43:00+09:00",
+          "mention_count": 10,
+          "sources": [
+            "v.daum.net",
+            "연합뉴스TV",
+            "Chosunbiz",
+            "연합뉴스",
+            "조선일보",
+            "MBC 뉴스",
+            "연합인포맥스",
+            "아시아경제",
+            "YTN",
+            "강원일보"
+          ],
+          "summary": "전날 급등했던 코스피가 21일 하락 출발했다. 한국거래소에 따르면 이날 오전 9시 2분 현재 코스피는 전 거래일 대비 77.14포인트(1.13%) 하락한 6,775.44다. 지수는 92.63포인트(1.35%) 내린 6,759.95로 출발한 뒤 1%대 하락률을 보이고 있…"
+        },
         {
           "title": "뉴욕증시, 강한 경기지표에 반등…다우 0.98%↑[뉴욕마감]",
           "link": "https://news.mtn.co.kr/news-detail/2026082205300693630",
@@ -383,21 +405,6 @@
             "디일렉"
           ],
           "summary": "한국거래소는 반도체 제조업 해치텍의 코스닥 시장 신규상장을 승인했다고 21일 밝혔다."
-        },
-        {
-          "title": "[코스피] 60.37p(0.88%) 오른 6,912.95(장종료)",
-          "link": "https://www.yna.co.kr/view/AKR20260821122400008",
-          "source": "연합뉴스",
-          "published": "2026-08-21T15:33:08+09:00",
-          "latest": "2026-08-21T15:34:00+09:00",
-          "mention_count": 5,
-          "sources": [
-            "연합뉴스",
-            "머니투데이",
-            "뉴시스",
-            "마켓인",
-            "아시아경제"
-          ]
         }
       ]
     },
@@ -405,24 +412,19 @@
       "name": "종목·기업",
       "articles": [
         {
-          "title": "카카오, 인적 분할 결정…주가 7%대 약세",
-          "link": "https://www.newsis.com/view/NISX20260821_0003757299",
-          "source": "뉴시스",
-          "published": "2026-08-21T10:52:50+09:00",
-          "latest": "2026-08-22T10:07:32+09:00",
-          "mention_count": 9,
+          "title": "앤트로픽, 역대 최대 IPO 도전…\"스페이스X 기록 깬다\"",
+          "link": "https://zdnet.co.kr/view/?no=20260821102228",
+          "source": "지디넷코리아",
+          "published": "2026-08-21T13:09:42+09:00",
+          "latest": "2026-08-22T15:36:00+09:00",
+          "mention_count": 4,
           "sources": [
-            "뉴시스",
-            "연합인포맥스",
-            "머니투데이",
-            "인베스트조선",
-            "뉴스웍스",
-            "ebn.co.kr",
-            "Investing.com 한국어",
-            "더팩트",
-            "자본시장뉴스"
+            "지디넷코리아",
+            "서울경제",
+            "경향신문",
+            "조선일보"
           ],
-          "summary": "인적분할을 결정한 카카오가 7% 넘게 급락하고 있다.21일 오전 10시41분 현재 카카오는 전일 대비 2800원(7.24%) 내린 3만5900원에 거래되고 있다.인적분할 소식이 주가에 부정적으로 작용하고 있다는 평가다.이날 카카오는 인공지능(AI) 사업을 전담하는 '카…"
+          "summary": "앤트로픽이 스페이스X의 기록적인 기업공개(IPO) 규모를 넘어서는 초대형 상장을 검토 중인 것으로 전해졌다.20일(현지시간) 블룸버그 등 외신에 따르면 앤트로픽은 이르면 이달 말 공개 상장 신고를 목표로 IPO 작업을 내부 검토 중이다.외신은 복수 관계자를 인용해 이번…"
         },
         {
           "title": "‘몸값 2800조’ 앤트로픽 이달 상장신청…자금 블랙홀 되나[마켓무버]",
@@ -451,19 +453,6 @@
             "v.daum.net"
           ],
           "summary": "비트코인이 7만9000달러대까지 반등하면서 스트래티지 주가와 우선주 STRC가 동반 회복세를 보였다. 21일(현지시간) 더블록에 따르면 스트래티지는 이날 장 초반 7.5% 상승하며 120달러를 넘어 2개월 만의 최고치를 기록했다. 비트코인도 같은 시간 한때 7만9400"
-        },
-        {
-          "title": "앤트로픽, 역대 최대 IPO 도전…\"스페이스X 기록 깬다\"",
-          "link": "https://zdnet.co.kr/view/?no=20260821102228",
-          "source": "지디넷코리아",
-          "published": "2026-08-21T13:09:42+09:00",
-          "latest": "2026-08-22T15:22:24+09:00",
-          "mention_count": 2,
-          "sources": [
-            "지디넷코리아",
-            "서울경제"
-          ],
-          "summary": "앤트로픽이 스페이스X의 기록적인 기업공개(IPO) 규모를 넘어서는 초대형 상장을 검토 중인 것으로 전해졌다.20일(현지시간) 블룸버그 등 외신에 따르면 앤트로픽은 이르면 이달 말 공개 상장 신고를 목표로 IPO 작업을 내부 검토 중이다.외신은 복수 관계자를 인용해 이번…"
         },
         {
           "title": "\"주가 오를 때까지 계엄\"…갑질·폭행 전 공무원의 최후",
@@ -591,16 +580,28 @@
           "summary": "금호건설이 삼성전자의 한국공장 신축 프로젝트를 수주했다는 소식으로 주가가 강세다. 21일 오전 10시 44분 기준 금호건설(002990) 주가는 전 거래일 대비 4.41% 상승한 1만 6340원에 거래되고 있다. 장 초반 주가는 1만 8200원까지 치솟았으나 상승분을…"
         },
         {
-          "title": "주가조작 패가망신 국민과의 약속입니다",
-          "link": "https://dailyan.com/news/article.html?no=776189",
+          "title": "'블록체인 혁신' 포장한 트리플플러스... 고팍스 상장 내세우며 다단계 단톡방 조직적 폐쇄 정황",
+          "link": "https://dailyan.com/news/article.html?no=769475",
           "source": "데일리연합",
-          "published": "2026-08-22T16:10:04+09:00",
-          "latest": "2026-08-22T16:10:04+09:00",
+          "published": "2026-08-22T16:03:57+09:00",
+          "latest": "2026-08-22T17:30:06+09:00",
           "mention_count": 1,
           "sources": [
             "데일리연합"
           ],
-          "summary": "종합인터넷언론 - 데일리연합 (SNSJTV) since2008"
+          "summary": "데일리연합 (SNSJTV) 김민제 기자 | 가상자산 시장을 무대로"
+        },
+        {
+          "title": "역대급 실적에도 주가 40% '뚝'…백화점株 줍줍기회?[주末머니]",
+          "link": "https://www.asiae.co.kr/article/2026082018203665720",
+          "source": "아시아경제",
+          "published": "2026-08-22T15:11:00+09:00",
+          "latest": "2026-08-22T16:38:05+09:00",
+          "mention_count": 1,
+          "sources": [
+            "아시아경제"
+          ],
+          "summary": "국내 백화점 업계가 명품과 외국인 관광객 소비에 힘입어 20년 만의 호황을 누리고 있지만, 관련 종목의 주가는 고점 대비 약 40% 급락했다."
         }
       ]
     },
@@ -754,9 +755,39 @@
       ]
     }
   ],
-  "total_articles": 627,
-  "total_issues": 272,
+  "total_articles": 641,
+  "total_issues": 278,
   "raw": [
+    {
+      "title": "고팍스 “상장 심사 없었다”…트리플플러스 유사수신·다단계 의혹",
+      "link": "https://dailyan.com/news/article.html?no=776193",
+      "source": "데일리연합",
+      "published": "2026-08-22T17:30:06+09:00"
+    },
+    {
+      "title": "코스닥 '프리미엄·스탠다드' 재편…\"시총보다 질적 지표 봐야\"",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053668",
+      "source": "신아일보",
+      "published": "2026-08-22T17:00:00+09:00"
+    },
+    {
+      "title": "[자금조달 프리뷰] 롯데건설·이랜드월드 공모채…코스닥 2곳 '데뷔'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=671538",
+      "source": "블로터",
+      "published": "2026-08-22T17:00:00+09:00"
+    },
+    {
+      "title": "일본처럼 될 줄 알았는데…'20년 만의 호황'에도 주가 '뚝' 백화점株 줍줍기회?[주末머니]",
+      "link": "https://www.asiae.co.kr/article/2026082018203665720",
+      "source": "아시아경제",
+      "published": "2026-08-22T16:38:05+09:00"
+    },
+    {
+      "title": "삼성전자, 최대 주주환원 발표 이후 주가 '출렁'...정규장 전망은?",
+      "link": "https://www.ytn.co.kr/_ln/0102_202608221637447333",
+      "source": "YTN",
+      "published": "2026-08-22T16:37:00+09:00"
+    },
     {
       "title": "[N위크] 기준금리 동결할까 인상할까…코스피 최고 7500 예측",
       "link": "https://www.tfmedia.co.kr/mobile/article.html?no=206639",
@@ -774,7 +805,8 @@
       "title": "'블록체인 혁신' 포장한 트리플플러스... 고팍스 상장 내세우며 다단계 단톡방 조직적 폐쇄 정황",
       "link": "https://dailyan.com/news/article.html?no=769475",
       "source": "데일리연합",
-      "published": "2026-08-22T16:03:57+09:00"
+      "published": "2026-08-22T16:03:57+09:00",
+      "summary": "데일리연합 (SNSJTV) 김민제 기자 | 가상자산 시장을 무대로"
     },
     {
       "title": "\"몸값만 2,780조원\"…앤트로픽 '역대 최대 상장 추진'",
@@ -794,6 +826,18 @@
       "link": "https://www.sedaily.com/article/20082119?ref=sedailyEng",
       "source": "서울경제",
       "published": "2026-08-22T15:45:56+09:00"
+    },
+    {
+      "title": "앤스로픽, ‘2조 달러’ 몸값으로 역대 최대 IPO 추진",
+      "link": "https://www.chosun.com/economy/tech_it/2026/08/22/3OPPOLAX3FF4FFS5A5UKO2J664/",
+      "source": "조선일보",
+      "published": "2026-08-22T15:36:00+09:00"
+    },
+    {
+      "title": "앤트로픽, ‘몸값 2조달러’ 목표로 IPO 추진···역대 최대 노린다",
+      "link": "https://www.khan.co.kr/article/202608221533001",
+      "source": "경향신문",
+      "published": "2026-08-22T15:33:00+09:00"
     },
     {
       "title": "앤트로픽, 몸값 2조 달러 IPO 추진…스페이스X 기록 넘나",
@@ -821,6 +865,12 @@
       "published": "2026-08-22T15:11:00+09:00"
     },
     {
+      "title": "미국 증시는 주 후반 반등에도 불구하고 주간 하락세를 기록했다.",
+      "link": "https://www.vietnam.vn/ko/chung-khoan-my-ghi-nhan-tuan-giam-diem-bat-chap-da-phuc-hoi-cuoi-tuan",
+      "source": "Vietnam.vn",
+      "published": "2026-08-22T15:00:43+09:00"
+    },
+    {
       "title": "니어스랩·해치텍 코스닥 출격…엇갈린 공모 성적표",
       "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721281",
       "source": "ebn.co.kr",
@@ -843,6 +893,12 @@
       "link": "https://www.sankyungtoday.com/news/articleView.html?idxno=62622",
       "source": "산경투데이",
       "published": "2026-08-22T14:27:10+09:00"
+    },
+    {
+      "title": "엔캐리 청산 공포 확산…韓증시 폭락 재현될까",
+      "link": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02089366645549944&Kind=257",
+      "source": "이데일리TV",
+      "published": "2026-08-22T14:04:00+09:00"
     },
     {
       "title": "“코로나 영웅이 돌아왔다” 암 백신이 뭐길래…모더나, 주가 177% 급등 [투자360]",
@@ -912,6 +968,12 @@
       "link": "https://www.newsfc.co.kr/news/articleView.html?idxno=80643",
       "source": "금융소비자뉴스",
       "published": "2026-08-22T11:42:00+09:00"
+    },
+    {
+      "title": "공모가 희비 갈린 니어스랩·해치텍…나란히 코스닥 상장",
+      "link": "https://stock.mk.co.kr/news/view/1146525",
+      "source": "매일경제 마켓",
+      "published": "2026-08-22T11:35:05+09:00"
     },
     {
       "title": "상장사 합병가액 주가 기준 폐지…공정가액 도입 자본시장법 의결",
@@ -1279,6 +1341,12 @@
       "published": "2026-08-22T07:13:57+09:00"
     },
     {
+      "title": "\"이게 시총 1·2위 맞아?\"…이틀에 한 번꼴 5% 출렁인 '삼전닉스' [증시는 왜]",
+      "link": "https://v.daum.net/v/20260822071130917",
+      "source": "v.daum.net",
+      "published": "2026-08-22T07:11:30+09:00"
+    },
+    {
       "title": "뉴욕 증시 일제히 상승 마감…다우 1%↑",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260822070944fTK",
       "source": "연합뉴스TV",
@@ -1316,10 +1384,22 @@
       "summary": "삼성전자가 국내 사상 최대 규모인 최대 110조원 규모의 주주환원 카드를 전격 꺼내 들었다. 앞서 SK하이닉스가 40조원 규모의 자사주 매입·소각을 발표한 데 이어 삼성전자까지 파격적인 환원책을 내놓으면서 국내 반도체 '투톱'의 주가 재평가(리레이팅) 기대감이 다시 뜨…"
     },
     {
+      "title": "뉴욕증시, 저가 매수세에 상승…다우 0.98%↑[상보]",
+      "link": "https://www.etoday.co.kr/news/view/2617016",
+      "source": "이투데이",
+      "published": "2026-08-22T06:49:00+09:00"
+    },
+    {
       "title": "뉴욕증시, 美국채금리 상승에도 저가 매수세에 반등…다우 1%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260822006251072",
       "source": "연합뉴스",
       "published": "2026-08-22T06:42:16+09:00"
+    },
+    {
+      "title": "카카오주가 흔들…인적분할 발표에 시장 싸늘",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202608220018",
+      "source": "bntnews.co.kr",
+      "published": "2026-08-22T06:41:26+09:00"
     },
     {
       "title": "금리·유가·소비 불안에 밀린 뉴욕증시…주가와 현실 괴리 커졌다",
@@ -2527,6 +2607,12 @@
       "link": "https://www.dt.co.kr/article/12079452",
       "source": "dt.co.kr",
       "published": "2026-08-21T17:40:48+09:00"
+    },
+    {
+      "title": "\"주주환원, 주가 선반영?\"…삼성전자, 애프터마켓서 정규장 종가 밑돌아",
+      "link": "https://www.newsis.com/view/NISX20260821_0003758102",
+      "source": "뉴시스",
+      "published": "2026-08-21T17:40:02+09:00"
     },
     {
       "title": "공모가 하단 낮췄는데도…스트라드비젼, 상장 두 달도 안 돼 74% 급락",
@@ -4586,8 +4672,8 @@
         "link": "https://www.bizjournals.com/birmingham/news/2026/08/20/southpoint-under-fed-enforcement-action.html",
         "source": "The Business Journals",
         "published": "2026-08-21T05:49:00+09:00",
-        "latest": "2026-08-22T16:09:53+09:00",
-        "mention_count": 37,
+        "latest": "2026-08-22T17:17:28+09:00",
+        "mention_count": 42,
         "sources": [
           "The Business Journals",
           "WDRB",
@@ -4610,7 +4696,7 @@
         "source": "AP News",
         "published": "2026-08-21T06:06:00+09:00",
         "latest": "2026-08-22T14:00:01+09:00",
-        "mention_count": 32,
+        "mention_count": 33,
         "sources": [
           "AP News",
           "WSJ",
@@ -4626,6 +4712,29 @@
           "International Business Times"
         ],
         "title_en": "The bond market swings back to worries and knocks US stocks lower"
+      },
+      {
+        "title": "채권수익률 상승으로 월스트리트 하락, 월마트 실적 실망",
+        "link": "https://www.reuters.com/business/us-stock-futures-muted-bond-yields-resume-uptrend-ahead-walmarts-earnings-2026-08-20/",
+        "source": "Reuters",
+        "published": "2026-08-21T07:19:11+09:00",
+        "latest": "2026-08-22T17:00:07+09:00",
+        "mention_count": 20,
+        "sources": [
+          "Reuters",
+          "Barron's",
+          "Investing.com",
+          "Yahoo Finance",
+          "Virginia Business",
+          "Real Investment Advice",
+          "Business Insider",
+          "24/7 Wall St.",
+          "Pulse 2.0",
+          "Barchart.com",
+          "CNBC",
+          "Yahoo! Finance Canada"
+        ],
+        "title_en": "Wall Street sinks as bond yields rise, Walmart results disappoint"
       },
       {
         "title": "행복감에서 절망까지, 한국은 주식 매니아의 감정적 피해를 생각합니다",
@@ -4649,29 +4758,6 @@
           "The Motley Fool"
         ],
         "title_en": "From euphoria to despair, Korea reckons with stock mania's emotional toll"
-      },
-      {
-        "title": "채권수익률 상승으로 월스트리트 하락, 월마트 실적 실망",
-        "link": "https://www.reuters.com/business/us-stock-futures-muted-bond-yields-resume-uptrend-ahead-walmarts-earnings-2026-08-20/",
-        "source": "Reuters",
-        "published": "2026-08-21T07:19:11+09:00",
-        "latest": "2026-08-22T14:00:00+09:00",
-        "mention_count": 19,
-        "sources": [
-          "Reuters",
-          "Barron's",
-          "Investing.com",
-          "Yahoo Finance",
-          "Virginia Business",
-          "Real Investment Advice",
-          "Business Insider",
-          "24/7 Wall St.",
-          "Pulse 2.0",
-          "Barchart.com",
-          "CNBC",
-          "Yahoo! Finance Canada"
-        ],
-        "title_en": "Wall Street sinks as bond yields rise, Walmart results disappoint"
       },
       {
         "title": "나스닥에 대한 상하이의 대답은 중국의 기술 열풍 속에서 홍콩을 능가합니다.",
@@ -4706,8 +4792,8 @@
             "link": "https://www.reuters.com/business/wall-st-week-ahead-nvidia-earnings-jackson-hole-test-pillars-stock-rally-2026-08-21/",
             "source": "Reuters",
             "published": "2026-08-21T19:15:25+09:00",
-            "latest": "2026-08-22T06:46:02+09:00",
-            "mention_count": 14,
+            "latest": "2026-08-22T17:29:26+09:00",
+            "mention_count": 15,
             "sources": [
               "Reuters",
               "The Mighty 790 KFGO",
@@ -4809,7 +4895,7 @@
             "link": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
             "source": "CNBC",
             "published": "2026-08-22T02:43:25+09:00",
-            "latest": "2026-08-22T16:02:24+09:00",
+            "latest": "2026-08-22T17:03:55+09:00",
             "mention_count": 7,
             "sources": [
               "CNBC",
@@ -5132,7 +5218,7 @@
             "link": "https://www.wsj.com/business/autos/hyundais-union-launches-first-full-day-strike-in-decade-495086ac",
             "source": "WSJ",
             "published": "2026-08-21T14:56:00+09:00",
-            "latest": "2026-08-22T04:26:29+09:00",
+            "latest": "2026-08-22T16:47:10+09:00",
             "mention_count": 7,
             "sources": [
               "WSJ",
@@ -5183,7 +5269,7 @@
             "link": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
             "source": "CNBC",
             "published": "2026-08-22T05:03:13+09:00",
-            "latest": "2026-08-22T13:06:26+09:00",
+            "latest": "2026-08-22T16:27:32+09:00",
             "mention_count": 4,
             "sources": [
               "CNBC",
@@ -5192,6 +5278,20 @@
               "Stock Titan"
             ],
             "title_en": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy"
+          },
+          {
+            "title": "Cloudflare 사장 Michelle Zatlyn은 2,830만 달러의 주식을 매도했습니다.",
+            "link": "https://www.investing.com/news/insider-trading-news/cloudflare-president-michelle-zatlyn-sells-283m-in-stock-93CH-4872199",
+            "source": "Investing.com",
+            "published": "2026-08-22T07:01:12+09:00",
+            "latest": "2026-08-22T16:18:00+09:00",
+            "mention_count": 3,
+            "sources": [
+              "Investing.com",
+              "MarketBeat",
+              "Yahoo Finance UK"
+            ],
+            "title_en": "Cloudflare president Michelle Zatlyn sells $28.3m in stock"
           },
           {
             "title": "현대차, 조지아 메타플랜트 80만대 증설 검토",
@@ -5247,19 +5347,6 @@
               "WSJ"
             ],
             "title_en": "Moody’s affirms Microsoft Aaa rating; outlook stable"
-          },
-          {
-            "title": "Cloudflare 사장 Michelle Zatlyn은 2,830만 달러의 주식을 매도했습니다.",
-            "link": "https://www.investing.com/news/insider-trading-news/cloudflare-president-michelle-zatlyn-sells-283m-in-stock-93CH-4872199",
-            "source": "Investing.com",
-            "published": "2026-08-22T07:01:12+09:00",
-            "latest": "2026-08-22T11:46:02+09:00",
-            "mention_count": 2,
-            "sources": [
-              "Investing.com",
-              "MarketBeat"
-            ],
-            "title_en": "Cloudflare president Michelle Zatlyn sells $28.3m in stock"
           },
           {
             "title": "U.S. Bank Smartly Visa 시그니처 카드 검토: 구매할 때마다 2% 이상의 캐시백을 받으세요",
@@ -5326,9 +5413,107 @@
         ]
       }
     ],
-    "total_articles": 624,
+    "total_articles": 641,
     "total_issues": 67,
     "raw": [
+      {
+        "title": "월스트리트는 상승세를 기록했지만 주간 손실이 예상됩니다",
+        "link": "https://1027wbow.com/2026/08/21/wall-st-opens-higher-but-weekly-losses-loom/",
+        "source": "102.7 WBOW",
+        "published": "2026-08-22T17:29:26+09:00",
+        "title_en": "Wall St opens higher but weekly losses loom"
+      },
+      {
+        "title": "월스트리트 주간: 소비자 신뢰도 및 인플레이션에 대한 보고서",
+        "link": "https://www.couriernews.com/news/business/wall-street-week-ahead-reports-on-consumer-confidence-and-inflation-on-tap/article_d95c77f1-6b0e-5a99-98c6-f7fda424ef08.html",
+        "source": "couriernews.com",
+        "published": "2026-08-22T17:17:28+09:00",
+        "title_en": "Wall Street week ahead: Reports on consumer confidence and inflation on tap"
+      },
+      {
+        "title": "PTC Therapeutics 이사 Schmertzler가 180만 달러의 주식을 매각했습니다.",
+        "link": "https://www.investing.com/news/insider-trading-news/ptc-therapeutics-director-schmertzler-disposes-of-18m-in-stock-93CH-4872314",
+        "source": "Investing.com",
+        "published": "2026-08-22T17:16:17+09:00",
+        "title_en": "PTC Therapeutics director Schmertzler disposes of $1.8m in stock"
+      },
+      {
+        "title": "중앙은행은 금을 어디에 보관하고 있나요?",
+        "link": "https://www.investing.com/news/economy-news/where-are-central-banks-keeping-their-gold-4872312",
+        "source": "Investing.com",
+        "published": "2026-08-22T17:03:55+09:00",
+        "title_en": "Where are central banks keeping their gold?"
+      },
+      {
+        "title": "월스트리트 주간: 소비자 신뢰도 및 인플레이션에 대한 보고서",
+        "link": "https://www.thestar.com/news/world/wall-street-week-ahead-reports-on-consumer-confidence-and-inflation-on-tap/article_ef046388-5ab3-55d4-a5f1-db4852a3b670.html",
+        "source": "Toronto Star",
+        "published": "2026-08-22T17:00:36+09:00",
+        "title_en": "Wall Street week ahead: Reports on consumer confidence and inflation on tap"
+      },
+      {
+        "title": "월스트리트 주간: 소비자 신뢰도 및 인플레이션에 대한 보고서",
+        "link": "https://lancasteronline.com/business/stock_market/wall-street-week-ahead-reports-on-consumer-confidence-and-inflation-on-tap/article_7017419d-4423-5a2f-9235-6c510bfdcce5.html",
+        "source": "LancasterOnline",
+        "published": "2026-08-22T17:00:07+09:00",
+        "title_en": "Wall Street week ahead: Reports on consumer confidence and inflation on tap"
+      },
+      {
+        "title": "월스트리트 주간: 소비자 신뢰도 및 인플레이션에 대한 보고서가 준비되어 있습니다 | 전국 뉴스 | 2news.com",
+        "link": "http://www.ktvn.com/news/national/wall-street-week-ahead-reports-on-consumer-confidence-and-inflation-on-tap/article_8138a40a-7d31-5235-a0d9-9ea86f7d250a.html",
+        "source": "KTVN",
+        "published": "2026-08-22T17:00:07+09:00",
+        "title_en": "Wall Street week ahead: Reports on consumer confidence and inflation on tap | National News | 2news.com"
+      },
+      {
+        "title": "월스트리트 주간: 소비자 신뢰도 및 인플레이션에 대한 보고서",
+        "link": "https://www.tdtnews.com/news/nation_world/article_057c19fa-ae89-538a-8b94-ce0063700d2e.html",
+        "source": "Temple Daily Telegram",
+        "published": "2026-08-22T17:00:07+09:00",
+        "title_en": "Wall Street week ahead: Reports on consumer confidence and inflation on tap"
+      },
+      {
+        "title": "월스트리트 주간: 소비자 신뢰도 및 인플레이션에 대한 보고서",
+        "link": "https://www.oskaloosa.com/news/national_news/wall-street-week-ahead-reports-on-consumer-confidence-and-inflation-on-tap/article_f6f3b2a8-0795-58ab-8e1f-c624286a12f1.html",
+        "source": "Oskaloosa Herald",
+        "published": "2026-08-22T17:00:07+09:00",
+        "title_en": "Wall Street week ahead: Reports on consumer confidence and inflation on tap"
+      },
+      {
+        "title": "First Trust 신흥 시장 소형주 AlphaDEX 펀드(NASDAQ:FEMS) 주가가 50일 이동 평균을 넘어섰습니다. 매도해야 할까요?",
+        "link": "https://www.marketbeat.com/instant-alerts/first-trust-emerging-markets-small-cap-alphadex-fund-nasdaqfems-stock-price-crosses-above-fifty-day-moving-average-should-you-sell-2026-08-22/",
+        "source": "MarketBeat",
+        "published": "2026-08-22T16:47:10+09:00",
+        "title_en": "First Trust Emerging Markets Small Cap AlphaDEX Fund (NASDAQ:FEMS) Stock Price Crosses Above Fifty Day Moving Average - Should You Sell?"
+      },
+      {
+        "title": "Kornit Digital (NASDAQ:KRNT) 주식이 50일 이동 평균을 넘어섰습니다 - 매도 시점?",
+        "link": "https://www.marketbeat.com/instant-alerts/kornit-digital-nasdaqkrnt-stock-crosses-above-fifty-day-moving-average-time-to-sell-2026-08-22/",
+        "source": "MarketBeat",
+        "published": "2026-08-22T16:47:09+09:00",
+        "title_en": "Kornit Digital (NASDAQ:KRNT) Stock Crosses Above Fifty Day Moving Average - Time to Sell?"
+      },
+      {
+        "title": "우크라이나 드론, 러시아 온라인 소매업체 오존(Ozon) 창고에 밤새 공격",
+        "link": "https://www.investing.com/news/stock-market-news/ukrainian-drones-hit-warehouse-of-russian-online-retailer-ozon-in-overnight-strikes-4872310",
+        "source": "Investing.com",
+        "published": "2026-08-22T16:42:29+09:00",
+        "title_en": "Ukrainian drones hit warehouse of Russian online retailer Ozon in overnight strikes"
+      },
+      {
+        "title": "바티칸, 로마 근처에 1억 유로 규모의 농업용 발전소 건설 계획",
+        "link": "https://www.investing.com/news/economy-news/vatican-plans-100-million-agrivoltaic-energy-plant-near-rome-4872309",
+        "source": "Investing.com",
+        "published": "2026-08-22T16:27:32+09:00",
+        "title_en": "Vatican plans €100 million agrivoltaic energy plant near Rome"
+      },
+      {
+        "title": "단 2년 만에 주식 시장에 대한 투자를 3배로 늘릴 수 있습니까? 이 놀라운 FTSE 100 주식이 그랬습니다!",
+        "link": "https://uk.finance.yahoo.com/news/3x-investment-stock-market-just-071800849.html",
+        "source": "Yahoo Finance UK",
+        "published": "2026-08-22T16:18:00+09:00",
+        "title_en": "Can you 3x an investment on the stock market in just 2 years? This incredible FTSE 100 stock did!"
+      },
       {
         "title": "Spirit 승무원, AI를 위한 Google의 데이터 입찰에 맞서다",
         "link": "https://www.wsj.com/pro/bankruptcy/spirit-flight-attendants-fight-googles-data-bid-for-ai-e939e049",
@@ -5377,6 +5562,13 @@
         "source": "MarketBeat",
         "published": "2026-08-22T16:04:52+09:00",
         "title_en": "West Bancorporation (NASDAQ:WTBA) Share Price Crosses Above 200-Day Moving Average - Time to Sell?"
+      },
+      {
+        "title": "AmeriServ Financial (NASDAQ:ASRV) 주식이 200일 이동 평균을 넘어섰습니다. 매도해야 할까요?",
+        "link": "https://www.marketbeat.com/instant-alerts/ameriserv-financial-nasdaqasrv-stock-crosses-above-200-day-moving-average-should-you-sell-2026-08-22/",
+        "source": "MarketBeat",
+        "published": "2026-08-22T16:04:52+09:00",
+        "title_en": "AmeriServ Financial (NASDAQ:ASRV) Stock Crosses Above 200-Day Moving Average - Should You Sell?"
       },
       {
         "title": "비트코인 RSI는 MFI가 최대 100인 상태에서 87을 기록합니다. 시간별 수준",
@@ -5680,6 +5872,13 @@
         "title_en": "U.S. Imposes 50% Tariffs on Some Canadian Goods After Last-Ditch Talks Fail"
       },
       {
+        "title": "플렉스: 황소 사건과 함정",
+        "link": "https://seekingalpha.com/article/4939286-flex-the-bull-case-and-the-trap",
+        "source": "Seeking Alpha",
+        "published": "2026-08-22T14:07:41+09:00",
+        "title_en": "Flex: The Bull Case And The Trap"
+      },
+      {
         "title": "6명의 투자자가 가장 큰 시장 위험을 밝히고 그들이 동의하는 하나의 전략을 밝힙니다.",
         "link": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
         "source": "CNBC",
@@ -5741,6 +5940,13 @@
         "source": "Investing.com",
         "published": "2026-08-22T13:06:26+09:00",
         "title_en": "US, Canada fail to reach a tariff deal, deepen trade war"
+      },
+      {
+        "title": "채권시장이 힘을 쏟고 있는 이유와 모두가 관심을 가져야 하는 이유",
+        "link": "https://lancasteronline.com/business/stock_market/why-the-bond-market-is-flexing-its-muscles-and-why-everyone-needs-to-care/article_df2b7a76-cd71-5e9e-a81a-7f1bc976b148.html",
+        "source": "LancasterOnline",
+        "published": "2026-08-22T13:01:05+09:00",
+        "title_en": "Why the bond market is flexing its muscles, and why everyone needs to care"
       },
       {
         "title": "범용 안전 제품: Director Ault는 $183,344의 재고를 구매합니다.",
