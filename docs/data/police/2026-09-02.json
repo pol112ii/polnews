@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T09:30:27.376426+09:00",
+  "generated_at": "2026-09-02T09:57:57.037273+09:00",
   "topic": {
     "id": "police",
     "label": "경찰",
@@ -37,7 +37,7 @@
       "source": "Chosunbiz",
       "published": "2026-09-01T21:49:00+09:00",
       "latest": "2026-09-02T09:28:08+09:00",
-      "mention_count": 45,
+      "mention_count": 49,
       "sources": [
         "Chosunbiz",
         "뉴스1",
@@ -49,8 +49,8 @@
         "매일경제",
         "뉴시스",
         "네이트",
-        "노컷뉴스",
-        "아시아경제"
+        "news.nate.com",
+        "노컷뉴스"
       ],
       "summary": "경찰청 차장에 김종철, 서울청장 고범석 경찰청장, 세 번째 대행 체제"
     },
@@ -60,7 +60,7 @@
       "source": "뉴스1",
       "published": "2026-09-01T06:00:00+09:00",
       "latest": "2026-09-02T09:00:00+09:00",
-      "mention_count": 38,
+      "mention_count": 39,
       "sources": [
         "뉴스1",
         "v.daum.net",
@@ -77,39 +77,39 @@
       ]
     },
     {
-      "title": "경찰 고위직 한밤중 대폭 물갈이…시도청장 18명 중 14명 교체",
-      "link": "https://www.yna.co.kr/amp/view/AKR20260901197100004",
-      "source": "연합뉴스",
-      "published": "2026-09-01T21:57:42+09:00",
+      "title": "경찰 고위직 한밤중 '물갈이'…시도청장 18명 중 14명 교체",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84RXhyVzlaTElkLUpDSHRxT3ZHYTFta3d6UnFHc2dvZHk5eWJVNmNqNm9TbGJtSHYzd0xScUZTbjNEcHh1VjEtdjRMSXplc0ROQmU2TmRfY05FQQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-09-01T21:51:55+09:00",
       "latest": "2026-09-02T03:41:06+09:00",
-      "mention_count": 29,
+      "mention_count": 28,
       "sources": [
+        "한국경제",
         "연합뉴스",
         "v.daum.net",
         "경기일보",
         "busan.com",
+        "부산일보",
         "국제신문",
         "news.sbs.co.kr",
         "etoday.co.kr",
         "이투데이",
         "강원도민일보",
-        "imaeil.com",
-        "매일신문",
-        "gukjenews.com"
-      ],
-      "summary": "정부가 1일 김종철 경상남도경찰청장을 경찰청 차장에 임명하는 등 하반기 치안정감·치안감 전보 인사를 단행했다."
+        "imaeil.com"
+      ]
     },
     {
       "title": "[속보] '664번 도박·음주운전' 이진호, 징역형 집행유예..양형 이유는 '반성'",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjc0UERvRDhCbTJZSVVzcWN3TUtyRzR5VTV2NzJfMVJnTXdudHlOQkJBUFRrRGVIUXNhZHpEc2U0aXZXdHQxTUxhSmQwOGI3WjFvYXMyVHgxbWEyajhqQWFkbUdHZ3l1SklOYkVTQlBTTy1CTmJCMjg0emdLVjI1aDRKRDU?oc=5",
+      "link": "https://www.sportschosun.com/entertainment/2026-09-01/202609010100005120000112",
       "source": "sportschosun.com",
       "published": "2026-09-01T10:26:38+09:00",
       "latest": "2026-09-02T05:51:00+09:00",
-      "mention_count": 19,
+      "mention_count": 20,
       "sources": [
         "sportschosun.com",
         "스포츠조선",
         "중앙일보",
+        "joongang.co.kr",
         "스포츠경향",
         "sports.khan.co.kr",
         "starnewskorea.com",
@@ -117,9 +117,9 @@
         "노컷뉴스",
         "시사저널",
         "v.daum.net",
-        "OBS경인TV",
-        "OSEN"
-      ]
+        "OBS경인TV"
+      ],
+      "summary": "상습 도박 및 음주운전 혐의로 재판에 넘겨진 개그맨 이진호가 1심에서 징역형의 집행유예를 선고받았다. 수원지방법원 여주지원 형사1단독 안태윤 부장판사는 1일 상습도박 혐의로 기소된 이진호에게 징역 1년 6개월에 집행유예 3년을 선고했다."
     },
     {
       "title": "제주경찰관, 실종신고 허위종결 이유는…오늘 수사결과 발표",
@@ -169,11 +169,31 @@
           "summary": "����û�� �ѹ� �� �λ縦 �����ߴ�. ���� ������� ���� ���� ���¿� ���֡����� å�� ������ �Ұ��� ��� ġ������ ������ �����ƴ� �����(57) ���ְ���û���� ġ���������� �ӿ�…"
         },
         {
+          "title": "부 경장 허위종결 후폭풍…제주청장 승진 취소됐다",
+          "link": "https://www.koreadaily.com/article/20260901070559975",
+          "source": "미주중앙일보",
+          "published": "2026-09-01T23:05:00+09:00",
+          "latest": "2026-09-02T08:33:00+09:00",
+          "mention_count": 9,
+          "sources": [
+            "미주중앙일보",
+            "중앙일보",
+            "joongang.co.kr",
+            "v.daum.net",
+            "동아일보",
+            "donga.com",
+            "네이트",
+            "news.nate.com",
+            "위키트리"
+          ],
+          "summary": "정부가 1일 치안정감 3명 등 경찰 고위급 인사를 단행했다. 제주 실종 허위 종결 사태의 관리·감독 책임론이 제기되던 고평기 제주경찰청장은 당초 치안정감 승진 내정자였지만, 최종 명단에선 빠졌다. 이날 경찰청은 “고..."
+        },
+        {
           "title": "[인사] 고평기 제주경찰청장 승진 무산…후임에 김병찬",
           "link": "https://www.jejusori.net/news/articleView.html?idxno=506111",
           "source": "제주의소리",
           "published": "2026-09-01T22:05:19+09:00",
-          "latest": "2026-09-01T23:54:39+09:00",
+          "latest": "2026-09-02T09:26:00+09:00",
           "mention_count": 8,
           "sources": [
             "제주의소리",
@@ -186,6 +206,25 @@
             "조선일보"
           ],
           "summary": "제주 실종사건 허위 종결 사태로 지휘·감독 책임 논란에 휩싸인 고평기 제주경찰청장의 치안정감 승진이 사실상 무산됐다.경찰청은 1일 치안정감·치안감급 보직 인사를"
+        },
+        {
+          "title": "경찰, 치안감 81% 대폭 교체…전국 시도청장에 '향피제' 전면 적용",
+          "link": "https://www.fnnews.com/news/202609012200177621",
+          "source": "파이낸셜뉴스",
+          "published": "2026-09-01T22:22:30+09:00",
+          "latest": "2026-09-02T01:46:15+09:00",
+          "mention_count": 8,
+          "sources": [
+            "파이낸셜뉴스",
+            "edaily.co.kr",
+            "한국일보",
+            "MBC 뉴스",
+            "imnews.imbc.com",
+            "뉴시스",
+            "천지일보",
+            "중부매일"
+          ],
+          "summary": "경찰이 올해 하반기 치안정감·치안감 인사를 단행했다.치안정감 인사에서는 김종철 경남경찰청장이 경찰청 차장으로, 고범석 전남경찰청장이 서울경찰청장으로, 유승렬 경찰청 국가수사본부 수사기획조정관이 인천경찰청장으로 각각 승진·내정됐다.경찰청에 따르면 전.."
         },
         {
           "title": "[단독] 현직 총경 음주운전 뒤 ‘강등 취소해달라’ 소송냈다 패소…법원 \"경찰 기강 확립해야\"",
@@ -207,55 +246,67 @@
           "summary": "면허 취소수준에 해당하는 혈중 알코올농도 ‘0.085%’ 상태로 음주운전을 한 경찰관을 강등한 징계 처분은 적법하다는 법원 판단이 나왔습니다. ..."
         },
         {
-          "title": "부 경장 허위종결 후폭풍…제주청장 승진 취소됐다",
-          "link": "https://www.koreadaily.com/article/20260901070559975",
-          "source": "미주중앙일보",
-          "published": "2026-09-01T23:05:00+09:00",
-          "latest": "2026-09-02T08:33:00+09:00",
-          "mention_count": 7,
-          "sources": [
-            "미주중앙일보",
-            "중앙일보",
-            "v.daum.net",
-            "동아일보",
-            "donga.com",
-            "네이트",
-            "위키트리"
-          ],
-          "summary": "정부가 1일 치안정감 3명 등 경찰 고위급 인사를 단행했다. 제주 실종 허위 종결 사태의 관리·감독 책임론이 제기되던 고평기 제주경찰청장은 당초 치안정감 승진 내정자였지만, 최종 명단에선 빠졌다. 이날 경찰청은 “고..."
-        },
-        {
-          "title": "경찰, 치안감 81% 대폭 교체…전국 시도청장에 '향피제' 전면 적용",
-          "link": "https://www.fnnews.com/news/202609012200177621",
-          "source": "파이낸셜뉴스",
-          "published": "2026-09-01T22:22:30+09:00",
-          "latest": "2026-09-02T01:46:15+09:00",
-          "mention_count": 6,
-          "sources": [
-            "파이낸셜뉴스",
-            "MBC 뉴스",
-            "imnews.imbc.com",
-            "뉴시스",
-            "천지일보",
-            "중부매일"
-          ],
-          "summary": "경찰이 올해 하반기 치안정감·치안감 인사를 단행했다.치안정감 인사에서는 김종철 경남경찰청장이 경찰청 차장으로, 고범석 전남경찰청장이 서울경찰청장으로, 유승렬 경찰청 국가수사본부 수사기획조정관이 인천경찰청장으로 각각 승진·내정됐다.경찰청에 따르면 전.."
-        },
-        {
           "title": "이해식 경찰개혁추진단 공동단장과 인사 나누는 김민석 대표",
           "link": "https://www.news1.kr/photos/8082551",
           "source": "뉴스1",
           "published": "2026-09-01T15:39:40+09:00",
           "latest": "2026-09-01T16:36:25+09:00",
-          "mention_count": 5,
+          "mention_count": 6,
           "sources": [
             "뉴스1",
             "news1.kr",
             "네이트",
+            "news.nate.com",
             "asiatoday.co.kr",
             "아시아투데이"
           ],
           "summary": "김민석 더불어민주당 대표가 1일 서울 여의도 국회에서 열린 경찰개혁추진단 1차 회의에서 이해식 공동단장과 인사하고 있다. 2026.9.1/뉴스1"
+        },
+        {
+          "title": "[천지일보 이슈종합] 경찰청 고위직 물갈이·중수청 특례임용 615명 철회·부산·전남·충남대 거점국립대 선정·용혜인 김승원 논란·2027년 821조 슈퍼예산 편성·네팔 대홍수 실종자 수색",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3429451",
+          "source": "천지일보",
+          "published": "2026-09-02T07:00:00+09:00",
+          "latest": "2026-09-02T08:27:00+09:00",
+          "mention_count": 5,
+          "sources": [
+            "천지일보",
+            "newscj.com",
+            "공감신문",
+            "wide-news.kr",
+            "광역행정신문"
+          ],
+          "summary": "정부가 유재성 경찰청장 직무대행을 비롯해 경찰 고위직을 대폭 물갈이하는 인사를 단행했다. 내달 2일 출범하는 중대범죄수사청(중수청) 특례임용을 신청했던 검찰청 소속 검사와 수사관 가운데 615명이 신청을 철회한 것으로 나타났다. 정부 국정과제인 ‘서울대 10개"
+        },
+        {
+          "title": "충북경찰청장 박종섭·충남경찰청장 직대 이서영 임명",
+          "link": "https://v.daum.net/v/20260901222349688",
+          "source": "v.daum.net",
+          "published": "2026-09-01T22:23:49+09:00",
+          "latest": "2026-09-02T09:40:47+09:00",
+          "mention_count": 4,
+          "sources": [
+            "v.daum.net",
+            "굿모닝충청",
+            "중도일보",
+            "뉴스1"
+          ],
+          "summary": "충북경찰청장에 박종섭 서울경찰청 생활안전차장이, 충남경찰청장 직무대리에 이서영 경찰청 생활안전교통국장 직무대리가 각각 임명됐다. 정부는 1일 이 같은 내용의 하반기 치안정감·치안감 전보 인사를 단행했다. 이번 인사에서 전국 18개 시도경찰청장 중 14명이 교체됐다. 박…"
+        },
+        {
+          "title": "김종철 신임 경찰청장 대행 “국민 불신 높은 상황…마음 무겁다”",
+          "link": "https://www.joongang.co.kr/article/25458370",
+          "source": "중앙일보",
+          "published": "2026-09-02T09:07:06+09:00",
+          "latest": "2026-09-02T09:37:22+09:00",
+          "mention_count": 4,
+          "sources": [
+            "중앙일보",
+            "joongang.co.kr",
+            "한국NGO신문",
+            "newscj.com"
+          ],
+          "summary": "경찰청 차장에 임명돼 경찰청장 직무대행을 맡게 된 김종철 신임 차장은 2일 “국민 불신이 높은 상황에서 어떻게 추슬러야 할지 마음이 무겁다”고 밝혔다. 김 신임 차장은 이날 경남 창원시 의창구 경남경찰청 출근길에서 “광주와 제주 사건으로 국민 불신이 높은데 어떻게 추슬…"
         },
         {
           "title": "21개월 공석 경찰청장, 세번째 대행체제…제주청장은 문책성 이동",
@@ -286,20 +337,6 @@
             "news1.kr"
           ],
           "summary": "유승렬 경찰청 수사기획조정관이 신임 인천경찰청장(치안정감)으로 임명됐다.경찰청은 1일 신임 인천경찰청장에 유 수사기획조정관을 임명했다고 밝혔다.[사진=경찰청 제공] 유승렬 신임 인천경찰청장유 신임 인천청장은 1971년 경상남도 통영 출생"
-        },
-        {
-          "title": "[천지일보 이슈종합] 경찰청 고위직 물갈이·중수청 특례임용 615명 철회·부산·전남·충남대 거점국립대 선정·용혜인 김승원 논란·2027년 821조 슈퍼예산 편성·네팔 대홍수 실종자 수색",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3429451",
-          "source": "천지일보",
-          "published": "2026-09-02T07:00:00+09:00",
-          "latest": "2026-09-02T08:27:00+09:00",
-          "mention_count": 3,
-          "sources": [
-            "천지일보",
-            "공감신문",
-            "wide-news.kr"
-          ],
-          "summary": "정부가 유재성 경찰청장 직무대행을 비롯해 경찰 고위직을 대폭 물갈이하는 인사를 단행했다. 내달 2일 출범하는 중대범죄수사청(중수청) 특례임용을 신청했던 검찰청 소속 검사와 수사관 가운데 615명이 신청을 철회한 것으로 나타났다. 정부 국정과제인 ‘서울대 10개"
         },
         {
           "title": "[프로필] 고범석 신임 서울경찰청장…위기 관리 능한 현장 전문가",
@@ -344,33 +381,8 @@
           "summary": "［충북일보］ 전귀성 청주상당경찰서장이 1일 청주시교육지원청에서 직원 150여 명을 대상으로 보이스피싱 예방 특별강연을 실시했다. 이번 특강은 날로 고도화되는 지능형 금융사기 범죄에 대응해 교직원들의 경각심을 높이고 실제 위기 상황에서 신속한 대처 능력을 키우기 위해 마…"
         },
         {
-          "title": "김종철 신임 경찰청장 대행 “국민 불신 높은 상황…마음 무겁다”",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10eWFNZWRIdmVteC1seGJNWlItRWtrNGZJMmhZWi0zYXduejRWSFRlREktcFE1cDBoOVNpOU1yUVVoZUVWYUE3SDhZcTl2MjFqVExEZjJR?oc=5",
-          "source": "중앙일보",
-          "published": "2026-09-02T09:07:06+09:00",
-          "latest": "2026-09-02T09:09:05+09:00",
-          "mention_count": 2,
-          "sources": [
-            "중앙일보",
-            "한국NGO신문"
-          ]
-        },
-        {
-          "title": "충북경찰청장 박종섭·충남경찰청장 직대 이서영 임명",
-          "link": "https://v.daum.net/v/20260901222349688",
-          "source": "v.daum.net",
-          "published": "2026-09-01T22:23:49+09:00",
-          "latest": "2026-09-02T08:43:08+09:00",
-          "mention_count": 2,
-          "sources": [
-            "v.daum.net",
-            "중도일보"
-          ],
-          "summary": "충북경찰청장에 박종섭 서울경찰청 생활안전차장이, 충남경찰청장 직무대리에 이서영 경찰청 생활안전교통국장 직무대리가 각각 임명됐다. 정부는 1일 이 같은 내용의 하반기 치안정감·치안감 전보 인사를 단행했다. 이번 인사에서 전국 18개 시도경찰청장 중 14명이 교체됐다. 박…"
-        },
-        {
           "title": "대구·경북 경찰 수장 모두 호남 출신…연고지 배제 인사",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NNXVQTGxQVVoxRFdpOHJiYUF6NkluQ0VDSXZyQUY5Smd3OEktbGk1RlF2VXJDZDdWOHloQ2FpWXlyeUtTejZpcmhCX2gtcVM4RkU4bEZ3N2NLMUFHLUdvWWw1bGtRbzJGWGJV?oc=5",
+          "link": "https://www.yeongnam.com/web/view.php?key=20260901029276055",
           "source": "영남일보",
           "published": "2026-09-01T23:11:48+09:00",
           "latest": "2026-09-02T07:34:04+09:00",
@@ -378,13 +390,56 @@
           "sources": [
             "영남일보",
             "한국NGO신문"
-          ]
+          ],
+          "summary": "대구경북 경찰 수장에 호남 출신이 임명됐다 대구경찰청장 직무대리에 박준성 경찰청 국제치안협력국장 직무대리가 경북경찰청장에 박헌수 전 마약범죄 정보합동수사본부 경무관이 보임됐다 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사…"
         }
       ]
     },
     {
       "name": "수사·사건",
       "articles": [
+        {
+          "title": "이진호, 도박 664회에 음주운전까지…징역 1년6개월 집유 3년 선고",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=909749",
+          "source": "경기신문",
+          "published": "2026-09-01T10:27:48+09:00",
+          "latest": "2026-09-01T23:45:00+09:00",
+          "mention_count": 11,
+          "sources": [
+            "경기신문",
+            "kgnews.co.kr",
+            "디스패치",
+            "edaily.co.kr",
+            "mhnse.com",
+            "YTN",
+            "연합뉴스TV",
+            "yonhapnewstv.co.kr",
+            "ytn.co.kr",
+            "네이트",
+            "news.nate.com"
+          ],
+          "summary": "개그맨 이진호(39)가 상습도박과 음주운전 혐의로 기소된 사건에서 징역형의 집행유예를 선고받았다. 수원지법 여주지원 형사1단독 안태윤 부장판사는 1일 이진호에게 징역 1년 6개월에 집행유예 3년을 선고하고 사회봉사 120시간을 명령했다. 이진호는 불법 도박사이트를 이용…"
+        },
+        {
+          "title": "法 `음주운전 적발된 경찰 간부 대상 `강등` 징계, 정당`",
+          "link": "https://www.imaeil.com/page/view/2026090113194145427",
+          "source": "imaeil.com",
+          "published": "2026-09-01T13:39:34+09:00",
+          "latest": "2026-09-02T05:55:00+09:00",
+          "mention_count": 10,
+          "sources": [
+            "imaeil.com",
+            "매일신문",
+            "네이트",
+            "news.nate.com",
+            "시사저널",
+            "노컷뉴스",
+            "한겨레",
+            "서울신문",
+            "yonhapnewstv.co.kr",
+            "연합뉴스TV"
+          ]
+        },
         {
           "title": "송파구, 어르신 보이스피싱 피해 막는다…AI 경보 앱 도입",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQSW1aWEhaS29xaUdFQ0s4WnY0cVMtdG92VXAxMkNkOXU2TFZTUDdPbVRtejVqMzZrTE5ZWkt5X2dCS0lxQlVIWWt3bHFnaHExaVF3M09Xd2JxNTRGTVFacNIBYEFVX3lxTFBQSW1aWEhaS29xaUdFQ0s4WnY0cVMtdG92VXAxMkNkOXU2TFZTUDdPbVRtejVqMzZrTE5ZWkt5X2dCS0lxQlVIWWt3bHFnaHExaVF3M09Xd2JxNTRGTVFacA?oc=5",
@@ -396,52 +451,13 @@
             "연합뉴스",
             "아시아경제",
             "문화일보",
+            "munhwa.com",
             "시정일보",
             "gukjenews.com",
             "네이트",
+            "news.nate.com",
             "서울동부신문",
-            "v.daum.net",
-            "biz.heraldcorp.com",
-            "헤럴드경제"
-          ]
-        },
-        {
-          "title": "이진호, 도박 664회에 음주운전까지…징역 1년6개월 집유 3년 선고",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YOXl6ZHVfUW9KZ3VWUG5ocWhTek9sbDdhN3NlSUhNN25DeFBYd2hPQkM5WkkxYnE1TWh5NVdpaXM0RWRRZElGUzhBWTFkNmVNdnFwenFHbjlOVE44Y1d6SmtB?oc=5",
-          "source": "경기신문",
-          "published": "2026-09-01T10:27:48+09:00",
-          "latest": "2026-09-01T23:45:00+09:00",
-          "mention_count": 10,
-          "sources": [
-            "경기신문",
-            "kgnews.co.kr",
-            "디스패치",
-            "edaily.co.kr",
-            "mhnse.com",
-            "YTN",
-            "연합뉴스TV",
-            "yonhapnewstv.co.kr",
-            "ytn.co.kr",
-            "네이트"
-          ]
-        },
-        {
-          "title": "法 `음주운전 적발된 경찰 간부 대상 `강등` 징계, 정당`",
-          "link": "https://www.imaeil.com/page/view/2026090113194145427",
-          "source": "imaeil.com",
-          "published": "2026-09-01T13:39:34+09:00",
-          "latest": "2026-09-02T05:55:00+09:00",
-          "mention_count": 9,
-          "sources": [
-            "imaeil.com",
-            "매일신문",
-            "네이트",
-            "시사저널",
-            "노컷뉴스",
-            "한겨레",
-            "서울신문",
-            "yonhapnewstv.co.kr",
-            "연합뉴스TV"
+            "v.daum.net"
           ]
         },
         {
@@ -450,13 +466,14 @@
           "source": "연합뉴스",
           "published": "2026-09-01T07:17:01+09:00",
           "latest": "2026-09-01T21:35:00+09:00",
-          "mention_count": 7,
+          "mention_count": 8,
           "sources": [
             "연합뉴스",
             "인천투데이",
             "전국매일신문",
             "KBS 뉴스",
             "LG헬로비전",
+            "경기일보",
             "newspim.com",
             "뉴스핌"
           ]
@@ -479,8 +496,42 @@
           ]
         },
         {
+          "title": "'17억 보이스피싱' 인출·세탁책 가담 20대 징역 4년6개월",
+          "link": "https://www.newsis.com/view/NISX20260901_0003771531",
+          "source": "뉴시스",
+          "published": "2026-09-01T14:18:24+09:00",
+          "latest": "2026-09-01T19:31:04+09:00",
+          "mention_count": 6,
+          "sources": [
+            "뉴시스",
+            "동아일보",
+            "donga.com",
+            "더팩트",
+            "문화일보",
+            "munhwa.com"
+          ],
+          "summary": "피해자 31명이 발생한 17억원대 보이스피싱 범행에 현금인출·세탁책으로 가담한 20대가 징역 4년6개월을 선고받았다.광주지법 제11형사부(재판장 김송현)는 범죄수익은닉규제법 위반 등 혐의로 기소된 A(22)씨에게 징역 4년6개월을 선고하고 120만원을 추징했다고 1일…"
+        },
+        {
+          "title": "\"일 많아져서 실종 허위종결\"...제주 경찰, 증거 나오자 혐의 인정",
+          "link": "https://www.mt.co.kr/society/2026/09/01/2026090110454439308",
+          "source": "머니투데이",
+          "published": "2026-09-01T10:57:50+09:00",
+          "latest": "2026-09-01T16:59:00+09:00",
+          "mention_count": 6,
+          "sources": [
+            "머니투데이",
+            "YTN",
+            "ytn.co.kr",
+            "yonhapnewstv.co.kr",
+            "연합뉴스TV",
+            "제주일보"
+          ],
+          "summary": "경찰에 따르면 부 경장은 지난 5월15일 오후 6시43분쯤 장미란씨(37) 실종 신고를 접수한 뒤 실제 장씨와 통화하지 않았음에도 신고자에게 \"실종자와 연락됐고 신변에 이상이 없으며 경찰관 만나기를 극구 거부한다\"는 취지의 허위 사실을 알린 혐의를 받는다."
+        },
+        {
           "title": "'21억대' 사기 혐의에도 불송치 경찰관…경찰 보완수사",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qbjNfS2wwSnFCNXNnWHp4UUJfYm5TSVhZYy1RaHBWaDJIbXFYOWtXYWhaYXNZWWFkMHJTa0xMNmcyZFBubVg1cWR3WW9ELWw1RkNuR2pHMnJNS2VvblU2LdIBeEFVX3lxTE4tQVUxTlhQbnRXZ1lDVF9mb2pwY0p2ZHBDTmhIY0c4aE91Vm42SnI5b2dqOTlKY0NrTkZvZkZrWUlQOUJUdkUxV1IzRWlMeDFEd2JzTUVaOWRGRm9nMERKNW1IM0RhendxdUY4ZENpQkpYbThGSGo2LQ?oc=5",
+          "link": "https://www.newsis.com/view/NISX20260901_0003771256",
           "source": "뉴시스",
           "published": "2026-09-01T11:31:30+09:00",
           "latest": "2026-09-02T05:56:00+09:00",
@@ -491,23 +542,8 @@
             "v.daum.net",
             "yonhapnewstv.co.kr",
             "연합뉴스TV"
-          ]
-        },
-        {
-          "title": "'17억 보이스피싱' 인출·세탁책 가담 20대 징역 4년6개월",
-          "link": "https://www.newsis.com/view/NISX20260901_0003771531",
-          "source": "뉴시스",
-          "published": "2026-09-01T14:18:24+09:00",
-          "latest": "2026-09-01T19:31:04+09:00",
-          "mention_count": 5,
-          "sources": [
-            "뉴시스",
-            "동아일보",
-            "donga.com",
-            "더팩트",
-            "문화일보"
           ],
-          "summary": "피해자 31명이 발생한 17억원대 보이스피싱 범행에 현금인출·세탁책으로 가담한 20대가 징역 4년6개월을 선고받았다.광주지법 제11형사부(재판장 김송현)는 범죄수익은닉규제법 위반 등 혐의로 기소된 A(22)씨에게 징역 4년6개월을 선고하고 120만원을 추징했다고 1일…"
+          "summary": "21억원대 사기 혐의로 수사를 받고 불송치 결정이 난 현직 경찰관에 대해 고소인 측의 이의신청이 접수되면서 경찰이 보완수사에 나섰다.인천경찰청 반부패경제범죄수사대는 특정경제범죄가중처벌법상 사기 등 혐의로 고소된 모 경찰서 소속 A경위 사건을 다시 수사하고 있다고 1일…"
         },
         {
           "title": "'모자에 마스크 착용' 제주 실종 허위종결 경찰관 검찰 구속송치",
@@ -526,21 +562,6 @@
           "summary": "박지호 백나용 기자 = 본인이 담당한 실종 신고를 허위로 종결한 혐의로 구속된 제주지역 현직 경찰관이 1일 검찰에 송치됐다."
         },
         {
-          "title": "\"일 많아져서 실종 허위종결\"...제주 경찰, 증거 나오자 혐의 인정",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DRFNTTnJlY3JIcFJMcFAwVzFCcERFZWZER3pZcWVqR01IZjdSdmw1UVZINVE3NzVIcnFJclpCUjNnZ1BfWF9tTTQ4VUEzRThqWDBiYkNuV0l3WjhWeVZ3c3I4bjYwWmFNaDZB0gFwQVVfeXFMTUVJQjEyNFNVR2l0Z1NZcDJzSGNmLXczRmpxX1h4ek1kUFdHeFJySk9za1FiMERjY0Njd2toMHFWUWJ6Smp1Y0I2TEV2c1BjZW9mVUk1MWdtdnV2UFhoUmlaNWJFMkJiYkcxWExUTWZBcw?oc=5",
-          "source": "머니투데이",
-          "published": "2026-09-01T10:57:50+09:00",
-          "latest": "2026-09-01T16:59:00+09:00",
-          "mention_count": 5,
-          "sources": [
-            "머니투데이",
-            "YTN",
-            "ytn.co.kr",
-            "yonhapnewstv.co.kr",
-            "제주일보"
-          ]
-        },
-        {
           "title": "'뻥' 뚫린 안구 테러…김민석 축하 현수막 훼손에 경찰 수사",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oc1dRdHRNaF9SYkpYeHh0RFhHdnFFV19GSDlzWXRNa3hWQWppLUhyRnFZaU5TcHp2eEtJOFRjZGQtUUkzVmhseUtnLTFJUktfVGc?oc=5",
           "source": "노컷뉴스",
@@ -556,6 +577,64 @@
           ]
         },
         {
+          "title": "경찰, ‘지게차 사고’ 쿠팡 경기 광주 물류센터 압수수색",
+          "link": "https://www.khan.co.kr/article/202609020917001",
+          "source": "경향신문",
+          "published": "2026-09-02T09:17:00+09:00",
+          "latest": "2026-09-02T09:46:00+09:00",
+          "mention_count": 4,
+          "sources": [
+            "경향신문",
+            "경인일보",
+            "한겨레",
+            "인천일보"
+          ],
+          "summary": "경기 광주시의 쿠팡 물류센터에서 지게차를 운전하던 40대 노동자가 구조물에 끼어 중태에 빠진 사고와 관련해 경찰과 노동부가 강제수사에 착수했다. 경기남부경찰청 광역수사단 광역범죄수사대는 2일 오전 9시부터 고용노동부와 합동으로 수사관 등 28명을 투입해 경기 광주 쿠팡…"
+        },
+        {
+          "title": "경찰, ‘제주 실종사건’ 결과 오늘 발표… 檢 보완수사 칼 끝 향방도 주목",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYTUNCZ3ZHUkZ5WGl5MjhJSnlBaGMwbmJvd1BkSXdoNzNBNkNPcEVuY3hOYjBxWHBkZTlEYzVtUEdOX1JMSTZsWlhrSWJ4UXFOS0HSAVNBVV95cUxObS1SLTE1NXhTcUZGT1pnSlpfcVFlVlpneFVkS0I3QWtfcFhWaFlwcEpoUmdWay1UajRqOXlsbXh3Z2twc1NYenhuUVlFbnRPeWZHSQ?oc=5",
+          "source": "서울경제",
+          "published": "2026-09-01T08:44:14+09:00",
+          "latest": "2026-09-01T23:49:00+09:00",
+          "mention_count": 4,
+          "sources": [
+            "서울경제",
+            "조선일보",
+            "네이트",
+            "news.nate.com"
+          ]
+        },
+        {
+          "title": "송파구, 고령층 대상 AI 보이스피싱 탐지 앱 '보이스쉴드' 실증",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41elhwSDJ0cmxSdEdVenpMZno2djYzYUl1Rm8zTlRmdjBWY015cDJfRG9nbmFCTUlmb2ZJZU5HbjZnMmVzVnk0MVpOc3BEejFkLXY4?oc=5",
+          "source": "news.nate.com",
+          "published": "2026-09-01T15:28:00+09:00",
+          "latest": "2026-09-01T20:47:08+09:00",
+          "mention_count": 4,
+          "sources": [
+            "news.nate.com",
+            "biz.heraldcorp.com",
+            "헤럴드경제",
+            "v.daum.net"
+          ]
+        },
+        {
+          "title": "[단독] 중앙선 넘어 쾅 '음주운전 추정' 벤츠 폭주…또 강남",
+          "link": "https://v.daum.net/v/20260901201544913",
+          "source": "v.daum.net",
+          "published": "2026-09-01T20:15:00+09:00",
+          "latest": "2026-09-01T20:17:00+09:00",
+          "mention_count": 4,
+          "sources": [
+            "v.daum.net",
+            "JTBC",
+            "네이트",
+            "news.nate.com"
+          ],
+          "summary": "까만 벤츠 차량 옆부분이 형체를 알 수 없게 찌그러졌습니다. 서울 한남대교 남단에서 중앙선을 넘어 역주행하던 음주 추정 차량이 벽을 들이받고 나서야 멈춘 것입니다. 최근 마세라티 차량이 배달기사를 치어 숨지게 하는 등 강남권에 음주 사고가 잇따르면서 경찰이 단속 강화에…"
+        },
+        {
           "title": "고양시 일산1동, 음주운전 근절 및 갑질 예방교육 실시",
           "link": "https://www.gninews.co.kr/news/article.html?no=853312",
           "source": "gninews.co.kr",
@@ -569,62 +648,6 @@
             "웹이코노미"
           ],
           "summary": "고양특례시 일산1동은 지난 31일 행정복지센터에서 전 직원을 대상으로 ‘2026년 음주 운전 근절 및 갑질 예방 교육’을 실시했다고 밝혔다. 이번 교육은 최근 사회적으로 대두되고 있는 음주 운전에 대한 경각심을 높이고, 직장 내 상호 존중 문화를 확산시켜 신뢰받는 조직…"
-        },
-        {
-          "title": "경찰, 러닝하던 여성 뒤따라가 끌어안은 현역 군인 체포",
-          "link": "https://www.yna.co.kr/view/AKR20260901163900004",
-          "source": "연합뉴스",
-          "published": "2026-09-01T16:42:18+09:00",
-          "latest": "2026-09-01T17:16:00+09:00",
-          "mention_count": 4,
-          "sources": [
-            "연합뉴스",
-            "v.daum.net",
-            "국제신문",
-            "KBS 뉴스"
-          ],
-          "summary": "경찰이 서울 영등포구 한 공원에서 운동하던 여성을 강제로 끌어안은 혐의를 받는 현역 군인을 붙잡아 수사 중이다..."
-        },
-        {
-          "title": "음주운전 신고에 도주한 60대…10분만에 검거",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40dVI3d2lCRDFWSEJmb25qcGlMbWcxSlZlZ0NtRHItUUFxVE8zVl8yaGdQVDZGTW1OZzFjR2x6dUcwVllKZmtBODJ6cEdiOTFIa2c?oc=5",
-          "source": "노컷뉴스",
-          "published": "2026-09-01T10:52:00+09:00",
-          "latest": "2026-09-01T11:37:04+09:00",
-          "mention_count": 4,
-          "sources": [
-            "노컷뉴스",
-            "뉴시스",
-            "뉴스1",
-            "news1.kr"
-          ]
-        },
-        {
-          "title": "한 밤 기습 단행된 경찰 고위직 ‘81% 물갈이’…사건 문책 넘어 수사권 시대 재편",
-          "link": "https://www.issuevalley.com/news/articleView.html?idxno=55902",
-          "source": "이슈밸리",
-          "published": "2026-09-01T22:21:18+09:00",
-          "latest": "2026-09-02T07:11:30+09:00",
-          "mention_count": 3,
-          "sources": [
-            "이슈밸리",
-            "kyongbuk.co.kr",
-            "신아일보"
-          ],
-          "summary": "정부가 1일 밤 전국 시도경찰청장 대부분을 교체하는 대규모 경찰 고위직 인사를 전격 단행했다.경찰청은 이날 김종철 경남경찰청장을 경찰청 차장으로 임명하는 등 하반기 치안정감·치안감 전보 인사를 발표했다. 전국 18개 시도경찰청장 가운데 14명, 전체 치안감 보직의 81…"
-        },
-        {
-          "title": "경찰, ‘제주 실종사건’ 결과 오늘 발표… 檢 보완수사 칼 끝 향방도 주목",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYTUNCZ3ZHUkZ5WGl5MjhJSnlBaGMwbmJvd1BkSXdoNzNBNkNPcEVuY3hOYjBxWHBkZTlEYzVtUEdOX1JMSTZsWlhrSWJ4UXFOS0HSAVNBVV95cUxObS1SLTE1NXhTcUZGT1pnSlpfcVFlVlpneFVkS0I3QWtfcFhWaFlwcEpoUmdWay1UajRqOXlsbXh3Z2twc1NYenhuUVlFbnRPeWZHSQ?oc=5",
-          "source": "서울경제",
-          "published": "2026-09-01T08:44:14+09:00",
-          "latest": "2026-09-01T23:49:00+09:00",
-          "mention_count": 3,
-          "sources": [
-            "서울경제",
-            "조선일보",
-            "네이트"
-          ]
         }
       ]
     },
@@ -637,20 +660,20 @@
           "source": "연합뉴스",
           "published": "2026-09-01T12:20:42+09:00",
           "latest": "2026-09-01T20:41:00+09:00",
-          "mention_count": 13,
+          "mention_count": 14,
           "sources": [
             "연합뉴스",
             "v.daum.net",
             "KBS 뉴스",
             "네이트",
+            "news.nate.com",
             "스페셜타임스",
             "연합뉴스TV",
             "yonhapnewstv.co.kr",
             "sisaworld.kr",
             "국제신문",
             "공감신문",
-            "etoday.co.kr",
-            "supple.kr"
+            "etoday.co.kr"
           ],
           "summary": "국회 행정안전위원회는 1일 전체회의를 열어 10·29이태원참사 진상규명과 재발방지를 위한 특별조사위원회의 활동..."
         },
@@ -679,7 +702,7 @@
         },
         {
           "title": "[속보] 제주실종 담당 경찰 “미종결땐 챙길 일 많아… 부담감 때문에 허위 종결”",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xS0otUFJGRzNWVm80WDBKVmlEMUs2Smp0NjJBcmlZZGlwbDJuQkdBelh0aUxBaTZHY2JjaTdXMjNsQVVjejlkNG8wbUJfYkw3eTY4enhyS1hFM1d4MUx3Y3o4VVcxT0JLeFN2ZU8zQ1l3bHhXSGRjeXBsUQ?oc=5",
+          "link": "https://www.seoul.co.kr/news/society/accident/2026/09/01/20260901500075",
           "source": "서울신문",
           "published": "2026-09-01T10:34:55+09:00",
           "latest": "2026-09-01T22:21:00+09:00",
@@ -697,11 +720,35 @@
             "천지일보",
             "YTN",
             "ytn.co.kr"
-          ]
+          ],
+          "summary": "제주서부경찰서 실종팀 A 경장이 실종자와 실제 통화하지 않았는데도 연락이 됐다고 허위 입력해 사건을 종결한 혐의로 구속 송치됐다. 그는 업무 부담과 사건 인계 압박 때문에 허위 종결했다고 진술했고, 경찰은 추가 의심 사례 25건도 확인했다."
+        },
+        {
+          "title": "\"할 일 많아질까 봐\" 실종 조작 시인한 제주 경찰관... 추가 의심 사례 25건",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202609010022",
+          "source": "KBC광주방송",
+          "published": "2026-09-01T10:56:01+09:00",
+          "latest": "2026-09-01T17:51:14+09:00",
+          "mention_count": 12,
+          "sources": [
+            "KBC광주방송",
+            "ikbc.co.kr",
+            "JTBC",
+            "news.jtbc.co.kr",
+            "농민신문",
+            "nongmin.com",
+            "조선일보",
+            "뉴스핌",
+            "newspim.com",
+            "연합뉴스",
+            "머니투데이",
+            "v.daum.net"
+          ],
+          "summary": "실종신고를 허위로 종결한 제주 경찰관은 실종사건을 종결하지 않을 경우 업무가 늘어난다는 부담감 때문에 사건을 허위 종결한 것으로 조사됐습니다"
         },
         {
           "title": "실종 허위 종결 부 경장 \"일 덜기 위해 범행\"‥\"거짓 종결 25건 더\"",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XaEdUUlBqeEtXU0lQZDNZWWxvY29DYndwSFRGTGFtUXNTWVVneWlDZ0tScnpTMWpRSVhxSVVSbk95b3pyRm9TLTVCRHI0X1Z4RHZjWlQwQXBWZlFhNkgzZnhTZ25VdXRzUTQwWUJhd003YU9MeHJ30gF3QVVfeXFMTnMxemxSZFVKa1FGcGJsMFc3ckhKSC05bXdyYmk3MUVHcmZPQnVTeGV6MDNPUGFNSmgtQlh2UEt4ZU5DcUFyLVVzTmJDakdZQmtYbDFOMnFZSW1XV0gzb2xHdERFQ0I5LTNkV2lpbU0xNWl2NkhnZGM?oc=5",
+          "link": "https://imnews.imbc.com/news/2026/society/article/6848775_36918.html",
           "source": "MBC 뉴스",
           "published": "2026-09-01T11:23:19+09:00",
           "latest": "2026-09-02T01:10:47+09:00",
@@ -718,32 +765,12 @@
             "시사저널",
             "경향신문",
             "dailyngonews.com"
-          ]
-        },
-        {
-          "title": "\"할 일 많아질까 봐\" 실종 조작 시인한 제주 경찰관... 추가 의심 사례 25건",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aRzBpYnNINWNhTERnRWVkb2gtY3gyeDJzc1NyajBPdTRGU0RGNFhsOGZhTXVoR1QwcTZVWmh5VnNDaUg5SXhrUzJLMDV3YTNLMmpHcEJBU1UtSWFqdWlrdQ?oc=5",
-          "source": "KBC광주방송",
-          "published": "2026-09-01T10:56:01+09:00",
-          "latest": "2026-09-01T17:51:14+09:00",
-          "mention_count": 11,
-          "sources": [
-            "KBC광주방송",
-            "ikbc.co.kr",
-            "JTBC",
-            "news.jtbc.co.kr",
-            "농민신문",
-            "nongmin.com",
-            "조선일보",
-            "뉴스핌",
-            "연합뉴스",
-            "머니투데이",
-            "v.daum.net"
-          ]
+          ],
+          "summary": "실종 신고를 허위로 종결한 경찰관이 사건 인계에 대한 부담을 느끼고 일을 덜기 위해 범행했다고 진술했습니다. 제주경찰청 브리핑에 따르면 구속된 부 모 경장은 \"실종자가 일반적인 성..."
         },
         {
           "title": "“안일하게 생각” 제주 실종 허위 종결 사건, 동기는 ‘업무 태만’",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjWHJ5OFYwcnktOXNidjJQRS1UQkd2YUtTdmZMeF85bDkyaGczVjZ4dWRtWTZsRG91SkF3OE1VSzBsSldXTmlyMXZPd1dRSlBsNjJxcTEta2RGcWE4WW9tcEk0T3AwLWdCUm1Z?oc=5",
+          "link": "https://www.jejusori.net/news/articleView.html?idxno=506075",
           "source": "제주의소리",
           "published": "2026-09-01T10:30:00+09:00",
           "latest": "2026-09-01T13:01:00+09:00",
@@ -757,6 +784,24 @@
             "경향신문",
             "시사저널",
             "한겨레"
+          ],
+          "summary": "실종 신고를 허위 종결해 전국적 파장을 일으킨 사건이 경찰관 개인의 안일함과 업무 태만 때문에 발생한 것으로 조사됐다. 일에 대한 회피적 대처와 무책임 태도가 원"
+        },
+        {
+          "title": "해경, 가을 성어기 낚시어선 안전관리 강화…\"과실 사고 예방 총력\"",
+          "link": "https://www.newstomato.com/ReadNews.aspx?no=1312123",
+          "source": "뉴스토마토",
+          "published": "2026-09-01T15:12:43+09:00",
+          "latest": "2026-09-02T09:51:44+09:00",
+          "mention_count": 7,
+          "sources": [
+            "뉴스토마토",
+            "newstomato.com",
+            "newspim.com",
+            "뉴스핌",
+            "네이트",
+            "news.nate.com",
+            "뉴스데일리"
           ]
         },
         {
@@ -795,8 +840,40 @@
           "summary": "실종 신고를 허위로 종결한 제주 경찰관이 같은 방식으로 처리한 사건이 25건 더 확인됐다. 1일 제주경찰청은 부 경장의 검찰 송치 전 이뤄진 공"
         },
         {
+          "title": "인천 하나개해수욕장서 운동하던 60대 실종",
+          "link": "https://news.kbs.co.kr/news/view.do?ncd=8652279",
+          "source": "KBS 뉴스",
+          "published": "2026-09-02T07:09:00+09:00",
+          "latest": "2026-09-02T09:19:42+09:00",
+          "mention_count": 5,
+          "sources": [
+            "KBS 뉴스",
+            "MBC 뉴스",
+            "머니투데이",
+            "인천투데이",
+            "기호일보"
+          ],
+          "summary": "인천 하나개해수욕장에서 60대 여성이 실종돼 해경이 수색 작업을 벌이고 있습니다. 어제(1일) 오후 1시 5..."
+        },
+        {
+          "title": "정점식, 오늘 이태원참사 현장 방문 후 유가족 면담",
+          "link": "https://news.kbs.co.kr/news/view.do?ncd=8652192",
+          "source": "KBS 뉴스",
+          "published": "2026-09-02T01:01:00+09:00",
+          "latest": "2026-09-02T05:02:01+09:00",
+          "mention_count": 5,
+          "sources": [
+            "KBS 뉴스",
+            "v.daum.net",
+            "네이트",
+            "news.nate.com",
+            "연합뉴스"
+          ],
+          "summary": "국민의힘 정점식 원내대표가 이태원참사 유가족들을 만납니다. 정 원내대표는 오늘(2일) 10·29 이태원참사..."
+        },
+        {
           "title": "평택시, 교통사고 현장에서 부상자 도운 시민에게 모범시민 표창",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNa3Y0RDY2aVN0LVBKTWFCVmVUaWJpV1ZSdEg5RTlxR0lRby1Bd1FpTG54Sld2TTNkczZXeW1OTktaM3YwdGhDSWozOW5kNXpXOC1OS2lXcTlDMjAyRkNJOHlRcmU?oc=5",
+          "link": "https://www.kns.tv/news/articleView.html?idxno=1015558",
           "source": "KNS뉴스통신",
           "published": "2026-09-01T11:36:33+09:00",
           "latest": "2026-09-01T19:59:33+09:00",
@@ -807,11 +884,27 @@
             "v.daum.net",
             "일간경인",
             "웹이코노미"
+          ],
+          "summary": "평택시는 31일 시장 집무실에서 교통사고 현장에서 부상자를 돕기 위해 솔선수범한 고덕동 시민 김가을 씨에게 모범시민 표창장을 수여했다.김가을 씨는 지난 7월 14일 고덕국제대로 77번지 힐스테이트센트럴 사거리에서 발생한 버스와 오토바이 간 교통사고 현장을 목격하고 부상…"
+        },
+        {
+          "title": "경부고속도로서 빗길 추정 교통사고…1명 사망",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10RGFZZ2dZR1IzekNva19fZ1FGOUpBNW1PdkZrRnh2VEstdzNxTFZWLVJvZzBrc0lPQy1Zcm9ocmY3QnVlZXZ4UmZLLThVS05McklKX2RpZVRUZExqcHZOX9IBeEFVX3lxTE5zQ0NTckx5YkM5andtMTRpb284eXI0ZldtU1V6LUlteDJEM1REUktscWFjaERIYW9fdHNXTFBhWXNORWhfVlY3a2l0TnhLQjd4d1EtR0RSekJ2TjlHUjZZZ3l5WUgtY0I3NzBxWEhNZi12Mk52Q3FVZQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-01T06:50:53+09:00",
+          "latest": "2026-09-01T16:44:15+09:00",
+          "mention_count": 5,
+          "sources": [
+            "뉴시스",
+            "네이트",
+            "중부일보",
+            "joongboo.com",
+            "스페셜타임스"
           ]
         },
         {
           "title": "네팔 대홍수 참사 7일째...발전소 터널 구조 총력전 [뉴스퀘어10]",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wTUNneHZZTm8wUkVYcC1DOF9QelpzV1RKb1M0eHB3U1otUFZDekROMDdQRVAtTUg4SlB5eWpNbzIxNi1rTDJwRWZlNUJZWmJKaGtOcmNrMTR5QldNcGc?oc=5",
+          "link": "https://www.ytn.co.kr/_ln/0104_202609011020479840",
           "source": "YTN",
           "published": "2026-09-01T10:20:00+09:00",
           "latest": "2026-09-01T10:33:17+09:00",
@@ -822,79 +915,23 @@
             "공감신문",
             "경기신문",
             "kgnews.co.kr"
-          ]
-        },
-        {
-          "title": "인천 하나개해수욕장서 운동하던 60대 실종",
-          "link": "https://news.kbs.co.kr/news/view.do?ncd=8652279",
-          "source": "KBS 뉴스",
-          "published": "2026-09-02T07:09:00+09:00",
-          "latest": "2026-09-02T09:03:43+09:00",
-          "mention_count": 4,
-          "sources": [
-            "KBS 뉴스",
-            "MBC 뉴스",
-            "머니투데이",
-            "인천투데이"
           ],
-          "summary": "인천 하나개해수욕장에서 60대 여성이 실종돼 해경이 수색 작업을 벌이고 있습니다. 어제(1일) 오후 1시 5..."
+          "summary": "네팔을 덮친 기록적인 대홍수로 인한 사망자가 900명을 넘어섰습니다. 구조대가 대대적인 수색 작업을 벌이고 있지만 비 예보가 이어지면서 2차 피해도 우려되는 상황입니다. 이수곤 전 서울시립대 토목공학과 교수, 공항진 YTN 재난자문위원과 함께 자세한 얘기 나눠보겠습니다…"
         },
         {
-          "title": "정점식, 오늘 이태원참사 현장 방문 후 유가족 면담",
-          "link": "https://news.kbs.co.kr/news/view.do?ncd=8652192",
-          "source": "KBS 뉴스",
-          "published": "2026-09-02T01:01:00+09:00",
-          "latest": "2026-09-02T05:02:01+09:00",
+          "title": "종교계, 가습기살균제 참사 희생자 추모",
+          "link": "https://www.logosian.com/news/articleView.html?idxno=13250",
+          "source": "평화나무",
+          "published": "2026-09-01T13:09:12+09:00",
+          "latest": "2026-09-01T23:04:28+09:00",
           "mention_count": 4,
           "sources": [
-            "KBS 뉴스",
-            "v.daum.net",
-            "네이트",
-            "연합뉴스"
+            "평화나무",
+            "불교IN",
+            "bulgyo-in.com",
+            "쿠키뉴스"
           ],
-          "summary": "국민의힘 정점식 원내대표가 이태원참사 유가족들을 만납니다. 정 원내대표는 오늘(2일) 10·29 이태원참사..."
-        },
-        {
-          "title": "해경, 가을 성어기 낚시어선 안전관리 강화…\"과실 사고 예방 총력\"",
-          "link": "https://www.newstomato.com/ReadNews.aspx?no=1312123",
-          "source": "뉴스토마토",
-          "published": "2026-09-01T15:12:43+09:00",
-          "latest": "2026-09-01T19:10:00+09:00",
-          "mention_count": 4,
-          "sources": [
-            "뉴스토마토",
-            "newspim.com",
-            "뉴스핌",
-            "네이트"
-          ]
-        },
-        {
-          "title": "동구, 경로당 찾아가 어르신 교통안전 챙긴다",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVeGxxZzhUanQzdWR2STY4T0V6MmR4X0NQVUZPaTIteWUxVFdrVkN3SHZWcXNVSGZEdENXMWlNdlhFLThDSVJiV3RB?oc=5",
-          "source": "mediatoday.asia",
-          "published": "2026-09-01T09:56:00+09:00",
-          "latest": "2026-09-01T17:16:00+09:00",
-          "mention_count": 4,
-          "sources": [
-            "mediatoday.asia",
-            "진일보",
-            "충북일보",
-            "xn--vg1bjkn41b4ga219dh6e.kr"
-          ]
-        },
-        {
-          "title": "경부고속도로서 빗길 추정 교통사고…1명 사망",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10RGFZZ2dZR1IzekNva19fZ1FGOUpBNW1PdkZrRnh2VEstdzNxTFZWLVJvZzBrc0lPQy1Zcm9ocmY3QnVlZXZ4UmZLLThVS05McklKX2RpZVRUZExqcHZOX9IBeEFVX3lxTE5zQ0NTckx5YkM5andtMTRpb284eXI0ZldtU1V6LUlteDJEM1REUktscWFjaERIYW9fdHNXTFBhWXNORWhfVlY3a2l0TnhLQjd4d1EtR0RSekJ2TjlHUjZZZ3l5WUgtY0I3NzBxWEhNZi12Mk52Q3FVZQ?oc=5",
-          "source": "뉴시스",
-          "published": "2026-09-01T06:50:53+09:00",
-          "latest": "2026-09-01T16:44:15+09:00",
-          "mention_count": 4,
-          "sources": [
-            "뉴시스",
-            "네이트",
-            "중부일보",
-            "스페셜타임스"
-          ]
+          "summary": "가습기살균제 참사 희생자들을 추모하기 위해 4대 종단이 함께 뜻을 모았다.31일 오전 11시 서울 광화문 광장에서 진행된 가습기살균제 참사 4대 종단 추모제가 진행됐다. 개신교·불교·원불교·천주교 4대 종단 공동으로 주관한 이번 추모제는 가습기살균제 참사 피해자와 희생…"
         }
       ]
     },
@@ -903,12 +940,13 @@
       "articles": [
         {
           "title": "경남자치경찰위, 새 정책자문단 구성… 9월 1일 첫 회의",
-          "link": "https://nuriilbo.com/news/article.html?no=901496",
-          "source": "누리일보",
-          "published": "2026-09-01T19:31:06+09:00",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVzlOZ0t3UnVpMXFMbkRrUWlaTEY3bVl3ZUxpdUQ2TnRSdE5oR3ZRVXluZ180bVJHN1ZjeVhJb1ZXQnctWWVwLVdnY0xfNUJyNlJrY2lPUTQ4UmZNYVcwNHBQd2RDY2RWaXBTV2xTdXNIX1g5VkwyTEZYclhDTGNEa2Ezdmlnd0ItXzlZX0U3RW5kYlc0d0JZUVh5dEF1LUNjQ0kwNjFGX2twQ1Q1ZHdz?oc=5",
+          "source": "자치행정신문",
+          "published": "2026-09-01T17:26:00+09:00",
           "latest": "2026-09-02T00:39:53+09:00",
-          "mention_count": 3,
+          "mention_count": 4,
           "sources": [
+            "자치행정신문",
             "누리일보",
             "웹이코노미",
             "글로벌뉴스통신GNA"
@@ -1011,6 +1049,24 @@
       "name": "기타",
       "articles": [
         {
+          "title": "현대차그룹, 경찰버스에 실내 온도 낮춰주는 '나노 쿨링 필름' 시범 적용",
+          "link": "https://www.asiae.co.kr/article/2026090208411197919",
+          "source": "아시아경제",
+          "published": "2026-09-02T08:41:11+09:00",
+          "latest": "2026-09-02T09:44:21+09:00",
+          "mention_count": 7,
+          "sources": [
+            "아시아경제",
+            "v.daum.net",
+            "헤럴드경제",
+            "뉴시스",
+            "대한경제",
+            "뉴스1",
+            "전자신문"
+          ],
+          "summary": "현대자동차그룹이 한여름 폭염과 싸우는 경찰관들을 위해 특별한 선물을 전달했다."
+        },
+        {
           "title": "\"일 많아질까봐 허위 종결했다\"…경찰이 밝힌 이유는 ‘업무 부담’ |",
           "link": "http://weekly.chosun.com/news/articleViewAmp.html?idxno=54850",
           "source": "주간조선",
@@ -1026,6 +1082,22 @@
             "MBC 뉴스",
             "imnews.imbc.com"
           ]
+        },
+        {
+          "title": "‘신세계百 폭파’ 협박 대가…1256만원 경찰비용 전액 배상판결",
+          "link": "https://www.joongang.co.kr/article/25458351",
+          "source": "중앙일보",
+          "published": "2026-09-02T06:48:39+09:00",
+          "latest": "2026-09-02T08:27:00+09:00",
+          "mention_count": 5,
+          "sources": [
+            "중앙일보",
+            "joongang.co.kr",
+            "진일보",
+            "강원도민일보",
+            "한겨레"
+          ],
+          "summary": "온라인에 ‘신세계백화점을 폭파한다’는 협박성 글을 올려 경찰력 낭비를 유발한 20대 남성이 치안행정비용 1256만여원을 배상하게 됐다. 2일 서울경찰청에 따르면 서울중앙지방법원 민사18단독은 지난달 28일 국가가 협박성 글 게시자를 상대로 낸 손해배상 청구 소송에서 경…"
         },
         {
           "title": "울진해경, 해양환경 퀴즈 이벤트 진행",
@@ -1044,31 +1116,33 @@
           "summary": "울진해양경찰서가 제26회 국제연안정화의 날을 맞아 해양환경 보전의 중요성을 알리고 국민 참여를 높이기 위한 퀴즈 이벤트를 진행한다.국제연안정화의 날은 매년 9월 셋째 주 토요일을 전후해 전 세계 100여개 국가가 참.."
         },
         {
-          "title": "현대차그룹, 경찰버스에 실내 온도 낮춰주는 '나노 쿨링 필름' 시범 적용",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0Y2l2N0xjNUI5aTFVeVh1UkFHZG84TjVpbU85MFhLaGNCSjhsbVE3QmpnT2s0NUlWcjFuVVJoczd1VnlyRW1KbWZsOVJnZWE2U0pFZFpRdlpIa2xsMmpNVg?oc=5",
-          "source": "아시아경제",
-          "published": "2026-09-02T08:41:11+09:00",
-          "latest": "2026-09-02T08:58:57+09:00",
-          "mention_count": 3,
+          "title": "충청북도자치경찰위원회, '월간 청렴 3분'으로 청렴문화 생활화",
+          "link": "http://www.skypress.co.kr/news/articleView.html?idxno=132781",
+          "source": "대한뉴스방송",
+          "published": "2026-09-01T18:11:46+09:00",
+          "latest": "2026-09-02T09:34:12+09:00",
+          "mention_count": 4,
           "sources": [
-            "아시아경제",
-            "헤럴드경제",
-            "뉴시스"
-          ]
+            "대한뉴스방송",
+            "skypress.co.kr",
+            "웹이코노미",
+            "모빅경제"
+          ],
+          "summary": "충청북도자치경찰위원회(위원장 이광숙)가 매월 월간회의 종료 후 전 직원이 함께하는 ｢월간 청렴 3분｣을 운영하며 일상 속 청렴문화 확산에 나선다. ｢월간 청렴 3분｣은 매월 초 월간회의 직후 전 직원을 대상으로 약 3분간 진행되는 청렴교육 프로그램이다. 형식적이고 일회…"
         },
         {
-          "title": "‘신세계百 폭파’ 협박 대가…1256만원 경찰비용 전액 배상판결",
-          "link": "https://www.joongang.co.kr/article/25458351",
-          "source": "중앙일보",
-          "published": "2026-09-02T06:48:39+09:00",
-          "latest": "2026-09-02T08:04:46+09:00",
+          "title": "경기남부경찰청 9월 1일 집회일정",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=909730",
+          "source": "경기신문",
+          "published": "2026-09-01T07:03:20+09:00",
+          "latest": "2026-09-02T08:46:00+09:00",
           "mention_count": 3,
           "sources": [
-            "중앙일보",
-            "진일보",
-            "강원도민일보"
+            "경기신문",
+            "wide-news.kr",
+            "광역행정신문"
           ],
-          "summary": "온라인에 ‘신세계백화점을 폭파한다’는 협박성 글을 올려 경찰력 낭비를 유발한 20대 남성이 치안행정비용 1256만여원을 배상하게 됐다. 2일 서울경찰청에 따르면 서울중앙지방법원 민사18단독은 지난달 28일 국가가 협박성 글 게시자를 상대로 낸 손해배상 청구 소송에서 경…"
+          "summary": "9.1.(火) 주요 집회 주최 행사명 시간·장소 인원 [신고] 관할서 신자유연대 등 윤 前 대통령 석방 촉구 집회 17:00~19:00, 의왕 서울구치소 제1주차장 2,000 의왕 신참정권사수 시민연대 중앙선관위 해체 촉구 집회 11:30~13:30 과천 중앙선관위 정…"
         },
         {
           "title": "서해해경청, 청렴은 선택아닌 기본 전 직원대상 부패방지 교육 실시",
@@ -1086,7 +1160,7 @@
         },
         {
           "title": "국립교통재활병원장에 신형익 서울의대 교수 취임",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUbVZlckMtb3FtaDVSbUFzZnR5VVp2X3NVeU1OeFllTUJxSGl2WnNuUzBhRWRWcmRONTdabFpMZ2ZUSkRkN3YzNm96WHZQR0NsSmRIUXJJRi13TTZOQWFSa2ZYSFNyM1ViMkJF?oc=5",
+          "link": "https://www.rehabnews.net/news/articleView.html?idxno=30788",
           "source": "재활뉴스",
           "published": "2026-09-01T10:48:07+09:00",
           "latest": "2026-09-02T05:56:18+09:00",
@@ -1095,7 +1169,8 @@
             "재활뉴스",
             "헬스경향",
             "메디칼업저버"
-          ]
+          ],
+          "summary": "서울대병원(병원장 백남종)이 위탁 운영하는 국립교통재활병원장에 신형익 서울대병원 재활의학과 교수가 취임했다. 임기는 1일부터 2028년 8월31일까지 2년이다.국"
         },
         {
           "title": "검찰, 잠실 개표소서 '가짜 경찰' 욕설한 시위대에 징역1년 구형",
@@ -1126,20 +1201,6 @@
           "summary": "지난 연말 주점에서 아르바이트를 하던 스무살 대학생이 가게 주인에게 성폭행을 당했다고 신고했지만 경찰이 무혐의 종결했고, 그 직후 억울함을 호소하며 스스로 목숨을 끊었습니다. 최근 알려지며 큰 공분에 휩싸인 이 사건, 피해자는"
         },
         {
-          "title": "충청북도자치경찰위원회, '월간 청렴 3분'으로 청렴문화 생활화",
-          "link": "http://www.skypress.co.kr/news/articleView.html?idxno=132781",
-          "source": "대한뉴스방송",
-          "published": "2026-09-01T18:11:46+09:00",
-          "latest": "2026-09-01T20:58:00+09:00",
-          "mention_count": 3,
-          "sources": [
-            "대한뉴스방송",
-            "skypress.co.kr",
-            "웹이코노미"
-          ],
-          "summary": "충청북도자치경찰위원회(위원장 이광숙)가 매월 월간회의 종료 후 전 직원이 함께하는 ｢월간 청렴 3분｣을 운영하며 일상 속 청렴문화 확산에 나선다. ｢월간 청렴 3분｣은 매월 초 월간회의 직후 전 직원을 대상으로 약 3분간 진행되는 청렴교육 프로그램이다. 형식적이고 일회…"
-        },
-        {
           "title": "경찰 꿈꾸던 스무살의 죽음…그제서야 드러난 ‘사건암장’",
           "link": "https://news.jtbc.co.kr/article/NB12316169",
           "source": "JTBC",
@@ -1168,6 +1229,20 @@
           "summary": "박재하 최주성 기자 = 더불어민주당이 1일 당 경찰개혁추진단을 가동하고 장윤기 사건 및 제주 실종사건 허위 종결 사건 등으로 ..."
         },
         {
+          "title": "여수해경, 섬박람회 해상경계 강화…\"함정 추가 배치\"",
+          "link": "https://news.nate.com/view/20260901n29703?mid=n1101",
+          "source": "네이트",
+          "published": "2026-09-01T16:29:00+09:00",
+          "latest": "2026-09-01T18:43:00+09:00",
+          "mention_count": 3,
+          "sources": [
+            "네이트",
+            "news.nate.com",
+            "일간투데이"
+          ],
+          "summary": "�Ѵ��� ���� ���� : ��ȸ - ���� : ������ �����ؾ���� ������ ������ 27�� �ΰ��յ� ���ջ�� �����Ʒ��� �ǽ��ϰ� �ִ�. (�����ذ� ����. ���Ǹ� �� DB����) �� ����1 �輺��…"
+        },
+        {
           "title": "경찰, '판소리 명창' 前전통예중고교장 추가 채용비리 정황포착",
           "link": "https://www.yna.co.kr/view/AKR20260901119600004",
           "source": "연합뉴스",
@@ -1182,276 +1257,457 @@
           "summary": "채용 비리 의혹으로 경찰 수사를 받고 있는 판소리 명창이자 전 국립전통예술중·고등학교 교장이 교사 채용 과정에..."
         },
         {
-          "title": "서특단 3005함, 직장동호회 밴드로 함정 활력 높인다",
-          "link": "https://www.newsdaily.kr/news/articleView.html?idxno=260590",
-          "source": "뉴스데일리",
-          "published": "2026-09-01T08:41:27+09:00",
-          "latest": "2026-09-01T13:38:33+09:00",
+          "title": "해경, 해상 무선통신 고도화 나선다",
+          "link": "https://www.hankyung.com/article/202609017223h",
+          "source": "한국경제",
+          "published": "2026-09-01T16:51:05+09:00",
+          "latest": "2026-09-01T16:52:00+09:00",
           "mention_count": 3,
           "sources": [
-            "뉴스데일리",
-            "경기신문",
-            "kgnews.co.kr"
+            "한국경제",
+            "네이트",
+            "news.nate.com"
           ],
-          "summary": "직장동호회 밴드로 조직문화를 개선하고 실적도 높인 경비함정이 있어 눈길을 끈다.31일 중부지방해양경찰청 서해5도특별경비단(단장 백종수, 이하 ‘서특단’)에 따르면 서특단 소속 3005함은 함정 내 밴드를 구성해 운영하며 함 구성원 간의 소통과 단합을 이끌어냈다.3005…"
-        },
-        {
-          "title": "경기 광주서 30대 여성 흉기에 숨진 채 발견… 경찰, 용의자 추적",
-          "link": "https://www.kyeonggi.com/article/20260901580028",
-          "source": "경기일보",
-          "published": "2026-09-01T09:24:52+09:00",
-          "latest": "2026-09-01T13:31:00+09:00",
-          "mention_count": 3,
-          "sources": [
-            "경기일보",
-            "JTBC",
-            "news.jtbc.co.kr"
-          ],
-          "summary": "과거 가정폭력 피해를 신고한 적 있는 30대 여성이 흉기에 찔려 숨져 경찰이 용의자 추적에 나섰다. 1일 경찰에 따르면 이날 오전 7시17분께 경기 광주시의 한 다세대주택 외부 계단에서 A씨가 신원이 확인되지 않은 인물이 휘두른 흉기에 여러 차례 찔리는 일이 벌어졌다."
-        },
-        {
-          "title": "경기남부경찰청 9월 1일 집회일정",
-          "link": "https://www.kgnews.co.kr/news/article.html?no=909730",
-          "source": "경기신문",
-          "published": "2026-09-01T07:03:20+09:00",
-          "latest": "2026-09-02T08:46:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "경기신문",
-            "wide-news.kr"
-          ]
+          "summary": "해경, 해상 무선통신 고도화 나선다, 전파진흥협회와 장비 검증&middot;혼간섭 대응 기술협력"
         }
       ]
     }
   ],
-  "total_articles": 867,
-  "total_issues": 285,
+  "total_articles": 956,
+  "total_issues": 295,
   "raw": [
     {
+      "title": "중부해경청, 가을 성어기 낚시어선 안전관리 강화",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sVmFpbU5yTTFXc0FrbUJYMER2czlnNF9kd3hkdUVwd1Bta0tuZThGVGN4RWZrLWFGcUgzQXJHb3R0bTJ3U1hTLUtHVmlldGhJdWc3Sm4xTF9nY1BYblR4MVE5WXJHcjdKNXlJ?oc=5",
+      "source": "뉴스데일리",
+      "published": "2026-09-02T09:51:44+09:00"
+    },
+    {
+      "title": "신효섭 제39대 전북경찰청장…수사·민생치안 경험 갖춘 ‘현장형 지휘관’",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3My1pSG9objlZYnNqV2VnQXBvZjZqa0s3allnNk9JV1pGUDdWdFFhUkF5b3o1V09fdmpSa1JHcUo3WVZScldUNmU2cGJXM1R1S1Zaak5Jb0FJY0ZHWnc0RXpaWms?oc=5",
+      "source": "서울경제TV",
+      "published": "2026-09-02T09:49:29+09:00"
+    },
+    {
+      "title": "도민의 보이스피싱 피해 예방에 앞장선 충북경찰의 보람 있는 노력",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55c1hyZHFSM2h1WGxkVFcyMnhTWHozZ3h5VGRrS3hBbDdZQjNBUER5dVJVbmZsVTJYYnItQ0tVYmpOUGtuTUcwNVVFYVBabkNVOUItRk9pQm9ZOURuX21aVDdTdjhfaE05QXVN?oc=5",
+      "source": "뉴스데일리",
+      "published": "2026-09-02T09:46:54+09:00"
+    },
+    {
+      "title": "쿠팡 광주 물류센터 끼임사고…경찰·노동부 압수수색",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HbXNtRGM0WXJBQnNjMFYwQ3QyVmxDUlZxS1JVMERBV0IwMlV5dGtXaloydW5uYnNfMEd4WW5IU1VsOVhqU3hySzd1TzB0d1pEWU81OWNDNzRtV1ZESDEwcjlNTlNrSXpqekdvdGdNOA?oc=5",
+      "source": "인천일보",
+      "published": "2026-09-02T09:46:00+09:00"
+    },
+    {
+      "title": "고범석 전남경찰청장, 서울경찰청장으로…경찰 지휘부 대폭 교체",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpSTBiQmRqSzVMVHMzMmwtdjBpYjRmaGlUSUM4TVVoY1YtbWQ4bkhCNG93NGdjakstOGthSm5rZV9EZFQ0bUhkdkppMlU1RUgyYk92dXdn?oc=5",
+      "source": "뉴스21 통신",
+      "published": "2026-09-02T09:44:54+09:00"
+    },
+    {
+      "title": "현대차그룹, 경찰버스에 실내온도 낮추는 '나노 쿨링 필름' 시범 적용",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PclR4SkpubkcyalpnaHJUWTZ4RU0xTE5xYlFyMG5BWVJ6VVVTMDdESENtNzhRX0tKQlNNcEF2Wlk1Tl9rbzgxcnNreDdwZw?oc=5",
+      "source": "전자신문",
+      "published": "2026-09-02T09:44:21+09:00"
+    },
+    {
+      "title": "신임 전북경찰청장에 신효섭 충북경찰청장 임명",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nY3Y4M0dGeGx4cmNhcmZ3Z0lsdUNvaWRxWjBIRDEyV0lJZ0ZHNjNPQndTSXFyVXNNSnBFSE81Wnkyak9QTjFLZnh2NDBKekprQjlvYdIBWkFVX3lxTFBwQmtPSDRHMEk3aHBJRlllTXhlTlJfX3RaRXNVR3ZDU3BGZkxZVWhKLUhaWFcxaVRXNkROenc4TjRQVjdDU3ViTmNFbHNxcmNHMF92c0Y3XzdMZw?oc=5",
+      "source": "뉴스1",
+      "published": "2026-09-02T09:40:47+09:00"
+    },
+    {
+      "title": "김종철 신임 경찰청장 대행 “국민 불신 높아 마음 무거워”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3MUQwT1ZuZmdHSHlkcDloVmdRMkM0dkJMYjJVVlYwaDZPTHgxTmduNEY2N0ZReDlKa3ZqUFNsTE1rc1QwSDFKbmtnVDg4OWxlck44alJ1RldqVXJMMENaSmFaQ2FYZm4wS3c?oc=5",
+      "source": "newscj.com",
+      "published": "2026-09-02T09:37:22+09:00"
+    },
+    {
+      "title": "\"운전 중 문자 보내지 말라\" 골절, 염좌, 자상…선수 생명 위협한 교통사고, 결국 원인은 '부주의'",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xTF9QeU5BVm9Td3JrWWxLMnl3ZkhZbEFSQXB3UWEyRlNYdjZILUR2MlhTTGlMWS1CWGlxTEg0RklDcTFIc1ZCb1pGT1JyaWt0WTBuSFZObkwwaVNYRGJkSUtMWEpKMjR3dXZ0ZXc3WEZHSVgzUmZubQ?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T09:36:00+09:00"
+    },
+    {
+      "title": "안철수 국회의원, 성남 장애인거주시설 사망사건 제도개선 추진…“수사와 별개로 구조 바꿔야”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LUHhzb01BLUszV0FfMklmbFpUTlhmblVXTTJDNGlBN3hXU3pINV9veVppcW5sdTFPUjFDOWVBUGhFaGFNV1N1cVJaTjJxUDBNMDd1R2E5WXpXUVlFMVE?oc=5",
+      "source": "유교신문",
+      "published": "2026-09-02T09:34:33+09:00"
+    },
+    {
+      "title": "충청북도자치경찰위원회, 「월간 청렴 3분」으로 청렴문화 생활화",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GdFlfSmUtczFQb1FuOUYxVEtnd2E2bHpmNmd0OWJEQ0RuN0hIcVpkREJZZG5VNWJ1NXJvcWxJLWRWVHU2U2szZC05MExxTGZPb3JuRjFVc2FfV0JoU1pPRW1TOTV4X1llSjd5UDZLT0c?oc=5",
+      "source": "모빅경제",
+      "published": "2026-09-02T09:34:12+09:00"
+    },
+    {
+      "title": "제주서 하루 새 교통사고 잇따라...5명 부상",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Id1ZSazNscnUyc3ZHMVk5XzNSNWwtb3ZQV0Y5cTNNaXlHVi04VFMzRzFYaGY3ZnBFYUU1T2VxZTVGNVFBd0VmOTN5Rk9jU0I1VVctU0dkQnBUTlVFUGZpVjk3NkFPOWxEMEdEaDB5cw?oc=5",
+      "source": "제주도민일보",
+      "published": "2026-09-02T09:30:30+09:00"
+    },
+    {
       "title": "경찰 지휘부 '한밤 물갈이'... 차장 김종철·서울청장 고범석",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nc0kzVEtBMTVwNjhEQ3h4dXYzRTJTcHk1TUJibHBNWmRGUEpYMl9JZXVjZXhvdFc4SThSaWNwZjhBYUpFUXVkNkZ0cUdlbXR6ZzJ0Y3YzNXFLdC1GdE1YVlV2Ym8?oc=5",
+      "link": "https://www.lawtv.kr/news/articleView.html?idxno=60817",
       "source": "법률방송뉴스",
       "published": "2026-09-02T09:28:08+09:00"
     },
     {
+      "title": "중앙대 재학생 딥페이크 성범죄물 제작 의혹…경찰 수사 착수",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NU0FGenVyMGFPRHlMRlhqZXpGNnFZNGswcFktUlpHZng3Q1dFOUdVOXA0SUpKdjd0M1pxLVNEYUgtQ3ItdXYwOVJieG1NSkx4d1hXMVF0cS1KMUZSUWhpMw?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T09:28:00+09:00"
+    },
+    {
       "title": "경찰, ‘지게차 끼임사고’ 쿠팡 물류센터 압수수색",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YRTFYM1NzZTVCdmVCOUZXNmlmUGdmUDlxVUhWWExma0tyOFF4RkltZWptYzVlR2xMY0RDMTlOQ0JTUGdOTXYtbHdmWXcxRGNtN0YyVmRNaGZPdnVFZmE2RXc1SQ?oc=5",
+      "link": "https://www.hani.co.kr/arti/area/capital/1275801.html",
       "source": "한겨레",
       "published": "2026-09-02T09:26:00+09:00"
     },
     {
+      "title": "'제주 실종사건 여파' 고평기 제주경찰청장 승진 누락.. 본청 생활안전국장 발령",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uQTdFQXgxd0lqSHc0LURhczF0eUcyZmN0c3VlTG5YM3RuR0JlUVYyeEU0cjNBVmFydHJ4eGpsaGN6dzJhVl9iZ0VySHZHSWc?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-09-02T09:26:00+09:00"
+    },
+    {
+      "title": "현대차그룹, 경찰버스에 나노쿨링 필름 적용…\"폭염 속 쾌적도↑\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wNUpRZjc1d1hiaFpNOTdmSTh6T0JXeXVGVllfU1FDVE5sczNHc2dJSDVaZTlpYmJGc0xwcFVwZm1TSjhsVEVma2RDTzZtN3VndFpxNFlkZkdzalBEWHE0ctIBZkFVX3lxTE9TV0ZKTjNGZkxTdGtoRHlueGNoa1NoQ3pXb21MZkxXcnNlZUJyaUk0YnVvVl9KakU0Q1FIZjd0cnplZ2ZDcXNDYVB3dTlnVEhDNXN4TTVUT0JJbEs5N25VMWhPemM0dw?oc=5",
+      "source": "뉴스1",
+      "published": "2026-09-02T09:21:35+09:00"
+    },
+    {
+      "title": "경찰청 차장에 김종철 경남청장…세 번째 직무대행",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42YWcyRWprMGU0ejhraXZvRDBGZlJYM0FHendhVG1SNk9nb1F4NUhhZVQtX29rYjNZTFpzOWI3OWJLdXNWLUVsZVgzWGprejJLV3dhcXpLLUUwTlU3VElZcnVsVHFpQTAtTUJGQzBn?oc=5",
+      "source": "OBS경인TV",
+      "published": "2026-09-02T09:20:17+09:00"
+    },
+    {
+      "title": "인천 하나개해수욕장서 60대 여성 실종...해경 수색",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wQ0FLUm4zN3JHYXFHb1hxZ0pDRUhSdzFrbHp5aWp4V1J2dW1jQ296SGVfTzBqc2xEV0ZjRkhSTng5MTJ1bWxhZHl2S0R5X1ZubVJyVGpUSFdXaC1HVmp5clBhZERhLU14d2V2ZzdNUQ?oc=5",
+      "source": "기호일보",
+      "published": "2026-09-02T09:19:42+09:00"
+    },
+    {
+      "title": "경찰, 광주 쿠팡 물류센터 노동자 사고 압수수색",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4blNJckMzZ3Uwc0cyRnV6MDhMcXk0MzJXdlZ0ZjhSX1lwRmt5WkpOMS00SUFvcWVWZ3lBOHg3c3NWaElvb1ZTcW8wVjRkd2c5RlE?oc=5",
+      "source": "경인일보",
+      "published": "2026-09-02T09:18:28+09:00"
+    },
+    {
       "title": "경찰, ‘지게차 사고’ 쿠팡 경기 광주 물류센터 압수수색",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14V2liVERiWVA5ZlB6UFB3VjEyWURCWkJONUp3S0NEUld5UUhob2JEcXVHa3Z5TVlhWTJYV0NJdFRlMDlULTR6Vmg3RlhqZy01VjYwbFZkcFNIUdIBX0FVX3lxTE1GX2JuanRFaVZBUWtLSFd3M1lGS250S0ltd3VXVkNoR01jaFJPQnl3LXBONGItQjd3QUhUWFVtbGxTRzJZSFo0Xzh1eU9IcVBaUC0xMnZyOEVrNC1Fb0hv?oc=5",
+      "link": "https://www.khan.co.kr/article/202609020917001",
       "source": "경향신문",
-      "published": "2026-09-02T09:17:00+09:00"
+      "published": "2026-09-02T09:17:00+09:00",
+      "summary": "경기 광주시의 쿠팡 물류센터에서 지게차를 운전하던 40대 노동자가 구조물에 끼어 중태에 빠진 사고와 관련해 경찰과 노동부가 강제수사에 착수했다. 경기남부경찰청 광역수사단 광역범죄수사대는 2일 오전 9시부터 고용노동부와 합동으로 수사관 등 28명을 투입해 경기 광주 쿠팡…"
+    },
+    {
+      "title": "유리창 붙였더니 실내 7도 ‘뚝’…경찰버스에 현대차그룹 쿨링 필름",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lNDhVRkFxTVFkYUx5TXNHa244OHdQbnBjUjNWUFZ6TE56M3JkMGVkaUdTYVdab2puT2hsM19GR3VpaVU5VjhBcHNmbkduRnNlVHNNTnpZTzZnSGRjUTZhX1hDbHllUS1ndVdvRldjQnlPaTF2?oc=5",
+      "source": "대한경제",
+      "published": "2026-09-02T09:15:03+09:00"
+    },
+    {
+      "title": "요즘 경찰 왜 이러나…사우나서 집단 음란행위하다 적발",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2M3RyU2Q1dmtCakJ5cW5zemRQTGItRzZ3SHRmRTJ5a1dYejJwR3hJY29Ld2Z2VGl3MThmZFZYZlAySkdVYTVhbXVWREVsT3JDTUhMMDk5eTNoSl95cVBFVTZweHR4b1BjQVFNVTFqWjdhZFlEa3E2ZQ?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T09:12:00+09:00"
     },
     {
       "title": "김종철 경찰청장 직무대행 \"국민 불신 높아 어떻게 추슬러야 할지 고민\"",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kQnJPeVdhTUF2NGVvU0FPZzJVRG0yb0s0cEZrZjFyTmdGaXFyYTlZSEhwQUFlZEFHcDVsNzJXMFd4T3dmUGxGZDhfR1dEMjZKZWs0cnNYeVozUHBDaE9WZHp2RW5nZEhX?oc=5",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=236978",
       "source": "한국NGO신문",
       "published": "2026-09-02T09:09:05+09:00"
     },
     {
       "title": "경찰청장 21개월째 공석…세 번째 대행체제 가동",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRY2FYajhUNUxDZFpVSHU0amMxbS04WmVPXzc2QW9GcHlURk1jRDBnbk9wd2dKNDFCT2RnX29ERVhlbkVFWFlOelVkMEkwdE9KV0hvZ2o4a2VfdDdtNi1NbHdETHhyV2pLMi1QNEpSYmQ?oc=5",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057479",
       "source": "신아일보",
       "published": "2026-09-02T09:07:20+09:00"
     },
     {
       "title": "김종철 신임 경찰청장 대행 “국민 불신 높은 상황…마음 무겁다”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10eWFNZWRIdmVteC1seGJNWlItRWtrNGZJMmhZWi0zYXduejRWSFRlREktcFE1cDBoOVNpOU1yUVVoZUVWYUE3SDhZcTl2MjFqVExEZjJR?oc=5",
+      "link": "https://www.joongang.co.kr/article/25458370",
       "source": "중앙일보",
+      "published": "2026-09-02T09:07:06+09:00",
+      "summary": "경찰청 차장에 임명돼 경찰청장 직무대행을 맡게 된 김종철 신임 차장은 2일 “국민 불신이 높은 상황에서 어떻게 추슬러야 할지 마음이 무겁다”고 밝혔다. 김 신임 차장은 이날 경남 창원시 의창구 경남경찰청 출근길에서 “광주와 제주 사건으로 국민 불신이 높은데 어떻게 추슬…"
+    },
+    {
+      "title": "김종철 신임 경찰청장 대행 “국민 불신 높은 상황…마음 무겁다”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10eWFNZWRIdmVteC1seGJNWlItRWtrNGZJMmhZWi0zYXduejRWSFRlREktcFE1cDBoOVNpOU1yUVVoZUVWYUE3SDhZcTl2MjFqVExEZjJR?oc=5",
+      "source": "joongang.co.kr",
       "published": "2026-09-02T09:07:06+09:00"
     },
     {
       "title": "인천 영종 하나개해수욕장서 60대 여성 실종··· 수색 작업 중",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxdVFOYm01eDgwMnU0SktTeVNlNDVOSWhySmF4UWtNTmloV3VXa2E3Z1lXNVEySFA1TVdWTG5KN2FUcVJfZUxPZk83R1pCNGhPTmYweVU0VjVNNVZRdGc2WkZiTXJoZ0lpTS0zRkVEZko?oc=5",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=323028",
       "source": "인천투데이",
       "published": "2026-09-02T09:03:43+09:00"
     },
     {
       "title": "전 연인 스토킹 해경 직원, 동료들은 피해자에게 \"연락 받아 달라\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JV3lDRExFOWg1M2k3al9oQ2txM1hmcHFKMi1aR08weTVYcWtPa0I2MjBsc01pYmU3ZTIzdG5FMnFGb0FDb2JMV09hQ09CRUlLbjBN?oc=5",
+      "link": "https://news.nate.com/view/20260902n06277",
       "source": "네이트",
       "published": "2026-09-02T09:02:00+09:00"
     },
     {
+      "title": "전 연인 스토킹 해경 직원, 동료들은 피해자에게 \"연락 받아 달라\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JV3lDRExFOWg1M2k3al9oQ2txM1hmcHFKMi1aR08weTVYcWtPa0I2MjBsc01pYmU3ZTIzdG5FMnFGb0FDb2JMV09hQ09CRUlLbjBN?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T09:02:00+09:00"
+    },
+    {
       "title": "‘8억대 불법 도박·음주운전’ 개그맨 이진호, 1심 징역 1년 6개월·집행유예 3년",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84TTJWeE91Q1FpS0VHR1JlUV9IVDFxNEJqUDFGQ1Fya0trSE1jUVlJWEtIWnBubUFnUmNkTkpBb05vcUJ3aXl4c20tMlYtRnZQdnpITFkwdlBxTzhZV2VreVRVTlZDOF8wZy14VDJrTQ?oc=5",
+      "link": "http://www.k-trendynews.com/news/articleView.html?idxno=205053",
       "source": "케이트렌디뉴스",
       "published": "2026-09-02T09:00:00+09:00"
     },
     {
       "title": "\"경찰버스 실내 온도 7도 낮춘다\"…현대차그룹, '나노 쿨링 필름' 시범 시공",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TURUaTI3VVhySkZUSk5TM25iYnRrSFBVLU9ZRWliYjdhcU9Fdnc1eTk1dU5WYkpGUm1haTZlR2ptVEZmZG54dWxBcnFtTGx3ZzMwc2xtaU9WYzNZWnFPTNIBeEFVX3lxTFBjdWJIYlF2Q2JqNHBYaDVmTGxfdDQ0ZW5NeVFmU2c4MlM1ZGtkdDBIS3pBdHRBcG1LRi03NVBRTUUwY00xcUV3OHE4eTNqczBNZ25taEYxMVVjbDhPZEZFUU1YcHVPS05jV3FDUy1jZXJHbFFyMmdJRw?oc=5",
+      "link": "https://www.newsis.com/view/NISX20260902_0003772552",
       "source": "뉴시스",
       "published": "2026-09-02T08:58:57+09:00"
     },
     {
       "title": "안산도시공사, 추석 연휴 안전사고 ‘빈틈’ 차단",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1haUR0QTVLbmR0ejdmTkFTaUpLblBxc0NGdE1VZ2o0WUdWaTRob2xPLVg0NVAzNzRldERJN3p5cmdIM2MzOEw3RkJUYzhDZk9HeUE3MDU3dW9XVVN3VkcxV1BVVTdMQmxZbHREWjlvaV8?oc=5",
+      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=250323",
       "source": "안전신문",
       "published": "2026-09-02T08:58:39+09:00"
     },
     {
       "title": "“폭염 속 경찰버스 실내 온도 ‘뚝’”…현대차그룹, ‘나노 쿨링 필름’ 지원",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FNWJxa0ZLYWczRnVIUTRpcEJiYmlYYWNUU1JPcFV6c19nNk1Bb0lfc0hTSmJuc3Z4YWI1MnRHT2EtSmpWc2RoTk5US0dMTUdNUnk0dzBiRQ?oc=5",
+      "link": "https://mbiz.heraldcorp.com/article/10859613",
       "source": "헤럴드경제",
       "published": "2026-09-02T08:57:00+09:00"
     },
     {
       "title": "제주 외도 해상서 50대 여성 익수... 해경·소방 합동 구조",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xVWQtaG4zUXVDb3FzcGFjVDFrc0Nkeld0T0ZJUVRIUGRCeDVuRE5tdFpfLUhmZ1NSZU5sa1pOTzZ4QmhJOVlKVnM0czVTZ2YtVGh4a0cxRFRnVm1XekNXdkdYZlBKWDhIM0NN?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=260629",
       "source": "newsdaily.kr",
       "published": "2026-09-02T08:53:10+09:00"
     },
     {
+      "title": "제주 외도 해상서 50대 여성 익수... 해경·소방 합동 구조",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xVWQtaG4zUXVDb3FzcGFjVDFrc0Nkeld0T0ZJUVRIUGRCeDVuRE5tdFpfLUhmZ1NSZU5sa1pOTzZ4QmhJOVlKVnM0czVTZ2YtVGh4a0cxRFRnVm1XekNXdkdYZlBKWDhIM0NN?oc=5",
+      "source": "뉴스데일리",
+      "published": "2026-09-02T08:53:10+09:00"
+    },
+    {
       "title": "경찰 고위직 81% 대폭 물갈이...김종철 청장 직무대행·고범석 서울청장",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ra3E2MUlGdWJtUHk0VUl3Y0VwSkdGc1IyMjY1WDM4cDltQnl4SG9BaXBMQjlsc1NyZE5oTVRnQzFmUkNFYTltazNwYk5iR3N6WFBPQklwdmt0aUI1eDRVV0ZTajlRNU0?oc=5",
+      "link": "https://www.m-economynews.com/news/article.html?no=70323",
       "source": "M이코노미뉴스",
       "published": "2026-09-02T08:48:39+09:00"
     },
     {
       "title": "“현장 노하우로 레저안전 챙긴다”... 베테랑 퇴직경찰관 전문위원 위촉",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92VjdXNktGZ19wc2ZEN1dYQkZ4VXFsNjU0V2UwaVktbU0wdVlfSFNyb3Jhb1EzR3cwSHJFLWVzM1hsM0hHRzFnZTFOaWF4UHZtVUlpNUJKYlZETDJXYTVqam5WbUpyeFE5WXFJ?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=260628",
       "source": "newsdaily.kr",
       "published": "2026-09-02T08:46:02+09:00"
     },
     {
+      "title": "“현장 노하우로 레저안전 챙긴다”... 베테랑 퇴직경찰관 전문위원 위촉",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92VjdXNktGZ19wc2ZEN1dYQkZ4VXFsNjU0V2UwaVktbU0wdVlfSFNyb3Jhb1EzR3cwSHJFLWVzM1hsM0hHRzFnZTFOaWF4UHZtVUlpNUJKYlZETDJXYTVqam5WbUpyeFE5WXFJ?oc=5",
+      "source": "뉴스데일리",
+      "published": "2026-09-02T08:46:02+09:00"
+    },
+    {
       "title": "경찰청 9월 1일 인사 단행",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NbzdQWW5WWnFiQnFOWnhfTUZiUEZpalRwaDBWRnFLOTAtTU1MRkhVdVU3WXFyM0RaVV92REdYM3RORDVi?oc=5",
+      "link": "https://www.wide-news.kr/13042",
       "source": "wide-news.kr",
       "published": "2026-09-02T08:46:00+09:00"
     },
     {
       "title": "제주 ‘실종 허위 종결’ 논란 속 경찰 고위급 인사…제주청장 치안정감 승진 빠졌다",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CZElxbzZ3Y0tMTzVlRXRBYV9nZUFwNllsNjBtS2l0TUdUNkZkSjJ5a2J1SjBIaVJCS1dCUVNUaF9QM2xqTkdwajV5LWFYbXAxTWdHQzJrdFNrLU1jSEhJM0pIM3VqWjlTSERxaW51UlVLd2s?oc=5",
+      "link": "https://www.creatorjournal.co.kr/news/articleView.html?idxno=1796",
       "source": "creatorjournal.co.kr",
       "published": "2026-09-02T08:46:00+09:00"
     },
     {
+      "title": "경찰청 9월 1일 인사 단행",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NbzdQWW5WWnFiQnFOWnhfTUZiUEZpalRwaDBWRnFLOTAtTU1MRkhVdVU3WXFyM0RaVV92REdYM3RORDVi?oc=5",
+      "source": "광역행정신문",
+      "published": "2026-09-02T08:46:00+09:00"
+    },
+    {
       "title": "이서영 전 경찰청 생활안전교통국장, 신임 충남경찰청장 직무대리 임명",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KR21nMHJPYV9FM0Izak9tUFZQMDYta0FYcW56QzNzSWF3OTlnZDZhQVNsYV9KSHBfeml3Ulg3VkM2TkxWd2FsY2VsUi1ySkVsLTdIYldwZEZSUi1MS3VtZXVvUk4?oc=5",
+      "link": "https://m.joongdo.co.kr/view.php?key=20260902010000458",
       "source": "중도일보",
       "published": "2026-09-02T08:43:08+09:00"
     },
     {
+      "title": "충북경찰청장 박종섭, 충남경찰청장 이서영",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VYi1LNWtKVUU4OWdvckZyVFBRQ0diRl9GWk43ME1iV1JhZURTcGFWRjVSSTJxaGZTNmJIY2pkVnA5Uk55NVBqbDRlaF9XTV84aldHNnhYd0FUTllZLUlSNmdJU0VBck5XZ0k1OHNHZGNIdw?oc=5",
+      "source": "굿모닝충청",
+      "published": "2026-09-02T08:42:59+09:00"
+    },
+    {
+      "title": "현대차그룹, 경찰버스에 실내 온도 낮춰주는 '나노 쿨링 필름' 시범 적용",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wUEc3R3Nmb3ZyNmNOdlhWUWx5cEE0RU1JTEVsb1RlazBCTkI2ZEdOWERPOWxoUFUxaXlXUHFfNGRHUUt1VlFkbnVlcW9FU3M?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-09-02T08:42:45+09:00"
+    },
+    {
       "title": "인천 하나개해수욕장 걷던 60대 여성 실종…해경 수색",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpRE1PSU5yeHlMSExwYnpkWVNNZDhPbTV3SzlpcDdndWhNdklXRmNlZDBLQ2JMRkFhZXBna2RUOXRMSm4tWXVOcWJWeExkR1ZBOVRENVdxME1rZi1SNy1zWDIzR2RaT05Fa29N?oc=5",
+      "link": "https://www.mt.co.kr/society/2026/09/02/2026090208330745552",
       "source": "머니투데이",
       "published": "2026-09-02T08:41:21+09:00"
     },
     {
       "title": "현대차그룹, 경찰버스에 실내 온도 낮춰주는 '나노 쿨링 필름' 시범 적용",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0Y2l2N0xjNUI5aTFVeVh1UkFHZG84TjVpbU85MFhLaGNCSjhsbVE3QmpnT2s0NUlWcjFuVVJoczd1VnlyRW1KbWZsOVJnZWE2U0pFZFpRdlpIa2xsMmpNVg?oc=5",
+      "link": "https://www.asiae.co.kr/article/2026090208411197919",
       "source": "아시아경제",
-      "published": "2026-09-02T08:41:11+09:00"
+      "published": "2026-09-02T08:41:11+09:00",
+      "summary": "현대자동차그룹이 한여름 폭염과 싸우는 경찰관들을 위해 특별한 선물을 전달했다."
     },
     {
       "title": "경찰 고위직 대폭 개편, “김종철 경찰청 차장·고범석 서울청장”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEbDNOUkV3d3BBdjlSTkFSb21RcGxQeWNaNEx6ZGxkU3VrRjg3a09xVXNqbTlMQVR4YmRDcWxGWGR2eHpiSTJOZ2hlUzJXbzJzdXFyb3NadVRIOGNFdGlMeHhlVjlPWWloV19TV2xn?oc=5",
+      "link": "https://www.citizenadmnews.co.kr/news/article.html?no=1406130",
       "source": "citizenadmnews.co.kr",
       "published": "2026-09-02T08:39:06+09:00"
     },
     {
+      "title": "경찰 고위직 대폭 개편, “김종철 경찰청 차장·고범석 서울청장”",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEbDNOUkV3d3BBdjlSTkFSb21RcGxQeWNaNEx6ZGxkU3VrRjg3a09xVXNqbTlMQVR4YmRDcWxGWGR2eHpiSTJOZ2hlUzJXbzJzdXFyb3NadVRIOGNFdGlMeHhlVjlPWWloV19TV2xn?oc=5",
+      "source": "시민행정신문",
+      "published": "2026-09-02T08:39:06+09:00"
+    },
+    {
       "title": "베트남서 한국 10대 납치…부친 도박 빚이 부른 '인질극'",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qVGNwcURGVjNMbUpXMWp1N0U4ME8yY2lWZzN5UzVqcVk3QUpLRzF6RTBUU2pfc3JIbWgzZlZGcFRWV29IektLclBiQnlmM01YbnRNSEdaNXdEYWJMaDZFS0d2eEVBZ1RvSlpVdDRHYjUwdl9RNU1hVg?oc=5",
+      "link": "https://m.news.nate.com/view/20260902n05245?mid=m03&list=recent&cpcd=",
       "source": "네이트",
       "published": "2026-09-02T08:37:00+09:00"
     },
     {
+      "title": "베트남서 한국 10대 납치…부친 도박 빚이 부른 '인질극'",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qVGNwcURGVjNMbUpXMWp1N0U4ME8yY2lWZzN5UzVqcVk3QUpLRzF6RTBUU2pfc3JIbWgzZlZGcFRWV29IektLclBiQnlmM01YbnRNSEdaNXdEYWJMaDZFS0d2eEVBZ1RvSlpVdDRHYjUwdl9RNU1hVg?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T08:37:00+09:00"
+    },
+    {
       "title": "경찰 지휘부 한밤중 ‘대폭 물갈이’…‘실종 허위 종결’ 제주청장 승진도 취소",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0dlVJTExkcWFhR1pOU3F2eVRwc3loVXY1bnA2T2l4QlVOYUtmZHg4YnR4V2RRQXFTSDJKZFNJZGFuQmprUmZXclZYdzhjUG1sc0hZRlJB?oc=5",
+      "link": "https://www.wikitree.co.kr/articles/1156671",
       "source": "위키트리",
       "published": "2026-09-02T08:33:00+09:00"
     },
     {
       "title": "출근하는 김종철 신임 경찰청 차장",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzYUdfV3JTSTdkSVc0MW5CVXp2SkwxTWxhUGh2blYzbjI0anVVUmR4ZXFPdWZHSHl1MUFhR1NNNHVjcjdPYWtuTGV5WjNyT0l1djFMdlJlSHRSUUxhNTBzTw?oc=5",
+      "link": "https://news.nate.com/view/20260902n05037?mid=n0400",
       "source": "네이트",
       "published": "2026-09-02T08:30:00+09:00"
     },
     {
+      "title": "출근하는 김종철 신임 경찰청 차장",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jcTF4SExiMlBqSHYtNXZXWk41VUplaG1GNFpDZXgxc0d2dkw2TmZGWVZwVXVmeHAtTEdvN3Z1SUpfTHRVdTFnVTNxbU9yWUJKTmZHNDUxanlndnNtaFllcdIBYEFVX3lxTE1jcTF4SExiMlBqSHYtNXZXWk41VUplaG1GNFpDZXgxc0d2dkw2TmZGWVZwVXVmeHAtTEdvN3Z1SUpfTHRVdTFnVTNxbU9yWUJKTmZHNDUxanlndnNtaFllcQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-09-02T08:27:18+09:00"
+    },
+    {
       "title": "뉴욕 타임스스퀘어 흉기 난동에 뱅크오브아메리카 부사장 사망···경찰 “무작위 공격”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UbGdER2dXWWhKdVVLSGNtSDVZMzBUa3ZNSEdLNGdvSXJfWjhJUDBwN3l3SE1FeG1Xcko0c3JaUzVUbVU0WWlLNFNRWDhxZE0?oc=5",
+      "link": "https://v.daum.net/v/20260902082707512",
       "source": "v.daum.net",
       "published": "2026-09-02T08:27:00+09:00"
     },
     {
       "title": "경찰청 고위급 인사",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzZzFpNXU4ZFZoTDJTX0pkdjZfSTQxbjU2MWpYX0VxREE5TmlWc09rNnZJVmRaY0J4RWdXVFNfWVM4WDJU?oc=5",
+      "link": "https://www.wide-news.kr/13041",
       "source": "wide-news.kr",
       "published": "2026-09-02T08:27:00+09:00"
     },
     {
+      "title": "“‘신세계백화점 폭파’ 예고 20대, 경찰 인건비 등 1256만원 전액 배상해야”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96ZWZ1UXFUYjJueEx2ZHlyQUFoRERodG9tMlNGQVZYMFgtMUhpcS1zX0V0d0V0WlRrVzdJbjFHUzExXzR6ZEplcGdGWkF2cXowak1WNDZkMFE0NkkyTGZHbkRWSFBXelQzUk5lX0V0Mzhxdw?oc=5",
+      "source": "한겨레",
+      "published": "2026-09-02T08:27:00+09:00"
+    },
+    {
+      "title": "경찰청 고위급 인사",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzZzFpNXU4ZFZoTDJTX0pkdjZfSTQxbjU2MWpYX0VxREE5TmlWc09rNnZJVmRaY0J4RWdXVFNfWVM4WDJU?oc=5",
+      "source": "광역행정신문",
+      "published": "2026-09-02T08:27:00+09:00"
+    },
+    {
       "title": "여수해경 \"바다 위 이상 무\" 여수세계섬박람회 안전관리 총력",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85enpYZVNQcXNUblhtUTNfNHFWcko2SG5EM1Q0a0RUdlJST055eWdJakMwMnBha2IzWklJMWxXRDRkS2NPS3dJMEk2Qi1JNXFZNWVR?oc=5",
+      "link": "https://news.nate.com/view/20260902n04896",
       "source": "네이트",
       "published": "2026-09-02T08:24:00+09:00"
     },
     {
+      "title": "여수해경 \"바다 위 이상 무\" 여수세계섬박람회 안전관리 총력",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85enpYZVNQcXNUblhtUTNfNHFWcko2SG5EM1Q0a0RUdlJST055eWdJakMwMnBha2IzWklJMWxXRDRkS2NPS3dJMEk2Qi1JNXFZNWVR?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T08:24:00+09:00"
+    },
+    {
       "title": "“신세계백화점 폭파” 한 줄에 경찰 277명 출동…작성자 1256만원 배상",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wV25hUlpnRVZ4SmFBbTVkT2hxUS1ZZE5CYVRHT3I3elh5RWFWc25palBUdm5GLVFoTGI0ZDQxM0c0RTdYckpNb3Bnc3l1TXBNREtOTklabzZMYV9CeGExYmh5NVBXbkU?oc=5",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2070046",
       "source": "강원도민일보",
       "published": "2026-09-02T08:04:46+09:00"
     },
     {
       "title": "김혜수, 네팔 '대홍수 참사' 외면 안했다…'111만 팔로워'에 영상 공유",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Cb0dseEswQkdPdmRMOE95NHVrbFM4TVZ0U1hmT3ZNeFRTWjFHeTc2SGxLam4wcVZ1dVg5NVdnOXQ4UFgycVhQMWZzd2tDWVc4UGdpcw?oc=5",
+      "link": "https://v.daum.net/v/20260902080209949?f=m",
       "source": "v.daum.net",
       "published": "2026-09-02T08:02:00+09:00"
     },
     {
       "title": "김혜수, 네팔 '대홍수 참사' 외면 안했다…'111만 팔로워'에 영상 공유",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NEdPU0VvaXFUQVpGbnZSSlZRWDV1dW4tN1dnMnJsQUhaNktCNzBUaFJna1VkbXdnb3l6LUhTUTMyNDN4eC00WnZQeTEydlhNX1lUTg?oc=5",
+      "link": "https://www.xportsnews.com/article/2190960",
       "source": "xportsnews.com",
       "published": "2026-09-02T08:00:19+09:00"
     },
     {
       "title": "김종철 경찰청 차장 임명, 경찰 지휘부 인사 단행",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BUVFMMzdFSzhabWpCTm9Fcks1LURGa2NNbDFhWUVpRnctLXN2eThlV1dQX21HREtoeVNTdVpuUkgxTTBQSTkwMWY2VjJFTnVNSWExYw?oc=5",
+      "link": "https://news.knn.co.kr/news/article/191931",
       "source": "knn.co.kr",
       "published": "2026-09-02T07:52:00+09:00"
     },
     {
       "title": "서해해경청, 「청렴은 선택아닌 기본」 전 직원대상 부패방지 교육 실시",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xV3QxSE1nRmRsUEVCZjd0LVRPemlZc2V6QXhMRzRMQmhFM2UwQjl0N2h6VFNnYnNaS2lkMjRydmJDeVR1djhXZEVsbzMyQWV3OUFJYnk1dWR6MXlhNFJlOElXNUJhQXpKNDlJ?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=260618",
       "source": "newsdaily.kr",
       "published": "2026-09-02T07:43:48+09:00"
     },
     {
       "title": "경찰 수뇌부 대폭 교체…‘연고지 배제’ 인사원칙 전면 가동",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UbUxKVXhiZFVvMlZIVHpPak5QbUx1ZFJabm52bmVhWDFFaGVSUHFZSkZIOEpSVWpyMzREOXFfdUFvckp0Vk5PMzJTUEdhWExKUzVuNVZmMHlkcEY4WFlqazVFeFBrckVZ?oc=5",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=236966",
       "source": "한국NGO신문",
       "published": "2026-09-02T07:34:04+09:00"
     },
     {
       "title": "인천 다세대주택서 화재로 50대 남성 사망",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16bUQyWlFCQUpVOW44cHYtOHRTTHdEQnFqMGpHX3VEVzdKdlNYdU5RcmNaS04wSmZKZjhIU0J4Q3BBSWd2d2RWYlhqcWV0QUtEcDdr?oc=5",
+      "link": "https://news.nate.com/view/20260902n03935",
       "source": "네이트",
       "published": "2026-09-02T07:33:00+09:00"
     },
     {
       "title": "인천 다세대주택서 화재로 50대 남성 사망",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CdnB4NDBySDhuOWtsSGRoMnUwU3diYmFyeUt3VzdwTFdDeE1ENGFzOUlEVGVRSmFMbS1fb3pUMXQwaFlYeFZtdDdfcVhsejRjNjNtRk1PVVJqdldaQ1hORXRfYzlWTENhUlo3SkExYld6MzVsR3fSAWZBVV95cUxQSmZ6amJJV3VpMThBbHdRU3R0VTJSampYdm9FY21Xd1dQRmVCb0puZUVfNGZKQ2dQOElOUV9LSWdraUFJN3ZrUEtWWnFBLWJQMnNtdTBlRWZHQnBMTFY5Vzc0U0J1Y0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16bUQyWlFCQUpVOW44cHYtOHRTTHdEQnFqMGpHX3VEVzdKdlNYdU5RcmNaS04wSmZKZjhIU0J4Q3BBSWd2d2RWYlhqcWV0QUtEcDdr?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T07:33:00+09:00"
+    },
+    {
+      "title": "인천 다세대주택서 화재로 50대 남성 사망",
+      "link": "https://www.donga.com/news/Society/article/all/20260902/134587831/1",
       "source": "donga.com",
       "published": "2026-09-02T07:32:19+09:00"
     },
     {
       "title": "신세계 백화점 폭파 허위글 올린 20대…치안비용 1256만원 배상",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hQ3V2cHNXS1o1ZTcyUVZEV04tSVoxV2ZuclRJemlLOHQxemFPSUx6c3p4Q3RGcU1HQlNEanVSNlhlLUlmTmNqTHdxY3lGU3ozOUNEaDNZV2o5WE1GbHVrWWNncUZVOGRyN1FZSHFXMA?oc=5",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000061657",
       "source": "진일보",
       "published": "2026-09-02T07:22:03+09:00"
     },
     {
       "title": "'간 큰' 멕시코 범죄 조직, 경찰 겨냥해 차량 폭탄 테러...11명 다쳐",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uUEZid0VudVpIZkZTRXRXZTQtUGV5eEtHb3ZBZ2l5NWFQNk0xazRrLTJVRHNTSDVJSkF6RTBpY1VuNW5wOXRJNmx5NUhtQ0NtbjBRNlhyellYRUV2Umc?oc=5",
+      "link": "https://www.ytn.co.kr/_ln/0104_202609020719539931",
       "source": "YTN",
       "published": "2026-09-02T07:19:00+09:00"
     },
     {
       "title": "단속 피해 전력질주…상대가 ‘풋볼 출신’ 경찰이었다",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94OUxfQ3NNRjJFOXBXOWYzenJBeEMydEN0ZnA2NEJUUHdwRGxOenE4RS1Ic19USDZnUnlEdEhqb01pR2hibkNXdzlIbFBNTkR2SFoybnM4UmZhVWNfZ192ZFVR?oc=5",
+      "link": "https://www.koreadaily.com/article/20260901151651903",
       "source": "koreadaily.com",
       "published": "2026-09-02T07:16:00+09:00"
     },
@@ -1463,7 +1719,7 @@
     },
     {
       "title": "인천 하나개해수욕장서 걷기 운동하던 60대 여성 실종‥해경 수색",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40LVJ3ZUJzOWFnejdTdEtkLXBlZnMwQlJwQzdSNk9FcW9VVE5GQXMwREJSbmpXY2E0TTloZ3N3NllYeXpqUUMwQzB1QWxPVFdjLXcwVEloT1V2eURZaXBDWkhTS0huWndqc1YwZDAzRTNZamRaSS1r0gF3QVVfeXFMTUNiYW96eWZ1b3RRT1o0NWU2M1V0M0RVV3ppclBGRjJOa0d2bS1aa1FDWmxtTHRzelRPZ1JFT2VzMkUyOHZydERuSDN2SDYxV0QwYXhUNFlWWTJKSm9uS1VMTU5VYmU2Vk9GaE90c1JUWFA2NlViOWM?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6849001_36918.html",
       "source": "MBC 뉴스",
       "published": "2026-09-02T07:09:19+09:00"
     },
@@ -1482,13 +1738,13 @@
     },
     {
       "title": "‘수사하는 검사’ 시대의 종언…‘공익대표자’ 객관의무 강화, 공소청이 시험대",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pTzFlVWExTmRCb2haRGxkdlVnLXpiTHVrVjUzamppVjMtcHdobnpRTUlla1ZMN3RUWEFWXzZqclZuc25rVURsTmJ4TW82eVBNLUt2YTFYMXpObUJVeDBxRzlaMlFSNExzZ05ueV93T0xpdw?oc=5",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1275787.html",
       "source": "한겨레",
       "published": "2026-09-02T07:05:00+09:00"
     },
     {
       "title": "전직 경찰관의 법 무시한 보복살인…접근명령에도 찾아왔다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByOXhrSlE2SXJFNDZ2ZlZQQ2dEdndGeU04LUFpQjl6dlFaZUZrSGEzeXZZUUNlT3N5a0lPX3pLQ1FxXzl2VXJGU3Z4RWFSSlk?oc=5",
+      "link": "https://v.daum.net/v/20260902070151937",
       "source": "v.daum.net",
       "published": "2026-09-02T07:01:00+09:00"
     },
@@ -1498,6 +1754,12 @@
       "source": "천지일보",
       "published": "2026-09-02T07:00:00+09:00",
       "summary": "정부가 유재성 경찰청장 직무대행을 비롯해 경찰 고위직을 대폭 물갈이하는 인사를 단행했다. 내달 2일 출범하는 중대범죄수사청(중수청) 특례임용을 신청했던 검찰청 소속 검사와 수사관 가운데 615명이 신청을 철회한 것으로 나타났다. 정부 국정과제인 ‘서울대 10개"
+    },
+    {
+      "title": "[천지일보 이슈종합] 경찰청 고위직 물갈이·중수청 특례임용 615명 철회·부산·전남·충남대 거점국립대 선정·용혜인 김승원 논란·2027년 821조 슈퍼예산 편성·네팔 대홍수 실종자 수색",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04YmJiTnhmaHZCTjBKTWFLWUJqcmNnTVQzZUdYSWRlR0Z2TlpaeVNYbmRkUEVidWs5ZTNrZkVsQ09OT0NweFRhT05vR3F0OXE4Y054U2VtNXNoTXU2RjZsNnNhcm14N0MtUWc?oc=5",
+      "source": "newscj.com",
+      "published": "2026-09-02T07:00:00+09:00"
     },
     {
       "title": "경찰 지휘부 전면 교체…경찰청 차장 김종철·서울청장 고범석",
@@ -1513,8 +1775,14 @@
       "summary": "온라인에 ‘신세계백화점을 폭파한다’는 협박성 글을 올려 경찰력 낭비를 유발한 20대 남성이 치안행정비용 1256만여원을 배상하게 됐다. 2일 서울경찰청에 따르면 서울중앙지방법원 민사18단독은 지난달 28일 국가가 협박성 글 게시자를 상대로 낸 손해배상 청구 소송에서 경…"
     },
     {
+      "title": "‘신세계百 폭파’ 협박 대가…1256만원 경찰비용 전액 배상판결",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MR2ZhYlpTSElOa0YweUU5WEhSQU1xTEt5ZFpkWUhZZHhZSUVzTTVrRWVmRDNSdHJhdHJ6UmpmN3pBZjNxRjRtQ05weE94VDI4cldRMXFR?oc=5",
+      "source": "joongang.co.kr",
+      "published": "2026-09-02T06:48:39+09:00"
+    },
+    {
       "title": "\"경찰 못 믿겠다\" 공포 확산…다이소 1000원짜리까지 '품절' [불신 청구서]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVnIyOXdkQWRQX1gtTVpXOHBycUx3bUNjcVBac24tNXhlcTVuR3otenNZa0psOER4bTM1Si10amlPelQyR0s3YVRSVHZmc1Mtc1FxUGtWYXh1UQ?oc=5",
+      "link": "https://www.hankyung.com/article/202609015603H",
       "source": "한국경제",
       "published": "2026-09-02T06:43:01+09:00"
     },
@@ -1544,7 +1812,7 @@
     },
     {
       "title": "“성인인데 알아서 돌아가겠지”…나태 경찰, 밥먹듯 실종신고 허위종결",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqVGNFYjlOWGZ5cWY5eWlJeXdxRTkza0h3U1pLeldXYXhGQlVRNXlqa1dmVUl6cUswNFZGVHpIWTdCTVJJTlBSZ2otSUNaUmVkc2E1UQ?oc=5",
+      "link": "https://www.mk.co.kr/news/society/12141900",
       "source": "매일경제",
       "published": "2026-09-02T06:04:21+09:00"
     },
@@ -1562,7 +1830,7 @@
     },
     {
       "title": "’친모 사기 가담 혐의’ 경찰관 불송치…보완 수사",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BSGJvbkF2MkRMME9zSlhqMEtHVlV4cTkzNkViWnVwUkxLYTE5WUVFdXNZcU1waGpnUDdBdnhHNVU3cFdReFgyNUp1eVM3VmRNcUN5YzhaWkxNQzhZT2plUWdkNjN0UWc?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260902055617vMt",
       "source": "연합뉴스TV",
       "published": "2026-09-02T05:56:00+09:00"
     },
@@ -1574,7 +1842,7 @@
     },
     {
       "title": "법원 \"음주운전 경찰, 강등 징계 정당…엄정해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KTTNFQS1XRFJDZWxJLVNSTFdQOXJSQmVudDF5YUl4UjVEMnBtR0NPTGFnMFdaNTVwY2ZFcnZrLTA0T1BwYnJnbWYycG1xQXlaSDFMUG5EeHpfdGttWTViUGRzQVdrVE0?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026090205553538o",
       "source": "연합뉴스TV",
       "published": "2026-09-02T05:55:00+09:00"
     },
@@ -1586,7 +1854,7 @@
     },
     {
       "title": "도쿄 번화가서 옷 내리고 '용변' 본 여성…경찰들 '모른 척' 지나갔다",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Kb2VqWUVSLTlwZG9BM25taWkyUFRoUzRxYUxLT2RCVnZBNE1XSmlZckhMZjNGRVJZSDE5OUpsQm1seUpsSFd3YmFLd1NlZTQtY2hR?oc=5",
+      "link": "https://news.nate.com/view/20260902n02468",
       "source": "네이트",
       "published": "2026-09-02T05:44:00+09:00"
     },
@@ -1604,13 +1872,13 @@
     },
     {
       "title": "경찰 지휘부 전면 교체…’사태 수습’ 최우선 과제",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nQlpfeEZxTzJOcXNuYUhmZXpCV3dfdDV6YzlnVW1ET1ZxdWkwek82SVFNZ015YlJBbU5ZUHNWeTZWQzl5bHMwSndnb0dSZldyeEZSZkZxYUMyYmdaNGs0eFlZZ1dyU2M?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260902050853wqV",
       "source": "연합뉴스TV",
       "published": "2026-09-02T05:08:00+09:00"
     },
     {
       "title": "오죽하면 '검찰 피하려고?' 시선까지…1년 끈 김병기 수사 비판 여전",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rU0lzTFJGdDJNaUVJU3RvNzZ3SEMtTDhKbkQ3TXhwY24zYkNHOFRXZUtTd1BMc2tsWjc1U1VKV1BvZGZNdzE1Z2VJODJJRDhodm5GeFM5Zzhtdw?oc=5",
+      "link": "https://www.fnnews.com/news/202609020502025747",
       "source": "파이낸셜뉴스",
       "published": "2026-09-02T05:02:03+09:00"
     },
@@ -1633,6 +1901,18 @@
       "published": "2026-09-02T05:02:00+09:00"
     },
     {
+      "title": "정점식, 이태원 참사 사고현장·기억공간 방문…희생자 추모",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RRlVSOTRxa3lXN2h3NnBwOFFYeHVZeXEwVlhCUG1IT2xSNjJfbndsMzFEVzhVdXk0Z2laNnBvWlR5cWMtSVkxeWVLeU9lWHY4WEhV?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T05:02:00+09:00"
+    },
+    {
+      "title": "송파 \"어르신 노리는 보이스피싱, 그만!\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VVGtZdFFFbXpwRllNclI0QnEzbWNxemZJZ0h3M0pDVjA4bk9lcjVQTklnSEp6Smg1VF92d0JSNml5T0czY1FVdGFKQ28xYzhnRS1F?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T05:02:00+09:00"
+    },
+    {
       "title": "“업무 부담 때문에”…‘제주 실종’ 경찰관, 허위종결 25건 추가 발견",
       "link": "https://www.sedaily.com/article/20086028",
       "source": "서울경제",
@@ -1640,7 +1920,7 @@
     },
     {
       "title": "보완수사 요구했더니 ‘셀프 종결’… 2025년 서울서만 1,518건",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0UFZUamRQX2hzOXkxZndqOGJJNlBZWGFvUUxYWTFWS1pZYmVSR1dmdUlua3d0cC12QnBvcDF6b29SNExTRTVVYnFYSmJQa25GbmxCOTdNZjFIanVoRV8zOV9FNEtZbHloSXQ2cVdR0gFyQVVfeXFMUHZiYm9iTG9Wd2g2dExSeTRKdlNwVUU1NG8xa0stWHlfN0xoTWU3ZjM4UktWRFduWVZObk5Ibld5Z3N4WGYzR19OSVdlNXN5M2lJTGFtc3luN1NUMDVlV0xRLUJBSHEwZTk4b3ZVdHYta3l3?oc=5",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225671",
       "source": "법률신문",
       "published": "2026-09-02T05:00:00+09:00"
     },
@@ -1669,6 +1949,12 @@
       "published": "2026-09-02T04:40:00+09:00"
     },
     {
+      "title": "실종 허위종결 25명 더 있었다…15명은 살아있는데 '사망' 입력",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4cHNXLVdkeldQOXRaTVJDWXRqNU5OeWhUYjhZX2IzMkhnLXFKVkNBLTk3UWJ6eFhPSG1udWtjVkR0WHRJOFhPd3FSY016ZC0xenNJ?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-02T04:34:00+09:00"
+    },
+    {
       "title": "경찰청 차장 김종철, 서울청장에 고범석… 시도경찰청장 18명중 14명 대폭 물갈이",
       "link": "https://www.donga.com/news/Society/article/all/20260902/134587455/2",
       "source": "동아일보",
@@ -1688,20 +1974,26 @@
     },
     {
       "title": "경찰청 차장 김종철, 서울청장에 고범석… 시도경찰청장 18명중 14명 대폭 물갈이",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zbmRoWXVfcUxCNkpqeEFaemhOaDVXS3NITVgzc0I0bEcxUWpkY1BoZmg0Yi1VMEdjc0ZDRzRieUZjcEw1c245b3FOR0YxcFlQVjRyQVZIUTJJcTJidTlWZU5NVlp0NFNxS01sQkJGVk9DQi1QOGfSAWZBVV95cUxQTC1IM21xcVBOR1VodW1ReVBhWGI3X1BUS1ZxQTV4N3NQQ1Z5azZ1V1N0bktXTW90TUtjMFZ1eTNJUnRiWHlpUHFmQTZyaXBWNnZGODFVY2ltbHhBeUhQR0xucWZXSlE?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260902/134587455/2",
       "source": "donga.com",
       "published": "2026-09-02T04:30:00+09:00"
     },
     {
       "title": "실종 허위종결 25명 더 있었다… 15명은 살아있는데 ‘사망’ 입력",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNZFFibVFMMHo0cnVJNGVIVGJ2a3JVVUNiaUc5VUR1YjM1bURoY3ZQNUhfb0VoVFl1MTEwYS1GYzZVZHBDZWlZbDZZM3NDekZlWVJjdEtPVTl4QkxfR1hiRUVLb2JVYlVzdzVlamxjdjRWZG02d0HSAWZBVV95cUxNSzNuS3pGYTVjakQzY2ZZM2dTV2pJN0h6czU5VjRFTlRoRkJ3cHJWVVVUWmszLUpTSXlHbEE0S1ZfVTlSbm12c2pZNXBXV3k5SmFrRGNKLTIwWFFDQjRMZnJWU1BNY1E?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260902/134587465/2",
       "source": "donga.com",
       "published": "2026-09-02T04:30:00+09:00"
     },
     {
       "title": "한국인 실종 ‘위어댐’ 2㎞ 인근 육상 수색… 긴급구호대 44명 추가",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hTkNnVUgtUThMbjZtdVpETFEwNy1Sc1N5WlpxbEk4N2VETzVva1hoLTlpNG9tdUtBbS1kSF9FLTdnRUxqNU96NDZ5X1loM05UM3Nob0ktVUNNeW5ZYUpiQVRfV05LaVQ5NkVPME1qZTZfVXVrWUHSAWZBVV95cUxPQVFRM0VMYmlYVXB1QW0xMzMzV2x2TnNTQmRYb3l2dmZpcW95TjJQQXVBcDJydTFxTUN5VzNya2dTVnFjbC1LNjIxZG5tQnowQTZYTnB1RGRwVXFfdGs1VzduWWxYU1E?oc=5",
+      "link": "https://www.donga.com/news/Economy/article/all/20260902/134587356/2",
       "source": "donga.com",
+      "published": "2026-09-02T04:30:00+09:00"
+    },
+    {
+      "title": "충남 폭우 피해 속출, 전북 실종 2명 숨진채 발견",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WOFQ3NFJUZzJUS3l4VkNJc0pITEhTZ0NRS1k2ekZ2VVN1MUd0ejhEdk9JM0QtUEFRMlRQQ2hhMXVWX1BxbHV4cGNidkxva1oydlZ1NlJjb2xxaWlHZU9lQ1NBZXM1SmlacHRtdDZyU0tqV3hFMlHSAWZBVV95cUxNOFRIc1d5UDZpOVNHdEhGQWpTR0p3TGdlRnZqaElHb18xWHNwZUU4OFpOelJRbExsMlBhZ0ZoaDBIemNNZHNMTnNiMXNQdmEzdVFxVl9aU1ZGNm1jYjVQVXVBVUtsSHc?oc=5",
+      "source": "동아일보",
       "published": "2026-09-02T04:30:00+09:00"
     },
     {
@@ -1724,7 +2016,7 @@
     },
     {
       "title": "한밤중 경찰 고위직 인사 단행…전국 시·도청장에 ‘향피제’",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DWjQ4SUtVb3hTbEFNaXdlT3dxcnkzRjVBYXJaS1FjMWFGdk5ycVZwd1ExM3BtZ2o3VmNuX2JBMjBVcVhoQktnby01ZG5tN3BETHlTWDhONWpkMHVRcV9KT0w2MFVEbjlpUUE?oc=5",
+      "link": "https://www.jbnews.com/news/articleView.html?idxno=1510652",
       "source": "중부매일",
       "published": "2026-09-02T01:46:15+09:00"
     },
@@ -1744,6 +2036,12 @@
       "title": "네팔 신속대응팀 “실종 한국인 9명 수색, 유의미한 결과 없다”",
       "link": "https://www.joongang.co.kr/article/25458280",
       "source": "중앙일보",
+      "published": "2026-09-02T01:23:40+09:00"
+    },
+    {
+      "title": "네팔 신속대응팀 “실종 한국인 9명 수색, 유의미한 결과 없다”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1McUpWQ2FmcGFzb05NTzg1VWs3dHdJNFFMVTlWWHB2bDdYa1VxeHlMdkg5Y01xUGc1Qi1SRHZwR0V4bC16ekh3UHhzeE1xdzZQRVYwZ2l3?oc=5",
+      "source": "joongang.co.kr",
       "published": "2026-09-02T01:23:40+09:00"
     },
     {
@@ -1816,7 +2114,7 @@
     },
     {
       "title": "경찰 고위직 대폭 물갈이‥'향피제' 전면 적용",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwcm0yRUNyeURhbHRuTlBmUjJfMzFiNDJHTGRGWHVxYThqUlpYT3MzVkgxZE5NUjJFcWVDb0hzN1I3RHN5UndQY18wSEc5ekk3R0hrLXlqR2V1OGdPa1Nzb085d2czU2NaZU9sc1FOTUpyR3p1Zkl0StIBeEFVX3lxTE9lZmN2VWxMU3AtSF9YWGdnVnNZdmRCYlFPaERXT05lVEI3ZWNSdkozcTA5Z3YtOGdGdDltVi1VVkVPcWVvalVjTENPckNPWjV1ZXIyLWdYY0xQWmJMa3JrdXpXNEFwdkZvdmdwRHlKeG8xZ2hITWJIOA?oc=5",
+      "link": "https://imnews.imbc.com/replay/2026/nw2500/article/6848957_36989.html",
       "source": "MBC 뉴스",
       "published": "2026-09-02T00:38:38+09:00"
     },
@@ -1833,6 +2131,12 @@
       "published": "2026-09-02T00:32:07+09:00"
     },
     {
+      "title": "‘부 경장 여파’ 제주청장 승진 취소",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14d1laWXNLN0ZBU3QwcjAzdmRBM3lZRFRoLXdyUHRJMFU3c0dEV1E4MTA4bldXY0JuTWhDZDFINHRxZEM5RGo5SThZS0FlRXRNZjlQZXJB?oc=5",
+      "source": "joongang.co.kr",
+      "published": "2026-09-02T00:32:07+09:00"
+    },
+    {
       "title": "인현동 참사 추모 조례안 발의 - 김대영 인천시의원",
       "link": "https://www.imedialife.co.kr/news/articleView.html?idxno=68696",
       "source": "미디어생활",
@@ -1840,7 +2144,7 @@
     },
     {
       "title": "한밤중 경찰 고위직 대거 물갈이…전국 시도청장 18명 중 14명 교체",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oOEJhQ2c2ZFdHd1NhVTV4aUd2Y0hXSFZCdHZXSmxXbnk2Q2ZjdGdKRzU1MHBmVlRkTmxCYUpRM2d0c1pGZUM2bzhwZlRkMU0?oc=5",
+      "link": "https://v.daum.net/v/20260902002322078",
       "source": "v.daum.net",
       "published": "2026-09-02T00:23:22+09:00"
     },
@@ -1860,6 +2164,12 @@
       "title": "[포토] 빗썸 AI 보이스피싱 예방 캠페인, '2026 올해의 브랜드 대상' 금융사기 예방 캠페인 부문 수상",
       "link": "https://news.nate.com/view/20260902n00248?mid=n0100",
       "source": "네이트",
+      "published": "2026-09-02T00:21:00+09:00"
+    },
+    {
+      "title": "[포토] 빗썸 AI 보이스피싱 예방 캠페인, '2026 올해의 브랜드 대상' 금융사기 예방 캠페인 부문 수상",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xTWxWRFhsVVlCR1hhNGhwRkJJQ2pYTnhpNFNYLUhiQUNTblJOZkhUSzdjNE1DcWZZOURYc3M1QVpIaEd1ZDh0emVqTDhjYk41OXpv?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-02T00:21:00+09:00"
     },
     {
@@ -1917,9 +2227,21 @@
       "published": "2026-09-01T23:50:37+09:00"
     },
     {
+      "title": "[태평로] 경찰·중수청, 결국 정권 전위부대 될 것",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT25GdnUxY3JhUmlKMUdpQnU5cTBIc3pTWVZOUGtEOTktTTNCVkpqS1lDbFlmRVFySWY3RXFFcWVhUzM0bHpNSGFhZk5iaExkcGxwYTNKT2RucHVjd1ZJRzhJWG1xTk1nbkZoZVRUY2hoNHh4QlI2aXVicGxyNDNIQnh4aWIzeDJo?oc=5",
+      "source": "조선일보",
+      "published": "2026-09-01T23:50:00+09:00"
+    },
+    {
+      "title": "[기자의 시각] 제주 실종 사건은 '시스템 참사'",
+      "link": "https://news.nate.com/view/20260901n40664",
+      "source": "네이트",
+      "published": "2026-09-01T23:49:00+09:00"
+    },
+    {
       "title": "[기자의 시각] 제주 실종 사건은 '시스템 참사'",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tRFZsRVhTZWtyY0l6a29MS3V5OHVEdTJXZDRRa25acnlsd0xRZFI3V2t6cjlOQ3pGSDJPZ3lsMl9NX3QyS3JCOW9TZ2hXaF9rNTJv?oc=5",
-      "source": "네이트",
+      "source": "news.nate.com",
       "published": "2026-09-01T23:49:00+09:00"
     },
     {
@@ -1938,6 +2260,12 @@
       "title": "'도박·음주운전' 개그맨 이진호, 1심 징역 1년 6개월·집행유예 3년",
       "link": "https://news.nate.com/view/20260901n40621",
       "source": "네이트",
+      "published": "2026-09-01T23:45:00+09:00"
+    },
+    {
+      "title": "'도박·음주운전' 개그맨 이진호, 1심 징역 1년 6개월·집행유예 3년",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yY2swZlUwNU5IemRONlU4bXdTTXpkTlBuZnhLTlJmaTIySTlvVmxpcnotdFA2d0ktaWZmdWVpYUpSazJ1RTIxODBiVVN2ekJMTVBZ?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T23:45:00+09:00"
     },
     {
@@ -2051,7 +2379,7 @@
     },
     {
       "title": "경찰청 고위직 대폭 물갈이… 김종철 차장·고범석 서울청장 임명",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mTW1CUm5WRkdQUFY3ek5GeFNrWWJhX0JaT0xBMzlRc0J2Ti1KdWpDVEdTd1l2WDFETGRENWtSM3dRSUEyYXZ4dWprUHZXSzNQTHowVFBR?oc=5",
+      "link": "https://www.news21tongsin.co.kr/news/304702",
       "source": "news21tongsin.co.kr",
       "published": "2026-09-01T23:17:14+09:00"
     },
@@ -2063,9 +2391,10 @@
     },
     {
       "title": "대구·경북 경찰 수장 모두 호남 출신…연고지 배제 인사",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NNXVQTGxQVVoxRFdpOHJiYUF6NkluQ0VDSXZyQUY5Smd3OEktbGk1RlF2VXJDZDdWOHloQ2FpWXlyeUtTejZpcmhCX2gtcVM4RkU4bEZ3N2NLMUFHLUdvWWw1bGtRbzJGWGJV?oc=5",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260901029276055",
       "source": "영남일보",
-      "published": "2026-09-01T23:11:48+09:00"
+      "published": "2026-09-01T23:11:48+09:00",
+      "summary": "대구경북 경찰 수장에 호남 출신이 임명됐다 대구경찰청장 직무대리에 박준성 경찰청 국제치안협력국장 직무대리가 경북경찰청장에 박헌수 전 마약범죄 정보합동수사본부 경무관이 보임됐다 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사…"
     },
     {
       "title": "경찰 고위급 한밤중 인사…차장에 김종철, 제주청장 승진 취소",
@@ -2077,6 +2406,12 @@
       "title": "경찰 고위급 한밤중 인사…차장에 김종철, 제주청장 승진 취소",
       "link": "https://v.daum.net/v/20260901231150153",
       "source": "v.daum.net",
+      "published": "2026-09-01T23:11:00+09:00"
+    },
+    {
+      "title": "경찰 고위급 한밤중 인사…차장에 김종철, 제주청장 승진 취소",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZXlpLVBqWHNGNldTc3p2WFQtTERJVU44dEdNa1ZNSWQyRExPVko2NE16VERhczJkV2N5MFhiY19OLWczOVZHbXltTk5YbXpGQllz?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T23:11:00+09:00"
     },
     {
@@ -2093,7 +2428,7 @@
     },
     {
       "title": "제주특별자치도 자치경찰위원회, 치안 사각지대, 도민과 함께 짚었다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WRFZpSHRRb0F6ck95U2huYk5kN2tKd0lxeWU3WF9WNzZCdW5IbVZXUk8zZkhrSmtMVnZLaGxrRlBSSUN4TllBN3ZGZ1dVWnlnMDhFa2dRZTgyQXp5eFlNeVVmejFacnBLZzJ1NVpR?oc=5",
+      "link": "https://www.citizenadmnews.co.kr/news/article.html?no=1405851",
       "source": "citizenadmnews.co.kr",
       "published": "2026-09-01T23:10:56+09:00"
     },
@@ -2105,7 +2440,7 @@
     },
     {
       "title": "경찰 고위급 한밤중 인사…차장에 김종철, 제주청장 승진 취소",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15aFJjWHU3YlBPcnVoY1ZZLXF6SzMtNzFzZGxFaDhlLUo0R0prdkZIbk5td2F5QVdUTV9IaVRNUklVQS16RXZRWWwyMXNyUGJEeGo0RlM5Z3hhZHgwTGxReTN2UjFQbjA1ZnRMa095Q0Fka0pIWFHSAWZBVV95cUxNbTE1Nkc3cjJURHR4VGttREZYc1BlTWl5MVlZTGc3ajFhOFMwTjNlVzZxeVRUdFhJRWRsbWpuNFZ3c1JSMDZiUGFHUWVKZXRXQmRtMnE1aW9LY2ZXa0d4bkhxMFJsYkE?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260901/134587317/1",
       "source": "donga.com",
       "published": "2026-09-01T23:10:00+09:00"
     },
@@ -2137,6 +2472,12 @@
       "title": "부 경장 허위종결 후폭풍…제주청장 승진 취소됐다",
       "link": "https://www.joongang.co.kr/article/25458204",
       "source": "중앙일보",
+      "published": "2026-09-01T23:05:22+09:00"
+    },
+    {
+      "title": "부 경장 허위종결 후폭풍…제주청장 승진 취소됐다",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HZVdMa0xWUW51TUstdEdQbHVHUnhRcENpZU9qaXJlbm9oMVdXTUdNbkV1QUpOYTB0Q1hYa21yZGRxSlNsLTNSVUNLRE1xVC05MHJZWXZ3?oc=5",
+      "source": "joongang.co.kr",
       "published": "2026-09-01T23:05:22+09:00"
     },
     {
@@ -2204,7 +2545,7 @@
     },
     {
       "title": "시도경찰청장 14곳 물갈이…전국 18곳 '향피제' 전면 적용(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00bjlNRkFMT2lMLUE1clpac1JNQW9GSkJpZ0JseE1KemdZUGNJaFVFbFZCUHIzSHZ1dUhyeHZVRDM1OUJ4cTZCLU9DYTBhYng5am11M2NOY1NZZHJnMU9oZ9IBeEFVX3lxTE5lN1cyaWRBX3hDT1hqdFM2M0ZuSVlITXVRXzQ2R0kyOEY4TWdjUkFEQWd0S3JlTHljWURQd2VMN011ekdCcWVSajlaVkx1cFctMTRnSWFxeTdFcWN4WERBeG5saG1PYmFmSUtkdG9EOEVIa0VGcGpvRQ?oc=5",
+      "link": "https://www.newsis.com/view/NISX20260901_0003772282",
       "source": "뉴시스",
       "published": "2026-09-01T22:59:47+09:00"
     },
@@ -2379,6 +2720,12 @@
       "published": "2026-09-01T22:40:22+09:00"
     },
     {
+      "title": "경찰, 향피제 본격 적용…시도청장 향피제 적용해 80% 교체(종합)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS2JZcUVLRUtSWWFmdk52T2FNcVpoS3ZMNUlVYU93QTl5U3o2czczQzUtWlpOM0lUOV9uc0hJZHdDTjFQdTI1RFlDVk1zbUtJQXUxdjlzOC01c1Q5RlRfUHI1M3B0YzdnbElnU2RTTC13RUh6VVRFYmc1eWhNVG1MTg?oc=5",
+      "source": "edaily.co.kr",
+      "published": "2026-09-01T22:37:57+09:00"
+    },
+    {
       "title": "[인사] 경찰청",
       "link": "https://www.seoul.co.kr/news/peoples/movement/2026/09/01/20260901500349",
       "source": "서울신문",
@@ -2399,13 +2746,13 @@
     },
     {
       "title": "한밤중 경찰 고위인사… 시도청장 18명 중 14명 교체",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyb19MSjNNV3VuMXhxR05qaEFnVk93SGthYXlscHktVnZmR0xycUJRU3RJQnE5TXpja2dMQmw5bXc2UGNWMVVtM2FnbHVuUmNZdHEzTjI3dWdQNTdOSDVUYnhLOHFEcUFIbjRORHE5UQ?oc=5",
+      "link": "https://www.seoul.co.kr/news/society/2026/09/02/20260902014008",
       "source": "서울신문",
       "published": "2026-09-01T22:31:59+09:00"
     },
     {
       "title": "정부 경찰고위직 인사 단행…새 강원경찰 수장에 곽병우",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KRkdqWG5CT3BMa2I5TnZPWjdpUmhEb0NTUnlyaVMtOXZxbEpPbkJ5UUMtR25wZUpFUzlZYVlybUc2WXRKY0E?oc=5",
+      "link": "https://v.daum.net/v/BfogFo5ThQ",
       "source": "v.daum.net",
       "published": "2026-09-01T22:31:08+09:00"
     },
@@ -2520,7 +2867,7 @@
     },
     {
       "title": "경찰 고위직 '오밤중 인사' … 김종철 경남청장, 경찰청 차장으로 발탁",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UQzVzbGJVRkxPVzVDa1FDV1JfMzNDOVhIdjd2bWFzRnRqYXJpeUlrQUM1THB6bEszVjRYZnp4U2JlY3UwbFpyYWVXam9YbVpqRDN5MVlDc2FjSmMyV09vdDhjSUNHNkZ3R2lCdGhwVUt1M3prazQwZUlR0gGAAUFVX3lxTE5zYmNEN01uSFNsRjYzRnBtQ05uS1ZjR2lvM2ptR19uel8xZjFRaTNDTm9WeXpjZUdPejRTZUVvRnJnWTlXblVnMTRWUEdDeXR6Qk9tYlJBZXZyeXlUWE5vdW54R01RY3NEV0VzdGNVOGhEVm1HOC1NMmYybi03bEst?oc=5",
+      "link": "http://www.newdaily.co.kr/site/data/html/2026/09/01/2026090100376.html",
       "source": "뉴데일리",
       "published": "2026-09-01T22:22:44+09:00"
     },
@@ -2545,7 +2892,7 @@
     },
     {
       "title": "[속보] 제주청장 치안정감 승진 미임용…치안감급인 경찰청 생안국장",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UMWlwUnZuV3h2MDJQclJHSDBmM0xmRGRMUlNma010ZFpOdTNsZnpNV3NHajh2UXpoZmRkVjU2TDB5NXlpRk1wMDVKOA?oc=5",
+      "link": "http://www.inews24.com/view/2000844",
       "source": "아이뉴스24",
       "published": "2026-09-01T22:21:53+09:00"
     },
@@ -2558,7 +2905,7 @@
     },
     {
       "title": "[속보] 제주청장 치안정감 승진 미임용...치안감급인 경찰청 생안국장",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XRDRmYk1NZEFMb2Z0LTFNNzFZenNJdHRLTVozSHNib2hwVVFOZGk2WW5UdUJvUzNQSExKR19ManZFdUtXSW5ic2JaWWhNYy0wTUVLZ3VKT25uQQ?oc=5",
+      "link": "https://www.fnnews.com/news/202609012219376327",
       "source": "파이낸셜뉴스",
       "published": "2026-09-01T22:21:01+09:00"
     },
@@ -2734,8 +3081,14 @@
     },
     {
       "title": "한밤중 경찰 고위직 대거 물갈이…시도청장 18명 중 14명 교체",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EUnFWR1IyaE5peWwwNzNvTEU0N3J6T1oycnEtM3pJSG5MdjhfZ2hSMWhSeXFrY1dPVDFTQS1xNmRvU0FXeWczYV9adC1vVzJ3RnFacUNOSVpHZGZ6dVZlUFZnUl9OYnZDajg2VlFRT045N2pG?oc=5",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026090122020232027",
       "source": "busan.com",
+      "published": "2026-09-01T22:03:19+09:00"
+    },
+    {
+      "title": "한밤중 경찰 고위직 대거 물갈이…시도청장 18명 중 14명 교체",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EUnFWR1IyaE5peWwwNzNvTEU0N3J6T1oycnEtM3pJSG5MdjhfZ2hSMWhSeXFrY1dPVDFTQS1xNmRvU0FXeWczYV9adC1vVzJ3RnFacUNOSVpHZGZ6dVZlUFZnUl9OYnZDajg2VlFRT045N2pG?oc=5",
+      "source": "부산일보",
       "published": "2026-09-01T22:03:19+09:00"
     },
     {
@@ -2771,7 +3124,7 @@
     },
     {
       "title": "[속보]경찰청 차장에 김종철 경남청장·서울경찰청장에 고범석 전남청장",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ORjNyZk8tZ3pRYkRYSHhuUGlWQTUzY2hlSkcwV1FMLWE5MFdkbDc1aERuSEROWGxMMXZFUzBGUm9TSkZIeW43T3pXMjRpZ2FKWWl1VzNBaWczSzZ5MFlXeVplX0gxeUJHTW1iUFh2ZEFQMTBqX2tTX1EzNNIBgAFBVV95cUxPNkVHb1BPdWFvTnN2NC1iampSRTB3bGM3MXZJUWpmMGRPdXVJOGRpWURPTTFVaUFQR2tBNGxRSzYyVC1rb3ExUGNIOTkxWFVtR3VGTFh5bGJiQlZmdi04c0JUcWlUODV5WWZLaDZWM2h0UjBXMmw2MVRJVW5uRXE1aQ?oc=5",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/09/01/2026090100372.html",
       "source": "뉴데일리",
       "published": "2026-09-01T21:57:31+09:00"
     },
@@ -2831,6 +3184,12 @@
       "published": "2026-09-01T21:52:11+09:00"
     },
     {
+      "title": "[속보] 경찰청 차장에 김종철…서울청장 고범석·인천청장 유승렬",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ua0NieXZPQUJXcnlhcEdqZ3ltcmVXeU9pY1p5SXJGNU96WHZUM0sydXpwTU5aNHBtWjNLZHBtcTBuLTZMdWZEeFBPS2J4UDlMekk3ZV9R?oc=5",
+      "source": "joongang.co.kr",
+      "published": "2026-09-01T21:52:11+09:00"
+    },
+    {
       "title": "[속보]경찰청 차장 김종철…서울청장 고범석·인천청장 유승렬",
       "link": "https://www.asiae.co.kr/article/2026090121520992276",
       "source": "아시아경제",
@@ -2847,6 +3206,18 @@
       "link": "https://news.nate.com/view/20260901n39250",
       "source": "네이트",
       "published": "2026-09-01T21:52:00+09:00"
+    },
+    {
+      "title": "경찰 고위직 물갈이…경찰청 차장에 김종철·서울청장에 고범석 [세상&]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pdVJFSEpLSl9TOE50MklVT1dJM0NWdUw2ZzJrSmVCd2l4SkJRN1N6c2VoLXJpb0gyMkN5aENNLXZRbzhCQlM1UVJMd183OGRHZHJ3?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-01T21:52:00+09:00"
+    },
+    {
+      "title": "경찰 고위직 한밤중 '물갈이'…시도청장 18명 중 14명 교체",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84RXhyVzlaTElkLUpDSHRxT3ZHYTFta3d6UnFHc2dvZHk5eWJVNmNqNm9TbGJtSHYzd0xScUZTbjNEcHh1VjEtdjRMSXplc0ROQmU2TmRfY05FQQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-09-01T21:51:55+09:00"
     },
     {
       "title": "[속보]경찰청 차장에 김종철…서울경찰청장 고범석",
@@ -2892,7 +3263,7 @@
     },
     {
       "title": "[속보] 경찰청 차장에 김종철…서울청장 고범석·인천청장 유승렬",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rYzN3dTdNRnlaMWYxRTdwWVJxQkxYbGlSc0hfOFVsQV9IRi1PcWViNXFxTWltX3dHRjJYSTNPUVBNazl0T3BKME9Bb1RaaWxoeFZWRk42c05Oc0puYkpXSjJSRGpESmM?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260901215034KCX",
       "source": "연합뉴스TV",
       "published": "2026-09-01T21:50:00+09:00"
     },
@@ -2985,13 +3356,13 @@
     },
     {
       "title": "[단독] 이의신청 남기고 숨진 알바생…경찰 압수수색도 없이 \"불송치\" 결정 / 풀버전",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Wa1dIV0lfTEE1SElnMS1yOG1BMjdQbXhwMFQ4SlFiMk55dWxhSm1NdGQ1U0pWWDVKNU9xVHdYSXhlcy1nYnh6em9qWlpsN0FQLXZyeQ?oc=5",
+      "link": "https://news.jtbc.co.kr/article/NB12316197",
       "source": "JTBC",
       "published": "2026-09-01T21:10:00+09:00"
     },
     {
       "title": "[김종석의 리포트]“일 많아질라” A경장, 실종 25건 더 덮었다",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fazhhM3JuNmxGbkJQUmI5ekhfT2RhRG50ejBhQ2lsTk8tbjctX2NMUlUtaTVmQ3AwMlBNV2JYMlByaTQyUXhJdEh6ZEFYUy1mLUxDSFpsa3ZFVnJ0bFHSAWNBVV95cUxOY1A5SFVvZlZNMFVZX1hoa0pMLWhqTklkaHhBYmg5aXdmc054TEMtbHZ1Y1N5ZGJsVE9VQVdvN1hTc3lZNUtHUkhGdmxfaUpmV3NVVTVwYkh6QXhTcndUU0pwRDg?oc=5",
+      "link": "https://ichannela.com/news/detail/000000548177.do",
       "source": "ichannela.com",
       "published": "2026-09-01T21:10:00+09:00"
     },
@@ -3027,7 +3398,7 @@
     },
     {
       "title": "충북도자치경찰위원회, '월간 청렴 3분'으로 청렴문화 생활화",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PTWNqY1hnNE1EbFh6RG9aSEpheFA3R1pZWjl0ZUlrUndaaU5yRTYwWUNDWDgwZTExcFQya2ZELU9mWXVsdTgweWJ5Yng1ZTNHQmR2WV9yUGNOMHZJbmtHemlkTFhTQjdMTno5ZWxoY0pPQQ?oc=5",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2286279",
       "source": "웹이코노미",
       "published": "2026-09-01T20:58:00+09:00"
     },
@@ -3081,8 +3452,14 @@
     },
     {
       "title": "BJ 과즙세연, 남친과 나란히 입건…향정신성의약품 투약 혐의",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1URzZ6aGpoeHozZGZXcjhZX1hGTlI2dTlOM3dIMXdMVVBlZHNlQWRxSExTdUNPenZRRmZjWmZUN2tVZUo2eHhyNmtuOXNUMENXalRsU1Z3?oc=5",
+      "link": "https://www.joongang.co.kr/article/25458189",
       "source": "중앙일보",
+      "published": "2026-09-01T20:39:13+09:00"
+    },
+    {
+      "title": "BJ 과즙세연, 남친과 나란히 입건…향정신성의약품 투약 혐의",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1URzZ6aGpoeHozZGZXcjhZX1hGTlI2dTlOM3dIMXdMVVBlZHNlQWRxSExTdUNPenZRRmZjWmZUN2tVZUo2eHhyNmtuOXNUMENXalRsU1Z3?oc=5",
+      "source": "joongang.co.kr",
       "published": "2026-09-01T20:39:13+09:00"
     },
     {
@@ -3128,6 +3505,12 @@
       "published": "2026-09-01T20:17:00+09:00"
     },
     {
+      "title": "[단독] 중앙선 넘어 쾅 '음주운전 추정' 벤츠 폭주…또 강남",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YcmY3clFPYXFOazF0VDlra3RTall1c3lneUxpandyNlUzdE9hckplM2lWNnR2SFNiZnlQVWk0Z2lWU1NyZVNiYk1paC1oUWFsX1FB?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-01T20:17:00+09:00"
+    },
+    {
       "title": "신협, 농수산물시장 화재 피해 복구 성금 쾌척",
       "link": "https://www.jnv.co.kr/news/articleView.html?idxno=14442",
       "source": "전북엔비전",
@@ -3137,11 +3520,12 @@
       "title": "[단독] 중앙선 넘어 쾅 '음주운전 추정' 벤츠 폭주…또 강남",
       "link": "https://v.daum.net/v/20260901201544913",
       "source": "v.daum.net",
-      "published": "2026-09-01T20:15:00+09:00"
+      "published": "2026-09-01T20:15:00+09:00",
+      "summary": "까만 벤츠 차량 옆부분이 형체를 알 수 없게 찌그러졌습니다. 서울 한남대교 남단에서 중앙선을 넘어 역주행하던 음주 추정 차량이 벽을 들이받고 나서야 멈춘 것입니다. 최근 마세라티 차량이 배달기사를 치어 숨지게 하는 등 강남권에 음주 사고가 잇따르면서 경찰이 단속 강화에…"
     },
     {
       "title": "[단독] 중앙선 넘어 쾅 ‘음주운전 추정’ 벤츠 폭주…또 강남",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qUVFmcDA4dnA1M21XOEc2N2RJTndDanlZcjZlbjRQWHZFTnNzaUF1NXJRTWRzd29uRS1MYXNTOHoxaEF5VHVxODBZWU9ReExOY2xscQ?oc=5",
+      "link": "https://news.jtbc.co.kr/article/NB12316154",
       "source": "JTBC",
       "published": "2026-09-01T20:15:00+09:00"
     },
@@ -3257,8 +3641,14 @@
     },
     {
       "title": "비극마저 조회수로…네팔 참사에 AI·짜깁기 영상 기승",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11ZW5DRThiTHNoRklGSldlV1pMR3Q4bUtYakZGQS13LXBwWktORUNaMU03bnYtTWVPRURwak1ZbWppb1h4b0poQ0lQUjZ5bFBpLTByZk9faG03R0wyOVZuZQ?oc=5",
+      "link": "https://news.nate.com/view/20260901n36667?mid=n1101",
       "source": "네이트",
+      "published": "2026-09-01T19:36:00+09:00"
+    },
+    {
+      "title": "비극마저 조회수로…네팔 참사에 AI·짜깁기 영상 기승",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11ZW5DRThiTHNoRklGSldlV1pMR3Q4bUtYakZGQS13LXBwWktORUNaMU03bnYtTWVPRURwak1ZbWppb1h4b0poQ0lQUjZ5bFBpLTByZk9faG03R0wyOVZuZQ?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T19:36:00+09:00"
     },
     {
@@ -3277,6 +3667,12 @@
       "title": "[리얼]‘20만원 벌려다 4년 감옥행’…17억 보이스피싱 인출책 가담한 20대 실형",
       "link": "https://www.munhwa.com/article/11613759",
       "source": "문화일보",
+      "published": "2026-09-01T19:31:04+09:00"
+    },
+    {
+      "title": "[리얼]‘20만원 벌려다 4년 감옥행’…17억 보이스피싱 인출책 가담한 20대 실형",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YNGNuaUc2SHhteVZuRGZVTkdreTNYVTR3SWlfMmNUT3dPQ0VYTGNaODZjWS1sMjk1YjVmLV9teUxPNm9YQzZ5YWRTSTBDQmtj?oc=5",
+      "source": "munhwa.com",
       "published": "2026-09-01T19:31:04+09:00"
     },
     {
@@ -3317,7 +3713,7 @@
     },
     {
       "title": "경찰, 수사 결과 발표날까지 장 씨 사인 놓고 우왕좌왕",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9peHdRRzFiSTRjVlVXMThoSU96ZHNNUWlhYkJuYnAxMlFCSVNNejhaZXh2Tzlxd0ZXMVV2dU5CUkl3dF9ESEljckRGNWJpeHZwMnZIZXgxWmdQclJ5c1ZYRDdHVdIBY0FVX3lxTE9peHdRRzFiSTRjVlVXMThoSU96ZHNNUWlhYkJuYnAxMlFCSVNNejhaZXh2Tzlxd0ZXMVV2dU5CUkl3dF9ESEljckRGNWJpeHZwMnZIZXgxWmdQclJ5c1ZYRDdHVQ?oc=5",
+      "link": "https://ichannela.com/news/detail/amp/000000548151.do",
       "source": "ichannela.com",
       "published": "2026-09-01T19:22:00+09:00"
     },
@@ -3343,6 +3739,12 @@
       "title": "해경, 가을철 낚시어선 안전 관리 강화…사고 28% 9~10월 발생",
       "link": "https://news.nate.com/view/20260901n36188",
       "source": "네이트",
+      "published": "2026-09-01T19:10:00+09:00"
+    },
+    {
+      "title": "해경, 가을철 낚시어선 안전 관리 강화…사고 28% 9~10월 발생",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14UkhReGVVbng4Yzl4bHpjNFhKZENJZFlGZDVPTGFvbTJWa3FwYWZNWElPanp1aGRubEJaWkdTNGxpLVlidjRwdGNETlpXcXBuNjJN?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T19:10:00+09:00"
     },
     {
@@ -3400,6 +3802,12 @@
       "published": "2026-09-01T18:51:00+09:00"
     },
     {
+      "title": "법사위, '특조위 1년 연장' 이태원참사 특별법 개정안 의결",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nYThFN19RVFNhVjBnMHVRTHpnMEFHZ0FRanhFcklpdXlWRXRTMlZ6Y1dJTFdMc2NNeVNUbkxHY2ptcGRvSFJXLUJWZnhOemxlOG04?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-01T18:51:00+09:00"
+    },
+    {
       "title": "법사위, 이태원참사 특조위 1년 연장 의결…與간사 김의겸 호선",
       "link": "https://news.nate.com/view/20260901n35617",
       "source": "네이트",
@@ -3413,8 +3821,14 @@
     },
     {
       "title": "현직 경찰 편지 대독한 김태규 “지금 경찰, 수사권 받을 준비되어 있지 않다”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXc2Rkd1dzbEJJN3Q0UDFpMzU3ajBrVmVkVl9qY2FuN2Z6V0VDRlVWRGthSzVZbmVYRzFKU0pKTEUxMWdZcGMwXy0xSUp5c2ZsZGhkT2xvWmc5bnBOQmfSAWNBVV95cUxPZ283MWVMOGhzQ3E3ZGVDQlNjR3ZMVXMtNVlCNHFCbjhvRGN6bkl4cm8yd0xqTEExNDZmQzFadm5lckh4RWNUZjVwRnQzdGp2UzRjeGxsRWJmWnZiVll0VHFGaDA?oc=5",
+      "link": "https://ichannela.com/news/detail/000000548131.do",
       "source": "ichannela.com",
+      "published": "2026-09-01T18:48:00+09:00"
+    },
+    {
+      "title": "법사위, 이태원참사 특조위 1년 연장 의결…與간사 김의겸 호선",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NcWlOZmtCbk1vUERVVzBSSkFZdG1VS3pLNHFXc2dSNG5ZVEFfS1pxWXhmMzN2WG1yamkweUlSRURvRzdmN2hsUFZFanpVNHNiX0Rj?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T18:48:00+09:00"
     },
     {
@@ -3454,6 +3868,12 @@
       "published": "2026-09-01T18:33:35+09:00"
     },
     {
+      "title": "공식추모 없이 15년 흘렀다 “가습기살균제 희생자에 국가 응답해야”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xU0Vlc1BKeDVybFdVWWJaQlQ0RXVLYnQxY3V2MVFCMEdsZjJKa1Jsc0JsTzNGeXFnUDVXWFhLU21ZMjl6S1hJbUZ5dGdteENVT05NZV90VklFV1lxcmM1WjQ0bVdubEE0NFE?oc=5",
+      "source": "bulgyo-in.com",
+      "published": "2026-09-01T18:33:35+09:00"
+    },
+    {
       "title": "실형 피한 이진호, 지팡이 짚고 굳은 얼굴 '포착'…상습도박·음주운전 '징역형 집행유예'[종합]",
       "link": "https://v.daum.net/v/20260901183242602",
       "source": "v.daum.net",
@@ -3467,7 +3887,7 @@
     },
     {
       "title": "실형 피한 이진호, 지팡이 짚고 굳은 얼굴 '포착'…상습도박·음주운전 '징역형 집행유예'[종합]",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLR3FrU0pBZXRuLXpfTi1mSUxvTXZkZl9WX2l2eVZURTQ4ZzVLdno2akQ0OFhLVW9jLTBuTndIYkkxNDhKeE5YcWdTVHJRYmNtTDdvMldPeHZBTHA3RkNReHlUQkNicEpzUmFyZFJqRXE?oc=5",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005086",
       "source": "SPOTV NEWS",
       "published": "2026-09-01T18:30:00+09:00"
     },
@@ -3479,7 +3899,7 @@
     },
     {
       "title": "\"30년 잘 했잖아...음주 1번인데 봐 줘!\" 강등된 총경, 패소",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSExOSHR3ZnEwb1pxMFE4UDNfSWZINE9XT2hFaVhtcFBVRXhVSXdJMGowZUlucmtldGNOMFN2b09yV3pvUHNOVms3RTlGbUJ5VWdjb0Y3M2lKb1lEUjNwZTJpVXYxaXh2d2xYWThLbUhZVGl6WWZZUFNfN2k3eHBTNg?oc=5",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=05290646645575856&mediaCodeNo=257",
       "source": "edaily.co.kr",
       "published": "2026-09-01T18:27:59+09:00"
     },
@@ -3565,7 +3985,7 @@
     },
     {
       "title": "충청북도자치경찰위원회, '월간 청렴 3분'으로 청렴문화 생활화",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94NHB6WUxoLW5valdHZThJNnhETkVMU1E2SjJRMlgtT1ViNE5RckxJSTE5OWhwNngtSDFCSUJLZFBfVEp1dUswM01yTjZGbUFULWxpbGFCSEpsSzYzR0hJTWhmQllITkh2MEhCNA?oc=5",
+      "link": "http://www.skypress.co.kr/news/articleView.html?idxno=132781",
       "source": "skypress.co.kr",
       "published": "2026-09-01T18:11:46+09:00"
     },
@@ -3619,7 +4039,7 @@
     },
     {
       "title": "“부 경장, 탄로 두려워 교통사고 사망 입력·삭제”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLN3pWU1JoT21hVzlKUEs0a0xuWDRGaW92Y2ZPcmpqWVNXWGx2U0NHOEdHOFlhZFBibnE0TUZLZVo4RnJjRUdGTEVQUXRhdjQ3UHJpSHhrYl9JcHViWmgtYklsTGFWeF9tZ1YwVXIxOTVZQlJQ?oc=5",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026090118033062902",
       "source": "busan.com",
       "published": "2026-09-01T18:04:42+09:00"
     },
@@ -3627,6 +4047,12 @@
       "title": "법사위, '특조위 1년 연장' 이태원참사 특별법 개정안 의결(종합)",
       "link": "https://news.nate.com/view/20260901n34455",
       "source": "네이트",
+      "published": "2026-09-01T18:04:00+09:00"
+    },
+    {
+      "title": "법사위, '특조위 1년 연장' 이태원참사 특별법 개정안 의결(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lZFMxWnk5d0tmaHZuaFctWWpKb3U0UkFla2tzLWVSSHZQTUZ0QVd0TzNmSmhsZm1BV0tKYlF1SUN5cV9IVGRZMG1TUDNldG1XY1Bz?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T18:04:00+09:00"
     },
     {
@@ -3710,7 +4136,7 @@
     },
     {
       "title": "'우산 쓰네?' 빈틈 노려 반격‥경찰에 '로우킥' 날리더니",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fSW14dnVVcS1BdW51ZWh2MlBxaUxoM1l2TmdMU2NkZkg3Y2NGT0VMeDkzbzFPSWxLb0hPNjRxZGFWeHJMdUR6SV9GOWVNZzVtamY4djFXblVvMDBHSkRNTTJZV2RBRWtVdERMRml6TnRiN2ZYRnlF0gF3QVVfeXFMTW1pVlB6SUxWSU1fbFNWYTB1NVRYS29mMi1GMzYzcEtDRkN1aXlybV8tc3lQYXdOcHgtVkw2SFpZRFl2VDdHek1JTGhuYzlGQ2pXcEJaQjZLSi15bnJ4aXBTX2F5U2MyMXdReDFNRTYzMFhzcng2bDQ?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6848891_36918.html",
       "source": "MBC 뉴스",
       "published": "2026-09-01T17:47:25+09:00"
     },
@@ -3722,7 +4148,7 @@
     },
     {
       "title": "경찰 수사개혁위 첫 권고안…전문가 “기존 정책·제도 반복”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3WWMycmF2ZmNyMUdKdGVGLWgyTnR3QnNsYWtLeVdsSkxma01TZUc4dklkOTl1MTJvNTZNdC13UWJpQ200bGZKZE05UzBtcDNXemZ1LW1CWEdoOVpfUHZNVUplYTVCWUNzTjc2ZXhR?oc=5",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260901010000504",
       "source": "아시아투데이",
       "published": "2026-09-01T17:47:01+09:00"
     },
@@ -3770,7 +4196,7 @@
     },
     {
       "title": "화개정원 대책위, 강화군 보조금 불법집행 의혹 등 경찰 고발",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xTVVwU1ZYd3QxVThkeXh4c1drcWtHREZjbmdOb3pxVHlVZFZibmpfSzJhV1ZJOE1PTHl4WmdPZzh1R2xQcm53UnctTFVkakgzd0lTb0xfTC1jTFFmOGh1TGl3V1NRX2FRNlVCS0E1TGs?oc=5",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=323016",
       "source": "인천투데이",
       "published": "2026-09-01T17:43:09+09:00"
     },
@@ -3794,7 +4220,7 @@
     },
     {
       "title": "'1년 8개월 공석' 경찰청장 인선 빨라지나…후보군 보직 인사 임박",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KYnY5WDZKaFJTSjVWQk5RVTVCRkZ2WTVPNzVkYkZuXzM0d19rMHhFcmtpNmp0ejdreExEM1poSmdaVmNncnJoZkJSS1pnMTNZbGxPMGNxeGhTMml0by1idklMNTfSAWpBVV95cUxNM1lWRGszYWNsbm1VaGR3ZnpnRnNmSE9OR2I4eXctVGFJMzZSYU9lMjh6N0VnbnprZFd2a1RJWXBfM3lVTnZEWnEycTdSOGRzY1VFcW9FZUU0bnByNzJLMElYUl9idjhKdWNB?oc=5",
+      "link": "https://www.news1.kr/society/incident-accident/6276645",
       "source": "뉴스1",
       "published": "2026-09-01T17:38:38+09:00"
     },
@@ -3830,6 +4256,12 @@
       "summary": "박재하 최주성 기자 = 더불어민주당이 1일 당 경찰개혁추진단을 가동하고 장윤기 사건 및 제주 실종사건 허위 종결 사건 등으로 ..."
     },
     {
+      "title": "네팔 대홍수 시신 1000구 넘어…실종 4462명 ‘최악 참사’ 등 [9/1(화) 데일리안 퇴근길 뉴스]",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQllfMXlxWkRGSTV5eUZSTjFEU3QtaUpuNzFiVlpubHVWdlBrdGYyYndYOVRQek1sTU41MUV3aGEtcktkVlJORzVnTjdXZzhiYnYxaDllLU9XYzNkWE1wUFFpR0ZLZEtGVndSMkFhN3dnemZXUGJxTTYzNGFmalQ5aVlNSTdBb0dhUWxoeGw5a3JXS1pPaURoaDNEMk1zTGltMW9id1VoOUFHaVIyWHdlbjFENXJBQTJIT0ExS2ZvSGtKLVY5NURsMTZxMEFLYTlwNU5uSXBzeWhjTlpOSjVZaUtqclJsdUg5UzBXMTVIblJEbloxQ1p0Qg?oc=5",
+      "source": "데일리안",
+      "published": "2026-09-01T17:30:00+09:00"
+    },
+    {
       "title": "네팔 총리 \"이번 홍수는 기후위기 참사…국제사회 적극 대응해야\"",
       "link": "https://news.nate.com/view/20260901n32710",
       "source": "네이트",
@@ -3840,6 +4272,12 @@
       "link": "https://www.mt.co.kr/world/2026/09/01/2026090116275016697",
       "source": "머니투데이",
       "published": "2026-09-01T17:26:46+09:00"
+    },
+    {
+      "title": "경남자치경찰위, 새 정책자문단 구성… 9월 1일 첫 회의",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVzlOZ0t3UnVpMXFMbkRrUWlaTEY3bVl3ZUxpdUQ2TnRSdE5oR3ZRVXluZ180bVJHN1ZjeVhJb1ZXQnctWWVwLVdnY0xfNUJyNlJrY2lPUTQ4UmZNYVcwNHBQd2RDY2RWaXBTV2xTdXNIX1g5VkwyTEZYclhDTGNEa2Ezdmlnd0ItXzlZX0U3RW5kYlc0d0JZUVh5dEF1LUNjQ0kwNjFGX2twQ1Q1ZHdz?oc=5",
+      "source": "자치행정신문",
+      "published": "2026-09-01T17:26:00+09:00"
     },
     {
       "title": "8월 말 폭우에…정읍·고창서 실종된 2명 숨진 채 발견",
@@ -3921,6 +4359,12 @@
       "published": "2026-09-01T17:10:00+09:00"
     },
     {
+      "title": "강화군 보조금 집행 논란…시민단체, 경찰 수사·특별감사 촉구",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54QlRSaGp5RnZyVDEzM2ZvZVZ2R2RJeC0zWE9mSHZtOXV6VHNPMVhNSVpCLXFWN1ZNZkhsVEdmelJ2eXZJS3lFSnJURnNsUFU2Ull4U0NCdEY5QjRwbFpua215V290RTN3ajlhUWk0VQ?oc=5",
+      "source": "joongboo.com",
+      "published": "2026-09-01T17:10:00+09:00"
+    },
+    {
       "title": "“실종도 사망 유형으로 관리…미꾸라지 안타까워”",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8651672",
       "source": "KBS 뉴스",
@@ -3990,6 +4434,12 @@
       "title": "해경, 해상 무선통신 고도화 나선다",
       "link": "https://news.nate.com/view/20260901n30895",
       "source": "네이트",
+      "published": "2026-09-01T16:52:00+09:00"
+    },
+    {
+      "title": "해경, 해상 무선통신 고도화 나선다",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByc2lIZ2tGYWZkQVBJcmtKaVNOd3VSRHZQVlp2WEVwZnktYkZTbURoTE1BS3BSWS14QllRWVY2bTBRRkV3VVNyQXVEbVNJVF85aHpj?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T16:52:00+09:00"
     },
     {
@@ -4068,7 +4518,7 @@
     },
     {
       "title": "[포토] 이해식 경찰개혁추진단 공동단장과 인사하는 김민석 대표",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LZTdjaEh2MWtRNUlmMmY3MWl3WjM3cW9HUlBEZUo0QXlKNDRjSm1lX3pPelZZOEVCMHFzMGpteXZqUERDVkpTeHpMOEQxUmZOU2tUT3E3N290V1RVUW5kTkVxanl3R3hhWVlBRFdR?oc=5",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260901010000464",
       "source": "아시아투데이",
       "published": "2026-09-01T16:36:25+09:00"
     },
@@ -4122,6 +4572,12 @@
       "summary": "�Ѵ��� ���� ���� : ��ȸ - ���� : ������ �����ؾ���� ������ ������ 27�� �ΰ��յ� ���ջ�� �����Ʒ��� �ǽ��ϰ� �ִ�. (�����ذ� ����. ���Ǹ� �� DB����) �� ����1 �輺��…"
     },
     {
+      "title": "여수해경, 섬박람회 해상경계 강화…\"함정 추가 배치\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3dXpJMUZIbUxtQk0xZVJFNXp3UDh3OExrN1llbjdWVS1SWWluTUJqVHJNdlBlQnlhR2dOU0xQRndraXMyVm5MenFOcm9BMC1fRlVEVTNOVElyZkhQdm1XTw?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-01T16:29:00+09:00"
+    },
+    {
       "title": "SPC 허영인 오너 일가 산업안전투자 무시하고 적자기업에서 배당 잔치 : 노동자 안전보다 승계가 우선",
       "link": "https://www.huffingtonpost.kr/article/260046",
       "source": "허프포스트코리아",
@@ -4141,7 +4597,7 @@
     },
     {
       "title": "허위 종결 경찰관 구속 송치‥\"일 덜 하려고 범행\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2ZEhxalBqeFVJZFVTOVoyQ1ROSlRBUFg0bTA1ODRCZVJHS2hWekRXREVrTm5MSGVLRkE0QXhRaS1hdFFjejRMaVIwaDI0TVE?oc=5",
+      "link": "https://jejumbc.com/NewsArticle/859921",
       "source": "제주MBC",
       "published": "2026-09-01T16:20:13+09:00"
     },
@@ -4306,7 +4762,7 @@
     },
     {
       "title": "고양시 일산1동, 음주운전 근절 및 갑질 예방교육 실시",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyX251eHpTMUtMMm9oSDdIaWFWTGtyMW5FeGFIZV9ab2NQUkY2YkRjbklQbG14VXZTMTFGVVFvT0l6cnU2MllTcjkyTmo4NnhqM3hhMzhZYkxGbXBOWEd2c0VySQ?oc=5",
+      "link": "https://www.gninews.co.kr/news/article.html?no=853312",
       "source": "중부시사신문",
       "published": "2026-09-01T15:50:34+09:00"
     },
@@ -4314,6 +4770,12 @@
       "title": "민주당 경찰개혁추진단 1차 회의에서 인사하는 김민석 대표",
       "link": "https://news.nate.com/view/20260901n27651?isq=11000&mid=n0203",
       "source": "네이트",
+      "published": "2026-09-01T15:50:00+09:00"
+    },
+    {
+      "title": "민주당 경찰개혁추진단 1차 회의에서 인사하는 김민석 대표",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xOG5QSWZwd3A4Yjk1Sll6Z09ZTzhYSjdhRS1PcnEzNk1EdTVlT1VYLXdHdEktMWczUHZydHVWajdjZTl4a2tpc3hNYzIzR2dZX2lVNmluQlVJUDExYkVMRC1lTDZjdTJJZzlaWG1n?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T15:50:00+09:00"
     },
     {
@@ -4367,7 +4829,7 @@
     },
     {
       "title": "건보공단 ‘수사의뢰서’ 유출 의혹…고발 4개월 만에 멈춘 경찰 수사",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsQk5INWVzcXRWUEJTUTRSV21ZVjlWNDNRR0JKOFhMRG5ySl9sLWsxeThVS012QURsSnhKYmYxYW1uRUJ3M3dfamtEVTUycE9USUdpUEloU0IyVzFucC10SjBfWmpZTkx5Y2Z5cU56ZC10WGxOdEHSAWZBVV95cUxPcnJuZUtLdERGaGkxUW0zVWVqTmVmR0t5ejJsOTNSRUpoVmJEVWozTVhEUG04eDFIMlBEX3JXVXg1ZjkwT2dQRTFNUThPcXVSWmtPRDB4T2M1UUduVkRrWkJCaFRRMVE?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260901/134583693/2",
       "source": "donga.com",
       "published": "2026-09-01T15:41:00+09:00"
     },
@@ -4434,15 +4896,33 @@
       "published": "2026-09-01T15:30:25+09:00"
     },
     {
+      "title": "가을 낚시철 ‘인산인해’… 해경, 사고 잦은 9~10월 안전관리 고삐 죈다",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFblFxcE9JejRFM0pUX1hFUTRFbzB6ZTF2ekpycHhySU91YUlMaVhmTFl0cVZ0a1ZraEhucmdoNVpsNWhqV0VmN19pV3hZaW1n?oc=5",
+      "source": "munhwa.com",
+      "published": "2026-09-01T15:30:25+09:00"
+    },
+    {
       "title": "주낙영 경주시장 선거법 위반 혐의 잇따라 수사…‘쪼개기 수사’ 논란도 불거져",
       "link": "https://v.daum.net/v/20260901153003210",
       "source": "v.daum.net",
       "published": "2026-09-01T15:30:03+09:00"
     },
     {
+      "title": "송파구, 고령층 대상 AI 보이스피싱 탐지 앱 '보이스쉴드' 실증",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41elhwSDJ0cmxSdEdVenpMZno2djYzYUl1Rm8zTlRmdjBWY015cDJfRG9nbmFCTUlmb2ZJZU5HbjZnMmVzVnk0MVpOc3BEejFkLXY4?oc=5",
+      "source": "news.nate.com",
+      "published": "2026-09-01T15:28:00+09:00"
+    },
+    {
       "title": "\"얼른 타!\" 바빠진 태국 경찰‥美 링컨함 입항에 '긴장'",
       "link": "https://imnews.imbc.com/news/2026/world/article/6848848_36925.html",
       "source": "MBC 뉴스",
+      "published": "2026-09-01T15:27:50+09:00"
+    },
+    {
+      "title": "\"얼른 타!\" 바빠진 태국 경찰‥美 링컨함 입항에 '긴장'",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yNUppNnQ5WG9INWtUMWNSOS1iNk5Zb2xBNkVxSzFPa3E4N09WbC1Gd3FBeS0xZjd4Q0RESjNRVDRpaE1LYmZUeEx3aHotSWJOSDdPNjdtNU5HLVRaYWlVeFZZVUM4TGdnUlRvTlRPc3lPeUFD0gF0QVVfeXFMUFl2WUY4aVo5TVc2NTVpZFQ0aTlrWVQ1OE8zWE5iZDhFdDBRU290T1UxRkZLcVhrakFOekpQanh4VXVoZHZNODloZXBfLXVxQ0JPVEZVeXBfd3podUlTUi1DRWZBOTNPLVFnMFdSUHdMLVI2TnM?oc=5",
+      "source": "imnews.imbc.com",
       "published": "2026-09-01T15:27:50+09:00"
     },
     {
@@ -4473,6 +4953,12 @@
       "title": "해경, 가을 성어기 낚시어선 안전관리 강화…\"과실 사고 예방 총력\"",
       "link": "https://www.newstomato.com/ReadNews.aspx?no=1312123",
       "source": "뉴스토마토",
+      "published": "2026-09-01T15:12:43+09:00"
+    },
+    {
+      "title": "해경, 가을 성어기 낚시어선 안전관리 강화…\"과실 사고 예방 총력\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13endId2t5UTkzclg2bFFZd2liV1F0aXB0WURCbkRER3FPZWhPc0ltcFJldE54ek9UNVc3VnA2MjJVY3ZYVDcyM0N0dzc3eVBnLVZkTV90T2lHVlNaN01zNw?oc=5",
+      "source": "newstomato.com",
       "published": "2026-09-01T15:12:43+09:00"
     },
     {
@@ -4621,6 +5107,12 @@
       "published": "2026-09-01T14:42:00+09:00"
     },
     {
+      "title": "[종합] \"일 늘어날까봐\" 실종 허위 종결…제주경찰, 25건 추가 확인",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBazMxMzBNZ3lmXzBybkliNUxMOUdPM2hvdTROZ1J1VHJMLVhCbHdydEFaazhNbE84djNMaDVDOWp3UWNOeExtQ0duQUlmcXB5ZU9sYW41aTY2QmF3?oc=5",
+      "source": "newspim.com",
+      "published": "2026-09-01T14:42:00+09:00"
+    },
+    {
       "title": "고속도로 차량에 불길 치솟자 달려간 해군 부사관들…소화기 4대로 화재 진압",
       "link": "https://www.koreaeaglenews.com/news/articleView.html?idxno=104608",
       "source": "코리아이글뉴스",
@@ -4694,8 +5186,14 @@
     },
     {
       "title": "경찰, 공무원 '납품 비리 의혹' 계룡시청 압수수색",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CcHFsYldGSlRNaVJIZTBQRkJrbjFSUDIxLVl0NDRHYTgzVW5nQl9kWmpzVFF0d0I0am0zWnduajJOVS1pM09uaVUwNzAtajQ?oc=5",
+      "link": "https://tjmbc.co.kr/NewsArticle/859962",
       "source": "tjmbc.co.kr",
+      "published": "2026-09-01T14:27:55+09:00"
+    },
+    {
+      "title": "경찰, 공무원 '납품 비리 의혹' 계룡시청 압수수색",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CcHFsYldGSlRNaVJIZTBQRkJrbjFSUDIxLVl0NDRHYTgzVW5nQl9kWmpzVFF0d0I0am0zWnduajJOVS1pM09uaVUwNzAtajQ?oc=5",
+      "source": "대전MBC",
       "published": "2026-09-01T14:27:55+09:00"
     },
     {
@@ -4729,6 +5227,12 @@
       "published": "2026-09-01T14:24:00+09:00"
     },
     {
+      "title": "[사건현장] ’허위 종결’ 제주경찰, 거짓처리 25건 더 있었다",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtLTluaC1mMHZ3TGs1SUUtaXhUczdnR0lNQldLZFBSNWUycTI4U3QwVUg4bFBYaE1BNjNrd0phNGplYTlvSTc0bGJKTXZIdDJEbS0tQ1lEQzFldURlaG1HaFN5bUxSaGM?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2026-09-01T14:24:00+09:00"
+    },
+    {
       "title": "제주경찰, 실종 298건서 25건 추가 '부적정'… 10건은 안전 확인도 안 했다",
       "link": "https://v.daum.net/v/20260901142333366",
       "source": "v.daum.net",
@@ -4742,9 +5246,15 @@
     },
     {
       "title": "‘17억 보이스피싱’ 인출·세탁책 가담 20대 징역 4년6개월",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJTFZ4eFdZSDFvVmpIQkdRUENvUHdielcwbW5PM1lXU2dnNjhHYWVBQTJhTWxhSEJhVHA2RnZkTHI2WnJxMVlBZ2x0UVAzZXdDbnc1Y1VLbTVybFotVk84QjhLLXhDTlpoRjEybFBYTy1KejNYT0HSAWZBVV95cUxOWVNhYXI5S1pNSUFfamdUblpaamlJS3puQ3N2S21laE1CX2Q3RmxKN0x0UENtb3ZFeTdPeDBwMFFrZldmVmszUm1RbExlN29GNktXYmFDMm1yc1l0OThBVEJrTi1kTlE?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260901/134582917/1",
       "source": "donga.com",
       "published": "2026-09-01T14:22:52+09:00"
+    },
+    {
+      "title": "[단독] 사우나서 집단 음란행위…그 경찰, 6개월 만에 약식기소",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcFNzTVJpLUNNZEE3U0FtRW5keFlEVGJTbmg5dzEyaVNCQm9XODQ5eWVrZVBMNktwcS1fYkJQUmZIMHFaY2k4X0ZUb0toS05jV0lmTWVn?oc=5",
+      "source": "joongang.co.kr",
+      "published": "2026-09-01T14:22:40+09:00"
     },
     {
       "title": "‘면허취소 수준’ 음주운전으로 강등된 경찰관…“징계 가혹” 소송 결과는?",
@@ -4763,6 +5273,12 @@
       "title": "AI가 실시간 탐지·경보…송파구, 고령층 보이스피싱 막는다",
       "link": "https://news.nate.com/view/20260901n22169",
       "source": "네이트",
+      "published": "2026-09-01T14:18:00+09:00"
+    },
+    {
+      "title": "AI가 실시간 탐지·경보…송파구, 고령층 보이스피싱 막는다",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93Vk1OdmhtSzYyNURpanpEMVJvYjlXV2ZWbnAtNFRDd3FTMGF4T2RYTUo2dTRjMVYtRlExNy1vZWhvbE0xMWVlQUtaSDlfZFByQTl3?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T14:18:00+09:00"
     },
     {
@@ -4806,6 +5322,12 @@
       "title": "음주운전 강등된 경찰 소송에 법원 \"징계 정당\"",
       "link": "https://news.nate.com/view/20260901n21423",
       "source": "네이트",
+      "published": "2026-09-01T14:02:00+09:00"
+    },
+    {
+      "title": "음주운전 강등된 경찰 소송에 법원 \"징계 정당\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wcE0tQ0U2dzJJQjRkU1NhdzVIekhGVGFpSGQwYUhqdGpudC1DaXZqRVFodHVpT2taZlZiRkp2SHhid09yTkppUHV5azJ6a1RqaWhj?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T14:02:00+09:00"
     },
     {
@@ -4859,7 +5381,7 @@
     },
     {
       "title": "“허위종결 탄로 날까 봐”…부 경장, ‘교통사고 사망’ 입력해 목록서 삭제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wSlkybDBtQmFvd0N2aV8zaENaMzNWb084emgycmhCV1dRY0VjVGFyX3RWeEJxN2xJbDNrc0p3QnB1LUJKaWRVUGNMUHIzUWxVcFNLSkI3Tll2aFhYUS10NXktZkluNzhDVE1Z?oc=5",
+      "link": "https://www.newsjeju.net/news/articleView.html?idxno=425198",
       "source": "newsjeju.net",
       "published": "2026-09-01T13:49:44+09:00"
     },
@@ -4961,6 +5483,12 @@
       "published": "2026-09-01T13:35:41+09:00"
     },
     {
+      "title": "대법, ‘황의조 수사정보 누설’ 경찰 무죄 취지 파기환송",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Jd3N0QXJQaGQ3MkpsNVJsTTFtTUM3OU1YSjE0VHdxb2dyNUVjVzVyandNaTNkcjRrSzZ4WGNjS1lZR0lwQ1JWNWpYMjB0SnhlYWZRNzJn?oc=5",
+      "source": "joongang.co.kr",
+      "published": "2026-09-01T13:35:41+09:00"
+    },
+    {
       "title": "김제시청 태권도팀, 2026년도 경찰청장기 무도대회 참가…박예온 선수 금빛발차기",
       "link": "https://www.domin.co.kr/news/articleView.html?idxno=1567076&sc_section_code=S1N4",
       "source": "전북도민일보",
@@ -5050,7 +5578,14 @@
       "title": "종교계, 가습기살균제 참사 희생자 추모",
       "link": "https://www.logosian.com/news/articleView.html?idxno=13250",
       "source": "평화나무",
-      "published": "2026-09-01T13:09:12+09:00"
+      "published": "2026-09-01T13:09:12+09:00",
+      "summary": "가습기살균제 참사 희생자들을 추모하기 위해 4대 종단이 함께 뜻을 모았다.31일 오전 11시 서울 광화문 광장에서 진행된 가습기살균제 참사 4대 종단 추모제가 진행됐다. 개신교·불교·원불교·천주교 4대 종단 공동으로 주관한 이번 추모제는 가습기살균제 참사 피해자와 희생…"
+    },
+    {
+      "title": "경찰, 인천시교육감 선거사무원 3명 선거법 위반 수사",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mYlVpUjR4QnZiblQwNXVKTXZGV0FWamFWbFM3NU9BMmZ1WU9jY2x4M2h4ZkkxUE1UZlFYWE5zTGJ3N1F5cXhoTmdNRVROVWpYZ2VuYVFZX0pENFU?oc=5",
+      "source": "경기일보",
+      "published": "2026-09-01T13:08:22+09:00"
     },
     {
       "title": "이 대통령 “경찰 대다수 최선 다해…미꾸라지 몇몇이 명예 손상”",
@@ -5084,7 +5619,7 @@
     },
     {
       "title": "부 경장, 실종 허위해제·종결 더 있었다…25건 추가 적발",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJbVZQOXNqYVVDODNyZTYtLWVfQUp4WjBDQlJsRGJZZXNReDExMEdjTEtwZjhHdlV5SzNIWWhLVGpPSFI4QXZQbFZjeHZYaW5YZ3lVZU1iRnRSMjZUU2szelpLakhQUWpFcW1IY3VVdGhHeXp6UmfSAWZBVV95cUxOWjZLckJaMXVoWmFYMFRZNWNsZ01GTFptS0VLV3pLNUhsdkpYV1R2Y29KcmpzT3Qtd1VTLWh3OUM2MmFmeGpkQ1hnazdMVFlpdGJzSUw3VFBYRUtaa3V6QXBLRkdzMEE?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260901/134582314/1",
       "source": "donga.com",
       "published": "2026-09-01T12:52:15+09:00"
     },
@@ -5099,6 +5634,12 @@
       "title": "대치2동 - 통장 대상 민생범죄 예방ㆍ신고 교육",
       "link": "http://m.ignnews.co.kr/news/articleView.html?idxno=19670",
       "source": "강남내일신문",
+      "published": "2026-09-01T12:36:39+09:00"
+    },
+    {
+      "title": "대치2동 - 통장 대상 민생범죄 예방ㆍ신고 교육",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1INmdEV0JUa0JkU0JMR3lIdFpzN2dqSW83bHF1dlhpTVlEbFBiZjNxcmFyYThMNWxsLVRIUmVQaVR2STN3bXB5LTJiR184NmFvUTFBUUh3ZzE0blpyX2tBcTUxVmw3czg?oc=5",
+      "source": "ignnews.co.kr",
       "published": "2026-09-01T12:36:39+09:00"
     },
     {
@@ -5133,7 +5674,7 @@
     },
     {
       "title": "울진해경, 국제연안정화의 날 기념 ‘해양환경 퀴즈 이벤트’ 진행",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xTzV5QzRvSHdDODd4NXJzWXNzNFhEazZUaEFDMmhLVkNienRiOGF0cjUzYVM1YzJzQW0tWGlnZmZIQks5UHJNNGE5bW52bXpUWGlTc25oZXZWTTROSGlYcU5XLWNxOS1SMEFMSg?oc=5",
+      "link": "http://www.skypress.co.kr/news/articleView.html?idxno=132564",
       "source": "skypress.co.kr",
       "published": "2026-09-01T12:25:26+09:00"
     },
@@ -5164,7 +5705,7 @@
     },
     {
       "title": "전북서 폭우에 실종된 노인 2명 숨진 채 발견",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4WDhsUXltU2tXUURFRW1HeUlydHBYYmF1SE43VFA2NnNIX0tUWVVpMUZ2LXlxMlpFVWZPUHBneUFUcm9JOF9mUlk0Zm5Hb0FsT0lScFp2V1ZRdw?oc=5",
+      "link": "https://www.fnnews.com/news/202609011213429912",
       "source": "파이낸셜뉴스",
       "published": "2026-09-01T12:17:26+09:00"
     },
@@ -5194,7 +5735,7 @@
     },
     {
       "title": "“일 많아질까봐”…실종사건 ‘허위 종결’ 혐의 제주 경찰관, 검찰 송치",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84cUhvcFhPRDdyQ3NxNU92cE1vbTFtRnVFSTdQcEttNGdkelk3VGVXdXN0bEhKNy1pSEZpVXlITVItRi05ZVZZNXZTd3g1dFNsQzFkLUdIQkkwdw?oc=5",
+      "link": "https://www.nongmin.com/article/20260901500207",
       "source": "nongmin.com",
       "published": "2026-09-01T12:08:00+09:00"
     },
@@ -5254,7 +5795,7 @@
     },
     {
       "title": "“성인이라 안일하게 생각했다” 제주 실종사건 허위종결 전말",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WNkFpNDZtQ2ptd204MWJBNHhYOHVCa2N0VWhVRF8xLVpOeGtVNm5VX1FTM3FrRTlCVUZfVHF2OFdicWJWVUNfWWVudHNJdVB1aGlielpzU0hjQdIBX0FVX3lxTE1PZ0xmVnZkZEhiRlR1TUF3X09uSXgxTzE1ZkpTX0Z4a24zd1F1ZVRfalVLb2JfRzRQM2tLZGFZWUdRcU9CSV9vZDExTzI4YzhkMGY3UDVGdjVTYXVUeXZJ?oc=5",
+      "link": "https://www.khan.co.kr/article/202609011156001",
       "source": "경향신문",
       "published": "2026-09-01T11:56:00+09:00"
     },
@@ -5262,6 +5803,12 @@
       "title": "[속보] 경부고속도로 화물차 화재사고 처리 중…4차로 차단",
       "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=456836",
       "source": "스페셜타임스",
+      "published": "2026-09-01T11:54:06+09:00"
+    },
+    {
+      "title": "[속보] 경부고속도로 화물차 화재사고 처리 중…4차로 차단",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04RFJHRk1QZ0Vxc0I4UGZGZnluZFVVblF3LUM0RTFfQlJHeVFaU3QxSmNQMlZHcGpIN2RVZmZZOVMtT0lEejM4UnppMHp1ZFBfSEQwUktFU2lSMG10Xy1jSldmMFRxeHNqMkdlZGM5S1BVU0k?oc=5",
+      "source": "specialtimes.co.kr",
       "published": "2026-09-01T11:54:06+09:00"
     },
     {
@@ -5286,6 +5833,12 @@
       "title": "YG, 생각보다 더 뻔뻔…'시야 참사' 벌여놓고 '자찬'[MD이슈]",
       "link": "https://news.nate.com/view/20260901n16212",
       "source": "네이트",
+      "published": "2026-09-01T11:49:00+09:00"
+    },
+    {
+      "title": "YG, 생각보다 더 뻔뻔…'시야 참사' 벌여놓고 '자찬'[MD이슈]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41dDdYSmlvQUl5NDJyMFhLeEZ6X0tlb1F3cmp1eDRKRE5nNXBBSk5oOTVOV3d2aTcxZXE5UVQzby16QWMtMWd3M1o3eTFsVnZBUEd3?oc=5",
+      "source": "news.nate.com",
       "published": "2026-09-01T11:49:00+09:00"
     },
     {
@@ -5314,39 +5867,40 @@
     },
     {
       "title": "태안해경, 고장난 쭈꾸미 낚시어선 승선원 15명 전원 구조",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14Vk9BQ2tpdnJ6UUM4WHVQbXR1QzBQWXJFRWc2OFk3TFhBZG5XYWhMWmNxNDhkbVJ2TTVVRllUUnFQNDVTclhFQ0txbi13blBsSHU4Nmx5YUxseXE0Z1JFT05yNlotM1lXcktvVg?oc=5",
+      "link": "https://www.cartvnews.com/news/articleView.html?idxno=702256",
       "source": "교통뉴스",
       "published": "2026-09-01T11:41:39+09:00"
     },
     {
       "title": "8억7000만원대 도박에 음주운전까지…개그맨 이진호 1심 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjT0xDVHFwLVd4OGd1bUlQamVQZDM3Nk9VdjRtMWRpckoxTWNlUDBsZ25LZFVsc09HSnBYS2ZGVGx0dGIwaVZvbVZWSzdSMnpaRnNScVo4THJ5elhVSWFZblN3NHFReUJ6S1NCRmE4Qnc?oc=5",
+      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1330915",
       "source": "인천일보",
       "published": "2026-09-01T11:41:00+09:00"
     },
     {
       "title": "“광화문에서 투쟁해 달라”던 유언, 1958명의 이름으로 남다",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52V2E1SEFOTGxaQ1hyLU5BbG90T2pHYXZtdktiemJfX085RGwwNmp1LTR6azNhU05LMXZxMUFiYnpDRTBwUWhWd0JlWWZVTUJiNXp6Y0YyMEdwb0c5VVB5bW1JWl8ydG5YVGhn?oc=5",
+      "link": "https://www.ecumenian.com/news/articleView.html?idxno=31888",
       "source": "에큐메니안",
       "published": "2026-09-01T11:37:05+09:00"
     },
     {
       "title": "'술 냄새나네?'…시비 붙은 음주운전 신고자 밀치고 도주한 60대",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lQ3oxTnlxdEV4NGEwenk0ZWVIR255UXo4TU14alZGbE8tdEFjZGUxX0J6LWhkZ1ZDZlZWN196b3hVTUd2WXVSNWpWZVk5NmZPMFVfStIBWkFVX3lxTE9oZi01WHlKNXZjNF9MMm5pYTVxUFN0NEFmTlNoMG40Vk5nRjZNQ0JWYVMtSzhkY2JnRE8wOHV3WGEzTXVBaVQ2QXV1cXJHWU9NNWZuWTNGN1hkQQ?oc=5",
+      "link": "https://www.news1.kr/local/jeonbuk/6276023",
       "source": "뉴스1",
       "published": "2026-09-01T11:37:04+09:00"
     },
     {
       "title": "'술 냄새나네?'…시비 붙은 음주운전 신고자 밀치고 도주한 60대",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lQ3oxTnlxdEV4NGEwenk0ZWVIR255UXo4TU14alZGbE8tdEFjZGUxX0J6LWhkZ1ZDZlZWN196b3hVTUd2WXVSNWpWZVk5NmZPMFVfStIBWkFVX3lxTE9oZi01WHlKNXZjNF9MMm5pYTVxUFN0NEFmTlNoMG40Vk5nRjZNQ0JWYVMtSzhkY2JnRE8wOHV3WGEzTXVBaVQ2QXV1cXJHWU9NNWZuWTNGN1hkQQ?oc=5",
+      "link": "https://www.news1.kr/local/jeonbuk/6276023",
       "source": "news1.kr",
       "published": "2026-09-01T11:37:04+09:00"
     },
     {
       "title": "평택시, 교통사고 현장에서 부상자 도운 시민에게 모범시민 표창",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNa3Y0RDY2aVN0LVBKTWFCVmVUaWJpV1ZSdEg5RTlxR0lRby1Bd1FpTG54Sld2TTNkczZXeW1OTktaM3YwdGhDSWozOW5kNXpXOC1OS2lXcTlDMjAyRkNJOHlRcmU?oc=5",
+      "link": "https://www.kns.tv/news/articleView.html?idxno=1015558",
       "source": "KNS뉴스통신",
-      "published": "2026-09-01T11:36:33+09:00"
+      "published": "2026-09-01T11:36:33+09:00",
+      "summary": "평택시는 31일 시장 집무실에서 교통사고 현장에서 부상자를 돕기 위해 솔선수범한 고덕동 시민 김가을 씨에게 모범시민 표창장을 수여했다.김가을 씨는 지난 7월 14일 고덕국제대로 77번지 힐스테이트센트럴 사거리에서 발생한 버스와 오토바이 간 교통사고 현장을 목격하고 부상…"
     },
     {
       "title": "[속보] 경찰 \"부 경장 '허위 종결' 사건 25건 추가 적발\"",
@@ -5357,19 +5911,25 @@
     },
     {
       "title": "“AI로 보이스피싱 막아요”… 송파구, 어르신에 시범도입",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pa2VtNFdjZWRTT3hvWTVQVXUtb2txMlNUQzdGeGtWN1E5QUNOYkRpcVE1REotcFpOcG83U2NXcVJEUk1iM0NMTUFRM2tRcTNK?oc=5",
+      "link": "https://www.munhwa.com/article/11613596",
       "source": "문화일보",
       "published": "2026-09-01T11:32:27+09:00"
     },
     {
+      "title": "“AI로 보이스피싱 막아요”… 송파구, 어르신에 시범도입",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pa2VtNFdjZWRTT3hvWTVQVXUtb2txMlNUQzdGeGtWN1E5QUNOYkRpcVE1REotcFpOcG83U2NXcVJEUk1iM0NMTUFRM2tRcTNK?oc=5",
+      "source": "munhwa.com",
+      "published": "2026-09-01T11:32:27+09:00"
+    },
+    {
       "title": "\"일 많아질까 봐\"…실종신고 덮은 부 경장의 변명",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ld29JN04wV2k4NWpQa2YxZVJtd0JvWXJ0WXNrQ3FfemRHU2RpOTZ6bUpzQ2VrTDNzcGw4c0w1Um90Wk9acGllUVhoeGFoLWpjYnRTVw?oc=5",
+      "link": "https://news.jtbc.co.kr/article/NB12316077",
       "source": "JTBC",
       "published": "2026-09-01T11:32:00+09:00"
     },
     {
       "title": "\"일 많아질까 봐\"…실종신고 덮은 부 경장의 변명",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ld29JN04wV2k4NWpQa2YxZVJtd0JvWXJ0WXNrQ3FfemRHU2RpOTZ6bUpzQ2VrTDNzcGw4c0w1Um90Wk9acGllUVhoeGFoLWpjYnRTVw?oc=5",
+      "link": "https://news.jtbc.co.kr/article/NB12316077",
       "source": "news.jtbc.co.kr",
       "published": "2026-09-01T11:32:00+09:00"
     },
@@ -5382,19 +5942,20 @@
     },
     {
       "title": "'21억대' 사기 혐의에도 불송치 경찰관…경찰 보완수사",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qbjNfS2wwSnFCNXNnWHp4UUJfYm5TSVhZYy1RaHBWaDJIbXFYOWtXYWhaYXNZWWFkMHJTa0xMNmcyZFBubVg1cWR3WW9ELWw1RkNuR2pHMnJNS2VvblU2LdIBeEFVX3lxTE4tQVUxTlhQbnRXZ1lDVF9mb2pwY0p2ZHBDTmhIY0c4aE91Vm42SnI5b2dqOTlKY0NrTkZvZkZrWUlQOUJUdkUxV1IzRWlMeDFEd2JzTUVaOWRGRm9nMERKNW1IM0RhendxdUY4ZENpQkpYbThGSGo2LQ?oc=5",
+      "link": "https://www.newsis.com/view/NISX20260901_0003771256",
       "source": "뉴시스",
-      "published": "2026-09-01T11:31:30+09:00"
+      "published": "2026-09-01T11:31:30+09:00",
+      "summary": "21억원대 사기 혐의로 수사를 받고 불송치 결정이 난 현직 경찰관에 대해 고소인 측의 이의신청이 접수되면서 경찰이 보완수사에 나섰다.인천경찰청 반부패경제범죄수사대는 특정경제범죄가중처벌법상 사기 등 혐의로 고소된 모 경찰서 소속 A경위 사건을 다시 수사하고 있다고 1일…"
     },
     {
       "title": "진천소방서, 광혜원면 공장 화재 현장대응활동 검토회의 개최",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03SjlxbjdsQzY4eXQ2XzBPY2t0bEZ6cjg2THNBRS1ManIzdjh3Z3pVWEd5NWZDakRoeWQ0MTM2QkE5V0hSb2c?oc=5",
+      "link": "https://www.fpn119.co.kr/255947",
       "source": "FPN-소방방재신문",
       "published": "2026-09-01T11:30:00+09:00"
     },
     {
       "title": "[단독] 현직 총경 음주운전 뒤 '강등 취소해달라' 소송냈다 패소…법원 \"경찰 기강 확립해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tRUw3eWpZMzkxZk5IT25UNk8wVGZ5Nl9MXzNFQWE3ZFZacEhuWmpKUlVHMnJGLThVN0tNdTF4eUJmbHVRaGc?oc=5",
+      "link": "https://v.daum.net/v/xaB81JGh3U",
       "source": "v.daum.net",
       "published": "2026-09-01T11:29:16+09:00"
     },
@@ -5407,67 +5968,68 @@
     },
     {
       "title": "[단독] 현직 총경 음주운전 뒤 ‘강등 취소해달라’ 소송냈다 패소…법원 \"경찰 기강 확립해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMb3B6cUNYM3p5Yy1qdU9YVWVIUWEyb1FSX0paUXNBNEFSUU9zWVQtQnRqSnBjcnJuZzJzTlRIU2dhOGZMMHA3QUl0NkZaUTFYLVBDSA?oc=5",
+      "link": "https://news.jtbc.co.kr/article/NB12316075",
       "source": "news.jtbc.co.kr",
       "published": "2026-09-01T11:29:00+09:00"
     },
     {
       "title": "만취 운전하다 오토바이 운전자와 시비붙자 도주…60대 조사",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0QXJjMU83cklhTEpaWUhMNjZyd0pOSjBMcFJFNk12andBa0EwVXBxTnZ4MFpwLTU0ZVM2V3VWWVJiMDAwZ3pFaGl2NGZhOFlDblduYjQ1V0JLUDTSAWBBVV95cUxQOVVZRnJEZ0YyR0c3TmY0dk1vdUNGLTJrVHZRelYwSnF0X0U3aU5WNkJOalNxZWRQLWQ5ZnVyX1haUWxzeVJqQ214aFBfdjhYdnJSajBHeVRCNXdTQlNxTVY?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20260901093200055",
       "source": "연합뉴스",
       "published": "2026-09-01T11:26:22+09:00"
     },
     {
       "title": "경찰, 인천교육감 캠프 관계자 ‘선거법 위반 혐의’ 수사 착수",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnWWtlajhCNTVYVG9OQUxzcWJpcUR0VzU5Ym9NanMxUHRMTGQtcWtucDVRS0hTY1N6VmJpaFNwYTJHaEVGQ1FDRC1ZVlpzX0stOHUtMEZzVjktTXM?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8651346",
       "source": "KBS 뉴스",
       "published": "2026-09-01T11:26:00+09:00"
     },
     {
       "title": "이 대통령 \"제주 실종 국민 우려 커…실종사건 최종 책임자 명확히\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZ0RXcm9BTmg1YzRUTWNJc29oTklnTVpZTzhNNGZ1THl4bFhuUzNhejlCQWNHSW5fMk1iaTBGcFVqSkZ6Y0YteEFKbExrM19ScWdhUFZ2X1ZKWDhISnBtb3FERnRBZXc?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260901112434J5S",
       "source": "연합뉴스TV",
       "published": "2026-09-01T11:24:00+09:00"
     },
     {
       "title": "이 대통령 \"제주 실종 국민 우려 커…실종사건 최종 책임자 명확히\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZ0RXcm9BTmg1YzRUTWNJc29oTklnTVpZTzhNNGZ1THl4bFhuUzNhejlCQWNHSW5fMk1iaTBGcFVqSkZ6Y0YteEFKbExrM19ScWdhUFZ2X1ZKWDhISnBtb3FERnRBZXc?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260901112434J5S",
       "source": "yonhapnewstv.co.kr",
       "published": "2026-09-01T11:24:00+09:00"
     },
     {
       "title": "실종 허위 종결 부 경장 \"일 덜기 위해 범행\"‥\"거짓 종결 25건 더\"",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XaEdUUlBqeEtXU0lQZDNZWWxvY29DYndwSFRGTGFtUXNTWVVneWlDZ0tScnpTMWpRSVhxSVVSbk95b3pyRm9TLTVCRHI0X1Z4RHZjWlQwQXBWZlFhNkgzZnhTZ25VdXRzUTQwWUJhd003YU9MeHJ30gF3QVVfeXFMTnMxemxSZFVKa1FGcGJsMFc3ckhKSC05bXdyYmk3MUVHcmZPQnVTeGV6MDNPUGFNSmgtQlh2UEt4ZU5DcUFyLVVzTmJDakdZQmtYbDFOMnFZSW1XV0gzb2xHdERFQ0I5LTNkV2lpbU0xNWl2NkhnZGM?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6848775_36918.html",
       "source": "MBC 뉴스",
       "published": "2026-09-01T11:23:19+09:00"
     },
     {
       "title": "실종 허위 종결 부 경장 \"일 덜기 위해 범행\"‥\"거짓 종결 25건 더\"",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XaEdUUlBqeEtXU0lQZDNZWWxvY29DYndwSFRGTGFtUXNTWVVneWlDZ0tScnpTMWpRSVhxSVVSbk95b3pyRm9TLTVCRHI0X1Z4RHZjWlQwQXBWZlFhNkgzZnhTZ25VdXRzUTQwWUJhd003YU9MeHJ30gF3QVVfeXFMTnMxemxSZFVKa1FGcGJsMFc3ckhKSC05bXdyYmk3MUVHcmZPQnVTeGV6MDNPUGFNSmgtQlh2UEt4ZU5DcUFyLVVzTmJDakdZQmtYbDFOMnFZSW1XV0gzb2xHdERFQ0I5LTNkV2lpbU0xNWl2NkhnZGM?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6848775_36918.html",
       "source": "imnews.imbc.com",
-      "published": "2026-09-01T11:23:19+09:00"
+      "published": "2026-09-01T11:23:19+09:00",
+      "summary": "실종 신고를 허위로 종결한 경찰관이 사건 인계에 대한 부담을 느끼고 일을 덜기 위해 범행했다고 진술했습니다. 제주경찰청 브리핑에 따르면 구속된 부 모 경장은 \"실종자가 일반적인 성..."
     },
     {
       "title": "‘수감자들 외부에 편지 보내 스포츠 도박’ 의혹…경찰 수사",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXhWa0pSVlFxUTB0RVVfWTFtWGRPQ3ZZRk05VnVmWmlaejkwVTFheDJ5RlppOXRESmtzVXBMcWs1RU1EWThXLXQxX2NVSGd5VmptenpXOGpsUWtDQWx5dW1ib0k0UTItQUs0YVptVElsSlNnaUViMFZsMjhUVkxXYXcwUTlnZw?oc=5",
+      "link": "https://www.chosun.com/national/incident/2026/09/01/MGZ3CMWMPRCVJGMRPUYOQRNPTM/",
       "source": "조선일보",
       "published": "2026-09-01T11:23:12+09:00"
     },
     {
       "title": "李대통령 \"네팔 실종국민 조기수색 만전…인력·헬기 추가투입\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lWWlSTmtnbEc5bVFheXFzaGJETnpQXzFXVGowQWpzQ1Q1aUdQRWhnWjU3d3h4djlDOGxIcC1UT0R2dVVYYk55eVk5T3dSbWJYb3M0RHhGMkhTY29WZnRVZ9IBYEFVX3lxTE9lWWlSTmtnbEc5bVFheXFzaGJETnpQXzFXVGowQWpzQ1Q1aUdQRWhnWjU3d3h4djlDOGxIcC1UT0R2dVVYYk55eVk5T3dSbWJYb3M0RHhGMkhTY29WZnRVZw?oc=5",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260901087800001",
       "source": "연합뉴스",
       "published": "2026-09-01T11:19:21+09:00"
     },
     {
       "title": "664회 상습도박·70㎞ 음주운전한 ‘웅이 아버지’…개그맨 이진호 1심 ‘집유’",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzNzZXU0gwUXU1X1NuclMxVzNfaWE0bko4dHE1N2JNT0FJeGh1cGQyS0F5X0R3enByUC1GT0g1bm01ZGNZVW9fMzdHME9ReWM?oc=5",
+      "link": "https://v.daum.net/v/20260901111610158",
       "source": "v.daum.net",
       "published": "2026-09-01T11:16:00+09:00"
     },
     {
       "title": "8억대 불법도박에 70㎞ 음주운전…이진호, 1심서 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMODNtNmJHOFNUVmZ1akUzejdBVy15cXNaM3hYc3RnSE5YT09LdG1oZXkzQ0lwT2tublZKbkdNZjdQZkRGSG1GNk96T0Y5SnFuNHp1QVl1aU9ILUt6UUtJc3pfdWtSb09Kay15QkVn?oc=5",
+      "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=179135",
       "source": "알파경제",
       "published": "2026-09-01T11:15:36+09:00"
     },
@@ -5480,37 +6042,37 @@
     },
     {
       "title": "울진해경, 해양환경 퀴즈 이벤트 진행",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LdnAwdnN0TjdjRXhETkp2VHZzMDVGc3JOY1hDRjdjOG0xajdrQV9uSVpRekpGQ2RHbjNMMXozbks4TkNOQUEyc0dNMjhwSXc5eE5DQm5YVzU?oc=5",
+      "link": "https://www.kbsm.net/news/view.php?idx=532376",
       "source": "경북신문",
       "published": "2026-09-01T11:15:35+09:00"
     },
     {
       "title": "\"하루하루 후회\"...'상습 도박·음주운전' 이진호, 1심서 '징역형 집유'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ic0FVWklMMTZ4eU4zUEwzUDJ5a0hMWmxJc3pYc2FWbXM4TURzSmg1X2h5Nlo3dEgtZDZXMVRKZjFpOHM0OHdDUWVIWEIwX3JKcWRNOUMtT0Q5QQ?oc=5",
+      "link": "https://www.fnnews.com/news/202609011047213086",
       "source": "파이낸셜뉴스",
       "published": "2026-09-01T11:13:49+09:00"
     },
     {
       "title": "'상습 도박·음주운전' 이진호, 1심 징역형 집행유예…양형 이유는 '반성'",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxZ0ZKZWlmNmJhb25vWHJrS1RidlFxTEItMk0ySko1QXlWcEc3Ynpzd1FnRlFodWlQakJZY21pdEtyRmNtcGpoaENGTGYwUnN2aWQySw?oc=5",
+      "link": "https://www.osen.co.kr/article/G1112867089",
       "source": "OSEN",
       "published": "2026-09-01T11:13:00+09:00"
     },
     {
       "title": "'상습도박·음주운전' 개그맨 이진호 1심서 집유 … 교도소행 면했다",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRelVTMlRXNXJnSmJEYjluV3BoVzR1WnpwanFfZDlqMWM0Q0dETmc0TXNYUnJoa0NNQWJsaGVNdVRiMzREcloxUE9Qek9SeGtiXzFuTXJ0V0ZmbmtlUm1BaFE5emhlU05UMkJ4QW1sUHJnYkpjbzEyVHFtQdIBgAFBVV95cUxQTWlYUGxETVVaUmRVYVdTaHJqZWVDN29hMWJXcXpGSHA1R0o3WkhWcmFQcGl1T25CSk9CVWpkX2F1UDZNNUNiTi1WSmRRbVd6c01DaTVjQnYyUzhxUVpLdF9obGd4Z2xOTk56aEpMeGRSY2xpY1owYVlVQ3ltT2tXYg?oc=5",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/09/01/2026090100156.html",
       "source": "뉴데일리",
       "published": "2026-09-01T11:12:55+09:00"
     },
     {
       "title": "'상습도박 8억 7,000만 원·음주운전' 개그맨 이진호, 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oRlRTaEphMzhDcWJpQUh0VFdKT2xhVjViUERRSlo1VTR5WC1wa3pLY19hVllkWi1ENnFXZUxUT1RoV3JNOHBTcl82YkhXNTdHczNDV1V5T2lQekdpcTlKTA?oc=5",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202609010026",
       "source": "KBC광주방송",
       "published": "2026-09-01T11:11:14+09:00"
     },
     {
       "title": "'상습도박 8억 7,000만 원·음주운전' 개그맨 이진호, 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oRlRTaEphMzhDcWJpQUh0VFdKT2xhVjViUERRSlo1VTR5WC1wa3pLY19hVllkWi1ENnFXZUxUT1RoV3JNOHBTcl82YkhXNTdHczNDV1V5T2lQekdpcTlKTA?oc=5",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202609010026",
       "source": "ikbc.co.kr",
       "published": "2026-09-01T11:11:14+09:00"
     },
@@ -5528,13 +6090,13 @@
     },
     {
       "title": "고속도로 차량 화재 진압해 추가 사고 막은 해군 부사관",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04UlVibUNvdFczRU1FWGwydjZlWS1FenpfU0lZaTZBNDl1QkZGUWFDWHdKMm1ISnBteVRBaVBEQll3WDJ0QnRHUURWd3lOcjZzd1h0LUVPRzA5X0VvU2pPRNIBeEFVX3lxTE14cDVYUGI3UXlJN0M4Rl9ELUYxNnFfYnBZd3RPNmdVcTVqS1NQT1BvMV9fTS1qdnVzaEdBVUdBZjBZODdzdWJnNHBaNndKNUVPMzM4RjRUcVdIWF9qNVctcmlQSk81T0NoTDVVWGFLUmNMdXB5TWdWdA?oc=5",
+      "link": "https://www.newsis.com/view/NISX20260901_0003771158",
       "source": "뉴시스",
       "published": "2026-09-01T11:08:15+09:00"
     },
     {
       "title": "이진호, 상습도박·음주운전 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0QlhqdmZKNmZoemtLLTRtM2Z6LXZCdHl4V0ZjWTQzMXhSRmxfN2ttZ2h3czVXN3M1cXJ0MUNBMzhoelBsMUZaY0hBS0NuMXNPME85eXMyVkhtZnhoYUNicm1aSnRLNHl5RWJuTUlB?oc=5",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1535964",
       "source": "OBS경인TV",
       "published": "2026-09-01T11:08:10+09:00"
     },
@@ -5546,85 +6108,93 @@
     },
     {
       "title": "이진호, 도박·음주 집행유예…징역 1년 6개월 집유 3년",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wOS01dFVtUEx0cUpPdXNJbi1rckFyVXdhZ0dnZldPZHpYa3p4OGlBeU9RYlBxcG8wTWpxemxwLVZrd210aWctTnpB?oc=5",
+      "link": "https://www.dispatch.co.kr/2347214",
       "source": "디스패치",
       "published": "2026-09-01T11:07:00+09:00"
     },
     {
       "title": "제주 자치경찰 관광지 불법촬영 단속 > 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXcEhySHVKTkFPMDEteTVHaERsZ01aT1ItZk5DS2pnVC1sNHZIb2c3VGw0Y09KQm5CY1ZPRHFOdnlyek9EMnBwei1fSENJVFZmQVNkdEIzN3ZrZ3VWbENSVzN0WjJQSHlwNWN0TWE3NUs?oc=5",
+      "link": "http://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=547454",
       "source": "더코리아",
       "published": "2026-09-01T11:06:00+09:00"
     },
     {
       "title": "‘상습도박·음주운전’ 개그맨 이진호, 1심서 징역 1년6개월 집유",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ld1R5b2h4MjZVMjRXZVpGSWdnWS1CSGtrelpQRDMyU1lxNXY1dHljaWlaeW5ZUHM0VVEzRGFJUXZTRmpVRHBTQzhaMXdteDlw?oc=5",
+      "link": "https://www.munhwa.com/article/11613590",
       "source": "문화일보",
       "published": "2026-09-01T11:05:33+09:00"
     },
     {
+      "title": "‘상습도박·음주운전’ 개그맨 이진호, 1심서 징역 1년6개월 집유",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ld1R5b2h4MjZVMjRXZVpGSWdnWS1CSGtrelpQRDMyU1lxNXY1dHljaWlaeW5ZUHM0VVEzRGFJUXZTRmpVRHBTQzhaMXdteDlw?oc=5",
+      "source": "munhwa.com",
+      "published": "2026-09-01T11:05:33+09:00"
+    },
+    {
       "title": "‘상습도박-음주운전’ 개그맨 이진호, 1심 징역형 징유",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVGZ2UmhlcFhUUC16VXFfR2xMU1RzSnd2eEFLWmlfTlptajNMdV9rZFJaQ3pXZ2hWRkhicGhodEFwYVpFZ3dCaXl2Z1RzVjBwTGVTUjJLc3lhRlFQWlVfVmRpaUhodEpSRzdaM1hMN0NOdjVodFHSAWZBVV95cUxQN2dNQlYtb1lxT3FPZUZyR1Z5NDdqN0dadm9FcHlPbUFPTlRENmtmQVpQRVFlMlB3QTdxWG5UUDRSbGJoOUxJQVN3ZFpBWURGbGtEMTVoX2NCbnhjcHV1dmUzV3VXZmc?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260901/134581787/2",
       "source": "동아일보",
       "published": "2026-09-01T11:05:00+09:00"
     },
     {
       "title": "\"어? 술냄새\" 음주운전 신고에 도주 60대…10분만에 체포",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhVTV4MUZUdzBSMVpiUmxNRDlYQUpJQTF2czJWUjRkUWVIOVhlSmV4cHJNcVo1bElSRmN5R0N0dVhLaW5qbWF2c2JHcC1NdGM5YjREMzlZMUhxREhDZS1xYdIBeEFVX3lxTE51TDA5cGo2MkZkZ19PZ0ZRc04yQlBUT2hqR1h3ZVdCa3hiWTJ3eUxNMGNXRkZGYUVEcUMybU9IdzJhdzN2TVRCdHNRN0p0RF9abTlNQTU1d2J0dExEcnA4RXlpV1JFRk45eURLeHgwYlVXMHIwRTJnVw?oc=5",
+      "link": "https://www.newsis.com/view/NISX20260901_0003771146",
       "source": "뉴시스",
       "published": "2026-09-01T11:04:56+09:00"
     },
     {
       "title": "'제주 실종' 감찰, 지휘라인 넘어 확대…보고·종결 전과정 캔다",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MRVllczhiMzZqM0g0YXdtOEJEeWYySE1iWWRYSGRxc0F6WDB1WFJWQTVTSmNqellubHQwQzFTc1FQV2lhOF9QeFhWT19KTkNlZWFyT1BUNjNua1Naa2xFZtIBYEFVX3lxTE1MRVllczhiMzZqM0g0YXdtOEJEeWYySE1iWWRYSGRxc0F6WDB1WFJWQTVTSmNqellubHQwQzFTc1FQV2lhOF9QeFhWT19KTkNlZWFyT1BUNjNua1Naa2xFZg?oc=5",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260901079100004",
       "source": "연합뉴스",
       "published": "2026-09-01T11:02:23+09:00"
     },
     {
       "title": "[속보] \"A경장, 60대 남성 실종은 타직원도 알아 삭제 안해\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Xblc0LWZXaV95ZHpiOU02UUc1Tk5LNFM1S2ZxeE1keHZ2QXg5XzhtYVlLZmpaYzc3SWlVTjhTSjE4cklWUUZtNlZSckowSGpvdmNrekI3VGlkTzQ5YTRSMNIBYEFVX3lxTE1Xblc0LWZXaV95ZHpiOU02UUc1Tk5LNFM1S2ZxeE1keHZ2QXg5XzhtYVlLZmpaYzc3SWlVTjhTSjE4cklWUUZtNlZSckowSGpvdmNrekI3VGlkTzQ5YTRSMA?oc=5",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260901085200056",
       "source": "연합뉴스",
       "published": "2026-09-01T11:01:29+09:00"
     },
     {
       "title": "\"일 많아져서 실종 허위종결\"...제주 경찰, 증거 나오자 혐의 인정",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DRFNTTnJlY3JIcFJMcFAwVzFCcERFZWZER3pZcWVqR01IZjdSdmw1UVZINVE3NzVIcnFJclpCUjNnZ1BfWF9tTTQ4VUEzRThqWDBiYkNuV0l3WjhWeVZ3c3I4bjYwWmFNaDZB0gFwQVVfeXFMTUVJQjEyNFNVR2l0Z1NZcDJzSGNmLXczRmpxX1h4ek1kUFdHeFJySk9za1FiMERjY0Njd2toMHFWUWJ6Smp1Y0I2TEV2c1BjZW9mVUk1MWdtdnV2UFhoUmlaNWJFMkJiYkcxWExUTWZBcw?oc=5",
+      "link": "https://www.mt.co.kr/society/2026/09/01/2026090110454439308",
       "source": "머니투데이",
-      "published": "2026-09-01T10:57:50+09:00"
+      "published": "2026-09-01T10:57:50+09:00",
+      "summary": "경찰에 따르면 부 경장은 지난 5월15일 오후 6시43분쯤 장미란씨(37) 실종 신고를 접수한 뒤 실제 장씨와 통화하지 않았음에도 신고자에게 \"실종자와 연락됐고 신변에 이상이 없으며 경찰관 만나기를 극구 거부한다\"는 취지의 허위 사실을 알린 혐의를 받는다."
     },
     {
       "title": "'실종 허위종결' 수사 결과 브리핑",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lV1hacVV2Q0dOS2Y1QmZFMkZaWGNtYlhnajk5SHZmUGxZM2ZTX2JHNl9JZHlMZGlVeFhWM0xVdW5qMS1GdzBJV19adVVGLUt0dk9vRHA0UjN2cDktY2ZEb9IBYEFVX3lxTE1lV1hacVV2Q0dOS2Y1QmZFMkZaWGNtYlhnajk5SHZmUGxZM2ZTX2JHNl9JZHlMZGlVeFhWM0xVdW5qMS1GdzBJV19adVVGLUt0dk9vRHA0UjN2cDktY2ZEbw?oc=5",
+      "link": "https://www.yna.co.kr/amp/view/PYH20260901065300056",
       "source": "연합뉴스",
       "published": "2026-09-01T10:56:20+09:00"
     },
     {
       "title": "\"할 일 많아질까 봐\" 실종 조작 시인한 제주 경찰관... 추가 의심 사례 25건",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aRzBpYnNINWNhTERnRWVkb2gtY3gyeDJzc1NyajBPdTRGU0RGNFhsOGZhTXVoR1QwcTZVWmh5VnNDaUg5SXhrUzJLMDV3YTNLMmpHcEJBU1UtSWFqdWlrdQ?oc=5",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202609010022",
       "source": "KBC광주방송",
       "published": "2026-09-01T10:56:01+09:00"
     },
     {
       "title": "\"할 일 많아질까 봐\" 실종 조작 시인한 제주 경찰관... 추가 의심 사례 25건",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aRzBpYnNINWNhTERnRWVkb2gtY3gyeDJzc1NyajBPdTRGU0RGNFhsOGZhTXVoR1QwcTZVWmh5VnNDaUg5SXhrUzJLMDV3YTNLMmpHcEJBU1UtSWFqdWlrdQ?oc=5",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202609010022",
       "source": "ikbc.co.kr",
-      "published": "2026-09-01T10:56:01+09:00"
+      "published": "2026-09-01T10:56:01+09:00",
+      "summary": "실종신고를 허위로 종결한 제주 경찰관은 실종사건을 종결하지 않을 경우 업무가 늘어난다는 부담감 때문에 사건을 허위 종결한 것으로 조사됐습니다"
     },
     {
       "title": "‘상습 도박·음주운전’ 개그맨 이진호, 1심서 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFRFJQZm5TUWpZNEZwUVdUb2JSMFJqT0hJbEJNU3JBTVJ2SnczbTBabmhyREdLX1d3RnYzZFBQMWJTVm1WX01xbDRwekJ1c0dsVTc3azBVbHMzVzI2VTVZYXRmUVBhempUa3gzSGxB?oc=5",
+      "link": "https://sports.donga.com/ent/article/all/20260901/134581722/1",
       "source": "스포츠동아",
       "published": "2026-09-01T10:55:37+09:00"
     },
     {
       "title": "‘상습 도박·음주운전’ 개그맨 이진호, 1심서 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFRFJQZm5TUWpZNEZwUVdUb2JSMFJqT0hJbEJNU3JBTVJ2SnczbTBabmhyREdLX1d3RnYzZFBQMWJTVm1WX01xbDRwekJ1c0dsVTc3azBVbHMzVzI2VTVZYXRmUVBhempUa3gzSGxB?oc=5",
+      "link": "https://sports.donga.com/ent/article/all/20260901/134581722/1",
       "source": "sports.donga.com",
       "published": "2026-09-01T10:55:37+09:00"
     },
     {
       "title": "“한국 호갱 잡자” 불법 영업…DAXA, 해외 코인거래소 4곳 경찰 수사 의뢰",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9adGx0cENEU0NxQU02Z084YTd1QzBRU25zZkw5Z0RiTF95QnY3UlhLUFMyMlMwb3dQdjdTSnFveFloNGJYVG5PeWlKTGxnWkZHWHc?oc=5",
+      "link": "https://stock.mk.co.kr/news/view/1151374",
       "source": "매일경제 마켓",
       "published": "2026-09-01T10:54:36+09:00"
     },
@@ -5636,73 +6206,74 @@
     },
     {
       "title": "'상습도박·음주운전' 개그맨 이진호, 1심서 징역형 집행유예 선고",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBcVhtaEk3MldDSzBxZE1pbVM4X0MxbFVjd2dqeFNfR3hGQmJPaFgzaC1FZ1RYMEFsRHhHM3RqQURLVWlNRzZ2UXZ0SQ?oc=5",
+      "link": "http://www.inews24.com/view/2000446",
       "source": "아이뉴스24",
       "published": "2026-09-01T10:52:23+09:00"
     },
     {
       "title": "'상습도박·음주운전' 개그맨 이진호, 1심서 징역형 집행유예 선고",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBcVhtaEk3MldDSzBxZE1pbVM4X0MxbFVjd2dqeFNfR3hGQmJPaFgzaC1FZ1RYMEFsRHhHM3RqQURLVWlNRzZ2UXZ0SQ?oc=5",
+      "link": "http://www.inews24.com/view/2000446",
       "source": "inews24.com",
       "published": "2026-09-01T10:52:23+09:00"
     },
     {
       "title": "음주운전 신고에 도주한 60대…10분만에 검거",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40dVI3d2lCRDFWSEJmb25qcGlMbWcxSlZlZ0NtRHItUUFxVE8zVl8yaGdQVDZGTW1OZzFjR2x6dUcwVllKZmtBODJ6cEdiOTFIa2c?oc=5",
+      "link": "https://www.nocutnews.co.kr/news/6571205",
       "source": "노컷뉴스",
       "published": "2026-09-01T10:52:00+09:00"
     },
     {
       "title": "'상습도박·음주운전' 개그맨 이진호 1심 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ybFBBUFpBS3p6VE92WHdEaGhWSkdTZmt3VGtlYWFwTm8xSkVORmRNeXpkN1l0bmhFN3FOWm1EeFlfOERxRWZOc0pWZk1KamJETmF3OGpJbkM4MzVBTU5wdDNlQ1RPN29zcUFhejRad2lOWTRZTFlz0gF3QVVfeXFMTlNYX3RPd1piTWpaU3RWSm9LMGQ2VGxWMVRCNDYyT3VPVjFBVlNsTnViMk1jeUlzeVhiSV8tcW54dWZiVnhzUGlnZjJCX2xqOXR6UXRmcFhmd3liXy1zN1puVnhhQ0ozY2ZhVmI5amdNSlExcXZpNlk?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6848763_36918.html",
       "source": "MBC 뉴스",
       "published": "2026-09-01T10:51:38+09:00"
     },
     {
       "title": "'상습도박·음주운전' 개그맨 이진호 1심 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ybFBBUFpBS3p6VE92WHdEaGhWSkdTZmt3VGtlYWFwTm8xSkVORmRNeXpkN1l0bmhFN3FOWm1EeFlfOERxRWZOc0pWZk1KamJETmF3OGpJbkM4MzVBTU5wdDNlQ1RPN29zcUFhejRad2lOWTRZTFlz0gF3QVVfeXFMTlNYX3RPd1piTWpaU3RWSm9LMGQ2VGxWMVRCNDYyT3VPVjFBVlNsTnViMk1jeUlzeVhiSV8tcW54dWZiVnhzUGlnZjJCX2xqOXR6UXRmcFhmd3liXy1zN1puVnhhQ0ozY2ZhVmI5amdNSlExcXZpNlk?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6848763_36918.html",
       "source": "imnews.imbc.com",
       "published": "2026-09-01T10:51:38+09:00"
     },
     {
       "title": "‘불법도박·음주운전’ 이진호, 1심 징역형 집유…“반성하는 점 반영”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWQ1NWYWJINVY2TEh4WkRqY1czNkxGNWpIdGZlNmdVNHAtcnJrSUtBa0VCZGZCOXlnanBHcGVNWHhtSV9paFVHNTNDbDlFcE0?oc=5",
+      "link": "https://v.daum.net/v/20260901105009498",
       "source": "v.daum.net",
       "published": "2026-09-01T10:50:09+09:00"
     },
     {
       "title": "민주당 “경찰, 제주 사건 부실한 초동 대응도 드러나…‘환골탈태’ 개혁할 것”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JbkRiR0V5NXIwRS1kcFhhVEhOaEdmd1E2QnljM3NIeVhjNTV5N01UX1ZmR3pwUE5SMHBqSXZfbDdIS1poQnlZcFZ1VzJTQ3VTNVdwQWNtVS1NUGM?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8651333",
       "source": "KBS 뉴스",
       "published": "2026-09-01T10:50:00+09:00"
     },
     {
       "title": "이 대통령, 제주 실종 사건 계기 “최종 책임자 명확히 해야”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUzVudzM5TE1LZFE5V2FmYXhTbDVaa3FqaWpPX3FHSEJzVWsyaURNVFVXRXpSdi1pRTlOUHlVQ1ZINXR6X2hWeFM3YTNQdWw1V1Z6bzJkM3NOM0Q3TGREa3o0T1d5bnZWOGxB?oc=5",
+      "link": "https://www.hani.co.kr/arti/politics/bluehouse/1275633.html",
       "source": "한겨레",
       "published": "2026-09-01T10:49:00+09:00"
     },
     {
       "title": "‘불법도박·음주운전’ 이진호, 1심 징역형 집유…“반성하는 점 반영”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RdWhURzRhZTYtQVRtdTJKXzYzLU5LeFdQcmJqcTROTm82TkxJY3hRdWJLclhqSTA3eUxrS2paM1VoamhHUUx0V0RERDhZcFFuM2FOUGdKQktNc0NERzh6d0p1MjlzQ2ZSQkIxM09CY9IBc0FVX3lxTFBFVnJGdlhEUUlXcml2TWxRanF1WnJhMV9VY2FEOTlEU1VYY3VDOE1ncWFLR1JPT2trRTlVQVlmbFh1LVJsTFV5STRLMkY4c0kycThRSUJ2TFNmb0xLTm5NTGhIN1RlTHpTVy1tVmgzeTJWTkU?oc=5",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=385553",
       "source": "시사저널",
       "published": "2026-09-01T10:48:41+09:00"
     },
     {
       "title": "국립교통재활병원장에 신형익 서울의대 교수 취임",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUbVZlckMtb3FtaDVSbUFzZnR5VVp2X3NVeU1OeFllTUJxSGl2WnNuUzBhRWRWcmRONTdabFpMZ2ZUSkRkN3YzNm96WHZQR0NsSmRIUXJJRi13TTZOQWFSa2ZYSFNyM1ViMkJF?oc=5",
+      "link": "https://www.rehabnews.net/news/articleView.html?idxno=30788",
       "source": "재활뉴스",
-      "published": "2026-09-01T10:48:07+09:00"
+      "published": "2026-09-01T10:48:07+09:00",
+      "summary": "서울대병원(병원장 백남종)이 위탁 운영하는 국립교통재활병원장에 신형익 서울대병원 재활의학과 교수가 취임했다. 임기는 1일부터 2028년 8월31일까지 2년이다.국"
     },
     {
       "title": "`상습도박·음주운전` 개그맨 이진호, 1심서 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11RlhBOHJ3UkJJYjV2cHh1T3JFQU5VbTJieF9LNmswSGw4YnJLM3VBLVhPUGR0V1Q4ZkFETzZpY0RNeFd2T3k5bEFYMlM4aVF0azdDWlBpaVNQVm52QlV3cDlLYUhKM2RoamxuOHRNR0R4STgwX0VrY29NT1A?oc=5",
+      "link": "https://mobile.busan.com/view/election/view.php?code=2026090110205580774",
       "source": "부산일보",
       "published": "2026-09-01T10:47:26+09:00"
     },
     {
       "title": "`상습도박·음주운전` 개그맨 이진호, 1심서 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11RlhBOHJ3UkJJYjV2cHh1T3JFQU5VbTJieF9LNmswSGw4YnJLM3VBLVhPUGR0V1Q4ZkFETzZpY0RNeFd2T3k5bEFYMlM4aVF0azdDWlBpaVNQVm52QlV3cDlLYUhKM2RoamxuOHRNR0R4STgwX0VrY29NT1A?oc=5",
+      "link": "https://mobile.busan.com/view/election/view.php?code=2026090110205580774",
       "source": "busan.com",
       "published": "2026-09-01T10:47:26+09:00"
     },
@@ -5714,37 +6285,37 @@
     },
     {
       "title": "[속보] 제주경찰, 실종사건 허위종결 경찰관 오늘 구속 송치",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yX1RQSU95WjBJdV9Iem9QMGVqQkkydGZlS3VOZFc4T2o1aUlCQzBMQ29LVUotbENyYmRTcDBReGRoOWZRVGRGSmk1Mk5OZ0kyMTd2bjh3WVNDTzI4WXFIbWZoRXktNmM?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202609011046141T9",
       "source": "yonhapnewstv.co.kr",
       "published": "2026-09-01T10:46:00+09:00"
     },
     {
       "title": "'상습도박·음주운전' 개그맨 이진호, 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBISm1rZENpN2pTVDlxWFdNeUR4VkNSNlVYTWt5MzlOMTU0SU5Xa2l3TnYtdzZTVjQyM2RvbkdRdi1YVVhtQzMwdTZkSmRPYzBET1E?oc=5",
+      "link": "https://www.nocutnews.co.kr/news/6571176",
       "source": "노컷뉴스",
       "published": "2026-09-01T10:45:00+09:00"
     },
     {
       "title": "‘실종 신고 허위 종결’ 경찰관, “사건 처리 부담 때문에…”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FZ0VINXdfM2FheVNBajhOTGp3TDBCVy1oT2o3b3d0SUJWcDVBUDNwbXBZQjN5SzFwS3IzNFJlckFTeGJvZWw3RzY2QkJLMmc?oc=5",
+      "link": "https://v.daum.net/v/20260901104440182",
       "source": "v.daum.net",
       "published": "2026-09-01T10:44:40+09:00"
     },
     {
       "title": "“실종 미종결시 챙길 일 많아 부담”…부 경장 25건 더 허위 종결",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3b0ctbkNCWFRpUE5sY0czYlhibG5fcDJSRmpzOVphV0xKSkhXT0JhYXMxdjBUY2dDcnN0eVM0dklvQmxPVlNNZ2FsSmx4OVNHclA2U2ZR?oc=5",
+      "link": "https://www.joongang.co.kr/article/25458001",
       "source": "중앙일보",
       "published": "2026-09-01T10:44:27+09:00"
     },
     {
       "title": "‘도박·음주운전’ 이진호, 징역 1년 6개월 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95bWZHUl9SaE02UU44TTVNQnA1TUxoSGVwZ1RvTEpVMF9WenRQU3NsaU1ObXRhUVc0YTRTNUc3bTVzUlRTbDdNbnBwZnktNVI2eWVTalZqaGtDR0JMb0hWckVRbUs?oc=5",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202609010189",
       "source": "bntnews.co.kr",
       "published": "2026-09-01T10:43:37+09:00"
     },
     {
       "title": "[속보] 제주 실종사건 허위종결 경찰관 오늘 구속 송치",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iVjNOc0xmREdYa21nMmxqNGN2bW1BZXRuTEw0TXJaSXhxdWhzQXRETWg4cFV6TW4weVluU1QxbjJFejltUWRkM3JFVlFlX3pSWF82VGRNUmJKelk1?oc=5",
+      "link": "https://www.tjb.co.kr/news06/bodo/view/id/103060",
       "source": "티제이비",
       "published": "2026-09-01T10:43:04+09:00"
     },
@@ -5756,19 +6327,19 @@
     },
     {
       "title": "[속보] '상습도박·음주운전' 이진호, 징역형 집행유예 선고..\"반성 고려\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWGw4TzZqRmY2dm1OUjhaQmRubGtmZjFmZHh2ODNjaHk1Z0kycUxNOThmMGgxNl8tSzFET1hBZnVVYVMzbDlpdGoxVmpPb2FaSmVOUVZJNzBEbC0yM1Vyek0yVV9jQmkzeWVfYzduTkN4YWs?oc=5",
+      "link": "https://www.starnewskorea.com/star/2026/09/01/2026090110342436770",
       "source": "starnewskorea.com",
       "published": "2026-09-01T10:39:24+09:00"
     },
     {
       "title": "‘상습도박·음주운전 혐의’ 이진호, 1심서 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jSTRtTTlfdERTcFZTbk14ZmZYZDYyYS0ybUJLcmRvR2Z5TlRxb0YyUHNfbVhWbTV6bHRxcnZKRW00WlR2N1kzb3FoSlFMRmRRV2N2X3hSOFZrOWY4YmfSAWNBVV95cUxOMUFQWjZmVDBVWXdIWTlQbmg1M296Z1o3Y3NtSG9TZUJMREE1NkdKRVVhWEg1SzJOS3lhenZmYzZBa3VGZzNBUWdSRHhRTnlTS05KeGRTTGt4TXp6TE14RDlwcTQ?oc=5",
+      "link": "https://sports.khan.co.kr/article/202609011039023",
       "source": "스포츠경향",
       "published": "2026-09-01T10:39:00+09:00"
     },
     {
       "title": "‘상습도박·음주운전 혐의’ 이진호, 1심서 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jSTRtTTlfdERTcFZTbk14ZmZYZDYyYS0ybUJLcmRvR2Z5TlRxb0YyUHNfbVhWbTV6bHRxcnZKRW00WlR2N1kzb3FoSlFMRmRRV2N2X3hSOFZrOWY4YmfSAWNBVV95cUxOMUFQWjZmVDBVWXdIWTlQbmg1M296Z1o3Y3NtSG9TZUJMREE1NkdKRVVhWEg1SzJOS3lhenZmYzZBa3VGZzNBUWdSRHhRTnlTS05KeGRTTGt4TXp6TE14RDlwcTQ?oc=5",
+      "link": "https://sports.khan.co.kr/article/202609011039023",
       "source": "sports.khan.co.kr",
       "published": "2026-09-01T10:39:00+09:00"
     },
@@ -5780,193 +6351,210 @@
     },
     {
       "title": "제주 부경장 “실종 미종결땐 할일 많아 허위종결”",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56WFVOUFRxcWQwVVZ6WnZ4cllaa3ZDUHRVMTk2UlJQYmQ1d3JPR2lJSzRLUkFuMFpIdW5JdnNGM3FxWmhsTHVKNUdxMU5IREh2Nl9ZY0c3Y3NQVHFEM0l0eURGY3FhVW1hTk4wVUduWHNxWi15ZUHSAWZBVV95cUxPOWVYYmpaTEdROUZfVFdOc0RpZ0lWQ1N5VjFlUlNaeHhSMmtTNi1iNmVxV1I0a19TT2p0WHpaMFljZm82YzFRM25sY0lBUUZ6VDlTNXQ1UzBJZWdKT1hxRzJnbHpBV2c?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260901/134581638/1",
       "source": "동아일보",
       "published": "2026-09-01T10:38:00+09:00"
     },
     {
       "title": "[속보] 제주경찰 \"실종 미종결시 할일 많아 부담감에 허위종결\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HSkZxSUZUanFpei1aNmRtNXFCOURQNG81MWk5b2d5bzl1VXdCLVg0Y0poaExnLUJIR2YzNGxIcjRwdEZpc3VYZFRzcEJaTGl6N2V1MTU2Z211M2g1Nm8xTXlUWDhFcFU?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260901103850ADY",
       "source": "yonhapnewstv.co.kr",
       "published": "2026-09-01T10:38:00+09:00"
     },
     {
       "title": "제주 부경장 “실종 미종결땐 할일 많아 허위종결”",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56WFVOUFRxcWQwVVZ6WnZ4cllaa3ZDUHRVMTk2UlJQYmQ1d3JPR2lJSzRLUkFuMFpIdW5JdnNGM3FxWmhsTHVKNUdxMU5IREh2Nl9ZY0c3Y3NQVHFEM0l0eURGY3FhVW1hTk4wVUduWHNxWi15ZUHSAWZBVV95cUxPOWVYYmpaTEdROUZfVFdOc0RpZ0lWQ1N5VjFlUlNaeHhSMmtTNi1iNmVxV1I0a19TT2p0WHpaMFljZm82YzFRM25sY0lBUUZ6VDlTNXQ1UzBJZWdKT1hxRzJnbHpBV2c?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260901/134581638/1",
       "source": "donga.com",
       "published": "2026-09-01T10:38:00+09:00"
     },
     {
       "title": "‘상습 도박·음주운전’ 혐의 개그맨 이진호, 1심서 징역형 집유",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDc2QzExU1pISTFEUFZLY1ZTT3BDVmlTZ000RHJhRUNVZWRYdFFldGF5UlJFQTZMTHlGNHhBNHd4bmFjRlhqb3hURXI2eTBYOTB4MGVLU2Z2V3ZHeXJwZXRERnNRbDFKWkJweWZuZE1rYk5pTmlpTmk5QnJOeW8wM2hhVmpXQ1E?oc=5",
+      "link": "https://www.chosun.com/national/court_law/2026/09/01/TMPAXEAO2ZAGVHGNL55JTV7FB4/",
       "source": "조선일보",
       "published": "2026-09-01T10:37:59+09:00"
     },
     {
       "title": "[속보]상습 도박·음주운전 혐의 코미디언 이진호 1심서 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nWWgtdF94VzhWTG5YbkNabmY1UXU1UjY0RjQ1emhDbHBRdkRkOEI5QTB0M3B5b2h0ZVI5VzQ5NVNpNnA0dlZsLU1uUjVPSEl2R3J3NU9ueThSZ9IBX0FVX3lxTE8yT3AzY3otU09pZzhkdUhqZUFtdTRUU0k0cGhyVGExUmVYUjdVMXJpVlQ3WEI5ZU5kV0FLTGxtZmRNdDB4VWpBNVA2bk1ER3d1Wk5TV0NnRTdiVXdiV0FV?oc=5",
+      "link": "https://www.khan.co.kr/article/202609011037001",
       "source": "경향신문",
       "published": "2026-09-01T10:37:00+09:00"
     },
     {
       "title": "‘실종 허위 종결’ 제주 경찰, 이유는… “성인이라 안일하게 생각” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlZVSTFKRy1zMlZJR2Z2TTZydnR3OVpVdjVZeHNfeFRwOGFKVWdMemxmTFZwV3Z4NGFXZGtVbVlvUDNmeXU1a1Jld2lFLV9Nd1cxR1ZHR2doVUFoMzZLYmVVZWhycFQ1NnZIYlJSTDJMZWRoZ2dTaE1pTldWSjFGWXJoQkFDUFJtcVHSAZ4BQVVfeXFMUFNWSVVOTGZBUGpTT2F0Z0lJT3lPNG1VSHVpY3FuN1o2TDcyYzJGU2tuZXpLajVkYU0yYzc2dnBXS1hjUkx0RE9vUEQ5N1A3alNab0RMczJPZ0FBUFYxMUxxTVFrQ0tyeDUxZHdwdjJ3Sy1XQlNWYVJuZVZrMlYxTmE3ejRUa3BmTVdqZFJSeFY3ZVpDTU92bFM3amQyLXc?oc=5",
+      "link": "https://biz.chosun.com/topics/topics_social/2026/09/01/UZ5XPOCG7RCMXOORINGL4GNM6I/",
       "source": "Chosunbiz",
       "published": "2026-09-01T10:36:00+09:00"
     },
     {
       "title": "제주경찰관 \"실종 미종결시 할 일 많아 부담감에 허위종결\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aZEp5UDQzQXlrcFlLTG56c293SmRIR3J2VFlQS01jU09QaHdfb2hMVDZtUmRqQS1LMGR4blJjUVFJMEIzMDZUZnhSRjU1VE13MDRBNHIwT2J4NGfSAWBBVV95cUxQb3NmR095MVNQUUYtTlBNSTdpZWI2Z3R4eVU3Ukhmd3k1Z2hLUEtrRWNVYUw3Z285VThieGtuVEw0UE1mMENUeHRydDZfNm53cGhnMW9RSzg1NC10QkY2M3k?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20260901068551056",
       "source": "연합뉴스",
       "published": "2026-09-01T10:35:39+09:00"
     },
     {
       "title": "[속보] 제주실종 담당 경찰 “미종결땐 챙길 일 많아… 부담감 때문에 허위 종결”",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xS0otUFJGRzNWVm80WDBKVmlEMUs2Smp0NjJBcmlZZGlwbDJuQkdBelh0aUxBaTZHY2JjaTdXMjNsQVVjejlkNG8wbUJfYkw3eTY4enhyS1hFM1d4MUx3Y3o4VVcxT0JLeFN2ZU8zQ1l3bHhXSGRjeXBsUQ?oc=5",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/09/01/20260901500075",
       "source": "서울신문",
-      "published": "2026-09-01T10:34:55+09:00"
+      "published": "2026-09-01T10:34:55+09:00",
+      "summary": "제주서부경찰서 실종팀 A 경장이 실종자와 실제 통화하지 않았는데도 연락이 됐다고 허위 입력해 사건을 종결한 혐의로 구속 송치됐다. 그는 업무 부담과 사건 인계 압박 때문에 허위 종결했다고 진술했고, 경찰은 추가 의심 사례 25건도 확인했다."
     },
     {
       "title": "‘9억 도박·음주운전→뇌출혈’ 개그맨 이진호, 감옥살이 피했다…징역 1년6개월 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUYnJEVTNFYWczQ2JlX19mYWkxRGlTWDRNTWlDX2ExeVA5QXd6dmRwcVphS1NPWUlKZjJpQzcyVGwtMWU3djJPUkNBUEhPektfNFRRNg?oc=5",
+      "link": "https://v.daum.net/v/20260901103437519?f=m",
       "source": "v.daum.net",
       "published": "2026-09-01T10:34:00+09:00"
     },
     {
       "title": "‘9억 도박·음주운전→뇌출혈’ 개그맨 이진호, 감옥살이 피했다…징역 1년6개월 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jaGhIZjhlQlBidEFvcWU1TGtGSFJnWlVCeWRkejl0UU1rRnozOXVYd2xqeldieU1RSk91OEF6V214YmRjRGZVTGJDb3ZQQTZPdERmWWx3?oc=5",
+      "link": "https://biz.heraldcorp.com/article/10858410",
       "source": "biz.heraldcorp.com",
       "published": "2026-09-01T10:33:28+09:00"
     },
     {
       "title": "‘9억 도박·음주운전→뇌출혈’ 개그맨 이진호, 감옥살이 피했다…징역 1년6개월 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jaGhIZjhlQlBidEFvcWU1TGtGSFJnWlVCeWRkejl0UU1rRnozOXVYd2xqeldieU1RSk91OEF6V214YmRjRGZVTGJDb3ZQQTZPdERmWWx3?oc=5",
+      "link": "https://biz.heraldcorp.com/article/10858410",
       "source": "헤럴드경제",
       "published": "2026-09-01T10:33:28+09:00"
     },
     {
       "title": "[네팔 대홍수] 참사 7일째…수력발전소 터널에 최대 900명 고립 추정, 구조 총력전",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54Zy04WGJ5TFdORG1ZeUhLMnJrQ2NSUGI4ejYxcnVfcEVBZnZGT3pZdmhmMm1BUUxnZ1Q0cHROYW5MYjk2YThDbWE0NzNyd1F1Z0tOZHl1OHFoTGVCVlhweg?oc=5",
+      "link": "http://www.kgnews.co.kr/news/article.html?no=909752",
       "source": "경기신문",
       "published": "2026-09-01T10:33:17+09:00"
     },
     {
       "title": "[네팔 대홍수] 참사 7일째…수력발전소 터널에 최대 900명 고립 추정, 구조 총력전",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54Zy04WGJ5TFdORG1ZeUhLMnJrQ2NSUGI4ejYxcnVfcEVBZnZGT3pZdmhmMm1BUUxnZ1Q0cHROYW5MYjk2YThDbWE0NzNyd1F1Z0tOZHl1OHFoTGVCVlhweg?oc=5",
+      "link": "http://www.kgnews.co.kr/news/article.html?no=909752",
       "source": "kgnews.co.kr",
       "published": "2026-09-01T10:33:17+09:00"
     },
     {
       "title": "[속보] 제주경찰관 “실종 미종결시 할일 많아 허위종결” 시인",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UdW1vZUVKNzVTT3hycU9qMk94dWptOFZCT0ZCRl9tOC0zdW5scWRSTTZURkdQbTZjZnJ4QU9JaUgwUUQ0U2dqY3lRZjhZTmlHQVJFeEVB?oc=5",
+      "link": "https://www.joongang.co.kr/article/25457998",
       "source": "중앙일보",
       "published": "2026-09-01T10:32:39+09:00"
     },
     {
       "title": "\"부 경장, 안일하게 생각했다고 진술\" 제주 실종 수사 브리핑 [현장영상+]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02a1hFLUFOTEk2TTNZS3dkR0JRY01nSDdfclNmVkV1bjZVc1ZnQWNmaElBYTRfM0hwd2VYMmdmUTBKcW1zYXJWMHoyeFVpVmpUc1BBbTFRc2xKYllGSlE?oc=5",
+      "link": "https://www.ytn.co.kr/_ln/0115_202609011032210131",
       "source": "YTN",
       "published": "2026-09-01T10:32:00+09:00"
     },
     {
       "title": "\"부 경장, 안일하게 생각했다고 진술\" 제주 실종 수사 브리핑 [현장영상+]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02a1hFLUFOTEk2TTNZS3dkR0JRY01nSDdfclNmVkV1bjZVc1ZnQWNmaElBYTRfM0hwd2VYMmdmUTBKcW1zYXJWMHoyeFVpVmpUc1BBbTFRc2xKYllGSlE?oc=5",
+      "link": "https://www.ytn.co.kr/_ln/0115_202609011032210131",
       "source": "ytn.co.kr",
       "published": "2026-09-01T10:32:00+09:00"
     },
     {
       "title": "“안일하게 생각” 제주 실종 허위 종결 사건, 동기는 ‘업무 태만’",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjWHJ5OFYwcnktOXNidjJQRS1UQkd2YUtTdmZMeF85bDkyaGczVjZ4dWRtWTZsRG91SkF3OE1VSzBsSldXTmlyMXZPd1dRSlBsNjJxcTEta2RGcWE4WW9tcEk0T3AwLWdCUm1Z?oc=5",
+      "link": "https://www.jejusori.net/news/articleView.html?idxno=506075",
       "source": "제주의소리",
-      "published": "2026-09-01T10:30:00+09:00"
+      "published": "2026-09-01T10:30:00+09:00",
+      "summary": "실종 신고를 허위 종결해 전국적 파장을 일으킨 사건이 경찰관 개인의 안일함과 업무 태만 때문에 발생한 것으로 조사됐다. 일에 대한 회피적 대처와 무책임 태도가 원"
     },
     {
       "title": "‘상습도박·음주운전’ 이진호, 1심서 징역형 집유…“하루하루 후회”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBha0hSQTd2UXFxa0xfTHpnVVZjLWpDcDdOXy1kdURzVHVDcWNORkRFMnJmMGtZbDNlUFh4V2w2OHIyRjdpQno1MW0xMHVxQlM0NmsyNXV3?oc=5",
+      "link": "https://www.joongang.co.kr/article/25457996",
       "source": "중앙일보",
       "published": "2026-09-01T10:28:58+09:00"
     },
     {
+      "title": "‘상습도박·음주운전’ 이진호, 1심서 징역형 집유…“하루하루 후회”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBha0hSQTd2UXFxa0xfTHpnVVZjLWpDcDdOXy1kdURzVHVDcWNORkRFMnJmMGtZbDNlUFh4V2w2OHIyRjdpQno1MW0xMHVxQlM0NmsyNXV3?oc=5",
+      "source": "joongang.co.kr",
+      "published": "2026-09-01T10:28:58+09:00"
+    },
+    {
       "title": "김민석 민주당 대표 당선 축하 현수막 훼손, 경찰 수사",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PUGN6RlQ5eXpQelFaZWQ0YUNaSGlXdjVQemYtb3F4WkJQczNwbzcwRDNkT1RxS3VKaDZMZVB2ZWk5RnhFSVIyQklvX20xeUsySTV0VQ?oc=5",
+      "link": "https://news.knn.co.kr/news/article/191899",
       "source": "knn.co.kr",
       "published": "2026-09-01T10:28:00+09:00"
     },
     {
       "title": "이진호, 도박 664회에 음주운전까지…징역 1년6개월 집유 3년 선고",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YOXl6ZHVfUW9KZ3VWUG5ocWhTek9sbDdhN3NlSUhNN25DeFBYd2hPQkM5WkkxYnE1TWh5NVdpaXM0RWRRZElGUzhBWTFkNmVNdnFwenFHbjlOVE44Y1d6SmtB?oc=5",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=909749",
       "source": "경기신문",
       "published": "2026-09-01T10:27:48+09:00"
     },
     {
       "title": "이진호, 도박 664회에 음주운전까지…징역 1년6개월 집유 3년 선고",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YOXl6ZHVfUW9KZ3VWUG5ocWhTek9sbDdhN3NlSUhNN25DeFBYd2hPQkM5WkkxYnE1TWh5NVdpaXM0RWRRZElGUzhBWTFkNmVNdnFwenFHbjlOVE44Y1d6SmtB?oc=5",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=909749",
       "source": "kgnews.co.kr",
-      "published": "2026-09-01T10:27:48+09:00"
+      "published": "2026-09-01T10:27:48+09:00",
+      "summary": "개그맨 이진호(39)가 상습도박과 음주운전 혐의로 기소된 사건에서 징역형의 집행유예를 선고받았다. 수원지법 여주지원 형사1단독 안태윤 부장판사는 1일 이진호에게 징역 1년 6개월에 집행유예 3년을 선고하고 사회봉사 120시간을 명령했다. 이진호는 불법 도박사이트를 이용…"
     },
     {
       "title": "[속보] '664번 도박·음주운전' 이진호, 징역형 집행유예..양형 이유는 '반성'",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjc0UERvRDhCbTJZSVVzcWN3TUtyRzR5VTV2NzJfMVJnTXdudHlOQkJBUFRrRGVIUXNhZHpEc2U0aXZXdHQxTUxhSmQwOGI3WjFvYXMyVHgxbWEyajhqQWFkbUdHZ3l1SklOYkVTQlBTTy1CTmJCMjg0emdLVjI1aDRKRDU?oc=5",
+      "link": "https://www.sportschosun.com/entertainment/2026-09-01/202609010100005120000112",
       "source": "sportschosun.com",
       "published": "2026-09-01T10:26:38+09:00"
     },
     {
       "title": "[속보] '664번 도박·음주운전' 이진호, 징역형 집행유예..양형 이유는 '반성'",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjc0UERvRDhCbTJZSVVzcWN3TUtyRzR5VTV2NzJfMVJnTXdudHlOQkJBUFRrRGVIUXNhZHpEc2U0aXZXdHQxTUxhSmQwOGI3WjFvYXMyVHgxbWEyajhqQWFkbUdHZ3l1SklOYkVTQlBTTy1CTmJCMjg0emdLVjI1aDRKRDU?oc=5",
+      "link": "https://www.sportschosun.com/entertainment/2026-09-01/202609010100005120000112",
       "source": "스포츠조선",
-      "published": "2026-09-01T10:26:38+09:00"
+      "published": "2026-09-01T10:26:38+09:00",
+      "summary": "상습 도박 및 음주운전 혐의로 재판에 넘겨진 개그맨 이진호가 1심에서 징역형의 집행유예를 선고받았다. 수원지방법원 여주지원 형사1단독 안태윤 부장판사는 1일 상습도박 혐의로 기소된 이진호에게 징역 1년 6개월에 집행유예 3년을 선고했다."
     },
     {
       "title": "네팔 홍수 참사, 수력발전소 터널에 갇힌 900여 명의 운명은?",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtZjQ4TzVEWFpmRWNNXzNKQXhsRFJwWWlQMzJveEx3aTJMT1RHNVFwYUpOLU1XSzhmcGhab0RfT2FoakswUmplY053b1BySzZLOXAzUFk2dWNCWVhuM0FrSU9vZ3U4UGk2?oc=5",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=876800",
       "source": "공감신문",
       "published": "2026-09-01T10:26:37+09:00"
     },
     {
       "title": "[뉴스1 PICK] '상습도박·음주운전 혐의' 이진호, 징역형 집유 선고",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UODd6Snk4ZjR1NVBGSnhwNmFIMmpnemNWTzIwR1lIZFdheFFpSm56ck1yaE5oNVlKZ0N5MnYwcVRtb1d6Smh2NjN1MTM3VmxqbFU5V1hHOUFKMEJzX3JhVXR4S07SAWpBVV95cUxOZUFCVkZ6ck05S0czTmNCcHlGNE96T2MxSUhaZy1tY1BlWm5xb1VWOTVfejZrdGZiTUdGV1lVQUtWd3JEOFJBMklYWHR4RWk1Mk5NZnRndnFhOHlFT2RlRC1iTHRzaGxpVjN3?oc=5",
+      "link": "https://www.news1.kr/society/court-prosecution/6275884",
       "source": "뉴스1",
       "published": "2026-09-01T10:25:38+09:00"
     },
     {
       "title": "[뉴스1 PICK] '상습도박·음주운전 혐의' 이진호, 징역형 집유 선고",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UODd6Snk4ZjR1NVBGSnhwNmFIMmpnemNWTzIwR1lIZFdheFFpSm56ck1yaE5oNVlKZ0N5MnYwcVRtb1d6Smh2NjN1MTM3VmxqbFU5V1hHOUFKMEJzX3JhVXR4S07SAWpBVV95cUxOZUFCVkZ6ck05S0czTmNCcHlGNE96T2MxSUhaZy1tY1BlWm5xb1VWOTVfejZrdGZiTUdGV1lVQUtWd3JEOFJBMklYWHR4RWk1Mk5NZnRndnFhOHlFT2RlRC1iTHRzaGxpVjN3?oc=5",
+      "link": "https://www.news1.kr/society/court-prosecution/6275884",
       "source": "news1.kr",
       "published": "2026-09-01T10:25:38+09:00"
     },
     {
       "title": "개그맨 이진호 ‘상습도박·음주운전’ 혐의 1심서 집유 선고",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZTnN5Zm1xNUszaGhmektITmpXcWNPVDdUeTRtQ09GckVoTzlmVW5QN09TQXlnWUZHZEhxNGQ3OWo4T20wTDlJc1hSMVV6YnA5NGtlazhOVUp5Q0h6Y2djOG41RW9fdVE?oc=5",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2069790",
       "source": "강원도민일보",
       "published": "2026-09-01T10:24:57+09:00"
     },
     {
       "title": "개그맨 이진호, ‘철창행’ 피했다… 8.7억 불법도박·70㎞ 음주운전 ‘집유’ [포착]",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oWm9tZE1wX3FEaFpSQ2NPRDFkRlF3ek9jLUZWRWVtRnQ3ZEhWa0tPNVh1T3NRTXVKd3JtSHRDNkpScFJCRjYzTnU5cHlMTDVtVy1MQjlpZlF0Q09XLVZVbnpYZkdLY2xOcEJmVlZsSzJUM2t5V25ENg?oc=5",
+      "link": "https://www.twig24.com/news/world/crime-law/2026/09/01/20260901500064",
       "source": "twig24.com",
       "published": "2026-09-01T10:24:16+09:00"
     },
     {
       "title": "신종사기 막자니 '통장묶기'…지급정지 제도의 딜레마",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFOVJGdWc1NEExTnZmT1pBVEhydklaOGNmZ25sSVZRYzhhM1ZqdHdZT1J4ZGk0RkVfajM0bDlkNmxDTDJhMHl4RUE2VGtRNHMybUk2MDdHUkxpOTNCSmlCRTMwU01leWtQ?oc=5",
+      "link": "https://www.dhilbo.co.kr/news/articleView.html?idxno=1660",
       "source": "동행일보",
       "published": "2026-09-01T10:24:00+09:00"
     },
     {
+      "title": "신종사기 막자니 '통장묶기'…지급정지 제도의 딜레마",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFOVJGdWc1NEExTnZmT1pBVEhydklaOGNmZ25sSVZRYzhhM1ZqdHdZT1J4ZGk0RkVfajM0bDlkNmxDTDJhMHl4RUE2VGtRNHMybUk2MDdHUkxpOTNCSmlCRTMwU01leWtQ?oc=5",
+      "source": "dhilbo.co.kr",
+      "published": "2026-09-01T10:24:00+09:00"
+    },
+    {
       "title": "네팔 대홍수 참사 7일째...발전소 터널 구조 총력전 [뉴스퀘어10]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wTUNneHZZTm8wUkVYcC1DOF9QelpzV1RKb1M0eHB3U1otUFZDekROMDdQRVAtTUg4SlB5eWpNbzIxNi1rTDJwRWZlNUJZWmJKaGtOcmNrMTR5QldNcGc?oc=5",
+      "link": "https://www.ytn.co.kr/_ln/0104_202609011020479840",
       "source": "YTN",
       "published": "2026-09-01T10:20:00+09:00"
     },
     {
       "title": "네팔 대홍수 참사 7일째...발전소 터널 구조 총력전 [뉴스퀘어10]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wTUNneHZZTm8wUkVYcC1DOF9QelpzV1RKb1M0eHB3U1otUFZDekROMDdQRVAtTUg4SlB5eWpNbzIxNi1rTDJwRWZlNUJZWmJKaGtOcmNrMTR5QldNcGc?oc=5",
+      "link": "https://www.ytn.co.kr/_ln/0104_202609011020479840",
       "source": "ytn.co.kr",
-      "published": "2026-09-01T10:20:00+09:00"
+      "published": "2026-09-01T10:20:00+09:00",
+      "summary": "네팔을 덮친 기록적인 대홍수로 인한 사망자가 900명을 넘어섰습니다. 구조대가 대대적인 수색 작업을 벌이고 있지만 비 예보가 이어지면서 2차 피해도 우려되는 상황입니다. 이수곤 전 서울시립대 토목공학과 교수, 공항진 YTN 재난자문위원과 함께 자세한 얘기 나눠보겠습니다…"
     },
     {
       "title": "'상습 도박·음주운전 혐의' 개그맨 이진호, 1심에서 징역형 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1c0FsZF9HTUVJYm1MVzdWOTBvOV9OdVc0amtxaGQwTzV6WUdhSThrN2tFY0tVLXNGRU9MREhfZG9vV0lVUXViOEVXdTVhRFVUUDhSalZTbUhNZzZ6QW16TEZPQWxldUx4?oc=5",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=236870",
       "source": "한국NGO신문",
       "published": "2026-09-01T10:19:01+09:00"
     },
@@ -5985,31 +6573,31 @@
     },
     {
       "title": "서해해경청, 국가 어선 정책사업 관련 뇌물수수·특혜 비리 일당 7명 적발",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSSFI1MmU2WmRNZUdHUllRcmd6Mnc4UE81ZjlBd1J1LUVXdVVIbkdiZ1ZsRm9RWktURHV1eEVxekpKMDdPa3FYVUhEZzMteWJqT2VUeTUwS3ZMMl92U3dxeEd2SENUQlNjaWU0?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=260601",
       "source": "newsdaily.kr",
       "published": "2026-09-01T10:16:15+09:00"
     },
     {
       "title": "‘도박·음주운전’ 이진호, 1심 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yTmg2cWhsaGhvRzg2NXVYZkVJS3pKVmItZ196TTQ0ZTcyTFItU1J6THRkT1k4NDJjR0FqYW9ySGd0Q0ZMQThaSGhvWDZmNnQ2enlzeFFsa3JqbjA?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8651301",
       "source": "KBS 뉴스",
       "published": "2026-09-01T10:16:00+09:00"
     },
     {
       "title": "\"다시는 잘못 안 하겠다\" 개그맨 이진호…상습도박·음주운전 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWGdPWHZrOXhlMXExOWlyeWVZdXhydkxuRzhCdGJncXg5WURuUk5tVFVuRUxGRFlMZEFPbEFrT1N4OUtnSHUzYUlyMjVIWTdvV0hKSUhvblpLMUlaVm9fSGRB?oc=5",
+      "link": "https://www.imaeil.com/page/view/2026090110150732731",
       "source": "imaeil.com",
       "published": "2026-09-01T10:15:27+09:00"
     },
     {
       "title": "\"다시는 잘못 안 하겠다\" 개그맨 이진호…상습도박·음주운전 집행유예",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWGdPWHZrOXhlMXExOWlyeWVZdXhydkxuRzhCdGJncXg5WURuUk5tVFVuRUxGRFlMZEFPbEFrT1N4OUtnSHUzYUlyMjVIWTdvV0hKSUhvblpLMUlaVm9fSGRB?oc=5",
+      "link": "https://www.imaeil.com/page/view/2026090110150732731",
       "source": "매일신문",
       "published": "2026-09-01T10:15:27+09:00"
     },
     {
       "title": "‘상습도박·음주운전 혐의’ 개그맨 이진호, 징역형 집유 선고",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PaEVBZ29mckxNWjJBMmRfR1ZyV3hBYlNtdjd4Vkt1b2czWVhDUDh3cTRSeWFQQVdSWmFrN1kwX1hPQVQyWnA2WTRrem4zYUtnNEV5YmxCd0FocDlOYlc5UmtQdkU4OHPSAWxBVV95cUxPT29EZHEtYjhpeXRGQ0JMUG13UlJRRFpHYWNTNHk3ZjlCV2xGT2hmRlhxM3RUZ1FNSFB6V2FDZzIzd0dSSjI0bGktRnF0cmpoZm9TZFdfczZMMHhiWE1aNHRhU0JPa1AwWUJaNG0?oc=5",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007926",
       "source": "국민일보",
       "published": "2026-09-01T10:15:00+09:00"
     },
@@ -6024,6 +6612,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CWnpJbkVNdnFDcjlFekhGMkNTZUFDdXhZT0xvMmdJVkx5UVo4OUJqdVNHVEJUbDg5Ti1RMi1ER1ljVlpVY21zbGF5WmxMOWNHQS1VWVY4NXNUZmRiM0s2dlJ1RGZ6Zw?oc=5",
       "source": "뉴시스",
       "published": "2026-09-01T10:11:54+09:00"
+    },
+    {
+      "title": "상습도박에 음주운전까지…이진호, 징역 1년 6개월 집유 3년",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yWk8wM2dCUHl5R05td1EyTGY5RFRYRmlIcFktMTE2eE9GNHBJSXRHZmtzaVlrcDloZkxmQkNfUmdXUy1KSjcwMHlIY080TGs?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-09-01T10:11:38+09:00"
     },
     {
       "title": "상습도박에 음주운전까지…이진호, 징역 1년 6개월 집유 3년",
@@ -6065,6 +6659,12 @@
       "title": "안성시 경부고속도로서 빗길 교통사고…1명 사망·2명 중경상",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOUUdsWHJIZzIwTjZLZ1BaRkNCM01COHJkY2dIQVNVcnM0XzZWSXFtMWEzdXdIeVZtYkttQ0FXYV82R0otbzdRbnJ4TWdfbzFiWVFYNWdBTG9Jb0ppbHFCaERWY18zOGR3MVRQOTNYdw?oc=5",
       "source": "중부일보",
+      "published": "2026-09-01T10:08:00+09:00"
+    },
+    {
+      "title": "안성시 경부고속도로서 빗길 교통사고…1명 사망·2명 중경상",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOUUdsWHJIZzIwTjZLZ1BaRkNCM01COHJkY2dIQVNVcnM0XzZWSXFtMWEzdXdIeVZtYkttQ0FXYV82R0otbzdRbnJ4TWdfbzFiWVFYNWdBTG9Jb0ppbHFCaERWY18zOGR3MVRQOTNYdw?oc=5",
+      "source": "joongboo.com",
       "published": "2026-09-01T10:08:00+09:00"
     },
     {
@@ -6380,7 +6980,8 @@
       "title": "경기남부경찰청 9월 1일 집회일정",
       "link": "https://www.kgnews.co.kr/news/article.html?no=909730",
       "source": "경기신문",
-      "published": "2026-09-01T07:03:20+09:00"
+      "published": "2026-09-01T07:03:20+09:00",
+      "summary": "9.1.(火) 주요 집회 주최 행사명 시간·장소 인원 [신고] 관할서 신자유연대 등 윤 前 대통령 석방 촉구 집회 17:00~19:00, 의왕 서울구치소 제1주차장 2,000 의왕 신참정권사수 시민연대 중앙선관위 해체 촉구 집회 11:30~13:30 과천 중앙선관위 정…"
     },
     {
       "title": "그랜드 캐년 돌발홍수… 캠핑객 20명 실종 참사",
