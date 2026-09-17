@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T07:24:41.731232+09:00",
+  "generated_at": "2026-09-18T07:47:46.965120+09:00",
   "topic": {
     "id": "realestate",
     "label": "부동산",
@@ -37,7 +37,7 @@
       "source": "머니투데이",
       "published": "2026-09-17T14:00:00+09:00",
       "latest": "2026-09-18T00:30:00+09:00",
-      "mention_count": 27,
+      "mention_count": 29,
       "sources": [
         "머니투데이",
         "뉴스1",
@@ -60,7 +60,7 @@
       "source": "연합뉴스",
       "published": "2026-09-17T11:08:29+09:00",
       "latest": "2026-09-17T21:23:01+09:00",
-      "mention_count": 14,
+      "mention_count": 16,
       "sources": [
         "연합뉴스",
         "대한경제",
@@ -71,9 +71,9 @@
         "연합뉴스TV",
         "머니투데이",
         "opinionnews.co.kr",
+        "오피니언뉴스",
         "뉴스핌",
-        "법률방송뉴스",
-        "M이코노미뉴스"
+        "법률방송뉴스"
       ],
       "summary": "홈플러스는 온라인 사업부문을 포함한 대형마트 사업과 폐점 점포 부동산을 매각하는 작업에 착수한다고 17일 밝혔..."
     },
@@ -83,7 +83,7 @@
       "source": "뉴스핌",
       "published": "2026-09-17T11:22:00+09:00",
       "latest": "2026-09-17T18:36:36+09:00",
-      "mention_count": 14,
+      "mention_count": 15,
       "sources": [
         "뉴스핌",
         "뉴시스",
@@ -95,8 +95,8 @@
         "팝콘뉴스",
         "파이낸셜리뷰",
         "PRESS9",
-        "fetv.co.kr",
-        "머니투데이"
+        "press9.kr",
+        "fetv.co.kr"
       ],
       "summary": "한국투자부동산신탁은 17일 서울 마포구 성산동 67번지 일원에 추진 중인"
     },
@@ -106,7 +106,7 @@
       "source": "경향신문",
       "published": "2026-09-17T14:00:00+09:00",
       "latest": "2026-09-17T20:31:00+09:00",
-      "mention_count": 13,
+      "mention_count": 14,
       "sources": [
         "경향신문",
         "녹색경제신문",
@@ -116,10 +116,10 @@
         "KBS 뉴스",
         "스트레이트뉴스",
         "알파경제",
+        "alphabiz.co.kr",
         "국토매일",
         "NSP통신",
-        "한국경제",
-        "코리아리포트"
+        "한국경제"
       ],
       "summary": "서울 아파트 가격 상승률이 3주 연속 줄어들며 상승세가 둔화되고 있다. ‘강남 3구(강남·서초·송파구)’ 가격 하락세도 이어지고 있다. 다만 상승세 자체는 지난해 2월 첫째주부터 84주 동안 이어져 2020~2022년 85주 연속 상승이란 역대 최장 기록 도달을 눈앞에…"
     },
@@ -163,6 +163,31 @@
           "summary": "서울 전세난이 심화하고 있는 가운데 정부가 토지거래허가구역 내 실거주 의무 유예 특례를 1년 더 연장하고 세입자의 임대차 갱신 계약까지 허용하는 응급처방을 내놨다. 세 낀 주택 매도를 유도해 매물을 늘리고 전세시장을 안정시키려는 조치이나 예외에 예외 조항을 덧댄 누더기…"
         },
         {
+          "title": "코오롱글로벌, 전주 삼천주공3 재건축 602가구 공급… 28일 특공 시작",
+          "link": "https://www.pressian.com/pages/articles/2026091717451057630",
+          "source": "프레시안",
+          "published": "2026-09-18T07:14:48+09:00",
+          "latest": "2026-09-18T07:14:48+09:00",
+          "mention_count": 2,
+          "sources": [
+            "프레시안",
+            "pressian.com"
+          ],
+          "summary": "▲'삼천 하늘채 라비엘' 조감도 ⓒ코오롱글로벌 코오롱글로벌이 전북 전주시 완산구 삼천동 삼천주..."
+        },
+        {
+          "title": "흔들리는 부동산 정책, 흔들리는 신뢰",
+          "link": "http://www.newstong.co.kr/Mobile/NewsView.aspx?seq=1314122&cate=0&subCate=0&type=0&cnt=-4",
+          "source": "newstong.co.kr",
+          "published": "2026-09-17T17:16:55+09:00",
+          "latest": "2026-09-18T06:03:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "newstong.co.kr",
+            "v.daum.net"
+          ]
+        },
+        {
           "title": "선부연립1구역 재건축조합 HUG 정비사업비(이주비/사업비) 대출보증 행정대행용역 입찰공고",
           "link": "https://www.arunews.com/news/articleView.html?idxno=67352",
           "source": "arunews.com",
@@ -201,17 +226,6 @@
           "summary": "이헌욱 한국부동산원장은 7일 본사에서 부동산시장 점검회의를 열고 “정부가 주택공급 확대를 위한 제도와 정책수단을 마련한 만큼 이제 중요한 것은 현장에서 실제 공급으로 이어지게 하는 것”이라며 정부 공급대책의 신속한 실행 지원을 강조했다.정부는 지난달 13"
         },
         {
-          "title": "코오롱글로벌, 전주 삼천주공3 재건축 602가구 공급… 28일 특공 시작",
-          "link": "https://www.pressian.com/pages/articles/2026091717451057630",
-          "source": "프레시안",
-          "published": "2026-09-18T07:14:48+09:00",
-          "latest": "2026-09-18T07:14:48+09:00",
-          "mention_count": 1,
-          "sources": [
-            "프레시안"
-          ]
-        },
-        {
           "title": "[출근길 브리핑-9월 18일] 연준 '금리 인상'·수시 '먹통' 구제 확정·김성수 임명안 국회 통과·서울 아파트값 84주째↑",
           "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854138",
           "source": "뉴스웍스",
@@ -225,7 +239,7 @@
         },
         {
           "title": "[사설] 주택공급 급해도 도시계획 원칙은 지켜져야 한다",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBWkVmOHpESDRrajRwVFZfLTVJcERMWWgtTWthaGd6WndDdEd3aW94VVNCMF9CanJ6WmZDdkl4RGY0R0xMdGwzcXdnMWNwN0hfTkNzb2lCeWY0OFlvcWxoSDdWeHd1ckxqWTRSSnNJenR2cGlR?oc=5",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609171808115870597",
           "source": "대한경제",
           "published": "2026-09-18T04:00:18+09:00",
           "latest": "2026-09-18T04:00:18+09:00",
@@ -269,17 +283,6 @@
             "조선일보"
           ],
           "summary": "지난달 서울 아파트 전세 평균 가격이 6억 3663만 원으로 역대 최고치를 기록함. 정부의 실거주 의무화 및 토지거래허가구역 확대 등 규제 정책으로 전세 매물이 급감한 것이 주요 원인이며, 서민 거주 지역의 매물 감소폭이 커 주거 부담이 가중되고 있음."
-        },
-        {
-          "title": "흔들리는 부동산 정책, 흔들리는 신뢰",
-          "link": "http://www.newstong.co.kr/Mobile/NewsView.aspx?seq=1314122&cate=0&subCate=0&type=0&cnt=-4",
-          "source": "newstong.co.kr",
-          "published": "2026-09-17T17:16:55+09:00",
-          "latest": "2026-09-17T17:16:55+09:00",
-          "mention_count": 1,
-          "sources": [
-            "newstong.co.kr"
-          ]
         },
         {
           "title": "84주째 오른 아파트값...'역대 최장' 문재인 정부 기록 경신 눈앞 [자막뉴스]",
@@ -453,6 +456,20 @@
           ]
         },
         {
+          "title": "법원 \"전세사기 무혐의 중개사, 설명 의무 위반 30% 배상해야\"",
+          "link": "https://v.daum.net/v/20260917100226575",
+          "source": "v.daum.net",
+          "published": "2026-09-17T10:02:26+09:00",
+          "latest": "2026-09-17T13:49:09+09:00",
+          "mention_count": 3,
+          "sources": [
+            "v.daum.net",
+            "joongang.co.kr",
+            "중앙일보"
+          ],
+          "summary": "전세 사기에 가담한 사실은 인정되지 않았지만 임차보증금을 돌려받지 못할 위험을 제대로 설명하지 않은 공인중개사에게 보증금 손해액의 30%를 배상할 책임이 있다는 법원 판단이 나왔다. 17일 법조계에 따르면 부산지법 동부지원 민사7단독 신승아 판사는 임차인 A씨가 공인중…"
+        },
+        {
           "title": "반도체 돈 몰린 동탄… 하반기 집값 상승률 경기 1위 - 조선비즈",
           "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/17/EOHOD74B7VDLVGAWGZI6KKBC4M/",
           "source": "Chosunbiz",
@@ -495,6 +512,32 @@
           "summary": "홍지선 국토교통부 장관 후보자는 과거 다섯 차례 전세로 거주지를 옮기고, 대출을 받아 서울 아파트를 산 배경에 대해 “시세차익 목적이 아니“라고 해명했습니다. 홍 후보자는 인사청문회에서 “공직 생활을 하면서 20년 정도 무주택으로 전세를 살았다“며, 근무지 등 개인 사"
         },
         {
+          "title": "서울 아파트값 7월에도 상승…전세 계약 10건 중 약 6건은 ‘갱신’",
+          "link": "https://v.daum.net/v/20260918065026641",
+          "source": "v.daum.net",
+          "published": "2026-09-18T06:50:26+09:00",
+          "latest": "2026-09-18T07:36:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "v.daum.net",
+            "경향신문"
+          ],
+          "summary": "서울 아파트 매매 실거래가격이 1년 전보다 14.56% 상승했다. 전세가격도 오른 가운데 지난달 전세 거래에서는 기존 계약을 연장한 비중이 58.9%로 높아졌다. 서울시가 18일 공개한 한국부동산원 통계에 따르면 지난 7월 서울 아파트 매매 실거래가격은 전월 대비 1.…"
+        },
+        {
+          "title": "서울집값 오르는데 “폭락도 대비”…이 대통령 오늘 무슨 말할까",
+          "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=311639",
+          "source": "thescoop.co.kr",
+          "published": "2026-09-18T04:26:27+09:00",
+          "latest": "2026-09-18T04:26:27+09:00",
+          "mention_count": 2,
+          "sources": [
+            "thescoop.co.kr",
+            "더스쿠프"
+          ],
+          "summary": "서울 아파트값이 84주 연속 올랐다. 지난해 추석 연휴로 주간 통계가 한차례 발표되지 않은 점을 감안하면, 역대 최장 기록인 85주와 이미 같은 수준이다. 하지만 이재명 대통령은 최근 “주택가격이 폭락할 경우에도 대비”해야 한다는 메시지를 내놨다. 집값은 오르는데 정반"
+        },
+        {
           "title": "대구 아파트 전셋값 9주째 상승…매매가는 2주 연속 제자리",
           "link": "https://www.news1.kr/local/daegu-gyeongbuk/6293964",
           "source": "뉴스1",
@@ -506,45 +549,6 @@
             "kyongbuk.co.kr"
           ],
           "summary": "대구의 아파트값이 제자리걸음인 데 비해 전셋값은 9주 연속 올랐다.17일 한국부동산원에 따르면 9월 둘째 주 대구의 아파트 전셋값이 전주보다 0.02% 올라 9주 …"
-        },
-        {
-          "title": "강남3구는 내리고 강북은 오르고…서울 집값 0.16%↑",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20260917105526dW2",
-          "source": "연합뉴스TV",
-          "published": "2026-09-17T14:01:19+09:00",
-          "latest": "2026-09-17T17:48:12+09:00",
-          "mention_count": 2,
-          "sources": [
-            "연합뉴스TV",
-            "v.daum.net"
-          ],
-          "summary": "서울 아파트값 상승폭이 줄어든 가운데 강남·서초·송파 등 강남3구는 일제히 하락했습니다. 반면 중랑·도봉·서대문 등 강북 일부 지역은 높은 상승률을 보였습니다. 오늘(17일) 한국부동산원이 발표한 9월 둘째 주 주간 아파트가격 동향에 따르면 지난 14일 기준 서울 아파"
-        },
-        {
-          "title": "강북 ‘국평 20억클럽’ 속출… 부동산PF 연체율 상승 ‘위기’",
-          "link": "https://www.munhwa.com/article/11617767",
-          "source": "문화일보",
-          "published": "2026-09-17T11:57:09+09:00",
-          "latest": "2026-09-17T17:40:19+09:00",
-          "mention_count": 2,
-          "sources": [
-            "문화일보",
-            "서울경제"
-          ],
-          "summary": "“이문아이파크자이 집주인이 기존 시세에서 2억6000만 원 올렸는데도 바로 팔렸어요. 이 동네 ‘국민평형(전용 84㎡)’은 원래 12억 원대였는데 20억 원대에 신고가를 썼습니다.”(동대문구 이문동 A 부동산중개업소 관계자) 정부 부동산 규제 강화에도 최근 대출 한도"
-        },
-        {
-          "title": "“전세도 없는데 나가라니요”…‘계약갱신 분쟁’ 이미 작년치 넘어서",
-          "link": "https://www.mk.co.kr/news/economy/12155502",
-          "source": "매일경제",
-          "published": "2026-09-17T16:03:07+09:00",
-          "latest": "2026-09-17T16:03:07+09:00",
-          "mention_count": 2,
-          "sources": [
-            "매일경제",
-            "mk.co.kr"
-          ],
-          "summary": "7월까지 조정건수, 전년 수준 넘어 실거주요건 등에 임대인 급매 내놔 묵시적 갱신하던 세입자들 반발커 전세매물 품귀현상에 일반갱신 쑥"
         }
       ]
     },
@@ -567,6 +571,22 @@
             "pinpointnews.co.kr"
           ],
           "summary": "▲덕산넵코어스의 기업 로고가 회색과 빨강 디자인으로 표시된 16일, 상장 청약이 진행되는 가운데 회사의 브랜드 이미지가 강조되고 있다. (덕산넵코"
+        },
+        {
+          "title": "공모주 청약자금 빠지자 예탁금 100조원 붕괴…빚투는 증가",
+          "link": "https://www.sankyungtoday.com/news/articleView.html?idxno=63124",
+          "source": "산경투데이",
+          "published": "2026-09-17T16:36:54+09:00",
+          "latest": "2026-09-17T21:03:16+09:00",
+          "mention_count": 5,
+          "sources": [
+            "산경투데이",
+            "sankyungtoday.com",
+            "뉴스퀘스트",
+            "이로운경제TV",
+            "erountv.com"
+          ],
+          "summary": "공모주 청약 자금이 빠져나가고 개인 투자자의 주식 매수가 이어지면서 투자자 예탁금이 6거래일 만에 다시 100조원 아래로 내려갔다.반면, 신용거래융자와 미수금은 증가해 증시 주변 자금의 흐름이 엇갈렸다.17일 금융투자협회에 따르면 지난 16일 기준 투자자"
         },
         {
           "title": "“재건축 앞두고 녹물은 어쩌나”…노연수 시의원, ‘징검다리 지원’ 촉구",
@@ -630,6 +650,21 @@
           "summary": "대우건설이 서울 양천구 목동8단지 재건축 사업을 목동 대표 랜드마크로 조성하기 위해 글로벌 엔지니어링&middot;조경&middot;건축 디자인 기업들과 협업을 추진하고 있습니다. 이를 통해 수주전에서 우위를 점하겠다는 전략입니다.이번 협업으로 대우건설은 초고층 엔지니…"
         },
         {
+          "title": "[그래픽] 청약통장 가입자 현황",
+          "link": "https://www.news1.kr/photos/8109487",
+          "source": "뉴스1",
+          "published": "2026-09-17T10:59:46+09:00",
+          "latest": "2026-09-17T15:54:00+09:00",
+          "mention_count": 4,
+          "sources": [
+            "뉴스1",
+            "v.daum.net",
+            "일간스포츠",
+            "isplus.com"
+          ],
+          "summary": "김초희 디자이너 = 17일 부동산원 청약홈에 따르면 8월 말 기준 2순위 청약통장(주택청약종합저축·청약저축·예부금 합산) 가입자는 925만 9008명으로, 전월(9 …"
+        },
+        {
           "title": "이촌동 왕궁아파트 재건축조합 석면조사 및 농도측정 업체 선정",
           "link": "https://www.housingherald.co.kr/news/articleView.html?idxno=62956",
           "source": "하우징헤럴드",
@@ -645,6 +680,21 @@
           "summary": "이촌동 왕궁아파트 재건축 정비사업 석면조사 및 농도측정 용역업체 선정"
         },
         {
+          "title": "북가좌6구역 재건축 사업시행인가…최고 34층·1953가구 조성",
+          "link": "https://www.mt.co.kr/estate/2026/09/17/2026091710234899001",
+          "source": "머니투데이",
+          "published": "2026-09-17T10:25:43+09:00",
+          "latest": "2026-09-17T11:12:24+09:00",
+          "mention_count": 4,
+          "sources": [
+            "머니투데이",
+            "globalnewsagency.kr",
+            "글로벌뉴스통신GNA",
+            "한국경제"
+          ],
+          "summary": "서울 서대문구 북가좌6구역이 정비구역 지정 12년 만에 사업시행계획인가를 받았다. 서대문구는 지난 16일 북가좌동 372-1번지 일대 '북가좌제6주택재건축정비사업'의 사업시행계획을 인가했다고 17일 밝혔다."
+        },
+        {
           "title": "동원개발 ‘문수로 비스타 더파크’, 18일 견본주택 개관… 22일 1순위 청약 - 조선비즈",
           "link": "https://biz.chosun.com/industry/business_info/2026/09/17/VEAXQHMCHRAMZGR2MJ4GRAWJSY/",
           "source": "Chosunbiz",
@@ -657,20 +707,6 @@
             "경상일보"
           ],
           "summary": "동원개발 문수로 비스타 더파크, 18일 견본주택 개관 22일 1순위 청약"
-        },
-        {
-          "title": "공모주 청약자금 빠지자 예탁금 100조원 붕괴…빚투는 증가",
-          "link": "https://www.sankyungtoday.com/news/articleView.html?idxno=63124",
-          "source": "산경투데이",
-          "published": "2026-09-17T16:36:54+09:00",
-          "latest": "2026-09-17T21:03:16+09:00",
-          "mention_count": 3,
-          "sources": [
-            "산경투데이",
-            "뉴스퀘스트",
-            "이로운경제TV"
-          ],
-          "summary": "공모주 청약 자금이 빠져나가고 개인 투자자의 주식 매수가 이어지면서 투자자 예탁금이 6거래일 만에 다시 100조원 아래로 내려갔다.반면, 신용거래융자와 미수금은 증가해 증시 주변 자금의 흐름이 엇갈렸다.17일 금융투자협회에 따르면 지난 16일 기준 투자자"
         },
         {
           "title": "챔피언스시티 청약 성적표…반도체 효과는?",
@@ -701,32 +737,30 @@
           "summary": "1순위는 94만명 급감…신규 가입 늘며 2순위는 역주행 수도권 규제지역 확대도 영향…\"기존 1순위 2순위로 이동\" 청약통장 전체 가입자가 1년 새 63만여 명 줄고 1순위 가입자는 94만여 명 급감한 반면, 2순위 가입자는 31만 명가량 늘어난 것으로 나타났다.신규 가…"
         },
         {
-          "title": "[그래픽] 청약통장 가입자 현황",
-          "link": "https://www.news1.kr/photos/8109487",
-          "source": "뉴스1",
-          "published": "2026-09-17T10:59:46+09:00",
-          "latest": "2026-09-17T15:54:00+09:00",
-          "mention_count": 3,
+          "title": "[분양 포커스] 인천계양신도시 신혼희망타운 본청약",
+          "link": "https://www.joongang.co.kr/article/25462931",
+          "source": "joongang.co.kr",
+          "published": "2026-09-18T05:30:01+09:00",
+          "latest": "2026-09-18T05:30:01+09:00",
+          "mention_count": 2,
           "sources": [
-            "뉴스1",
-            "v.daum.net",
-            "일간스포츠"
+            "joongang.co.kr",
+            "중앙일보"
           ],
-          "summary": "김초희 디자이너 = 17일 부동산원 청약홈에 따르면 8월 말 기준 2순위 청약통장(주택청약종합저축·청약저축·예부금 합산) 가입자는 925만 9008명으로, 전월(9 …"
+          "summary": "한국토지주택공사(LH) 한국토지주택공사(LH)는 이달 말 인천시 계양구 인천계양신도시 A17블록 신혼희망타운(공공분양 309호)의 입주자 모집공고를 진행한다. 인천계양 A17블록은 전체 463호 규모로, 행복주택(154호)을 제외한 309호가 이번 공공분양으로 공급된다…"
         },
         {
-          "title": "북가좌6구역 재건축 사업시행인가…최고 34층·1953가구 조성",
-          "link": "https://www.mt.co.kr/estate/2026/09/17/2026091710234899001",
-          "source": "머니투데이",
-          "published": "2026-09-17T10:25:43+09:00",
-          "latest": "2026-09-17T11:12:24+09:00",
-          "mention_count": 3,
+          "title": "“분담금은커녕 11억 받는다” 목동 재건축, 지금 사도 될까",
+          "link": "https://www.joongang.co.kr/article/25462908",
+          "source": "joongang.co.kr",
+          "published": "2026-09-18T05:00:01+09:00",
+          "latest": "2026-09-18T05:00:01+09:00",
+          "mention_count": 2,
           "sources": [
-            "머니투데이",
-            "globalnewsagency.kr",
-            "한국경제"
+            "joongang.co.kr",
+            "중앙일보"
           ],
-          "summary": "서울 서대문구 북가좌6구역이 정비구역 지정 12년 만에 사업시행계획인가를 받았다. 서대문구는 지난 16일 북가좌동 372-1번지 일대 '북가좌제6주택재건축정비사업'의 사업시행계획을 인가했다고 17일 밝혔다."
+          "summary": "5살 아이를 둔 직장인 이지현(가명·37)씨는 3년 전 서울 양천구 신정동 ‘목동신시가지 8단지’ 54㎡(이하 전용면적)를 매수했다. 출퇴근과 자녀 교육, 재건축 호재를 모두 잡을 수 있다는 판단에서였다. 부부 모두 최대한 대출을 당기고, 부모에게까지 도움을 청해 ‘영…"
         },
         {
           "title": "빅웨이브로보틱스, 일반청약 경쟁률 1375.34대 1…증거금 약 5조",
@@ -740,32 +774,6 @@
             "edaily.co.kr"
           ],
           "summary": "산업용 피지컬 AI 플랫폼 기업 빅웨이브로보틱스가 15~16일 일반투자자를 대상으로 진행한 공모주 청약에서 1375.34대 1의 경쟁률을 기록했다고 17일 밝혔다"
-        },
-        {
-          "title": "[공모주 마감] 덕산넵코어스 청약 일정 종료, 비례·균등 '나는 몇주 받나?'",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=607683",
-          "source": "CBC뉴스",
-          "published": "2026-09-17T16:01:06+09:00",
-          "latest": "2026-09-17T21:56:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "CBC뉴스",
-            "뉴스핌"
-          ],
-          "summary": "덕산넵코어스의 일반투자자 대상 공모주 청약 일정이 2일차까지 17일 마무리됐다.덕산넵코어스는 지난 16일부터 이틀 동안 상장 주관사인 대신증권을 통해 일반청약을 진행했다. 확정 공모가는 희망 범위인 1만2400~1만4600원 최상단인 1만4600원이다.총공모주식은 30…"
-        },
-        {
-          "title": "같은 생활권인데 청약 희비…분양가·입지 좌우",
-          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1332373",
-          "source": "인천일보",
-          "published": "2026-09-17T19:46:00+09:00",
-          "latest": "2026-09-17T19:46:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "인천일보",
-            "incheonilbo.com"
-          ],
-          "summary": "2026년 인천 분양시장에서 비슷한 생활권을 공유하는 아파트조차 분양 성적이 엇갈리고 있다.원도심은 부진하고 신도시는 흥행한다는 단순 구도에서 나아가 분양가와 시공사 브랜드, 역세권 여부, 단지 규모 등 개별 조건이 청약 실적을 좌우한 것으로 보인다는 분석이 나온다."
         }
       ]
     },
@@ -773,30 +781,12 @@
       "name": "기타",
       "articles": [
         {
-          "title": "토허제 실거주 유예 1년 연장 추진…부동산 시장 영향은?",
-          "link": "https://www.asiatime.co.kr/article/20260917500193",
-          "source": "asiatime.co.kr",
-          "published": "2026-09-17T11:12:00+09:00",
-          "latest": "2026-09-17T18:31:32+09:00",
-          "mention_count": 7,
-          "sources": [
-            "asiatime.co.kr",
-            "아시아타임즈",
-            "세계비즈",
-            "뉴스핌",
-            "쿠키뉴스",
-            "한국경제TV",
-            "v.daum.net"
-          ],
-          "summary": "무주택 실수요자 거래 선택지 확대…매물 범위 넓어질 전망 전세 갱신 비중 높아져…임차인 주거 안정 효과도 주목 단기 거래량·집값 영향 제한적…\"토허구역 단계적 해제 필요\" [아시아타임즈=이현주 기자] 여당이 토지거래허가구역(이하 토허구역) 내 주택 매수자에게 적용되는"
-        },
-        {
           "title": "금감원, 미래에셋證 '스페이스X 미배정' 투자자 설문조사 착수",
           "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609171429415790533",
           "source": "대한경제",
           "published": "2026-09-17T14:35:40+09:00",
           "latest": "2026-09-17T17:31:49+09:00",
-          "mention_count": 7,
+          "mention_count": 9,
           "sources": [
             "대한경제",
             "비즈워치",
@@ -804,8 +794,29 @@
             "뉴시스",
             "newsis.com",
             "글로벌이코노믹",
-            "newsway.co.kr"
+            "g-enews.com",
+            "newsway.co.kr",
+            "뉴스웨이"
           ]
+        },
+        {
+          "title": "토허제 실거주 유예 1년 연장 추진…부동산 시장 영향은?",
+          "link": "https://www.asiatime.co.kr/article/20260917500193",
+          "source": "asiatime.co.kr",
+          "published": "2026-09-17T11:12:00+09:00",
+          "latest": "2026-09-18T07:18:00+09:00",
+          "mention_count": 8,
+          "sources": [
+            "asiatime.co.kr",
+            "아시아타임즈",
+            "세계비즈",
+            "뉴스핌",
+            "쿠키뉴스",
+            "한국경제TV",
+            "v.daum.net",
+            "데일리안"
+          ],
+          "summary": "무주택 실수요자 거래 선택지 확대…매물 범위 넓어질 전망 전세 갱신 비중 높아져…임차인 주거 안정 효과도 주목 단기 거래량·집값 영향 제한적…\"토허구역 단계적 해제 필요\" [아시아타임즈=이현주 기자] 여당이 토지거래허가구역(이하 토허구역) 내 주택 매수자에게 적용되는"
         },
         {
           "title": "토지·건물·가격 한 번에, 계양구 부동산 지도 ‘계양 온더맵’ 새 단장",
@@ -822,6 +833,58 @@
           "summary": "인천투데이=인투아이(INTO-AI)·이형성 기자｜인천 계양구 지도 플랫폼 ‘계양 온더맵(ON THE MAP)’에 필지를 검색하면 토지와 건축물, 가격 정보를 한"
         },
         {
+          "title": "임대동은 없는데 ‘조합원동’은 따로… 소셜믹스 우회 논란 - 조선비즈",
+          "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/18/JUVEW67XLRHPBHC3TNSXPORCRA/",
+          "source": "biz.chosun.com",
+          "published": "2026-09-18T06:05:11+09:00",
+          "latest": "2026-09-18T06:05:11+09:00",
+          "mention_count": 2,
+          "sources": [
+            "biz.chosun.com",
+            "Chosunbiz"
+          ],
+          "summary": "임대동은 없는데 조합원동은 따로 소셜믹스 우회 논란 기존 집주인 선호 평형 별도 동에 배치 올림픽훼밀리·대치미도 설계 잇따라 논란 서울시, 후속 심의서 혼합배치 여부 점검"
+        },
+        {
+          "title": "\"데이터는 석유·부동산이 아니다\"… 美에 경고 \"中 실패한 '데이터 자산화' 모방 말라\"",
+          "link": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091718122126490c8c1c064d_1",
+          "source": "글로벌이코노믹",
+          "published": "2026-09-18T05:45:00+09:00",
+          "latest": "2026-09-18T05:45:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "글로벌이코노믹",
+            "g-enews.com"
+          ],
+          "summary": "미국 의회와 정책 입안자들이 인공지능(AI) 패권 경쟁에서 앞서나가기 위해 중국식"
+        },
+        {
+          "title": "\"상장사 26%가 적자\"… 中 경제 'AI·반도체만 호황', 부동산·전기차는 출혈 경쟁에 침체 심화",
+          "link": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091718073786140c8c1c064d_1",
+          "source": "글로벌이코노믹",
+          "published": "2026-09-18T05:35:00+09:00",
+          "latest": "2026-09-18T05:35:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "글로벌이코노믹",
+            "g-enews.com"
+          ],
+          "summary": "인공지능(AI) 인프라 투자 붐에 힘입어 국산 반도체와 핵심 에너지 기업들이 사상 최대 실적을 갈아치우고 있는 반면, 중국 본토 상장기업 4곳 중 1곳은 여전히 극심한 내수 침체와 가격 출혈 경쟁을 이기지 못하고 적자 수렁에 빠진 것으로 나타났다.중국 A주(상하이·선전…"
+        },
+        {
+          "title": "'공금 58억 뺴돌려서 부동산+외제차 구입했다고?' 경찰이 수사하기 전 구단은 왜 몰랐나 - 조선비즈",
+          "link": "https://biz.chosun.com/sports/football/2026/09/18/HA4TKMRWMMZGKOBSMJRGCZBUGE/",
+          "source": "biz.chosun.com",
+          "published": "2026-09-18T05:22:00+09:00",
+          "latest": "2026-09-18T05:22:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "biz.chosun.com",
+            "Chosunbiz"
+          ],
+          "summary": "공금 58억 뺴돌려서 부동산+외제차 구입했다고 경찰이 수사하기 전 구단은 왜 몰랐나"
+        },
+        {
           "title": "등기부터 계약서까지 AI가 점검…경기도 ‘안심 부동산’ 출시 : 네이버 블로그",
           "link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224415075419&redirect=Dlog",
           "source": "blog.naver.com",
@@ -833,6 +896,32 @@
             "Naver Blog"
           ],
           "summary": "권리분석 결과 무료 제공·AI 챗봇으로 추가 상담…10월 시범운영 전세 계약을 앞두고 등기부등본을 봐도 ..."
+        },
+        {
+          "title": "“40년 전 2호선이 강남을 만들었다” … 새 전철노선이 바꿀 다음 입지는 [교통망 4편]",
+          "link": "https://www.mk.co.kr/news/realestate/12155530",
+          "source": "mk.co.kr",
+          "published": "2026-09-18T04:30:00+09:00",
+          "latest": "2026-09-18T04:30:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "mk.co.kr",
+            "매일경제"
+          ],
+          "summary": "입지 바꿀 교통망 100가지 사실(72~100)"
+        },
+        {
+          "title": "인천 계양구 부동산 통합 조회부터 3D 가상도시까지… ‘계양 온더맵’ 대폭 진화",
+          "link": "https://kpenews.com/View.aspx?No=4232605",
+          "source": "kpenews.com",
+          "published": "2026-09-18T01:16:10+09:00",
+          "latest": "2026-09-18T01:16:10+09:00",
+          "mention_count": 2,
+          "sources": [
+            "kpenews.com",
+            "한국정경신문"
+          ],
+          "summary": "=박용일 기자] 인천 계양구는 국토교통부의 K-Geo플랫폼과 인천시의 3D 공간정보 데이터를 유기적으로 연계해 자체 지도 플랫폼인 ‘계양 온더맵(ON THE MAP)’의 부동산 지도 및 3차원 가상도시 기능을 대폭 업그레이드했다고 18일 밝혔다.지리정보시스템(GIS)을…"
         },
         {
           "title": "한화포레나, 아파트 브랜드 조사서 성장 기대 3위",
@@ -874,6 +963,19 @@
           "summary": "특수목적 항법·항재밍 솔루션 기업 덕산넵코어스가 일반투자자 청약에서 비례경쟁률 665.64대 1, 총 경쟁률 332.82대 1을 기록했다고 17일 밝혔다. 일반투자자 배정 물량 75만 주 모집에 청약 건수 13만 2911건, 총 2억 4961만 4780주가 신청됐다.…"
         },
         {
+          "title": "“과태료·업무정지 받고 또 적발”…서울 부동산 최대 12차례 반복 위반",
+          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7184766",
+          "source": "주간한국",
+          "published": "2026-09-17T15:45:22+09:00",
+          "latest": "2026-09-17T15:45:22+09:00",
+          "mention_count": 2,
+          "sources": [
+            "주간한국",
+            "weekly.hankooki.com"
+          ],
+          "summary": "서울시내 일부 부동산 중개사무소가 표시·광고 위반 등으로 수차례 적발‧처분되고도 동일·유사 위반을 반복한 것으로 나타났다. 한 중개사무소는 최근 5년여간 무려 12차례 적발·조치된 것으로 확인돼 현행 제재가 반복 위반을 막는 데 한계가 있다는 지적이 나온다.16일 서울…"
+        },
+        {
           "title": "한국토지신탁, 대방동 이어 은하마을도 사업시행자 지정",
           "link": "https://www.arunews.com/news/articleView.html?idxno=67349",
           "source": "arunews.com",
@@ -885,105 +987,49 @@
             "한국주택경제신문"
           ],
           "summary": "한국토지신탁(이하 한토신)이 서울 동작구 대방동 역세권활성화사업과 경기 부천시 중동 은하마을 재건축 사업시행자로 지정되면서 신탁방식 정비사업 확대에 속도를 내고"
-        },
-        {
-          "title": "여의도 삼익·은하, 동시 입찰…1300가구 '자이 타운' 만들어지나",
-          "link": "https://realty.chosun.com/site/data/html_dir/2026/09/17/2026091701976.html",
-          "source": "땅집고",
-          "published": "2026-09-17T13:55:41+09:00",
-          "latest": "2026-09-17T13:55:41+09:00",
-          "mention_count": 2,
-          "sources": [
-            "땅집고",
-            "realty.chosun.com"
-          ],
-          "summary": "서울 영등포구 여의도 은하아파트와 삼익아파트가 나란히 재건축 시공사 선정에 착수했다. 신축 규모와 입찰 조건이 유사한 두 사업장 모두 3.3㎡(1평)당 공사비 예정가격으로 1050만원을 제시하며 본격적인 .."
-        },
-        {
-          "title": "\"허물까, 고칠까, 팔까\"…젠스타메이트, 행정공제회 용산 본회관 새 운명 찾는다",
-          "link": "https://marketin.edaily.co.kr/News/Read?newsId=03834326645581104",
-          "source": "마켓인",
-          "published": "2026-09-17T13:38:04+09:00",
-          "latest": "2026-09-17T13:38:04+09:00",
-          "mention_count": 2,
-          "sources": [
-            "마켓인",
-            "marketin.edaily.co.kr"
-          ],
-          "summary": "상업용부동산 종합서비스 기업 젠스타메이트가 향후 6개월간 서울 용산에 있는 대한지방행정공제회(이하 행정공제회) 본회관에 대해 최적의 자산전략과 실행 로드맵을 수립할 예정이다.해당 자산가치와 개발 여건을 분석하고 재건축과 타용도 개발, 매각 등 다양한 활용 대안을 비교해…"
-        },
-        {
-          "title": "AI가 분석하고 공인중개사가 확인·설명하는 ‘경기 안심 부동산’ 개시!",
-          "link": "https://gnews.gg.go.kr/news/news_detail.do?number=202609171123373849C052&s_code=C052&page=1&SchYear=&SchMonth=",
-          "source": "gnews.gg.go.kr",
-          "published": "2026-09-17T11:23:00+09:00",
-          "latest": "2026-09-17T11:23:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "gnews.gg.go.kr",
-            "경기도뉴스포털"
-          ]
-        },
-        {
-          "title": "신성범 의원, 국토균형발전 위한 지방 철도망 확충 촉구",
-          "link": "https://www.viva100.com/article/20260917500045",
-          "source": "브릿지경제",
-          "published": "2026-09-17T08:45:00+09:00",
-          "latest": "2026-09-17T08:45:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "브릿지경제",
-            "viva100.com"
-          ],
-          "summary": "신성범(국민의힘, 산청·함양·거창·합천) 국회의원은 지난 16일 국토교통부장관 후보자 인사청문회에서 현 정부의 부동산 정책과 LH 분리 계획의 문제점을 지적하며 국토균형발전을 위한 지방 철도망 확충의 필요성을 강조했다. 신 의원은 이재명 경기도지사 시절 주요 인사들이"
-        },
-        {
-          "title": "임대동은 없는데 ‘조합원동’은 따로… 소셜믹스 우회 논란 - 조선비즈",
-          "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/18/JUVEW67XLRHPBHC3TNSXPORCRA/",
-          "source": "biz.chosun.com",
-          "published": "2026-09-18T06:05:11+09:00",
-          "latest": "2026-09-18T06:05:11+09:00",
-          "mention_count": 1,
-          "sources": [
-            "biz.chosun.com"
-          ],
-          "summary": "임대동은 없는데 조합원동은 따로 소셜믹스 우회 논란 기존 집주인 선호 평형 별도 동에 배치 올림픽훼밀리·대치미도 설계 잇따라 논란 서울시, 후속 심의서 혼합배치 여부 점검"
-        },
-        {
-          "title": "\"여의도 후발주자도 뛴다\"…조합 설립한 '삼부', 시공사 찾는 '삼익·은하'",
-          "link": "https://v.daum.net/v/20260918060131840",
-          "source": "v.daum.net",
-          "published": "2026-09-18T06:01:31+09:00",
-          "latest": "2026-09-18T06:01:31+09:00",
-          "mention_count": 1,
-          "sources": [
-            "v.daum.net"
-          ],
-          "summary": "서울 영등포구 여의도 삼부아파트 전경. 사진=최아영 기자 [파이낸셜뉴스] 서울 여의도 재건축 후발 단지들이 잇달아 사업에 속도를 내고 있다. 삼부아파트가 추진위원회 설립 6년 만에 조합설립인가를 받은 데 이어 삼익·은하아파트도 시공사 선정에 착수하면서 여의도 일대 정비…"
-        },
-        {
-          "title": "\"데이터는 석유·부동산이 아니다\"… 美에 경고 \"中 실패한 '데이터 자산화' 모방 말라\"",
-          "link": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091718122126490c8c1c064d_1",
-          "source": "글로벌이코노믹",
-          "published": "2026-09-18T05:45:00+09:00",
-          "latest": "2026-09-18T05:45:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "글로벌이코노믹"
-          ],
-          "summary": "미국 의회와 정책 입안자들이 인공지능(AI) 패권 경쟁에서 앞서나가기 위해 중국식"
         }
       ]
     }
   ],
-  "total_articles": 408,
-  "total_issues": 203,
+  "total_articles": 442,
+  "total_issues": 207,
   "raw": [
+    {
+      "title": "부천 아파트값 0.20% 상승 … 원미 0.24%·소사 0.20% 올라",
+      "link": "https://www.efocus.co.kr/news/articleView.html?idxno=56442",
+      "source": "부천포커스",
+      "published": "2026-09-18T07:40:08+09:00"
+    },
+    {
+      "title": "서울 아파트값 7월에도 상승···1년 새 14.56% 올라",
+      "link": "https://www.khan.co.kr/article/202609180736001",
+      "source": "경향신문",
+      "published": "2026-09-18T07:36:00+09:00"
+    },
+    {
+      "title": "[재건축감정평가 이대로 좋은가]재건축 소송에서 조합원이 진실을 입증하기 어려운 이유",
+      "link": "http://knpp.co.kr/news/551266",
+      "source": "대한청년일보",
+      "published": "2026-09-18T07:26:47+09:00"
+    },
+    {
+      "title": "[오늘 부동산] 토허제 실거주 유예 1년 더…효과는 '제한적'",
+      "link": "https://www.dailian.co.kr/news/view/1691828/%EC%98%A4%EB%8A%98-%EB%B6%80%EB%8F%99%EC%82%B0-%ED%86%A0%ED%97%88%EC%A0%9C-%EC%8B%A4%EA%B1%B0%EC%A3%BC-%EC%9C%A0%EC%98%88-1%EB%85%84-2026",
+      "source": "데일리안",
+      "published": "2026-09-18T07:18:00+09:00"
+    },
     {
       "title": "코오롱글로벌, 전주 삼천주공3 재건축 602가구 공급… 28일 특공 시작",
       "link": "https://www.pressian.com/pages/articles/2026091717451057630",
       "source": "프레시안",
       "published": "2026-09-18T07:14:48+09:00"
+    },
+    {
+      "title": "코오롱글로벌, 전주 삼천주공3 재건축 602가구 공급… 28일 특공 시작",
+      "link": "https://www.pressian.com/pages/articles/2026091717451057630",
+      "source": "pressian.com",
+      "published": "2026-09-18T07:14:48+09:00",
+      "summary": "▲'삼천 하늘채 라비엘' 조감도 ⓒ코오롱글로벌 코오롱글로벌이 전북 전주시 완산구 삼천동 삼천주..."
     },
     {
       "title": "[천지일보 이슈종합] 100% 관세·김승원 청문보고서·조희대·대국민 기자회견·서울 아파트값·기준금리 인상·물가 확산 차단·형소법의 그늘과 방향·천지일보 여론조사",
@@ -992,10 +1038,17 @@
       "published": "2026-09-18T07:00:00+09:00"
     },
     {
+      "title": "[압·여·목·성 신지형도] 여의도 대교, 2500억 이주비 조달…삼성물산 지급보증",
+      "link": "https://dealsite.co.kr/articles/169262",
+      "source": "딜사이트",
+      "published": "2026-09-18T07:00:00+09:00"
+    },
+    {
       "title": "서울 아파트값 7월에도 상승…전세 계약 10건 중 약 6건은 ‘갱신’",
       "link": "https://v.daum.net/v/20260918065026641",
       "source": "v.daum.net",
-      "published": "2026-09-18T06:50:26+09:00"
+      "published": "2026-09-18T06:50:26+09:00",
+      "summary": "서울 아파트 매매 실거래가격이 1년 전보다 14.56% 상승했다. 전세가격도 오른 가운데 지난달 전세 거래에서는 기존 계약을 연장한 비중이 58.9%로 높아졌다. 서울시가 18일 공개한 한국부동산원 통계에 따르면 지난 7월 서울 아파트 매매 실거래가격은 전월 대비 1.…"
     },
     {
       "title": "비강남은 478대1까지 갔는데…‘11억 전세’ 강남 미리내집 미달",
@@ -1010,6 +1063,12 @@
       "published": "2026-09-18T06:39:32+09:00"
     },
     {
+      "title": "목동 재건축 앞두고 숲·미술관 펼쳤다…롯데건설의 승부수 [현장+]",
+      "link": "https://www.hankyung.com/article/2026091703816",
+      "source": "한국경제",
+      "published": "2026-09-18T06:30:01+09:00"
+    },
+    {
       "title": "7월 서울 아파트값, 1.93% 올라...서울시, 작년 7월 대비 무려 14.56% 상승",
       "link": "https://www.beyondpost.co.kr/view.php?ud=2026091806051631672aaae0046f_30",
       "source": "비욘드포스트",
@@ -1021,6 +1080,18 @@
       "source": "biz.chosun.com",
       "published": "2026-09-18T06:05:11+09:00",
       "summary": "임대동은 없는데 조합원동은 따로 소셜믹스 우회 논란 기존 집주인 선호 평형 별도 동에 배치 올림픽훼밀리·대치미도 설계 잇따라 논란 서울시, 후속 심의서 혼합배치 여부 점검"
+    },
+    {
+      "title": "임대동은 없는데 ‘조합원동’은 따로… 소셜믹스 우회 논란 - 조선비즈",
+      "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/18/JUVEW67XLRHPBHC3TNSXPORCRA/",
+      "source": "Chosunbiz",
+      "published": "2026-09-18T06:05:11+09:00"
+    },
+    {
+      "title": "李대통령, 오늘 오전 기자회견…부동산 정책·파병 입장 주목",
+      "link": "https://v.daum.net/v/20260918060300038",
+      "source": "v.daum.net",
+      "published": "2026-09-18T06:03:00+09:00"
     },
     {
       "title": "7월 서울 아파트값 2% 상승…15억 이하 거래 비중 80% 육박",
@@ -1082,10 +1153,23 @@
       "summary": "미국 의회와 정책 입안자들이 인공지능(AI) 패권 경쟁에서 앞서나가기 위해 중국식"
     },
     {
+      "title": "\"데이터는 석유·부동산이 아니다\"… 美에 경고 \"中 실패한 '데이터 자산화' 모방 말라\"",
+      "link": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091718122126490c8c1c064d_1",
+      "source": "g-enews.com",
+      "published": "2026-09-18T05:45:00+09:00"
+    },
+    {
       "title": "\"상장사 26%가 적자\"… 中 경제 'AI·반도체만 호황', 부동산·전기차는 출혈 경쟁에 침체 심화",
       "link": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091718073786140c8c1c064d_1",
       "source": "글로벌이코노믹",
       "published": "2026-09-18T05:35:00+09:00"
+    },
+    {
+      "title": "\"상장사 26%가 적자\"… 中 경제 'AI·반도체만 호황', 부동산·전기차는 출혈 경쟁에 침체 심화",
+      "link": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091718073786140c8c1c064d_1",
+      "source": "g-enews.com",
+      "published": "2026-09-18T05:35:00+09:00",
+      "summary": "인공지능(AI) 인프라 투자 붐에 힘입어 국산 반도체와 핵심 에너지 기업들이 사상 최대 실적을 갈아치우고 있는 반면, 중국 본토 상장기업 4곳 중 1곳은 여전히 극심한 내수 침체와 가격 출혈 경쟁을 이기지 못하고 적자 수렁에 빠진 것으로 나타났다.중국 A주(상하이·선전…"
     },
     {
       "title": "[분양 포커스] 인천계양신도시 신혼희망타운 본청약",
@@ -1094,10 +1178,24 @@
       "published": "2026-09-18T05:30:01+09:00"
     },
     {
+      "title": "[분양 포커스] 인천계양신도시 신혼희망타운 본청약",
+      "link": "https://www.joongang.co.kr/article/25462931",
+      "source": "중앙일보",
+      "published": "2026-09-18T05:30:01+09:00",
+      "summary": "한국토지주택공사(LH) 한국토지주택공사(LH)는 이달 말 인천시 계양구 인천계양신도시 A17블록 신혼희망타운(공공분양 309호)의 입주자 모집공고를 진행한다. 인천계양 A17블록은 전체 463호 규모로, 행복주택(154호)을 제외한 309호가 이번 공공분양으로 공급된다…"
+    },
+    {
       "title": "'공금 58억 뺴돌려서 부동산+외제차 구입했다고?' 경찰이 수사하기 전 구단은 왜 몰랐나 - 조선비즈",
       "link": "https://biz.chosun.com/sports/football/2026/09/18/HA4TKMRWMMZGKOBSMJRGCZBUGE/",
       "source": "biz.chosun.com",
       "published": "2026-09-18T05:22:00+09:00"
+    },
+    {
+      "title": "'공금 58억 뺴돌려서 부동산+외제차 구입했다고?' 경찰이 수사하기 전 구단은 왜 몰랐나 - 조선비즈",
+      "link": "https://biz.chosun.com/sports/football/2026/09/18/HA4TKMRWMMZGKOBSMJRGCZBUGE/",
+      "source": "Chosunbiz",
+      "published": "2026-09-18T05:22:00+09:00",
+      "summary": "공금 58억 뺴돌려서 부동산+외제차 구입했다고 경찰이 수사하기 전 구단은 왜 몰랐나"
     },
     {
       "title": "메드트로닉, 미니메드 주식 교환 청약 보증 인도 절차 오류 정정",
@@ -1118,6 +1216,13 @@
       "published": "2026-09-18T05:00:01+09:00"
     },
     {
+      "title": "“분담금은커녕 11억 받는다” 목동 재건축, 지금 사도 될까",
+      "link": "https://www.joongang.co.kr/article/25462908",
+      "source": "중앙일보",
+      "published": "2026-09-18T05:00:01+09:00",
+      "summary": "5살 아이를 둔 직장인 이지현(가명·37)씨는 3년 전 서울 양천구 신정동 ‘목동신시가지 8단지’ 54㎡(이하 전용면적)를 매수했다. 출퇴근과 자녀 교육, 재건축 호재를 모두 잡을 수 있다는 판단에서였다. 부부 모두 최대한 대출을 당기고, 부모에게까지 도움을 청해 ‘영…"
+    },
+    {
       "title": "연말 청약 최대어 '20억 로또' 반디클…한 바퀴 도는 데 40분[르포]",
       "link": "https://www.newsis.com/view/NISX20260914_0003788685",
       "source": "newsis.com",
@@ -1136,14 +1241,28 @@
       "published": "2026-09-18T04:30:00+09:00"
     },
     {
+      "title": "“40년 전 2호선이 강남을 만들었다” … 새 전철노선이 바꿀 다음 입지는 [교통망 4편]",
+      "link": "https://www.mk.co.kr/news/realestate/12155530",
+      "source": "매일경제",
+      "published": "2026-09-18T04:30:00+09:00",
+      "summary": "입지 바꿀 교통망 100가지 사실(72~100)"
+    },
+    {
       "title": "서울집값 오르는데 “폭락도 대비”…이 대통령 오늘 무슨 말할까",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wRmY5aEVEWDdrNGZrU3hmZnNWT2s3TmltTUItY2V0STdvZnpTdXN3cVF5TnFFYk5wSjhkS3U0TzhJVXhxYWljTy1uNm1nTG5pQ1o2cWpsb1NianY2MW1POGhzN1dJY0VSemhlSXRB?oc=5",
+      "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=311639",
       "source": "thescoop.co.kr",
       "published": "2026-09-18T04:26:27+09:00"
     },
     {
+      "title": "서울집값 오르는데 “폭락도 대비”…이 대통령 오늘 무슨 말할까",
+      "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=311639",
+      "source": "더스쿠프",
+      "published": "2026-09-18T04:26:27+09:00",
+      "summary": "서울 아파트값이 84주 연속 올랐다. 지난해 추석 연휴로 주간 통계가 한차례 발표되지 않은 점을 감안하면, 역대 최장 기록인 85주와 이미 같은 수준이다. 하지만 이재명 대통령은 최근 “주택가격이 폭락할 경우에도 대비”해야 한다는 메시지를 내놨다. 집값은 오르는데 정반"
+    },
+    {
       "title": "[사설] 주택공급 급해도 도시계획 원칙은 지켜져야 한다",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBWkVmOHpESDRrajRwVFZfLTVJcERMWWgtTWthaGd6WndDdEd3aW94VVNCMF9CanJ6WmZDdkl4RGY0R0xMdGwzcXdnMWNwN0hfTkNzb2lCeWY0OFlvcWxoSDdWeHd1ckxqWTRSSnNJenR2cGlR?oc=5",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609171808115870597",
       "source": "대한경제",
       "published": "2026-09-18T04:00:18+09:00"
     },
@@ -1165,6 +1284,13 @@
       "link": "https://kpenews.com/View.aspx?No=4232605",
       "source": "kpenews.com",
       "published": "2026-09-18T01:16:10+09:00"
+    },
+    {
+      "title": "인천 계양구 부동산 통합 조회부터 3D 가상도시까지… ‘계양 온더맵’ 대폭 진화",
+      "link": "https://kpenews.com/View.aspx?No=4232605",
+      "source": "한국정경신문",
+      "published": "2026-09-18T01:16:10+09:00",
+      "summary": "=박용일 기자] 인천 계양구는 국토교통부의 K-Geo플랫폼과 인천시의 3D 공간정보 데이터를 유기적으로 연계해 자체 지도 플랫폼인 ‘계양 온더맵(ON THE MAP)’의 부동산 지도 및 3차원 가상도시 기능을 대폭 업그레이드했다고 18일 밝혔다.지리정보시스템(GIS)을…"
     },
     {
       "title": "비어있는 지식산업센터, 공공임대로 바꾼다[부동산 빨간펜]",
@@ -1280,6 +1406,12 @@
       "published": "2026-09-17T21:23:01+09:00"
     },
     {
+      "title": "홈플러스, 대형마트 67개점·부동산 19개점 매각 동시 착수",
+      "link": "https://www.biztribune.co.kr/news/articleView.html?idxno=359234",
+      "source": "biztribune.co.kr",
+      "published": "2026-09-17T21:23:01+09:00"
+    },
+    {
       "title": "클래리베이트 자회사, 최대 7500만 달러 한도 선순위 담보채권 현금 매입 청약 개시",
       "link": "https://www.datatooza.com/article/202609172116551769cd1e710a11_80",
       "source": "데이터투자",
@@ -1302,6 +1434,12 @@
       "title": "투자자 예탁금 100조원 아래로…공모주 청약자금 이탈 영향",
       "link": "https://www.erountv.com/news/articleView.html?idxno=4012",
       "source": "이로운경제TV",
+      "published": "2026-09-17T21:03:16+09:00"
+    },
+    {
+      "title": "투자자 예탁금 100조원 아래로…공모주 청약자금 이탈 영향",
+      "link": "https://www.erountv.com/news/articleView.html?idxno=4012",
+      "source": "erountv.com",
       "published": "2026-09-17T21:03:16+09:00"
     },
     {
@@ -1377,6 +1515,12 @@
       "title": "“GTX만 보고 있다간 진짜 호재 놓친다”…먼저 뚫리는 ‘수도권 9개 노선’ [부동산 손품노트]",
       "link": "https://www.mk.co.kr/news/realestate/12155806",
       "source": "mk.co.kr",
+      "published": "2026-09-17T19:42:54+09:00"
+    },
+    {
+      "title": "“GTX만 보고 있다간 진짜 호재 놓친다”…먼저 뚫리는 ‘수도권 9개 노선’ [부동산 손품노트]",
+      "link": "https://www.mk.co.kr/news/realestate/12155806",
+      "source": "매일경제",
       "published": "2026-09-17T19:42:54+09:00"
     },
     {
@@ -1665,6 +1809,12 @@
       "published": "2026-09-17T17:31:49+09:00"
     },
     {
+      "title": "금감원, 스페이스X 청약 투자자 직접 조사···미래에셋證 노조는 집회 예고",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026091717160638987",
+      "source": "뉴스웨이",
+      "published": "2026-09-17T17:31:49+09:00"
+    },
+    {
       "title": "법제처, 전세사기 피해자 주거안정 입법 위한 현장 법제심사",
       "link": "https://www.newsis.com/view/NISX20260917_0003794368",
       "source": "뉴시스",
@@ -1763,6 +1913,12 @@
       "published": "2026-09-17T16:58:54+09:00"
     },
     {
+      "title": "금감원, 미래에셋 '스페이스X' 청약 투자자 설문…노조 '반발'",
+      "link": "https://www.g-enews.com/article/Securities/2026/09/202609171656572109153ddfb15a_1",
+      "source": "g-enews.com",
+      "published": "2026-09-17T16:58:54+09:00"
+    },
+    {
       "title": "충북 아파트값 20주 연속 상승⋯산단 품은 청주 흥덕·음성 상승세 주도",
       "link": "https://www.inews365.com/news/article.html?no=936357",
       "source": "충북일보",
@@ -1806,7 +1962,7 @@
     },
     {
       "title": "상계한신3차, 정비구역 지정… 연내 사업시행자 지정 추진",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81WFEtTHo2bTA5Q2tHOUY2Z1ctQ082YXd0al9DUzJHeVdmaVVQVDRPYWV4TmxuTUQ0eFZnZG1RTWlid0RhRTV3ak0tM0dFSzZWei1ockFqeUZaQkdpVTBvTFNKb21GbzZl?oc=5",
+      "link": "https://www.arunews.com/news/articleView.html?idxno=67358",
       "source": "한국주택경제신문",
       "published": "2026-09-17T16:43:44+09:00"
     },
@@ -1823,6 +1979,12 @@
       "source": "산경투데이",
       "published": "2026-09-17T16:36:54+09:00",
       "summary": "공모주 청약 자금이 빠져나가고 개인 투자자의 주식 매수가 이어지면서 투자자 예탁금이 6거래일 만에 다시 100조원 아래로 내려갔다.반면, 신용거래융자와 미수금은 증가해 증시 주변 자금의 흐름이 엇갈렸다.17일 금융투자협회에 따르면 지난 16일 기준 투자자"
+    },
+    {
+      "title": "공모주 청약자금 빠지자 예탁금 100조원 붕괴…빚투는 증가",
+      "link": "https://www.sankyungtoday.com/news/articleView.html?idxno=63124",
+      "source": "sankyungtoday.com",
+      "published": "2026-09-17T16:36:54+09:00"
     },
     {
       "title": "엄태영, LH 전세임대 보증금 미반환 730억원…71% '임대인 귀책'",
@@ -2009,6 +2171,12 @@
       "published": "2026-09-17T15:57:13+09:00"
     },
     {
+      "title": "서울 아파트값 84주째 올랐다…역대 최장 상승 기록까지 단 1주",
+      "link": "http://weekly.chosun.com/news/articleViewAmp.html?idxno=55356",
+      "source": "weekly.chosun.com",
+      "published": "2026-09-17T15:57:13+09:00"
+    },
+    {
       "title": "롯데건설의, '공격적 재무개선' 현금 회수 방안은",
       "link": "https://www.bloter.net/news/articleView.html?idxno=673920",
       "source": "블로터",
@@ -2018,6 +2186,12 @@
       "title": "서울 집값 84주 연속 올랐다…역대 최장 기록까지 ‘1주’ 남아",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000066595",
       "source": "진일보",
+      "published": "2026-09-17T15:56:18+09:00"
+    },
+    {
+      "title": "서울 집값 84주 연속 올랐다…역대 최장 기록까지 ‘1주’ 남아",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000066595",
+      "source": "jnilbo.com",
       "published": "2026-09-17T15:56:18+09:00"
     },
     {
@@ -2031,6 +2205,12 @@
       "title": "청약통장 가입자 32만9,000좌 순감…무순위·선착순 등 후속 공급 중",
       "link": "https://isplus.com/article/view/isp202609170126",
       "source": "일간스포츠",
+      "published": "2026-09-17T15:54:00+09:00"
+    },
+    {
+      "title": "청약통장 가입자 32만9,000좌 순감…무순위·선착순 등 후속 공급 중",
+      "link": "https://isplus.com/article/view/isp202609170126",
+      "source": "isplus.com",
       "published": "2026-09-17T15:54:00+09:00"
     },
     {
@@ -2050,6 +2230,13 @@
       "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7184766",
       "source": "주간한국",
       "published": "2026-09-17T15:45:22+09:00"
+    },
+    {
+      "title": "“과태료·업무정지 받고 또 적발”…서울 부동산 최대 12차례 반복 위반",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7184766",
+      "source": "weekly.hankooki.com",
+      "published": "2026-09-17T15:45:22+09:00",
+      "summary": "서울시내 일부 부동산 중개사무소가 표시·광고 위반 등으로 수차례 적발‧처분되고도 동일·유사 위반을 반복한 것으로 나타났다. 한 중개사무소는 최근 5년여간 무려 12차례 적발·조치된 것으로 확인돼 현행 제재가 반복 위반을 막는 데 한계가 있다는 지적이 나온다.16일 서울…"
     },
     {
       "title": "[장외시황] 브릴스, 공모청약 진행",
@@ -2181,6 +2368,12 @@
       "title": "한국투자부동산신탁, 성산동 도심복합개발 맞손…1365세대 주거단지 추진",
       "link": "http://www.press9.kr/news/articleView.html?idxno=82938",
       "source": "PRESS9",
+      "published": "2026-09-17T15:21:29+09:00"
+    },
+    {
+      "title": "한국투자부동산신탁, 성산동 도심복합개발 맞손…1365세대 주거단지 추진",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=82938",
+      "source": "press9.kr",
       "published": "2026-09-17T15:21:29+09:00"
     },
     {
@@ -2369,6 +2562,12 @@
       "published": "2026-09-17T14:31:22+09:00"
     },
     {
+      "title": "전세·통근버스 친환경 전환 가속…원더모빌리티, 수소·전기버스 110대",
+      "link": "https://www.cvinfo.com/news/articleView.html?idxno=31781",
+      "source": "cvinfo.com",
+      "published": "2026-09-17T14:31:22+09:00"
+    },
+    {
       "title": "서울 집값 84주 연속 상승 … 文정부 최장 기록 '1주 앞'",
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/17/2026091700221.html",
       "source": "뉴데일리",
@@ -2412,6 +2611,12 @@
       "published": "2026-09-17T14:29:21+09:00"
     },
     {
+      "title": "서울 아파트값 상승 최장 경신 '눈앞'..강남3구 2주째 하락",
+      "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=187711",
+      "source": "alphabiz.co.kr",
+      "published": "2026-09-17T14:29:21+09:00"
+    },
+    {
       "title": "강남3구 하락·강북은 강세…엇갈린 서울 집값",
       "link": "https://www.yonhapnewstv.co.kr/news/MYH20260917142750GBq",
       "source": "연합뉴스TV",
@@ -2421,6 +2626,12 @@
       "title": "경기 아파트값 상승폭 서울 넘어…서울선 중랑 1위·강남권 약세",
       "link": "https://www.g-enews.com/article/Real-Estate/2026/09/20260917140840859914b1077807_1",
       "source": "글로벌이코노믹",
+      "published": "2026-09-17T14:25:39+09:00"
+    },
+    {
+      "title": "경기 아파트값 상승폭 서울 넘어…서울선 중랑 1위·강남권 약세",
+      "link": "https://www.g-enews.com/article/Real-Estate/2026/09/20260917140840859914b1077807_1",
+      "source": "g-enews.com",
       "published": "2026-09-17T14:25:39+09:00"
     },
     {
@@ -2705,7 +2916,7 @@
     },
     {
       "title": "여의도 삼익·은하, 동시 입찰…1300가구 '자이 타운' 만들어지나",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sYlJKOWZwR2V4c1JqRjFWb0ZqMjh2cHZ4WlNUWjFkYlpfOXdPS0xhZUZ6aF9CVG9lSFVQN0NWRHpUa1dyNWhMZHNHVF9KS2RweGQ3NU4yN1JTbXV4Z1lNU1lpWXJXbkZoTXpuQmRsUUY2emRoRFNLdzlFaXJBWknSAXNBVV95cUxPQlc0N3o3VGRyd0NqaWw1c2FjeDN4S3dBUElseXY3VkdEM1k2b2FKNklYZzlLRVJ6REh1LWNRQ0I2NlVybmxyemlCSGFMUTJuMmNhUlE5SVg1RG5USUtRUzVYR3k0OEl5UmtCaDZJY250UHRV?oc=5",
+      "link": "https://realty.chosun.com/site/data/html_dir/2026/09/17/2026091701976.html",
       "source": "realty.chosun.com",
       "published": "2026-09-17T13:55:41+09:00"
     },
@@ -2746,6 +2957,12 @@
       "published": "2026-09-17T13:47:20+09:00"
     },
     {
+      "title": "전세 사기 가담 안했어도 설명 의무 위반 중개사 피해액 30% 배상",
+      "link": "https://www.joongang.co.kr/article/25462676",
+      "source": "중앙일보",
+      "published": "2026-09-17T13:47:20+09:00"
+    },
+    {
       "title": "전세 씨 마르자 노도강도 월세 300만원…토허제 실거주 유예 연장",
       "link": "http://m.segyefn.com/newsView/20260917511016",
       "source": "세계비즈",
@@ -2766,7 +2983,7 @@
     },
     {
       "title": "한국토지신탁, 정비사업 4만세대 돌파…올해 5곳 신규 수주",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04NTFtY0ZmbWJJUF9zOEQ0YXpyMW5xZ19MMWRHUG9ra1BSSFlyQjlQQlJKQkZJd1VVLXVvbWJrVmtWekFYRktKWnFsVE9UT1hlWFJwTVpTUFFhN21hWXVsNVNMdUhLRGZ1?oc=5",
+      "link": "https://www.dpnews.co.kr/news/articleView.html?idxno=2439",
       "source": "dpnews.co.kr",
       "published": "2026-09-17T13:43:05+09:00"
     },
@@ -2791,7 +3008,7 @@
     },
     {
       "title": "\"허물까, 고칠까, 팔까\"…젠스타메이트, 행정공제회 용산 본회관 새 운명 찾는다",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wcHRWM2NpSW5uWXRKWGxtLXkzZFFVUnh3WW51OHBlMFZuWWcyZTFScFFlUGlRZ3pxOTJFbVlKblY4MlJnZ2QyWk1qYU4yOGJIRUhHcFVaNlRxOWhNblg3REREZk54VDBWZTVwVDFpbnVXdw?oc=5",
+      "link": "https://marketin.edaily.co.kr/News/Read?newsId=03834326645581104",
       "source": "marketin.edaily.co.kr",
       "published": "2026-09-17T13:38:04+09:00"
     },
@@ -2811,6 +3028,12 @@
       "title": "홈플러스, 대형마트 67곳 매각 착수...폐점 19개점 부동산도 판다",
       "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=144579",
       "source": "opinionnews.co.kr",
+      "published": "2026-09-17T13:30:39+09:00"
+    },
+    {
+      "title": "홈플러스, 대형마트 67곳 매각 착수...폐점 19개점 부동산도 판다",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=144579",
+      "source": "오피니언뉴스",
       "published": "2026-09-17T13:30:39+09:00"
     },
     {
@@ -3179,6 +3402,12 @@
       "published": "2026-09-17T10:42:49+09:00"
     },
     {
+      "title": "서대문구, 북가좌6구역 재건축 사업시행계획 인가",
+      "link": "https://www.globalnewsagency.kr/news/articleView.html?idxno=494466",
+      "source": "글로벌뉴스통신GNA",
+      "published": "2026-09-17T10:42:49+09:00"
+    },
+    {
       "title": "與, 노후 공공주택 고밀도 재건축·지방주거복지세 신설 논의",
       "link": "https://www.news1.kr/politics/assembly/6293598",
       "source": "뉴스1",
@@ -3263,7 +3492,8 @@
       "title": "법원 \"전세사기 무혐의 중개사, 설명 의무 위반 30% 배상해야\"",
       "link": "https://v.daum.net/v/20260917100226575",
       "source": "v.daum.net",
-      "published": "2026-09-17T10:02:26+09:00"
+      "published": "2026-09-17T10:02:26+09:00",
+      "summary": "전세 사기에 가담한 사실은 인정되지 않았지만 임차보증금을 돌려받지 못할 위험을 제대로 설명하지 않은 공인중개사에게 보증금 손해액의 30%를 배상할 책임이 있다는 법원 판단이 나왔다. 17일 법조계에 따르면 부산지법 동부지원 민사7단독 신승아 판사는 임차인 A씨가 공인중…"
     },
     {
       "title": "이촌동 왕궁아파트 재건축조합 석면조사 및 농도측정 업체 선정",
@@ -3362,7 +3592,7 @@
     },
     {
       "title": "한국부동산원 “주택공급, 이제는 실행의 시간”... 500가구 미만 핀셋 지원 하겠다",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiSDBZSzcyOV9BNDNJYjBKMnNURExONFhqbHpJR0d5TS1hcjZjN093aWp1MFF4cGhmX3RHWlV0T0RDVkhWR3p5R2Y0OVR5YkdvbFRfSkwyc3cyZC11ZlpteWZsRWo2WEg3QUM0SHgzcTg?oc=5",
+      "link": "https://www.housingtimes.co.kr/news/articleView.html?idxno=2488",
       "source": "housingtimes.co.kr",
       "published": "2026-09-17T09:05:00+09:00"
     },
@@ -3388,7 +3618,7 @@
     },
     {
       "title": "신성범 의원, 국토균형발전 위한 지방 철도망 확충 촉구",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LVWo2Ny00ejczclNYdm9NLWdTNUhxN0xpdGVNbnJiVkhyRVFHd3hPVkhtNmRXemE5cnFyNzVCcEJrWS1OM0tFUVMxSkhETmFqd3pySHhrUTI0dw?oc=5",
+      "link": "https://www.viva100.com/article/20260917500045",
       "source": "viva100.com",
       "published": "2026-09-17T08:45:00+09:00"
     },
