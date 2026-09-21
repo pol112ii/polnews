@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T09:12:08.721254+09:00",
+  "generated_at": "2026-09-21T09:59:22.347199+09:00",
   "topic": {
     "id": "police",
     "label": "경찰",
@@ -37,7 +37,7 @@
       "source": "메트로신문",
       "published": "2026-09-20T11:30:32+09:00",
       "latest": "2026-09-21T08:53:19+09:00",
-      "mention_count": 31,
+      "mention_count": 33,
       "sources": [
         "메트로신문",
         "아시아경제",
@@ -46,11 +46,11 @@
         "SBS Biz",
         "데일리안",
         "이투데이",
+        "asiae.co.kr",
+        "dailian.co.kr",
         "아이뉴스24",
         "매일경제 마켓",
-        "edaily.co.kr",
-        "v.daum.net",
-        "소비자가 만드는 신문"
+        "edaily.co.kr"
       ],
       "summary": "금융당국이 선물 배송과 해외여행이 급증하는 추석을 앞두고 '보이스피싱 주의보'를 발령했다. 또한 주요 보이스피싱 예방 및 대응 방안을 담은 '보이스피싱 예방 십계명'도 공개했다. 20일 금융위원회와 금융감독원은 추석명절을 앞두고 명절 전후 주의해야 할 주요 보이스피싱"
     },
@@ -60,7 +60,7 @@
       "source": "보험신보",
       "published": "2026-09-20T12:00:00+09:00",
       "latest": "2026-09-21T09:07:20+09:00",
-      "mention_count": 16,
+      "mention_count": 17,
       "sources": [
         "보험신보",
         "아시아경제",
@@ -172,9 +172,10 @@
           "source": "아시아경제",
           "published": "2026-09-20T13:36:04+09:00",
           "latest": "2026-09-20T18:20:04+09:00",
-          "mention_count": 3,
+          "mention_count": 4,
           "sources": [
             "아시아경제",
+            "asiae.co.kr",
             "news.sbs.co.kr",
             "gukjenews.com"
           ],
@@ -357,18 +358,38 @@
           "source": "머니투데이",
           "published": "2026-09-20T06:00:00+09:00",
           "latest": "2026-09-21T08:13:11+09:00",
-          "mention_count": 8,
+          "mention_count": 9,
           "sources": [
             "머니투데이",
             "edaily.co.kr",
             "마켓인",
             "데일리안",
+            "dailian.co.kr",
             "프라임경제",
             "newsis.com",
             "뉴시스",
             "한국세정신문"
           ],
           "summary": "보이스피싱 피해가 빈발한 가운데 은행권이 소비자보호 차원에서 제공하는 피해보상 보험 서비스가 사실상 유명무실한 것으로 드러났다. 5년간 피해보상보험 지급 사례는 단 21건에 불과했다."
+        },
+        {
+          "title": "경찰, 이기흥 전 체육회장 부정채용 등 7개 혐의 불송치",
+          "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1413513",
+          "source": "연합뉴스 한민족센터",
+          "published": "2026-09-21T05:55:00+09:00",
+          "latest": "2026-09-21T09:49:48+09:00",
+          "mention_count": 8,
+          "sources": [
+            "연합뉴스 한민족센터",
+            "koreancenter.or.kr",
+            "v.daum.net",
+            "뉴시스",
+            "동아일보",
+            "뉴스1",
+            "KBS 뉴스",
+            "BBS불교방송"
+          ],
+          "summary": "연합뉴스 한민족센터는 동포 관련 뉴스와 정보를 통해 동포사회의 목소리를 반영합니다."
         },
         {
           "title": "경찰, '7명 사상' 안성 나눔장터 돌진사고 급발진 여부 집중수사",
@@ -446,6 +467,24 @@
           "summary": "한동훈 무소속 의원이 20일 김민석 더불어민주당 대표를 향해 김승원 전 법무부 장관 후보자의 성추행 의혹 등에 대해 “언제 제보 받았나”라고 공개 질의했다. 한 의원은 이날 페이스북을 통해 김 대표를 향해 “공개 질의한다. 김 전 후보자의 전직 보좌진의 ‘기자 성추행,"
         },
         {
+          "title": "사하구서 음주운전 차량이 정차 중인 택시 충격…3명 병원 이송",
+          "link": "https://www.wbcb.co.kr/news/articleView.html?idxno=106303",
+          "source": "복지TV부울경방송",
+          "published": "2026-09-20T12:55:27+09:00",
+          "latest": "2026-09-20T18:53:00+09:00",
+          "mention_count": 7,
+          "sources": [
+            "복지TV부울경방송",
+            "wbcb.co.kr",
+            "newspim.com",
+            "뉴스핌",
+            "노컷뉴스",
+            "knn.co.kr",
+            "news.knn.co.kr"
+          ],
+          "summary": "부산 사하구의 한 교차로에서 음주상태로 운전하던 차량이 정차 중인 택시를 들이받는 사고가 발생해 택시 운전자와 승객 등 3명이 병원으로 이송됐다.20일 사하경찰서 등에 따르면 사고는 전날인 19일 오후 10시 46분께 사하구 다대로에서 발생했다.당시 50대 여성 A씨가…"
+        },
+        {
           "title": "'모자 사망' 안성 트럭 돌진 사고 운전자 구속영장 신청",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762051&plink=RSSLINK&cooper=GSTAND",
           "source": "news.sbs.co.kr",
@@ -480,22 +519,6 @@
           "summary": "포항에서 음주운전 사고로 피해자를 다치게 한 후 수사기관의 출석 요구에 불응하고 1년간 도피한 70대 남성이 구속됐다. 포항남부경찰서는 교통사고처리특례법 위반(치상)과 도로교통법 위반(음주운전) 혐의로 70대 A씨를 구속해 검찰에 송치할 예정이라고 20일 밝혔다. A씨"
         },
         {
-          "title": "경찰, 이기흥 전 체육회장 부정채용 등 7개 혐의 불송치",
-          "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1413513",
-          "source": "연합뉴스 한민족센터",
-          "published": "2026-09-21T05:55:00+09:00",
-          "latest": "2026-09-21T08:50:10+09:00",
-          "mention_count": 5,
-          "sources": [
-            "연합뉴스 한민족센터",
-            "koreancenter.or.kr",
-            "v.daum.net",
-            "뉴시스",
-            "동아일보"
-          ],
-          "summary": "연합뉴스 한민족센터는 동포 관련 뉴스와 정보를 통해 동포사회의 목소리를 반영합니다."
-        },
-        {
           "title": "18명 속인 중고거래 사기범 잡았다…경주경찰 수사6팀 ‘감사패’",
           "link": "https://www.kbmaeil.com/article/20260920500168",
           "source": "경북매일",
@@ -512,20 +535,20 @@
           "summary": "경주경찰서 수사과 수사6팀이 중고거래 사기범을 신속하게 검거해 피해자들로부터 감사의 뜻을 전달받았다. 경주경찰서(서장 김정진)는 수사6팀이 인터넷 중고물품 거래를 빙자해 다수의 피해자에게 돈을 가로챈 사기범을 검거한 공로로 국내 금융사기 피해정보 공유 플랫폼인 ‘더 치"
         },
         {
-          "title": "사하구서 음주운전 차량이 정차 중인 택시 충격…3명 병원 이송",
-          "link": "https://www.wbcb.co.kr/news/articleView.html?idxno=106303",
-          "source": "복지TV부울경방송",
-          "published": "2026-09-20T12:55:27+09:00",
-          "latest": "2026-09-20T18:53:00+09:00",
+          "title": "술 취해 차량 훔쳐 운전한 30대 남성 검거…'면허 취소 수치'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762506&plink=RSSLINK&cooper=GSTAND",
+          "source": "news.sbs.co.kr",
+          "published": "2026-09-20T21:10:02+09:00",
+          "latest": "2026-09-20T22:21:59+09:00",
           "mention_count": 5,
           "sources": [
-            "복지TV부울경방송",
-            "newspim.com",
-            "노컷뉴스",
-            "knn.co.kr",
-            "news.knn.co.kr"
+            "news.sbs.co.kr",
+            "v.daum.net",
+            "MBC 뉴스",
+            "세계일보",
+            "segye.com"
           ],
-          "summary": "부산 사하구의 한 교차로에서 음주상태로 운전하던 차량이 정차 중인 택시를 들이받는 사고가 발생해 택시 운전자와 승객 등 3명이 병원으로 이송됐다.20일 사하경찰서 등에 따르면 사고는 전날인 19일 오후 10시 46분께 사하구 다대로에서 발생했다.당시 50대 여성 A씨가…"
+          "summary": "경기 분당경찰서는 절도 및 도로교통법상 음주운전 혐의로 30대 남성 A 씨를 검거했다고 오늘 밝혔습니다. A 씨는 어젯밤 11시 30분쯤 성남시 분당구의 한 상가건물 주차장에서 술에 취한 상태로 주차된 BMW 승용차를 훔쳐 약 1시간 운전한 혐의를 받습니다."
         },
         {
           "title": "與, '김승원 수사기록' 불법 유출 논란 한동훈 역공…\"경찰, 즉시 수사하라\"",
@@ -541,21 +564,6 @@
             "v.daum.net"
           ],
           "summary": "김난영 한재혁 기자 = 더불어민주당이 김승원 법무부장관 후보자 낙마 이후 한동훈 무소속 의원에 대한 수사를 촉구했다.조계원 민주당 대변인은 20일 국회 소통관 브리핑에서 한 의원을 향해 \"검찰의 내밀한 수사자료를 누구에게 받았나\"라며 \"경찰은 한동훈 수사에 즉시 착수하…"
-        },
-        {
-          "title": "술 취해 차량 훔쳐 운전한 30대 남성 검거…'면허 취소 수치'",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762506&plink=RSSLINK&cooper=GSTAND",
-          "source": "news.sbs.co.kr",
-          "published": "2026-09-20T21:10:02+09:00",
-          "latest": "2026-09-20T22:21:59+09:00",
-          "mention_count": 4,
-          "sources": [
-            "news.sbs.co.kr",
-            "v.daum.net",
-            "MBC 뉴스",
-            "세계일보"
-          ],
-          "summary": "경기 분당경찰서는 절도 및 도로교통법상 음주운전 혐의로 30대 남성 A 씨를 검거했다고 오늘 밝혔습니다. A 씨는 어젯밤 11시 30분쯤 성남시 분당구의 한 상가건물 주차장에서 술에 취한 상태로 주차된 BMW 승용차를 훔쳐 약 1시간 운전한 혐의를 받습니다."
         },
         {
           "title": "제주은행·금감원·제주경찰, 추석 앞두고 금융사기 예방 캠페인",
@@ -588,19 +596,19 @@
           "summary": "KB국민은행이 추석을 맞아 전국 전통시장에서 생필품을 구매해 소외계층에 전달하고 금융사기 예방 캠페인을 함께 진행했다. KB국민은행은 지난 18일 서울 영등포전통시장에서"
         },
         {
-          "title": "SKT, AI로 보이스피싱·금융사고 막는다…‘선한 AI’로 사회문제 해결",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=01203766645582088&mediaCodeNo=257",
-          "source": "edaily.co.kr",
-          "published": "2026-09-20T09:00:05+09:00",
-          "latest": "2026-09-20T15:26:00+09:00",
+          "title": "경찰청, 6개월간 토착비리 1863명 단속·729명 송치…27명 구속",
+          "link": "https://www.m-economynews.com/news/article.html?no=70892",
+          "source": "m-economynews.com",
+          "published": "2026-09-20T13:41:06+09:00",
+          "latest": "2026-09-20T15:26:31+09:00",
           "mention_count": 4,
           "sources": [
-            "edaily.co.kr",
-            "파이낸셜포스트",
-            "뉴스핌",
-            "newspim.com"
+            "m-economynews.com",
+            "M이코노미뉴스",
+            "뉴스프리존",
+            "newsfreezone.co.kr"
           ],
-          "summary": "SK텔레콤(017670)이 인공지능(AI)을 활용해 보이스피싱과 금융사고를 막고 취약계층을 돌보는 등 사회문제 해결에 나선다. SK텔레콤은 오는 21~22일 서울 코엑스에서 열리는 대한상공회의소 주최 ‘제3회 대한민국 사회적가치 페스타’에 참가해 지속가능경영 비전..."
+          "summary": "경찰청 국가수사본부는 지난 3월 4일부터 이달 16일까지 6개월여간 진행한 토착비리 특별단속 결과 1863명을 단속하고 이 가운데 729명을 송치했다고 20일 밝혔다. 전체 단속은 693건이었으며, 혐의가 중한 27명은 구속됐다. 단속 유형을 보면 관계자에게 부당한 압…"
         }
       ]
     },
@@ -612,8 +620,8 @@
           "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1102169",
           "source": "디스커버리뉴스(DISCOVERYNEWS)",
           "published": "2026-09-20T10:37:08+09:00",
-          "latest": "2026-09-21T08:58:35+09:00",
-          "mention_count": 7,
+          "latest": "2026-09-21T09:15:53+09:00",
+          "mention_count": 8,
           "sources": [
             "디스커버리뉴스(DISCOVERYNEWS)",
             "kgnews.co.kr",
@@ -621,9 +629,27 @@
             "아주경제",
             "컨슈머타임스",
             "이뉴스투데이",
-            "더팩트"
+            "더팩트",
+            "매일일보"
           ],
           "summary": "[디스커버리뉴스=강성덕 기자 ecowrite@daum.net]인천시가 대형 물류시설 화재에 대비한 현장 안전관리 강화에 나선다.인천광역시(시장 박찬대)는 오는 22일 서해구 원창동 일대 물류시설을 찾아 ‘2026년 물류시설 화재예방 민관합동 안전문화운동 캠페인’을 진행…"
+        },
+        {
+          "title": "중부내륙고속도로서 화물차·승용차 추돌사고 뒤 화재",
+          "link": "https://v.daum.net/v/20260921064638485",
+          "source": "v.daum.net",
+          "published": "2026-09-21T06:46:38+09:00",
+          "latest": "2026-09-21T08:27:20+09:00",
+          "mention_count": 6,
+          "sources": [
+            "v.daum.net",
+            "핀포인트뉴스",
+            "seoul.co.kr",
+            "서울신문",
+            "sangjusori.co.kr",
+            "상주의소리"
+          ],
+          "summary": "21일 오전 5시 28분께 경북 상주시 낙동면 내곡리 중부내륙고속도로 양평 방향 낙동 분기점 인근에서 달리던 승용차가 앞서가던 화물차를 들이받는 사고가 발생했다. 이 사고로 승용차에 불이 났으나 다친 이는 없는 것으로 알려졌다. 불은 출동한 소방대에 의해 30여분 만에…"
         },
         {
           "title": "'오송 참사' 부실 제방 시공·감리사 1심 결과 불복 항소… 법정 공방 2심으로",
@@ -659,6 +685,21 @@
           "summary": "중부지방해양경찰청과 인공 파도 시설 웨이브파크는 오는 29일 경기 시흥시 거북섬 웨이브파크에서 '웨이브 구출 챔피언십'을 연다고 20일 밝혔다.대한인명구조협회가 주관하는 이번 대회는 해양경찰과 민간 구조대원이 함께 참가하는 민관 협력형 구조 경진 대회다.인천·평택·태안…"
         },
         {
+          "title": "충남경찰청, 어르신 교통안전 확보 노인단체 업무협약(MOU) 체결",
+          "link": "https://www.cctimes.kr/news/articleView.html?idxno=928555",
+          "source": "충청타임즈",
+          "published": "2026-09-20T11:52:04+09:00",
+          "latest": "2026-09-21T09:52:31+09:00",
+          "mention_count": 4,
+          "sources": [
+            "충청타임즈",
+            "cctimes.kr",
+            "충남일보",
+            "뉴스데일리"
+          ],
+          "summary": "충남경찰청(청장 이서영)과 충남자치경찰위원회(위원장 이종원)는 18일 청내 중회의실에서 대한노인회 충남연합회, 충남 게이트볼협회, 충남 그라운드골프협회, 충남 파크골프협회와 어르신 교통안전 확보를 위한 업무협약(MOU)를 체결했다. 이번 업무협약은 충남이 초고령사회에…"
+        },
+        {
           "title": "안성 플리마켓 차량 돌진…모자 사망·5명 부상",
           "link": "https://v.daum.net/v/20260920091732878",
           "source": "v.daum.net",
@@ -674,19 +715,19 @@
           "summary": "경기도 안성의 한 플리마켓 행사장에 트럭이 돌진했습니다. 40대 엄마와 10대 아들 등 2명이 숨지고 5명이 다쳤는데요. 경찰은 긴급체포한 60대 트럭 운전사에 대해 구속영장을 신청했습니다. 세종포천고속도로에서는 화물차가 SUV차량을 들이받아 2명이 숨졌습니다. 홍정원…"
         },
         {
-          "title": "중부내륙고속도로서 화물차·승용차 추돌사고 뒤 화재",
-          "link": "https://v.daum.net/v/20260921064638485",
-          "source": "v.daum.net",
-          "published": "2026-09-21T06:46:38+09:00",
-          "latest": "2026-09-21T08:27:20+09:00",
+          "title": "지커 7X 충전 중 화재, 중국산 전기차 '사고 후 관리' 체계 취약성 드러내",
+          "link": "https://www.eanews.kr/news/1005380",
+          "source": "얼리어답터뉴스",
+          "published": "2026-09-21T03:30:04+09:00",
+          "latest": "2026-09-21T03:33:04+09:00",
           "mention_count": 4,
           "sources": [
-            "v.daum.net",
-            "핀포인트뉴스",
-            "seoul.co.kr",
-            "sangjusori.co.kr"
+            "얼리어답터뉴스",
+            "유스연합",
+            "knpp.co.kr",
+            "대한청년일보"
           ],
-          "summary": "21일 오전 5시 28분께 경북 상주시 낙동면 내곡리 중부내륙고속도로 양평 방향 낙동 분기점 인근에서 달리던 승용차가 앞서가던 화물차를 들이받는 사고가 발생했다. 이 사고로 승용차에 불이 났으나 다친 이는 없는 것으로 알려졌다. 불은 출동한 소방대에 의해 30여분 만에…"
+          "summary": "충전시설 화재 사건과 즉각적 파장 2026년 8월 9일 중국 저장성 닝보의 한 충전 시설에서 지커(Zeekr) 7X 전기차가 과열 후 화재가 발생했다. 이 사건은 배터리 결함 여부보다 더 근본적인 문제를 산업계에 제기했다. 인명 피해는 없었지만, 유카포스트가 2026년…"
         },
         {
           "title": "김정재 의원, 제주항공 참사 이후에도 관제인력 공백에 과로까지…항공교통관제사 결원율 15.8%, 월 초과근무 최대 99.6시간",
@@ -704,6 +745,21 @@
           "summary": "김정재 의원 [뉴스체인지=오혜인 기자] 제주항공 참사 이후 항공안전 관리 강화 필요성이 커졌지만, 전국 항공교통관제시설의 인력 공백이 올해 다시"
         },
         {
+          "title": "BGF리테일, 경찰청·국가아동권리보장원과 아동 안전 그림 공모전 개최",
+          "link": "https://www.dailian.co.kr/news/view/1692558/BGF%EB%A6%AC%ED%85%8C%EC%9D%BC-%EA%B2%BD%EC%B0%B0%EC%B2%AD%EA%B5%AD%EA%B0%80%EC%95%84%EB%8F%99%EA%B6%8C%EB%A6%AC%EB%B3%B4%EC%9E%A5%EC%9B%90%EA%B3%BC-2026",
+          "source": "데일리안",
+          "published": "2026-09-20T10:02:00+09:00",
+          "latest": "2026-09-20T15:55:27+09:00",
+          "mention_count": 4,
+          "sources": [
+            "데일리안",
+            "dailian.co.kr",
+            "이투데이",
+            "파이낸셜뉴스"
+          ],
+          "summary": "BGF리테일이 경찰청, 국가아동권리보장원과 함께 아동 안전 문화 확산을 위한 '제6회 아동 안전 그림 공모전'을 10월 21일까지 개최한다.이번 공모전은 아동학대 예방의 날(11월 19일)을 맞아 아동 안전 선도 기업으로서 마련된 행사다.2021년부터 시작된 이 행사는…"
+        },
+        {
           "title": "인천 물류시설 화재 예방 강화…현장 초동대응 집중 점검",
           "link": "https://livesnews.com/news/article.html?no=64352",
           "source": "livesnews.com",
@@ -719,18 +775,31 @@
           "summary": "인천시가 물류시설 대형화재와 인명피해 예방을 위해 현장 종사자를 대상으로 화재 예방수칙과 재난 대응요령을 집중 안내한다. 인천시는 오는 22일 서해구 원창동 일대 물류시설에서 올해 물류시설 화재예방 민관합동 안전문화운동 캠페인을 실시한다. 이번 캠페인은 물류시설 특성상…"
         },
         {
-          "title": "지커 7X 충전 중 화재, 중국산 전기차 '사고 후 관리' 체계 취약성 드러내",
-          "link": "https://www.eanews.kr/news/1005380",
-          "source": "얼리어답터뉴스",
-          "published": "2026-09-21T03:30:04+09:00",
-          "latest": "2026-09-21T03:33:04+09:00",
+          "title": "통영시 치매 실종 예방 훈련 > 뉴스",
+          "link": "http://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=554913",
+          "source": "더코리아",
+          "published": "2026-09-20T10:00:00+09:00",
+          "latest": "2026-09-21T08:59:37+09:00",
           "mention_count": 3,
           "sources": [
-            "얼리어답터뉴스",
-            "knpp.co.kr",
-            "대한청년일보"
+            "더코리아",
+            "화성인터넷신문",
+            "웹이코노미"
+          ]
+        },
+        {
+          "title": "\"한일전 한국이 이겨서 안도했다!\" 日팬들도 등돌린 '버스 실종' 졸속 운영...\"일본 대표팀을 응원할 수 없는 상황\"",
+          "link": "https://www.mt.co.kr/sports/2026/09/21/202609202309779377O",
+          "source": "머니투데이",
+          "published": "2026-09-21T08:05:00+09:00",
+          "latest": "2026-09-21T08:05:00+09:00",
+          "mention_count": 3,
+          "sources": [
+            "머니투데이",
+            "osen.co.kr",
+            "OSEN"
           ],
-          "summary": "충전시설 화재 사건과 즉각적 파장 2026년 8월 9일 중국 저장성 닝보의 한 충전 시설에서 지커(Zeekr) 7X 전기차가 과열 후 화재가 발생했다. 이 사건은 배터리 결함 여부보다 더 근본적인 문제를 산업계에 제기했다. 인명 피해는 없었지만, 유카포스트가 2026년…"
+          "summary": "\"솔직히 한국이 이겨서 안도했다. \"대한민국 남자농구대표팀이 개최국 일본을 꺾고 12년 만에 아시안게임 정상에 오른 가운데 일본에서도 한국의 우승을 축하하는 목소리가 나왔다."
         },
         {
           "title": "이란 미나브 초등학교 오폭 참사에도 AI가 있었다",
@@ -761,20 +830,6 @@
           "summary": "① 쿠팡과 쿠팡풀필먼트서비스는 인천 물류센터 화재 피해 지역에 45억 원 규모 지원 대책을 마련했습니다. ② 회사 측은 인근 주민에게 생활지원금과 피해회복지원금을 일괄 지급하며 피해가 큰 지역 4인 가구는 최대 60만 원을 받게 했습니다. ③ 회사 측은 학교발전기금과…"
         },
         {
-          "title": "BGF리테일, 경찰청·국가아동권리보장원과 아동 안전 그림 공모전 개최",
-          "link": "https://www.dailian.co.kr/news/view/1692558/BGF%EB%A6%AC%ED%85%8C%EC%9D%BC-%EA%B2%BD%EC%B0%B0%EC%B2%AD%EA%B5%AD%EA%B0%80%EC%95%84%EB%8F%99%EA%B6%8C%EB%A6%AC%EB%B3%B4%EC%9E%A5%EC%9B%90%EA%B3%BC-2026",
-          "source": "데일리안",
-          "published": "2026-09-20T10:02:00+09:00",
-          "latest": "2026-09-20T15:55:27+09:00",
-          "mention_count": 3,
-          "sources": [
-            "데일리안",
-            "이투데이",
-            "파이낸셜뉴스"
-          ],
-          "summary": "BGF리테일이 경찰청, 국가아동권리보장원과 함께 아동 안전 문화 확산을 위한 '제6회 아동 안전 그림 공모전'을 10월 21일까지 개최한다.이번 공모전은 아동학대 예방의 날(11월 19일)을 맞아 아동 안전 선도 기업으로서 마련된 행사다.2021년부터 시작된 이 행사는…"
-        },
-        {
           "title": "레드벨벳 예리, 10년 전 교통사고 후유증 고백→\"앞으로 날아가…입에서 피 줄줄\" [MHN:픽]",
           "link": "https://v.daum.net/v/20260920153054686",
           "source": "v.daum.net",
@@ -787,48 +842,6 @@
             "isplus.com"
           ],
           "summary": "레드벨벳 예리가 과거 교통사고 당시 겪었던 부상과 이후 남은 후유증을 털어놨다. 당시에는 비교적 가벼운 사고로 알려졌지만, 예리에게는 장기간 치료가 필요할 만큼 큰 부상이었던 것으로 전해졌다. 지난 16일 그의 개인 채널"
-        },
-        {
-          "title": "충남경찰청, 교통사고 취약 국도 3곳 맞춤형 개선 추진",
-          "link": "https://www.viva100.com/article/20260920500103",
-          "source": "브릿지경제",
-          "published": "2026-09-20T09:17:00+09:00",
-          "latest": "2026-09-20T14:55:00+09:00",
-          "mention_count": 3,
-          "sources": [
-            "브릿지경제",
-            "ccdn.co.kr",
-            "충청매일"
-          ],
-          "summary": "충남경찰청이 교통사망사고를 줄이기 위해 사고 원인을 분석하고 도내 국도 3개 구간의 시설·환경 개선 방안을 마련한다. 충남경찰청은 지난 18일 청사 대회의실에서 ‘교통사망사고 예방 컨설팅 및 교통안전 솔루션 회의’를 개최했다. 1부 컨설팅에는 충남경찰청 교통과장과 교통"
-        },
-        {
-          "title": "여행 후 남은 달러 팔려다가 ‘범죄 자금세탁’ 연루···“금융사 통해야 안전”",
-          "link": "https://www.khan.co.kr/article/202609201200011",
-          "source": "경향신문",
-          "published": "2026-09-20T12:00:00+09:00",
-          "latest": "2026-09-20T13:09:02+09:00",
-          "mention_count": 3,
-          "sources": [
-            "경향신문",
-            "khan.co.kr",
-            "v.daum.net"
-          ],
-          "summary": "금융당국이 추석 연휴를 전후로 명절 선물 배송을 사칭한 보이스피싱, 해외여행 후 환전을 악용한 불법 자금세탁 등 다양한 범죄 시도를 경계해 달라고 20일 당부했다. 금융위원회·금융감독원에 따르면, 추석 명절을 앞두고 가장 흔하게 벌어지는 보이스피싱 수법은 선물 택배나…"
-        },
-        {
-          "title": "충남경찰청, 어르신 교통안전 확보 노인단체 업무협약(MOU) 체결",
-          "link": "https://www.cctimes.kr/news/articleView.html?idxno=928555",
-          "source": "충청타임즈",
-          "published": "2026-09-20T11:52:04+09:00",
-          "latest": "2026-09-20T12:25:59+09:00",
-          "mention_count": 3,
-          "sources": [
-            "충청타임즈",
-            "cctimes.kr",
-            "충남일보"
-          ],
-          "summary": "충남경찰청(청장 이서영)과 충남자치경찰위원회(위원장 이종원)는 18일 청내 중회의실에서 대한노인회 충남연합회, 충남 게이트볼협회, 충남 그라운드골프협회, 충남 파크골프협회와 어르신 교통안전 확보를 위한 업무협약(MOU)를 체결했다. 이번 업무협약은 충남이 초고령사회에…"
         }
       ]
     },
@@ -975,10 +988,11 @@
           "source": "breaknews.com",
           "published": "2026-09-20T11:35:00+09:00",
           "latest": "2026-09-21T07:05:00+09:00",
-          "mention_count": 9,
+          "mention_count": 10,
           "sources": [
             "breaknews.com",
             "뉴스워커",
+            "newsworker.co.kr",
             "더코리아",
             "진일보",
             "KBC광주방송",
@@ -988,6 +1002,25 @@
             "남해안신문"
           ],
           "summary": "여수시 내 설치·운영 중인 스쿨존 시간제 속도제한 안내 표지판. (무안=브레이크뉴스) 이학수 기자=전남지역 어린이보호구역(스쿨존)의 속도제한이"
+        },
+        {
+          "title": "경남경찰청, 김해교육박람회서 경찰헬기 소개 및 항공직업진로 안내 체험부스 운영",
+          "link": "https://www.lawissue.co.kr/view.php?ud=2026092011041054359a8c8bf58f_12",
+          "source": "lawissue.co.kr",
+          "published": "2026-09-20T11:08:50+09:00",
+          "latest": "2026-09-21T09:37:12+09:00",
+          "mention_count": 8,
+          "sources": [
+            "lawissue.co.kr",
+            "로이슈",
+            "부산일보",
+            "busan.com",
+            "뉴스핌",
+            "newspim.com",
+            "newfilenews.com",
+            "뉴스타운"
+          ],
+          "summary": "경남경찰청(청장 이재영)은 김해교육지원청의 요청으로 9월 19일 김해문화의전당에서 열린 ‘꿈 이음’ 김해교육박람회에서 ‘경찰헬기 소개 및 항공직업진로 안내’ 체험부스를 운영했다고 20일 밝혔다.이번 교육박람회 행사에는 김해시 초‧중 ‧고교생 및 학부모, 교원, 대학,…"
         },
         {
           "title": "'뺑소니 후 술타기' 배우 이재룡 첫 공판 11월13일로 연기",
@@ -1025,24 +1058,6 @@
             "남도일보"
           ],
           "summary": "옛 전남지역 22개 시·군의 어린이보호구역(스쿨존) 차량 제한속도가 탄력적으로 운영될 것으로 보인다. 전남자치경찰위원회는 어린이 통행이 적은 심야시간대에는 차량 제한속도를 탄력적으로 운영하는 '스쿨존 시간제 속도제한구역' 확대를 검토한다고 20일 밝혔다. 그동안 초등학…"
-        },
-        {
-          "title": "경남경찰청, 김해교육박람회서 경찰헬기 소개 및 항공직업진로 안내 체험부스 운영",
-          "link": "https://www.lawissue.co.kr/view.php?ud=2026092011041054359a8c8bf58f_12",
-          "source": "lawissue.co.kr",
-          "published": "2026-09-20T11:08:50+09:00",
-          "latest": "2026-09-20T17:50:01+09:00",
-          "mention_count": 7,
-          "sources": [
-            "lawissue.co.kr",
-            "로이슈",
-            "부산일보",
-            "busan.com",
-            "뉴스핌",
-            "newspim.com",
-            "newfilenews.com"
-          ],
-          "summary": "경남경찰청(청장 이재영)은 김해교육지원청의 요청으로 9월 19일 김해문화의전당에서 열린 ‘꿈 이음’ 김해교육박람회에서 ‘경찰헬기 소개 및 항공직업진로 안내’ 체험부스를 운영했다고 20일 밝혔다.이번 교육박람회 행사에는 김해시 초‧중 ‧고교생 및 학부모, 교원, 대학,…"
         },
         {
           "title": "\"동료들 돈 빌리고 안 갚아\" 반복…해경, '해임 취소' 패소",
@@ -1145,6 +1160,19 @@
           "summary": "지난 6월 불소 누출과 화재 사고가 잇따라 발생한 SK하이닉스 청주캠퍼스에서 산업안전보건법 위반사항 119건이 적발됐다.SK하이닉스 이천캠퍼스는 유해물질 취급 작업 과정에서 승인받은 작업절차를 지키지 않아 도급승인이 취소됐다.고용노동부는 6월 26일부터 이달 18일까지…"
         },
         {
+          "title": "사랑을 베풀고, 희망을 심으세요.",
+          "link": "https://www.vietnam.vn/ko/trao-yeu-thuong-gieo-hy-vong",
+          "source": "Vietnam.vn",
+          "published": "2026-09-21T08:50:19+09:00",
+          "latest": "2026-09-21T08:50:19+09:00",
+          "mention_count": 2,
+          "sources": [
+            "Vietnam.vn",
+            "vietnam.vn"
+          ],
+          "summary": "QTO - 꽝찌성 경찰청 산하 여성협회들이 시행하는 '대모' 프로그램은 단순한 물질적 지원을 넘어, 많은 고아와 어려운 환경에 처한 아이들에게 따뜻한 사랑의 버팀목이 되어주고 있습니다. 경찰 제복을 입은 이 어머니들은 끊임없는 나눔과 책임감을 통해 아이들이 이루지 못한…"
+        },
+        {
           "title": "경기남부경찰청 9월 20일 집회일정",
           "link": "https://www.kgnews.co.kr/news/article.html?no=912356",
           "source": "kgnews.co.kr",
@@ -1156,31 +1184,180 @@
             "경기신문"
           ],
           "summary": "9.20.(日) 주요 집회 주최 행사명 시간·장소 인원(신고) 관할서 신자유연대 등 윤 前 대통령 석방 촉구 집회 17:00~19:00 서울구치소제1주차장 2,000 의왕 H.O.F 참정권 보장 촉구 집회 17:30~19:00 미사역 시계탑 광장 20 하남 [ 경기"
-        },
-        {
-          "title": "[와글와글] \"옷까지 바꿔 입었지만\"‥CCTV에 덜미",
-          "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853185_37012.html",
-          "source": "MBC 뉴스",
-          "published": "2026-09-21T06:44:09+09:00",
-          "latest": "2026-09-21T06:49:09+09:00",
-          "mention_count": 2,
-          "sources": [
-            "MBC 뉴스",
-            "v.daum.net"
-          ],
-          "summary": "인터넷과 SNS에서 화제가 된 소식들 알아보는 입니다. 한 남성이 음주 운전을 숨기기 위해 친구와 옷까지 바꿔 입었는데요. 하지만, 경찰이 제시한 CCTV 영상 탓에 거짓말이 오래..."
         }
       ]
     }
   ],
-  "total_articles": 612,
-  "total_issues": 243,
+  "total_articles": 671,
+  "total_issues": 262,
   "raw": [
+    {
+      "title": "[ⓓ리뷰] \"늘리면, 결국 늘어질 뿐\"…'스캔들', 실종과 실망",
+      "link": "https://www.dispatch.co.kr/2348046",
+      "source": "디스패치",
+      "published": "2026-09-21T09:54:00+09:00"
+    },
+    {
+      "title": "실종된 8살 원영이, 한 달 전 이미 숨졌다…부모 학대·암매장 정황",
+      "link": "https://mobile.newsis.com/view.html?ar_id=NISX20260921_0003797746",
+      "source": "뉴시스",
+      "published": "2026-09-21T09:52:55+09:00"
+    },
+    {
+      "title": "충남경찰청, 추석 연휴 ‘국민 체감안전’ 확보 총력",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261213",
+      "source": "뉴스데일리",
+      "published": "2026-09-21T09:52:31+09:00"
+    },
+    {
+      "title": "국힘 “개각 참사, 강훈식·한성숙 사퇴해야…김현지·정진상, 국감 증인 추진”",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1278771.html",
+      "source": "한겨레",
+      "published": "2026-09-21T09:51:00+09:00"
+    },
+    {
+      "title": "[다시 만날 내일]1987년 실종된 아이, 작은 흉터와 신체특징",
+      "link": "https://www.wikitree.co.kr/articles/1160935",
+      "source": "위키트리",
+      "published": "2026-09-21T09:51:00+09:00"
+    },
+    {
+      "title": "경찰, 이기흥 전 체육회장 '무혐의'...\"증거 불충분\"",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107761",
+      "source": "BBS불교방송",
+      "published": "2026-09-21T09:49:48+09:00"
+    },
+    {
+      "title": "경찰, 이기흥 전 체육회장 부정채용 등 7개 혐의 불송치",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8668388",
+      "source": "KBS 뉴스",
+      "published": "2026-09-21T09:46:00+09:00"
+    },
+    {
+      "title": "정점식 \"개각참사에 강훈식·한성숙 사퇴하고 김승원 제명해야\"",
+      "link": "https://v.daum.net/v/20260921094437057",
+      "source": "v.daum.net",
+      "published": "2026-09-21T09:44:00+09:00"
+    },
+    {
+      "title": "손화정 영종구청장, 납세·경력·위장전입 의혹 해명 … “수사 성실히 협조”",
+      "link": "https://www.incheonnews.com/news/articleView.html?idxno=440754",
+      "source": "인천뉴스",
+      "published": "2026-09-21T09:39:53+09:00"
+    },
+    {
+      "title": "충남경찰청 광역예방순찰대, 다문화 청소년·자율방범대와 범죄취약지 합동순찰 실시",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261211",
+      "source": "뉴스데일리",
+      "published": "2026-09-21T09:38:07+09:00"
+    },
+    {
+      "title": "경찰, 이기흥 전 체육회장 부정채용 등 7개 혐의 불송치…1년 10개월 만",
+      "link": "https://www.news1.kr/society/incident-accident/6297047",
+      "source": "뉴스1",
+      "published": "2026-09-21T09:38:03+09:00"
+    },
+    {
+      "title": "경남경찰청, 김해교육박람회서 경찰헬기·항공진로 체험 제공",
+      "link": "https://www.newstown.co.kr/news/articleView.html?idxno=716434",
+      "source": "뉴스타운",
+      "published": "2026-09-21T09:37:12+09:00"
+    },
+    {
+      "title": "교통 범칙금·과태료, 교통안전에 재투자…특별회계 도입 논의",
+      "link": "https://www.etnews.com/20260921000052",
+      "source": "전자신문",
+      "published": "2026-09-21T09:35:51+09:00"
+    },
+    {
+      "title": "동해해경, 동절기 원거리 조업선 해양사고 예방 대책 회의 개최",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261210",
+      "source": "뉴스데일리",
+      "published": "2026-09-21T09:34:16+09:00"
+    },
+    {
+      "title": "추석 연휴 새벽 운전 조심하세요…사고 10%에 사망 28%",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=924029",
+      "source": "남도일보",
+      "published": "2026-09-21T09:33:51+09:00"
+    },
+    {
+      "title": "인천 고잔동 도로서 추돌사고→차량 2대 화재…1명 경상",
+      "link": "https://www.newsis.com/view/NISX20260921_0003797754",
+      "source": "뉴시스",
+      "published": "2026-09-21T09:33:02+09:00"
+    },
+    {
+      "title": "서천경찰서, 보이스 피싱 피해 예방한 서천 신협 직원에게 감사장 수여",
+      "link": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=910887",
+      "source": "충남일보",
+      "published": "2026-09-21T09:32:22+09:00"
+    },
+    {
+      "title": "LG유플러스, 해킹 정황에도 서버 폐기...경찰 수사 장기화",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=136634",
+      "source": "뉴스락",
+      "published": "2026-09-21T09:27:51+09:00"
+    },
+    {
+      "title": "강원경찰, ’도민과 함께 만드는 교통안전시설 개선 공모전‘ 개최",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261209",
+      "source": "뉴스데일리",
+      "published": "2026-09-21T09:26:52+09:00"
+    },
+    {
+      "title": "'추석 연휴 첫 날 교통사고 최다', 새벽 시간 사망자 가장 많아",
+      "link": "https://economist.co.kr/article/view/ecn202609210003",
+      "source": "이코노미스트",
+      "published": "2026-09-21T09:23:00+09:00"
+    },
+    {
+      "title": "‘청렴 협약’ 두 달 만에 만취 사고…파주시 5급 간부 음주운전 사고에 내부 ‘격앙’",
+      "link": "https://v.daum.net/v/20260921092204704",
+      "source": "v.daum.net",
+      "published": "2026-09-21T09:22:04+09:00"
+    },
+    {
+      "title": "울산경찰, 추석 앞두고 불법 성인PC방 단속…3명 검거",
+      "link": "https://www.newsis.com/view/NISX20260921_0003797719",
+      "source": "뉴시스",
+      "published": "2026-09-21T09:21:44+09:00"
+    },
+    {
+      "title": "제주 실종사건 부실 대응 논란… \"확인 없는 사건 종결 막을 종합 대책 시급\"",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107750",
+      "source": "BBS불교방송",
+      "published": "2026-09-21T09:21:18+09:00"
+    },
+    {
+      "title": "황희 \"최근 5년 추석 연휴 일평균 교통사고 426건…6.7명 사망\"",
+      "link": "https://v.daum.net/v/20260921091854556",
+      "source": "v.daum.net",
+      "published": "2026-09-21T09:18:54+09:00"
+    },
+    {
+      "title": "치매 어르신 실종, 함께 찾고 다같이 지킨다",
+      "link": "https://www.hansannews.com/news/articleView.html?idxno=107029",
+      "source": "hansannews.com",
+      "published": "2026-09-21T09:16:34+09:00"
+    },
+    {
+      "title": "인천시, 22일 원창동 물류시설서 화재예방 합동 캠페인 진행",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1416413",
+      "source": "매일일보",
+      "published": "2026-09-21T09:15:53+09:00"
+    },
     {
       "title": "추석 연휴 새벽 교통사고 치사율, 낮의 3.5배",
       "link": "https://www.imaeil.com/page/view/2026092109071007447",
       "source": "매일신문",
       "published": "2026-09-21T09:07:20+09:00"
+    },
+    {
+      "title": "'실종' 8살 원영이, 한 달 전 이미 숨졌다…'히든아이'가 밝힌 사건 전말",
+      "link": "https://enews.imbc.com/News/RetrieveNewsInfo/518867",
+      "source": "iMBC 연예",
+      "published": "2026-09-21T09:07:00+09:00"
     },
     {
       "title": "PG사 서버 해킹, 부정 취득한 카드정보를 이용·결제한 뒤 정산대금 3억 5천만 원을 가로챈 해킹범 등 다수 검거",
@@ -1193,6 +1370,18 @@
       "link": "https://www.theguru.co.kr/mobile/article.html?no=107321",
       "source": "더구루",
       "published": "2026-09-21T09:04:28+09:00"
+    },
+    {
+      "title": "울산경찰, 추석 앞두고 시장 주변 불법 PC방 단속…3명 입건",
+      "link": "https://v.daum.net/v/20260921090151732",
+      "source": "v.daum.net",
+      "published": "2026-09-21T09:01:00+09:00"
+    },
+    {
+      "title": "화성특례시, 치매 어르신 실종 예방 위해 스마트태그 배회감지기 무상 지원",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2313172",
+      "source": "웹이코노미",
+      "published": "2026-09-21T08:59:37+09:00"
     },
     {
       "title": "인천시, 물류시설 화재 예방 민관 합동 안전문화 캠페인 전개 - 보도자료 | 기사",
@@ -1225,10 +1414,23 @@
       "published": "2026-09-21T08:53:19+09:00"
     },
     {
+      "title": "부산경찰청·(사)이아동·경찰발전협의회, 투병 중인 경찰 동료에 성금 및 기부금 전달",
+      "link": "http://www.indifocus.kr/82322",
+      "source": "인디포커스",
+      "published": "2026-09-21T08:51:00+09:00"
+    },
+    {
       "title": "사랑을 베풀고, 희망을 심으세요.",
       "link": "https://www.vietnam.vn/ko/trao-yeu-thuong-gieo-hy-vong",
       "source": "Vietnam.vn",
       "published": "2026-09-21T08:50:19+09:00"
+    },
+    {
+      "title": "사랑을 베풀고, 희망을 심으세요.",
+      "link": "https://www.vietnam.vn/ko/trao-yeu-thuong-gieo-hy-vong",
+      "source": "vietnam.vn",
+      "published": "2026-09-21T08:50:19+09:00",
+      "summary": "QTO - 꽝찌성 경찰청 산하 여성협회들이 시행하는 '대모' 프로그램은 단순한 물질적 지원을 넘어, 많은 고아와 어려운 환경에 처한 아이들에게 따뜻한 사랑의 버팀목이 되어주고 있습니다. 경찰 제복을 입은 이 어머니들은 끊임없는 나눔과 책임감을 통해 아이들이 이루지 못한…"
     },
     {
       "title": "경찰, ‘부정채용·횡령 의혹’ 이기흥 전 체육회장 불송치…“증거 불충분”",
@@ -1242,6 +1444,12 @@
       "source": "한국강사신문",
       "published": "2026-09-21T08:45:51+09:00",
       "summary": "경찰청이 오는 10월 2일 개정 형사소송법 시행을 앞두고 전국 경찰관을 대상으로 의무교육을 실시하고, 현장 수사관들의 업무 혼선을 줄이기 위한 상담·지원 체계를 마련한다.경찰청은 지난 18일 서울 서대문구 경찰청에서 각 시도경찰청 동료강사와 현장 상담·지원 태스크포스(…"
+    },
+    {
+      "title": "NH농협금융 7개 자회사, ‘치매 극복의 날’ 공동 캠페인",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7185213",
+      "source": "주간한국",
+      "published": "2026-09-21T08:44:23+09:00"
     },
     {
       "title": "“경찰의 이야기를 경찰의 목소리로”",
@@ -1262,9 +1470,21 @@
       "published": "2026-09-21T08:27:20+09:00"
     },
     {
+      "title": "상주소식 - 상주 중부내륙고속도로 교통사고 뒤 불…전기승용차 전소",
+      "link": "http://www.sangjusori.co.kr/29545",
+      "source": "상주의소리",
+      "published": "2026-09-21T08:27:20+09:00"
+    },
+    {
       "title": "중부내륙고속도로서 화물차·전기차 추돌 사고 뒤 화재",
       "link": "https://www.seoul.co.kr/news/society/2026/09/21/20260921500011",
       "source": "seoul.co.kr",
+      "published": "2026-09-21T08:15:54+09:00"
+    },
+    {
+      "title": "중부내륙고속도로서 화물차·전기차 추돌 사고 뒤 화재",
+      "link": "https://www.seoul.co.kr/news/society/2026/09/21/20260921500011",
+      "source": "서울신문",
       "published": "2026-09-21T08:15:54+09:00"
     },
     {
@@ -1289,12 +1509,19 @@
       "title": "\"한일전 한국이 이겨서 안도했다!\" 日팬들도 등돌린 '버스 실종' 졸속 운영...\"일본 대표팀을 응원할 수 없는 상황\"",
       "link": "https://www.mt.co.kr/sports/2026/09/21/202609202309779377O",
       "source": "머니투데이",
-      "published": "2026-09-21T08:05:00+09:00"
+      "published": "2026-09-21T08:05:00+09:00",
+      "summary": "\"솔직히 한국이 이겨서 안도했다. \"대한민국 남자농구대표팀이 개최국 일본을 꺾고 12년 만에 아시안게임 정상에 오른 가운데 일본에서도 한국의 우승을 축하하는 목소리가 나왔다."
     },
     {
       "title": "\"한일전 한국이 이겨서 안도했다!\" 日팬들도 등돌린 '버스 실종' 졸속 운영...\"일본 대표팀을 응원할 수 없는 상황\"",
       "link": "https://www.osen.co.kr/article/G1112879118",
       "source": "osen.co.kr",
+      "published": "2026-09-21T08:05:00+09:00"
+    },
+    {
+      "title": "\"한일전 한국이 이겨서 안도했다!\" 日팬들도 등돌린 '버스 실종' 졸속 운영...\"일본 대표팀을 응원할 수 없는 상황\"",
+      "link": "https://www.osen.co.kr/article/G1112879118",
+      "source": "OSEN",
       "published": "2026-09-21T08:05:00+09:00"
     },
     {
@@ -1347,6 +1574,12 @@
       "published": "2026-09-21T08:00:00+09:00"
     },
     {
+      "title": "[시선] \"국감 앞두고 경찰·국세청 칼끝 한곳에\"...대웅제약, 리베이트 수사 '윤재승 오너家' 내부거래로 번지나",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=84949",
+      "source": "pointe.co.kr",
+      "published": "2026-09-21T08:00:00+09:00"
+    },
+    {
       "title": "[AI 10년 전 오늘] 경찰, 폭력에 누명까지 씌우며 ‘과잉 대응’…남대문경찰서 감찰 착수",
       "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=245985",
       "source": "시선뉴스",
@@ -1365,6 +1598,12 @@
       "published": "2026-09-21T07:49:37+09:00"
     },
     {
+      "title": "‘계양구 효성동 선거운동원 폭행 사건’ 수사 장기화…경찰 수사 지연 논란",
+      "link": "https://sports.donga.com/region/article/all/20260921/134705650/1",
+      "source": "sports.donga.com",
+      "published": "2026-09-21T07:49:37+09:00"
+    },
+    {
       "title": "경기남부경찰청 9월 21일 집회일정",
       "link": "https://www.kgnews.co.kr/mobile/article.html?no=912432",
       "source": "경기신문",
@@ -1374,6 +1613,12 @@
       "title": "안성 녹색장터 차량 돌진 참사, 시 “끝까지 책임”",
       "link": "https://www.sedaily.com/article/20093213",
       "source": "sedaily.com",
+      "published": "2026-09-21T07:40:46+09:00"
+    },
+    {
+      "title": "안성 녹색장터 차량 돌진 참사, 시 “끝까지 책임”",
+      "link": "https://www.sedaily.com/article/20093213",
+      "source": "서울경제",
       "published": "2026-09-21T07:40:46+09:00"
     },
     {
@@ -1455,6 +1700,12 @@
       "published": "2026-09-21T06:49:09+09:00"
     },
     {
+      "title": "추석 연휴 전날 교통사고 45%↑…\"23일 귀성길 주의\"",
+      "link": "https://www.asiae.co.kr/article/2026091811264004654",
+      "source": "asiae.co.kr",
+      "published": "2026-09-21T06:47:00+09:00"
+    },
+    {
       "title": "중부내륙고속도로서 화물차·승용차 추돌사고 뒤 화재",
       "link": "https://v.daum.net/v/20260921064638485",
       "source": "v.daum.net",
@@ -1526,6 +1777,12 @@
       "title": "중앙행정기관 이전 본격화…청사 건립 ‘큰장’ 선다",
       "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609181336310950665",
       "source": "대한경제",
+      "published": "2026-09-21T06:01:13+09:00"
+    },
+    {
+      "title": "중앙행정기관 이전 본격화…청사 건립 ‘큰장’ 선다",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609181336310950665",
+      "source": "dnews.co.kr",
       "published": "2026-09-21T06:01:13+09:00"
     },
     {
@@ -1632,6 +1889,12 @@
       "source": "얼리어답터뉴스",
       "published": "2026-09-21T03:30:04+09:00",
       "summary": "충전시설 화재 사건과 즉각적 파장 2026년 8월 9일 중국 저장성 닝보의 한 충전 시설에서 지커(Zeekr) 7X 전기차가 과열 후 화재가 발생했다. 이 사건은 배터리 결함 여부보다 더 근본적인 문제를 산업계에 제기했다. 인명 피해는 없었지만, 유카포스트가 2026년…"
+    },
+    {
+      "title": "지커 7X 충전 중 화재, 중국산 전기차 '사고 후 관리' 체계 취약성 드러내",
+      "link": "https://www.youthassembly.kr/news/1002546",
+      "source": "유스연합",
+      "published": "2026-09-21T03:30:04+09:00"
     },
     {
       "title": "음주운전 후 만기 출소한 노엘, 마약 의혹→200억 원 탈세설 해명…“알지도 못하면서”",
@@ -1838,6 +2101,12 @@
       "published": "2026-09-20T22:59:00+09:00"
     },
     {
+      "title": "이준영, 9년 실종됐는데...가짜 기억상실 “때를 기다려” (‘포핸즈’)",
+      "link": "https://www.tenasia.co.kr/article/2026092064764",
+      "source": "tenasia.co.kr",
+      "published": "2026-09-20T22:59:00+09:00"
+    },
+    {
       "title": "소방 공동 대응 요청…부 경장이 철수 지시?",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668135",
       "source": "KBS 뉴스",
@@ -1878,6 +2147,12 @@
       "title": "\"내 차인 줄\"… 술 취해 차량 훔쳐 운전한 30대 입건",
       "link": "https://www.segye.com/newsView/20260920511141?OutUrl=google",
       "source": "세계일보",
+      "published": "2026-09-20T22:21:59+09:00"
+    },
+    {
+      "title": "\"내 차인 줄\"… 술 취해 차량 훔쳐 운전한 30대 입건",
+      "link": "https://www.segye.com/newsView/20260920511141",
+      "source": "segye.com",
       "published": "2026-09-20T22:21:59+09:00"
     },
     {
@@ -2055,6 +2330,12 @@
       "title": "인천 다세대주택 화재…자기 집 옥상에 불 지른 50대 현행범 체포",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553555580",
       "source": "스포탈코리아",
+      "published": "2026-09-20T20:35:00+09:00"
+    },
+    {
+      "title": "인천 다세대주택 화재…자기 집 옥상에 불 지른 50대 현행범 체포",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553555580",
+      "source": "sportalkorea.com",
       "published": "2026-09-20T20:35:00+09:00"
     },
     {
@@ -2435,6 +2716,12 @@
       "published": "2026-09-20T17:49:01+09:00"
     },
     {
+      "title": "독일의 한 요양원에서 발생한 화재로 많은 사람이 부상을 입거나 사망했습니다.",
+      "link": "https://www.vietnam.vn/ko/chay-vien-duong-lao-o-duc-nhieu-nguoi-thuong-vong",
+      "source": "vietnam.vn",
+      "published": "2026-09-20T17:49:01+09:00"
+    },
+    {
       "title": "[2026 나고야] 육서영 맹폭...'항저우 참사' 지운 女 배구, 8년 만에 4강 진출...한일전 예고",
       "link": "https://v.daum.net/v/20260920174837187",
       "source": "v.daum.net",
@@ -2725,6 +3012,12 @@
       "published": "2026-09-20T16:25:23+09:00"
     },
     {
+      "title": "안성시, 녹색장터 참사.. 김보라 시장 “유가족 위로·사고 수습 모든 행정력 집중”",
+      "link": "https://sports.donga.com/region/article/all/20260920/134704291/1",
+      "source": "sports.donga.com",
+      "published": "2026-09-20T16:25:23+09:00"
+    },
+    {
       "title": "\"휴직 뒤 복직에 전보 순번 뒤바뀌었다\" 대전경찰 기동대 인사 논란",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2302526",
       "source": "대전일보",
@@ -2978,6 +3271,12 @@
       "published": "2026-09-20T15:26:31+09:00"
     },
     {
+      "title": "[경찰] 전국 729명 송치…전북 토착비리 수사는 어디까지",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=710338",
+      "source": "newsfreezone.co.kr",
+      "published": "2026-09-20T15:26:31+09:00"
+    },
+    {
       "title": "보이스피싱 예방부터 돌봄까지…SKT '선한 AI' 확장",
       "link": "https://www.newspim.com/news/view/20260920000140",
       "source": "뉴스핌",
@@ -3091,6 +3390,12 @@
       "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1100866",
       "source": "충청매일",
       "published": "2026-09-20T15:05:03+09:00"
+    },
+    {
+      "title": "‘자원봉사자 7명 사상’ 안성 나눔장터 돌진 사고…경찰, ‘급발진’ 규명 나서",
+      "link": "https://v.daum.net/v/QJsiAhDglh",
+      "source": "v.daum.net",
+      "published": "2026-09-20T15:05:00+09:00"
     },
     {
       "title": "‘자원봉사자 7명 사상’ 안성 나눔장터 돌진 사고…경찰, ‘급발진’ 규명 나서",
@@ -3449,6 +3754,12 @@
       "published": "2026-09-20T14:01:00+09:00"
     },
     {
+      "title": "보이스피싱 피해 5870억인데 보험금 지급 9건…은행권 보상 ‘유명무실’",
+      "link": "https://www.dailian.co.kr/news/view/1692612/%EB%B3%B4%EC%9D%B4%EC%8A%A4%ED%94%BC%EC%8B%B1-%ED%94%BC%ED%95%B4-5870%EC%96%B5%EC%9D%B8%EB%8D%B0-%EB%B3%B4%ED%97%98%EA%B8%88-2026",
+      "source": "dailian.co.kr",
+      "published": "2026-09-20T14:01:00+09:00"
+    },
+    {
       "title": "전남자치경찰위, 스쿨존 심야시간 속도제한 탄력 운영 확대",
       "link": "https://www.ikbc.co.kr/article/view/kbc202609200014",
       "source": "KBC광주방송",
@@ -3513,7 +3824,8 @@
       "title": "경찰청, 6개월간 토착비리 1863명 단속·729명 송치…27명 구속",
       "link": "https://www.m-economynews.com/news/article.html?no=70892",
       "source": "M이코노미뉴스",
-      "published": "2026-09-20T13:41:06+09:00"
+      "published": "2026-09-20T13:41:06+09:00",
+      "summary": "경찰청 국가수사본부는 지난 3월 4일부터 이달 16일까지 6개월여간 진행한 토착비리 특별단속 결과 1863명을 단속하고 이 가운데 729명을 송치했다고 20일 밝혔다. 전체 단속은 693건이었으며, 혐의가 중한 27명은 구속됐다. 단속 유형을 보면 관계자에게 부당한 압…"
     },
     {
       "title": "“응원은 즐겁게, 운전은 안전하게”…오비맥주, 야구장서 '건전음주' 캠페인",
@@ -3535,6 +3847,12 @@
       "summary": "20일 경기 파주의 한 공장에서 화재가 발생해 소방 당국이 대응 1단계를 발령하고 진화에 나섰다."
     },
     {
+      "title": "파주 공장서 화재…소방당국, 1단계 발령",
+      "link": "https://www.asiae.co.kr/article/2026092013360419199",
+      "source": "asiae.co.kr",
+      "published": "2026-09-20T13:36:04+09:00"
+    },
+    {
       "title": "'뺑소니 후 술타기' 배우 이재룡 첫 공판 11월13일로 연기",
       "link": "https://www.yna.co.kr/view/AKR20260920027300004",
       "source": "연합뉴스",
@@ -3545,6 +3863,12 @@
       "title": "수원시 한 야산서 불…소방당국 진화에 나서",
       "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035306",
       "source": "기호일보",
+      "published": "2026-09-20T13:29:00+09:00"
+    },
+    {
+      "title": "수원시 한 야산서 불…소방당국 진화에 나서",
+      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035306",
+      "source": "kihoilbo.co.kr",
       "published": "2026-09-20T13:29:00+09:00"
     },
     {
@@ -3675,9 +3999,21 @@
       "published": "2026-09-20T13:03:31+09:00"
     },
     {
+      "title": "독일: 베를린의 한 요양원에서 발생한 화재로 다수의 부상자와 사망자가 발생했습니다.",
+      "link": "https://www.vietnam.vn/ko/duc-chay-vien-duong-lao-o-berlin-nhieu-nguoi-thuong-vong",
+      "source": "vietnam.vn",
+      "published": "2026-09-20T13:03:31+09:00"
+    },
+    {
       "title": "부산 음주운전 차량 택시와 충돌…승객 등 3명 부상",
       "link": "https://www.newspim.com/news/view/20260920000095",
       "source": "newspim.com",
+      "published": "2026-09-20T13:03:00+09:00"
+    },
+    {
+      "title": "부산 음주운전 차량 택시와 충돌…승객 등 3명 부상",
+      "link": "https://www.newspim.com/news/view/20260920000095",
+      "source": "뉴스핌",
       "published": "2026-09-20T13:03:00+09:00"
     },
     {
@@ -3700,6 +4036,12 @@
       "summary": "부산 사하구의 한 교차로에서 음주상태로 운전하던 차량이 정차 중인 택시를 들이받는 사고가 발생해 택시 운전자와 승객 등 3명이 병원으로 이송됐다.20일 사하경찰서 등에 따르면 사고는 전날인 19일 오후 10시 46분께 사하구 다대로에서 발생했다.당시 50대 여성 A씨가…"
     },
     {
+      "title": "사하구서 음주운전 차량이 정차 중인 택시 충격…3명 병원 이송",
+      "link": "https://www.wbcb.co.kr/news/articleView.html?idxno=106303",
+      "source": "wbcb.co.kr",
+      "published": "2026-09-20T12:55:27+09:00"
+    },
+    {
       "title": "안성시 주최 행사장서 교통사고 7명 사상자 발생…24시간 지나도록 사고수습안 ‘깜깜’",
       "link": "https://v.daum.net/v/20260920125402372",
       "source": "v.daum.net",
@@ -3717,6 +4059,12 @@
       "source": "기호일보",
       "published": "2026-09-20T12:53:00+09:00",
       "summary": "지난 19일 안성시가 주최한 나눔의 녹색장터 행사장에서 교통사고가 나 2명이 숨지고 5명이 다쳤다. 안성시는 사고가 난 지 24시간이 지나도록 사고 수습 대책을"
+    },
+    {
+      "title": "안성시 주최 행사장서 교통사고 7명 사상자 발생…24시간 지나도록 사고수습안 ‘깜깜’",
+      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3035296",
+      "source": "kihoilbo.co.kr",
+      "published": "2026-09-20T12:53:00+09:00"
     },
     {
       "title": "이재룡, '술타기 의혹' 첫 재판 돌연 연기…음주운전 혐의는 빠졌다 [MD이슈]",
@@ -4085,9 +4433,27 @@
       "published": "2026-09-20T12:00:00+09:00"
     },
     {
+      "title": "추석 앞두고 보이스피싱 주의보…\"택배 문자·외화 직거래 조심\"",
+      "link": "https://www.asiae.co.kr/article/2026092011374778257",
+      "source": "asiae.co.kr",
+      "published": "2026-09-20T12:00:00+09:00"
+    },
+    {
+      "title": "“택배 주소 오류” 눌렀다간 악성앱…금융당국, 추석 보이스피싱 주의보",
+      "link": "https://www.dailian.co.kr/news/view/1692607/%E2%80%9C%ED%83%9D%EB%B0%B0-%EC%A3%BC%EC%86%8C-%EC%98%A4%EB%A5%98%E2%80%9D-%EB%88%8C%EB%A0%80%EB%8B%A4%EA%B0%84-%EC%95%85%EC%84%B1%EC%95%B1%EA%B8%88-2026",
+      "source": "dailian.co.kr",
+      "published": "2026-09-20T12:00:00+09:00"
+    },
+    {
       "title": "전남자치경찰위, 스쿨존 심야 속도제한... '편도 1차로까지 226곳 탄력 완화'",
       "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=505245",
       "source": "뉴스워커",
+      "published": "2026-09-20T11:55:00+09:00"
+    },
+    {
+      "title": "전남자치경찰위, 스쿨존 심야 속도제한... '편도 1차로까지 226곳 탄력 완화'",
+      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=505245",
+      "source": "newsworker.co.kr",
       "published": "2026-09-20T11:55:00+09:00"
     },
     {
@@ -4523,6 +4889,12 @@
       "source": "데일리안",
       "published": "2026-09-20T10:02:00+09:00",
       "summary": "BGF리테일이 경찰청, 국가아동권리보장원과 함께 아동 안전 문화 확산을 위한 '제6회 아동 안전 그림 공모전'을 10월 21일까지 개최한다.이번 공모전은 아동학대 예방의 날(11월 19일)을 맞아 아동 안전 선도 기업으로서 마련된 행사다.2021년부터 시작된 이 행사는…"
+    },
+    {
+      "title": "BGF리테일, 경찰청·국가아동권리보장원과 아동 안전 그림 공모전 개최",
+      "link": "https://www.dailian.co.kr/news/view/1692558/BGF%EB%A6%AC%ED%85%8C%EC%9D%BC-%EA%B2%BD%EC%B0%B0%EC%B2%AD%EA%B5%AD%EA%B0%80%EC%95%84%EB%8F%99%EA%B6%8C%EB%A6%AC%EB%B3%B4%EC%9E%A5%EC%9B%90%EA%B3%BC-2026",
+      "source": "dailian.co.kr",
+      "published": "2026-09-20T10:02:00+09:00"
     },
     {
       "title": "오비맥주, 대전 한화생명볼파크서 ‘건전음주 응원 캠페인’···\"맥주부터 논알코올까지\"",
