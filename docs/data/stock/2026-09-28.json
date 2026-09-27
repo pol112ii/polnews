@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T07:32:46.546025+09:00",
+  "generated_at": "2026-09-28T07:57:15.320063+09:00",
   "topic": {
     "id": "stock",
     "label": "주식",
@@ -60,9 +60,10 @@
       "source": "koreatimes.com",
       "published": "2026-09-27T10:37:01+09:00",
       "latest": "2026-09-27T21:49:13+09:00",
-      "mention_count": 9,
+      "mention_count": 10,
       "sources": [
         "koreatimes.com",
+        "미주한국일보",
         "연합뉴스",
         "헤럴드경제",
         "아시아경제",
@@ -80,7 +81,7 @@
       "source": "v.daum.net",
       "published": "2026-09-27T06:02:21+09:00",
       "latest": "2026-09-27T16:44:00+09:00",
-      "mention_count": 7,
+      "mention_count": 8,
       "sources": [
         "v.daum.net",
         "뉴시스",
@@ -88,7 +89,8 @@
         "Chosunbiz",
         "오피니언뉴스",
         "edaily.co.kr",
-        "YTN"
+        "YTN",
+        "ytn.co.kr"
       ],
       "summary": "코스피가 7000선을 회복한 뒤 상승 흐름을 이어가고 있지만 미국 국채금리가 5%를 넘어서면서 증시의 긴장감도 높아지고 있다. 다음 주 발표되는 미국 물가·고용지표가 채권금리와 증시의 향방을 가를 핵심 변수로 보인다. 27일 한국거래소에 따르면 코스피는 지난 21일 종…"
     },
@@ -98,9 +100,10 @@
       "source": "연합뉴스TV",
       "published": "2026-09-27T08:48:00+09:00",
       "latest": "2026-09-28T06:24:00+09:00",
-      "mention_count": 6,
+      "mention_count": 7,
       "sources": [
         "연합뉴스TV",
+        "yonhapnewstv.co.kr",
         "아시아경제",
         "v.daum.net",
         "아주경제",
@@ -115,13 +118,14 @@
       "source": "글로벌이코노믹",
       "published": "2026-09-27T04:00:00+09:00",
       "latest": "2026-09-28T06:00:13+09:00",
-      "mention_count": 5,
+      "mention_count": 6,
       "sources": [
         "글로벌이코노믹",
         "edaily.co.kr",
         "v.daum.net",
         "ebn.co.kr",
-        "서울경제"
+        "서울경제",
+        "sedaily.com"
       ],
       "summary": "전 세계 투자자들의 자금이 미국 채권보다 주식시장으로 빠르게 이동하고 있다. 외국인의 미국 주식과 투자펀드 지분 순매수액이 지난 1년간 1200조원을 넘어 관련 통계 작성 이후 사상 최대를 기록했다.외국인 투자자들이 지난해 7월부터 올해 7월까지 미국 주식과 투자펀드…"
     }
@@ -136,15 +140,31 @@
           "source": "ebn.co.kr",
           "published": "2026-09-27T06:00:00+09:00",
           "latest": "2026-09-28T05:44:54+09:00",
-          "mention_count": 5,
+          "mention_count": 6,
           "sources": [
             "ebn.co.kr",
             "v.daum.net",
             "서울파이낸스",
+            "ytn.co.kr",
             "머니투데이",
             "글로벌이코노믹"
           ],
           "summary": "추석 연휴를 마친 국내 주식시장이 박스권 상단 돌파를 위한 숨 가쁜 '허들 넘기'에 돌입한다.코스피는 글로벌 거시경제의 최대 변수인 미중 정상회담의 결과물을 소화"
+        },
+        {
+          "title": "[뉴욕증시-주간전망] 美中 정상회담 세부 결과는…물가·고용 지표 '촉각'",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436548",
+          "source": "연합인포맥스",
+          "published": "2026-09-27T07:00:23+09:00",
+          "latest": "2026-09-28T06:53:00+09:00",
+          "mention_count": 4,
+          "sources": [
+            "연합인포맥스",
+            "CBC뉴스",
+            "biz.sbs.co.kr",
+            "SBS Biz"
+          ],
+          "summary": "이번 주(9월 28일~10월 2일, 이하 미 동부시간) 뉴욕증시는 미국과 중국의 정상회담 관련 후속 발표, 8월 개인소비지출(PCE) 가격지수, 9월 고용 보고서를 최대 재료로 삼아 움직일 전망이다.미 국채 금리가 고공행진을 이어가는 가운데 연방준비제도(연준·Fed)…"
         },
         {
           "title": "외국인은 '레버리지'·개인은 '곱버스' 베팅…승자는",
@@ -186,20 +206,6 @@
             "한국경제"
           ],
           "summary": "짧은 추석 연휴를 마친 국내 증시가 28일 거래를 재개한다. 연휴 중 뉴욕증시는 하락 후 반등했고, 미국 국채금리와 국제유가는 크게 출렁였다. 이번주 국내 증시의 방향을 가를 변수는 앞으로 발표될 미국 물가·고용지표와 마이크론 실적이 될 전망이다. 27일 한국거래소..…"
-        },
-        {
-          "title": "[뉴욕증시-주간전망] 美中 정상회담 세부 결과는…물가·고용 지표 '촉각'",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436548",
-          "source": "연합인포맥스",
-          "published": "2026-09-27T07:00:23+09:00",
-          "latest": "2026-09-28T06:53:00+09:00",
-          "mention_count": 3,
-          "sources": [
-            "연합인포맥스",
-            "CBC뉴스",
-            "biz.sbs.co.kr"
-          ],
-          "summary": "이번 주(9월 28일~10월 2일, 이하 미 동부시간) 뉴욕증시는 미국과 중국의 정상회담 관련 후속 발표, 8월 개인소비지출(PCE) 가격지수, 9월 고용 보고서를 최대 재료로 삼아 움직일 전망이다.미 국채 금리가 고공행진을 이어가는 가운데 연방준비제도(연준·Fed)…"
         },
         {
           "title": "\"스테이블코인이 급등을?\"…JPYC, 상장 5일간 2만1000명 비싸게 매수 [크립토브리핑]",
@@ -258,6 +264,58 @@
           "summary": "추석 연휴를 끝내고 재개장하는 이번 주 코스피는 연휴 기간 누적된 글로벌 매크로 이벤트와 대외 지정학적 변수를 소화하며 ‘마의 7000선’ 안착 및 박스권 상단(7200선) 돌파를 시도할 것으로 전망된다. 27일 증권가 전망을 종합하면, 이번 주 코스피는 중동 리스크…"
         },
         {
+          "title": "[뉴욕증시] 미 증시 기술주 중심 강세…변수는 '마이크론'",
+          "link": "https://v.daum.net/v/20260928074209000",
+          "source": "v.daum.net",
+          "published": "2026-09-28T07:42:09+09:00",
+          "latest": "2026-09-28T07:48:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "v.daum.net",
+            "토큰포스트"
+          ],
+          "summary": "30일 8월 개인소비지출 물가지수와 마이크론 실적 발표가 예정돼 있으며, 10월 2일에는 9월 고용보고서가 공개됩니다. 지난 주말 미증시 삼대지수는 일제히 상승 마감했습니다. 나스닥이 2만 7천 선을 회복했고 S&P 500은 0.51% 올랐습니다. 지난주 미국 증시는…"
+        },
+        {
+          "title": "[서학개미 브리핑] 美증시 상승 베팅한 서학개미들 지난주 차익실현",
+          "link": "https://supple.kr/news/cmukeb785007cy8rc20nnf1rm",
+          "source": "supple.kr",
+          "published": "2026-09-28T07:26:53+09:00",
+          "latest": "2026-09-28T07:28:15+09:00",
+          "mention_count": 2,
+          "sources": [
+            "supple.kr",
+            "v.daum.net"
+          ],
+          "summary": "SBS Biz · 경제/금융 핵심 정리 · ■ 모닝벨"
+        },
+        {
+          "title": "이번주 뉴욕증시 고용·물가 '빅위크'…연준 추가 인상 가늠한다[월가프리뷰]",
+          "link": "https://www.news1.kr/world/international-economy/6302589",
+          "source": "뉴스1",
+          "published": "2026-09-28T07:00:00+09:00",
+          "latest": "2026-09-28T07:00:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "뉴스1",
+            "news1.kr"
+          ],
+          "summary": "9월 고용 10만명 증가·실업률 4.2% 전망…강하면 10월 인상 무게 PCE도 주목…30년물 20여년 최고·증시 내부선 이미 균열 미국 뉴욕증시가 이번 주 고용과 물가라는 두 개의 굵직한 경제지표를 연달아 맞는다. 연방준비제도(Fed·연준)가 이달 3년여 만에 금리…"
+        },
+        {
+          "title": "‘시총미달 상폐’ 코스닥서 8곳…다음 달부터 동전주까지 무더기 위기 [마켓시그널]",
+          "link": "https://www.sedaily.com/article/20095159",
+          "source": "서울경제",
+          "published": "2026-09-28T06:30:00+09:00",
+          "latest": "2026-09-28T06:30:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "서울경제",
+            "sedaily.com"
+          ],
+          "summary": "상장유지 시가총액 요건을 채우지 못해 코스닥에서 지난 석 달간 8개사가 퇴출 결정을 받았다. 해당 요건은 7월 재차 강화되며 기준이 상향됐는데, 다음 달 중순이면 시총 200억 원을 밑돈 상장사가 추가로 증시에서 사라지거나 코넥스로 편입될 전망이다. 28일 한국거래소에"
+        },
+        {
           "title": "코리아 디스카운트 떼러 ‘글로벌 큰손’ 집결…연휴 뒤 7000 코스피, 외국인 마음 돌릴까",
           "link": "https://supple.kr/news/cmukb36eh002reynf3u3q8csr",
           "source": "supple.kr",
@@ -282,58 +340,6 @@
             "뉴스핌"
           ],
           "summary": "다음 주 국내 증시는 반도체 실적과 외국인 수급에 따라 방향을 잡을 전망이다. 연휴 이후 마이크론을 시작으로 수출 지표와 삼성전자 잠정실적까지 반도체 업황을 확인할 이벤트가 잇따른.."
-        },
-        {
-          "title": "\"10월 증시 한번 기대\"…전문가가 꼽은 핵심 변수는, 금리·AI",
-          "link": "https://www.newsis.com/view/NISX20260923_0003801895",
-          "source": "뉴시스",
-          "published": "2026-09-27T22:10:00+09:00",
-          "latest": "2026-09-28T06:00:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "뉴시스",
-            "파이낸셜뉴스"
-          ],
-          "summary": "허준희 인턴 기자 = 미국 반도체주 강세에 국내 반도체주가 상승 출발한 가운데 한 전문가가 10월 증시 흐름을 분석했다.23일 구독자 304만명을 보유한 유튜브 채널'삼프로TV 3PROTV'에 출연한 박병창 MP파트너스 대표는 \"오늘 반도체가 상대적으로 좋을 가능성이…"
-        },
-        {
-          "title": "뉴욕증시, 국채금리 급등 우려에도 상승 마감…다우 0.9% 올라",
-          "link": "https://www.sisa-news.com/news/article.html?no=276569",
-          "source": "시사뉴스",
-          "published": "2026-09-27T07:24:32+09:00",
-          "latest": "2026-09-28T05:31:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "시사뉴스",
-            "v.daum.net"
-          ],
-          "summary": "미국 뉴욕증시는 25일(현지 시간), 국채 수익률이 급등해 투자자들의 우려가 이어졌음에도 상승 마감했다. 유가 하락과 기술주 강세가 투자 심리를 뒷받침하면서, 변동성이 컸던 이번 주를 결국 오름세로 마무리한 것이다. CNBC에 따르면 이날 다우존스 산업평균지수는 전장보…"
-        },
-        {
-          "title": "[김한진의 마켓 나우] 좋은 금리 인상은 증시도 살린다",
-          "link": "https://www.joongang.co.kr/article/25465091",
-          "source": "중앙일보",
-          "published": "2026-09-28T00:04:00+09:00",
-          "latest": "2026-09-28T00:04:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "중앙일보",
-            "joongang.co.kr"
-          ],
-          "summary": "작년까지만 해도 글로벌 중앙은행들의 통화정책은 대체로 완화 기조를 보였다. 하지만 올해 들어 우리나라와 유로존, 일본 등 대부분의 국가가 긴축 사이클에 본격 진입했고, 몇몇 국가는 인상 버튼을 누를 태세다. 마침내 미 연방준비제도(Fed)도 지난 9월 정책회의에서 3년…"
-        },
-        {
-          "title": "코스피 시총 상위 30곳서 하반기 1035조 증발...삼성·SK 반도체에 90% 집중",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490528",
-          "source": "핀포인트뉴스",
-          "published": "2026-09-27T21:37:24+09:00",
-          "latest": "2026-09-27T21:37:24+09:00",
-          "mention_count": 2,
-          "sources": [
-            "핀포인트뉴스",
-            "pinpointnews.co.kr"
-          ],
-          "summary": "하반기 들어 코스피 대형주의 몸집이 급격하게 줄었다. 시가총액 상위 30개 종목에서 석 달도 되지 않아 1000조원이 넘는 시가총액이 사라졌다.그러나 이번 조정은 시장 전체에 고르게 퍼진 하락과는 성격이 다르다. 삼성전자와 SK하이닉스 두 종목에서만 812조원이 넘는…"
         }
       ]
     },
@@ -354,6 +360,20 @@
             "국민일보"
           ],
           "summary": "SK하이닉스의 미국 자회사 솔리다임이 이르면 내년 기업공개(IPO)를 추진할 수 있다는 외신 보도가 나오면서 SK그룹의 중복상장 논란이 다시 불붙을 전망이다. 솔"
+        },
+        {
+          "title": "생물공학 상장기업 브랜드평판 9월 빅데이터 분석... 1위 알테오젠, 2위 펩트론, 3위 에이비엘바이",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490554",
+          "source": "pinpointnews.co.kr",
+          "published": "2026-09-28T06:47:23+09:00",
+          "latest": "2026-09-28T06:59:00+09:00",
+          "mention_count": 3,
+          "sources": [
+            "pinpointnews.co.kr",
+            "핀포인트뉴스",
+            "일간투데이"
+          ],
+          "summary": "알테오젠이 9월 생물공학 상장기업 브랜드평판에서 1위에 올랐다. 펩트론과 에이비엘바이오가 뒤를 이었다.한국기업평판연구소는 8월 28일부터 9월 28일까지 생물공학 상장기업 38개 브랜드의 빅데이터 3627만7215개를 분석한 결과, 알테오젠이 브랜드평판 1위를 기록했다…"
         },
         {
           "title": "비트와이즈 니어 현물 ETF 상장 확정…니어, 1년래 최고가로 비트코인 앞질러",
@@ -396,19 +416,6 @@
             "v.daum.net"
           ],
           "summary": "코넥스 거래대금이 시장 활성화 이후 역대 최저 수준을 기록하고, 코스닥 이전상장도 대거 주는 등 침체기를 겪고 있다.특히 코넥스에서는 코스닥 상폐 위기 기업 코넥스 이전상장 허용이 시장 활성화로 이어질 수 있다고 보고 있다.지난 23일부터 코스피·코스닥 시가.."
-        },
-        {
-          "title": "생물공학 상장기업 브랜드평판 9월 빅데이터 분석... 1위 알테오젠, 2위 펩트론, 3위 에이비엘바이",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490554",
-          "source": "pinpointnews.co.kr",
-          "published": "2026-09-28T06:47:23+09:00",
-          "latest": "2026-09-28T06:59:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "pinpointnews.co.kr",
-            "일간투데이"
-          ],
-          "summary": "알테오젠이 9월 생물공학 상장기업 브랜드평판에서 1위에 올랐다. 펩트론과 에이비엘바이오가 뒤를 이었다.한국기업평판연구소는 8월 28일부터 9월 28일까지 생물공학 상장기업 38개 브랜드의 빅데이터 3627만7215개를 분석한 결과, 알테오젠이 브랜드평판 1위를 기록했다…"
         },
         {
           "title": "빨라진 바이오 IPO 시계…심사기간 절반 '뚝'",
@@ -460,6 +467,19 @@
             "동아일보"
           ],
           "summary": "김민섭(22)은 25일 도쿄 아쿠아틱스센터에서 열린 2026 아이치-나고야 아시안게임 수영 남자 접영 200m에서 동메달을 땄다. 김민섭은 앞서 한국이 은메달을 딴 계영 400m와 동메달을 딴 계영 800m에서도 각각 예선에 출전해 메달에 힘을 보탰다.공식 기록상 그…"
+        },
+        {
+          "title": "‘조’ 단위 대어 줄줄이 쏟아진다…연휴 끝자락 IPO 시장 온기 기대감",
+          "link": "https://www.mk.co.kr/news/stock/12161822",
+          "source": "매일경제",
+          "published": "2026-09-27T11:29:24+09:00",
+          "latest": "2026-09-27T11:29:24+09:00",
+          "mention_count": 2,
+          "sources": [
+            "매일경제",
+            "매일경제 마켓"
+          ],
+          "summary": "엘리스, 내달 1일까지 수요예측 래블업·인텔리빅스 상장 채비 무신사 등 유니콘 종목 가시화"
         },
         {
           "title": "빅웨이브·글로벌테크놀로지 등 4곳 상장…멜콘 청약",
@@ -522,18 +542,6 @@
             "한국경제"
           ],
           "summary": "40% 하락에 비명 터졌는데…\"주가 220만원 간다\" 파격 전망, 삼성전기, 3분기 '깜짝 실적' 전망 AI 서버용 MLCC 수요 폭증 영향 증권사 목표가 잇달아 상향 조정"
-        },
-        {
-          "title": "중복상장 예외 1호 나왔어도… 대기업은 ‘주주동의 벽’에 눈치만 - 조선비즈",
-          "link": "https://biz.chosun.com/stock/market_trend/2026/09/27/KMD76RLQQ5HFDDDNZZDM3KGHD4/",
-          "source": "Chosunbiz",
-          "published": "2026-09-28T06:01:48+09:00",
-          "latest": "2026-09-28T06:01:48+09:00",
-          "mention_count": 1,
-          "sources": [
-            "Chosunbiz"
-          ],
-          "summary": "중복상장 예외 1호 나왔어도 대기업은 주주동의 벽에 눈치만 HD로보·에식스·한화에너지 등 상장 멈춤 주주 흩어진 대기업, 주주동의 확보 난관 첫 사례 부담에 1호 회피 눈치싸움도"
         }
       ]
     },
@@ -545,11 +553,12 @@
           "link": "https://www.ajunews.com/view/20260923104218328",
           "source": "아주경제",
           "published": "2026-09-27T21:30:00+09:00",
-          "latest": "2026-09-28T07:21:18+09:00",
-          "mention_count": 2,
+          "latest": "2026-09-28T07:21:24+09:00",
+          "mention_count": 3,
           "sources": [
             "아주경제",
-            "ajunews.com"
+            "ajunews.com",
+            "v.daum.net"
           ],
           "summary": "올해 6월은 변동성 장세가 극에 달한 시점이었다. 급등과 급락을 반복하는 패닉장세에 투자자들은 극심한 혼란을 겪었다. 이런 변동성 장세는 8월이 되어서야 잠잠해졌..."
         },
@@ -565,6 +574,31 @@
             "메드월드뉴스"
           ],
           "summary": "서울대병원은 23일 대한의원 1회의실에서 김거석 후원인의 기부 전달식을 열고 미국 증시에 상장된 언유주얼머신즈(Unusual Machines) 주식 약 2억 원 상당을 기부받았다고 밝혔다. 이번 기부는 서울대병원에서 해외 주식을 기부 받은 첫 번째 사례다.이날 행사에는…"
+        },
+        {
+          "title": "반도체 ETF, 지난주 수익률 상위권 휩쓸어…AI 훈풍에 최고 13%",
+          "link": "https://www.meconomynews.com/news/articleView.html?idxno=201976",
+          "source": "시장경제신문",
+          "published": "2026-09-27T12:00:00+09:00",
+          "latest": "2026-09-27T12:00:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "시장경제신문",
+            "meconomynews.com"
+          ],
+          "summary": "항상 존재하는 불확실성, 매번 쏟아지는 새로운 투자 상품. 투자자가 마주하는 주식시장은 그야말로 혼란하기 짝이 없습니다. '시장경제'는 매주 을 통"
+        },
+        {
+          "title": "\"씨엠티엑스, 목표가 11.5만…고수익 기조 이어질 것\"-IBK",
+          "link": "https://www.mt.co.kr/stock/2026/09/28/2026092807202456716",
+          "source": "머니투데이",
+          "published": "2026-09-28T07:30:55+09:00",
+          "latest": "2026-09-28T07:30:55+09:00",
+          "mention_count": 1,
+          "sources": [
+            "머니투데이"
+          ],
+          "summary": "IBK투자증권이 28일 씨엠티엑스에 대한 신규 투자의견 '매수', 목표주가 11만5000원을 제시했다. 그러면서 \"향후 주가 재평가의 핵심은 매출성장과 높은 수익성의 지속 여부\"라며 \"3분기 실적에서 이런 흐름이 확인된다면, 씨엠티엑스의 이익창출력에 대한 시장의 신뢰가…"
         },
         {
           "title": "신규 ETF 순자산 증가율 1위 신한운용…하반기는 하나운용 ‘선두’",
@@ -674,18 +708,6 @@
           "summary": "'돈이 어디로 이동하는지(자금 흐름)'와 '시장의 현재 상태(심리)'를 동시에 파악하는 지표입니다. 용도는 추세추종, 가치투자 순환매에 쓰입니다. 1. 지수 공포탐욕 대시보드 시장 심리 온도를 한눈에 비교하여 중·장기 저점과 고점을 시각적으로 포착합니다. 2. 스마트머"
         },
         {
-          "title": "반도체 ETF, 지난주 수익률 상위권 휩쓸어…AI 훈풍에 최고 13%",
-          "link": "https://www.meconomynews.com/news/articleView.html?idxno=201976",
-          "source": "시장경제신문",
-          "published": "2026-09-27T12:00:00+09:00",
-          "latest": "2026-09-27T12:00:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "시장경제신문"
-          ],
-          "summary": "항상 존재하는 불확실성, 매번 쏟아지는 새로운 투자 상품. 투자자가 마주하는 주식시장은 그야말로 혼란하기 짝이 없습니다. '시장경제'는 매주 을 통"
-        },
-        {
           "title": "추석 지난 월요일 내 주식은?…'이것' 중요하다는데",
           "link": "https://www.mt.co.kr/stock/2026/09/27/2026092711225373085",
           "source": "머니투데이",
@@ -708,25 +730,88 @@
             "v.daum.net"
           ],
           "summary": "지난 17일 업비트에서 엔화 스테이블코인 JPYC를 최고가인 37.60원에 1000만원어치 샀다면 현재 평가금액은 약 229만원에 불과하다. 1개당 1엔, 당시 환율로 약 8.86원의 가치를 유지해야 할 코인이 상장 직후 4배 넘게 치솟았다가 8원대로 되돌아오면서 투자…"
-        },
-        {
-          "title": "'시총 미달·동전주' 상폐 줄대기…자구노력도 '무용지물'",
-          "link": "https://www.newstomato.com/ReadNews.aspx?no=1314685",
-          "source": "뉴스토마토",
-          "published": "2026-09-27T11:21:34+09:00",
-          "latest": "2026-09-27T11:21:34+09:00",
-          "mention_count": 1,
-          "sources": [
-            "뉴스토마토"
-          ],
-          "summary": "'상폐 1호' 원풍물산, 퇴출 완료…정리매매 줄이어"
         }
       ]
     }
   ],
-  "total_articles": 259,
-  "total_issues": 143,
+  "total_articles": 290,
+  "total_issues": 153,
   "raw": [
+    {
+      "title": "SK證 “코리아 프리미엄 위크, 코스닥 수급 물꼬 틀까”",
+      "link": "https://www.etoday.co.kr/news/view/2629635?trc=sub_list_news",
+      "source": "이투데이",
+      "published": "2026-09-28T07:53:00+09:00"
+    },
+    {
+      "title": "마이크론·나이키 실적과 9월 고용, 미 증시 변수",
+      "link": "https://www.tokenpost.kr/news/market/414843",
+      "source": "토큰포스트",
+      "published": "2026-09-28T07:48:00+09:00"
+    },
+    {
+      "title": "LS증권 “美 증시, 외교 빅이벤트 소화하며 상승…이란 변수는 여전”",
+      "link": "https://www.etoday.co.kr/news/view/2629632?trc=sub_list_news",
+      "source": "이투데이",
+      "published": "2026-09-28T07:48:00+09:00"
+    },
+    {
+      "title": "국채 파동에도 계속 가는 미 증시…월가의 세 가지 긍정론 [마켓무버의 국장 힌트]",
+      "link": "https://v.daum.net/v/20260928074455097",
+      "source": "v.daum.net",
+      "published": "2026-09-28T07:44:55+09:00"
+    },
+    {
+      "title": "[뉴욕증시] 미 증시 기술주 중심 강세…변수는 '마이크론'",
+      "link": "https://v.daum.net/v/20260928074209000",
+      "source": "v.daum.net",
+      "published": "2026-09-28T07:42:09+09:00",
+      "summary": "30일 8월 개인소비지출 물가지수와 마이크론 실적 발표가 예정돼 있으며, 10월 2일에는 9월 고용보고서가 공개됩니다. 지난 주말 미증시 삼대지수는 일제히 상승 마감했습니다. 나스닥이 2만 7천 선을 회복했고 S&P 500은 0.51% 올랐습니다. 지난주 미국 증시는…"
+    },
+    {
+      "title": "AI 거품론·고용 불안에 숨고르기…이번 주 미 증시 좌우할 3대 변수",
+      "link": "https://www.blockmedia.co.kr/archives/1144722",
+      "source": "블록미디어",
+      "published": "2026-09-28T07:33:48+09:00"
+    },
+    {
+      "title": "\"씨엠티엑스, 목표가 11.5만…고수익 기조 이어질 것\"-IBK",
+      "link": "https://www.mt.co.kr/stock/2026/09/28/2026092807202456716",
+      "source": "머니투데이",
+      "published": "2026-09-28T07:30:55+09:00",
+      "summary": "IBK투자증권이 28일 씨엠티엑스에 대한 신규 투자의견 '매수', 목표주가 11만5000원을 제시했다. 그러면서 \"향후 주가 재평가의 핵심은 매출성장과 높은 수익성의 지속 여부\"라며 \"3분기 실적에서 이런 흐름이 확인된다면, 씨엠티엑스의 이익창출력에 대한 시장의 신뢰가…"
+    },
+    {
+      "title": "빅웨이브로보틱스·덕산넵코어스 등 코스닥 입성 [이번주 증시 캘린더]",
+      "link": "https://www.sedaily.com/article/20095125",
+      "source": "sedaily.com",
+      "published": "2026-09-28T07:30:00+09:00"
+    },
+    {
+      "title": "[서학개미 브리핑] 美증시 상승 베팅한 서학개미들 지난주 차익실현",
+      "link": "https://v.daum.net/v/20260928072815799",
+      "source": "v.daum.net",
+      "published": "2026-09-28T07:28:15+09:00"
+    },
+    {
+      "title": "[서학개미 브리핑] 美증시 상승 베팅한 서학개미들 지난주 차익실현",
+      "link": "https://supple.kr/news/cmukeb785007cy8rc20nnf1rm",
+      "source": "supple.kr",
+      "published": "2026-09-28T07:26:53+09:00",
+      "summary": "SBS Biz · 경제/금융 핵심 정리 · ■ 모닝벨"
+    },
+    {
+      "title": "[마켓 브리핑] 美 국채금리 큰 폭 '출렁'…뉴욕증시 놀라운 회복력",
+      "link": "https://v.daum.net/v/20260928072215718",
+      "source": "v.daum.net",
+      "published": "2026-09-28T07:22:15+09:00"
+    },
+    {
+      "title": "[아주증시포커스] 롤러코스터장 겪은 2030, 첫 투자 선택지 달라졌다…\"삼전·닉스 굳건, 美 ETF 약진\" 外",
+      "link": "https://v.daum.net/v/20260928072124700",
+      "source": "v.daum.net",
+      "published": "2026-09-28T07:21:24+09:00"
+    },
     {
       "title": "[아주증시포커스] 롤러코스터장 겪은 2030, 첫 투자 선택지 달라졌다…삼전·닉스 굳건, 美 ETF 약진 外",
       "link": "https://www.ajunews.com/view/20260928071950689",
@@ -772,6 +857,13 @@
       "summary": "패스트파이브는 국내 첫 공유오피스 기업으로 출발해 인테리어·클라우드 등으로 사업을 넓혔고 최근 6년 만에 상장(IPO) 재도전을 추진하고 있다. F"
     },
     {
+      "title": "이번주 뉴욕증시 고용·물가 '빅위크'…연준 추가 인상 가늠한다[월가프리뷰]",
+      "link": "https://www.news1.kr/world/international-economy/6302589",
+      "source": "news1.kr",
+      "published": "2026-09-28T07:00:00+09:00",
+      "summary": "9월 고용 10만명 증가·실업률 4.2% 전망…강하면 10월 인상 무게 PCE도 주목…30년물 20여년 최고·증시 내부선 이미 균열 미국 뉴욕증시가 이번 주 고용과 물가라는 두 개의 굵직한 경제지표를 연달아 맞는다. 연방준비제도(Fed·연준)가 이달 3년여 만에 금리…"
+    },
+    {
       "title": "[빅데이터로본다] 건강기능식품 상장기업 2026년 9월 브랜드평판... 1위 KT&G, 2위 LG생활건강, 3위 HK이노엔",
       "link": "https://www.dtoday.co.kr/news/articleView.html?idxno=793866",
       "source": "일간투데이",
@@ -791,6 +883,12 @@
       "published": "2026-09-28T06:53:00+09:00"
     },
     {
+      "title": "[증시전략] 미중 정상회담 결과·국채금리 긴장…물가·고용 지표는?",
+      "link": "https://biz.sbs.co.kr/article/20000336860",
+      "source": "SBS Biz",
+      "published": "2026-09-28T06:53:00+09:00"
+    },
+    {
       "title": "140일씩 걸리던 상장심사, 70일로 줄었다…빨라진 바이오 IPO 시계",
       "link": "https://stock.mk.co.kr/news/view/1165439",
       "source": "매일경제 마켓",
@@ -804,6 +902,12 @@
       "summary": "알테오젠이 9월 생물공학 상장기업 브랜드평판에서 1위에 올랐다. 펩트론과 에이비엘바이오가 뒤를 이었다.한국기업평판연구소는 8월 28일부터 9월 28일까지 생물공학 상장기업 38개 브랜드의 빅데이터 3627만7215개를 분석한 결과, 알테오젠이 브랜드평판 1위를 기록했다…"
     },
     {
+      "title": "생물공학 상장기업 브랜드평판 9월 빅데이터 분석... 1위 알테오젠, 2위 펩트론, 3위 에이비엘바이",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490554",
+      "source": "핀포인트뉴스",
+      "published": "2026-09-28T06:47:23+09:00"
+    },
+    {
       "title": "\"AI 서버용 부품 수요 탄탄\"…주가 40% 떨어졌지만 목표가 오른 종목",
       "link": "https://www.hankyung.com/article/2026092339216",
       "source": "한국경제",
@@ -811,10 +915,23 @@
       "summary": "40% 하락에 비명 터졌는데…\"주가 220만원 간다\" 파격 전망, 삼성전기, 3분기 '깜짝 실적' 전망 AI 서버용 MLCC 수요 폭증 영향 증권사 목표가 잇달아 상향 조정"
     },
     {
+      "title": "40% 하락에 비명 터졌는데…\"주가 220만원 간다\" 파격 전망",
+      "link": "https://www.hankyung.com/article/2026092339216",
+      "source": "한국경제",
+      "published": "2026-09-28T06:30:03+09:00"
+    },
+    {
       "title": "‘시총미달 상폐’ 코스닥서 8곳…다음 달부터 동전주까지 무더기 위기 [마켓시그널]",
       "link": "https://www.sedaily.com/article/20095159",
       "source": "서울경제",
       "published": "2026-09-28T06:30:00+09:00"
+    },
+    {
+      "title": "‘시총미달 상폐’ 코스닥서 8곳…다음 달부터 동전주까지 무더기 위기 [마켓시그널]",
+      "link": "https://www.sedaily.com/article/20095159",
+      "source": "sedaily.com",
+      "published": "2026-09-28T06:30:00+09:00",
+      "summary": "상장유지 시가총액 요건을 채우지 못해 코스닥에서 지난 석 달간 8개사가 퇴출 결정을 받았다. 해당 요건은 7월 재차 강화되며 기준이 상향됐는데, 다음 달 중순이면 시총 200억 원을 밑돈 상장사가 추가로 증시에서 사라지거나 코넥스로 편입될 전망이다. 28일 한국거래소에"
     },
     {
       "title": "추석 지나 코스피 더 오른다는데…7,000선 이후 향방은",
@@ -845,6 +962,12 @@
       "title": "한국·대만서 뉴욕으로…외인 美 주식 순매수 사상 최대[마켓무버]",
       "link": "https://www.sedaily.com/article/20095219",
       "source": "서울경제",
+      "published": "2026-09-28T06:00:13+09:00"
+    },
+    {
+      "title": "한국·대만서 뉴욕으로…외인 美 주식 순매수 사상 최대[마켓무버]",
+      "link": "https://www.sedaily.com/article/20095219",
+      "source": "sedaily.com",
       "published": "2026-09-28T06:00:13+09:00"
     },
     {
@@ -958,6 +1081,12 @@
       "published": "2026-09-28T04:30:00+09:00"
     },
     {
+      "title": "K증시에 지친 투자자들 … 대피처로 꼽히는 이곳은?",
+      "link": "https://www.mk.co.kr/news/stock/12162043",
+      "source": "mk.co.kr",
+      "published": "2026-09-28T04:30:00+09:00"
+    },
+    {
       "title": "글로벌 뭉칫돈, 美주식으로...1년간 1천280조원 순매수 '역대 최대'",
       "link": "https://v.daum.net/v/20260928042404939",
       "source": "v.daum.net",
@@ -999,6 +1128,12 @@
       "title": "바이낸스, 시총 11위 하이프에 “고위험” 시드 태그 달자 상장 직후 4.5% 급락",
       "link": "https://www.wikitree.co.kr/articles/1162319",
       "source": "wikitree.co.kr",
+      "published": "2026-09-28T03:00:00+09:00"
+    },
+    {
+      "title": "바이낸스, 시총 11위 하이프에 “고위험” 시드 태그 달자 상장 직후 4.5% 급락",
+      "link": "https://www.wikitree.co.kr/articles/1162319",
+      "source": "위키트리",
       "published": "2026-09-28T03:00:00+09:00"
     },
     {
@@ -1067,6 +1202,12 @@
       "title": "[기자수첩] ‘롤러코스피’에 휘둘리지 않는 비법",
       "link": "https://www.fntimes.com/html/view.php?ud=202609231837112353dd55077bc2_18",
       "source": "fntimes.com",
+      "published": "2026-09-28T00:00:00+09:00"
+    },
+    {
+      "title": "[기자수첩] ‘롤러코스피’에 휘둘리지 않는 비법",
+      "link": "https://www.fntimes.com/html/view.php?ud=202609231837112353dd55077bc2_18",
+      "source": "한국금융신문",
       "published": "2026-09-28T00:00:00+09:00"
     },
     {
@@ -1240,6 +1381,18 @@
       "link": "https://www.ytn.co.kr/_ln/0102_202609271910115191",
       "source": "YTN",
       "published": "2026-09-27T19:10:00+09:00"
+    },
+    {
+      "title": "내일 국내 증시 개장...미 국채금리 '최고 수준'",
+      "link": "https://www.ytn.co.kr/_ln/0102_202609271910115191",
+      "source": "ytn.co.kr",
+      "published": "2026-09-27T19:10:00+09:00"
+    },
+    {
+      "title": "7천선 안착 코스피...미 국채 금리·마이크론 실적 주목",
+      "link": "https://www.ytn.co.kr/_ln/0102_202609271850290124",
+      "source": "ytn.co.kr",
+      "published": "2026-09-27T18:50:00+09:00"
     },
     {
       "title": "외국인 美주식 순매수 9420억달러…사상 최대",
@@ -1430,6 +1583,12 @@
       "published": "2026-09-27T16:59:09+09:00"
     },
     {
+      "title": "\"AI 시대, 금리는 조연일 뿐\"… 투자 늘고 증시 오른다는 월가",
+      "link": "https://www.mk.co.kr/news/world/12162045",
+      "source": "mk.co.kr",
+      "published": "2026-09-27T16:59:09+09:00"
+    },
+    {
       "title": "미국 주식에 1년간 해외 자금 1,280조 원 몰렸다…'역대 최대'",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008771630",
       "source": "news.sbs.co.kr",
@@ -1488,6 +1647,12 @@
       "title": "7,000선 사수 코스피, 연휴 이후 변수는?",
       "link": "https://www.ytn.co.kr/_ln/0102_202609271644442249",
       "source": "YTN",
+      "published": "2026-09-27T16:44:00+09:00"
+    },
+    {
+      "title": "7,000선 사수 코스피, 연휴 이후 변수는?",
+      "link": "https://www.ytn.co.kr/_ln/0102_202609271644442249",
+      "source": "ytn.co.kr",
       "published": "2026-09-27T16:44:00+09:00"
     },
     {
@@ -1695,6 +1860,12 @@
       "published": "2026-09-27T14:06:47+09:00"
     },
     {
+      "title": "삼전닉스 55조 자사주 매입 막바지…코스피 빈자리 누가 메우나",
+      "link": "https://www.news1.kr/finance/general-stock/6302321",
+      "source": "news1.kr",
+      "published": "2026-09-27T14:06:47+09:00"
+    },
+    {
       "title": "[마켓 ING]7000선 안착 코스피, 美 경제지표·마이크론 실적 주목",
       "link": "https://v.daum.net/v/20260927140327378",
       "source": "v.daum.net",
@@ -1814,6 +1985,12 @@
       "published": "2026-09-27T12:00:00+09:00"
     },
     {
+      "title": "반도체 ETF, 지난주 수익률 상위권 휩쓸어…AI 훈풍에 최고 13%",
+      "link": "https://www.meconomynews.com/news/articleView.html?idxno=201976",
+      "source": "meconomynews.com",
+      "published": "2026-09-27T12:00:00+09:00"
+    },
+    {
       "title": "[공시] 9월 28일, 코스닥 상장사 51개 종목 자사주 매수 신청",
       "link": "https://www.newstnt.com/news/articleView.html?idxno=720194",
       "source": "뉴스티앤티",
@@ -1885,6 +2062,13 @@
       "title": "‘조’ 단위 대어 줄줄이 쏟아진다…연휴 끝자락 IPO 시장 온기 기대감",
       "link": "https://www.mk.co.kr/news/stock/12161822",
       "source": "매일경제",
+      "published": "2026-09-27T11:29:24+09:00",
+      "summary": "엘리스, 내달 1일까지 수요예측 래블업·인텔리빅스 상장 채비 무신사 등 유니콘 종목 가시화"
+    },
+    {
+      "title": "‘조’ 단위 대어 줄줄이 쏟아진다…연휴 끝자락 IPO 시장 온기 기대감",
+      "link": "https://stock.mk.co.kr/news/view/1165348",
+      "source": "매일경제 마켓",
       "published": "2026-09-27T11:29:24+09:00"
     },
     {
@@ -1931,6 +2115,12 @@
       "published": "2026-09-27T10:42:18+09:00"
     },
     {
+      "title": "코스피 7000의 두 얼굴... 내 주식은 떨어지고 개미 돈은 미국으로",
+      "link": "https://www.meconomynews.com/news/articleView.html?idxno=201980",
+      "source": "meconomynews.com",
+      "published": "2026-09-27T10:42:18+09:00"
+    },
+    {
       "title": "中휴머노이드 열풍 과했나...유니트리 주가 고점서 55% 급락",
       "link": "https://zdnet.co.kr/view/?no=20260927104030",
       "source": "지디넷코리아",
@@ -1948,6 +2138,12 @@
       "source": "koreatimes.com",
       "published": "2026-09-27T10:37:01+09:00",
       "summary": "외국인 투자자들의 미국 주식 매수 규모가 역대 최대 수준으로 늘어난 것으로 나타났다.26일 파이낸셜타임스(FT)에 따르면 올해 7월 현재 12개월간 외국인 투자자의 미국 주식과 투자펀드 지분 순매수액은 9천420억 달러(약 1천280조 원)를 기록했다.이는 미 재무부가…"
+    },
+    {
+      "title": "美주식에 몰린 해외자금…1년간 9천420억 달러 순매수 ‘역대 최대’",
+      "link": "http://www.koreatimes.com/article/20260927/1631454",
+      "source": "미주한국일보",
+      "published": "2026-09-27T10:37:01+09:00"
     },
     {
       "title": "레버리지 산 외국인 vs 개인은 곱버스 베팅…수익률 승자는 - 조선비즈",
@@ -2139,6 +2335,12 @@
       "source": "연합뉴스TV",
       "published": "2026-09-27T08:48:00+09:00",
       "summary": "코스피가 추석 연휴 이후 계속 상승세를 이어갈 수 있을지 관심이 쏠립니다. 증권가에서는 추가 상승 가능성은 열어두면서도, 이전보다 상승 속도에 대한 기대는 낮추는 분위기입니다. 양현주 기자입니다. [기자] 증권가의 전망은 아직 추가 상승 쪽에 무게가 실립니다."
+    },
+    {
+      "title": "눈높이 낮춘 증권가…추석 이후 코스피 향방은",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202609270848058Ot",
+      "source": "yonhapnewstv.co.kr",
+      "published": "2026-09-27T08:48:00+09:00"
     },
     {
       "title": "로이터 “솔리다임 美 IPO 움직임\"⋯SK ‘중복상장’ 논란 재점화",
@@ -2353,22 +2555,45 @@
         "source": "FOREX.com",
         "published": "2026-09-27T06:00:00+09:00",
         "latest": "2026-09-28T07:03:44+09:00",
-        "mention_count": 23,
+        "mention_count": 25,
         "sources": [
           "FOREX.com",
           "Benzinga",
           "benzinga.com",
           "Al-Monitor",
+          "al-monitor.com",
           "Crux Investor",
+          "cruxinvestor.com",
           "finance.yahoo.com",
           "The Globe and Mail",
           "The Motley Fool",
           "Moomoo",
-          "Investing.com",
-          "Seeking Alpha",
-          "CNBC"
+          "Investing.com"
         ],
         "title_en": "S&P 500, Nasdaq, Dow Forecast: Wall Street Split Widens Into Month-End"
+      },
+      {
+        "title": "23% 하락, Sandisk 주식 하락세를 매수해야 할까요?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/down-23-buy-dip-sandisk-094500193.html",
+        "source": "finance.yahoo.com",
+        "published": "2026-09-27T18:45:00+09:00",
+        "latest": "2026-09-28T05:20:00+09:00",
+        "mention_count": 14,
+        "sources": [
+          "finance.yahoo.com",
+          "Yahoo Finance",
+          "KOAT",
+          "WYFF",
+          "KCRA",
+          "The Motley Fool",
+          "WSJ",
+          "247wallst.com",
+          "24/7 Wall St.",
+          "AOL.com",
+          "The Globe and Mail",
+          "Investing.com"
+        ],
+        "title_en": "Down 23%, Should You Buy the Dip on Sandisk Stock?"
       },
       {
         "title": "파라마운트가 헐리우드에게 WBD를 도입하겠다고 약속한 내용과 일부 사람들이 여전히 회의적인 이유는 다음과 같습니다.",
@@ -2392,29 +2617,6 @@
           "stl.news"
         ],
         "title_en": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical"
-      },
-      {
-        "title": "23% 하락, Sandisk 주식 하락세를 매수해야 할까요?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/down-23-buy-dip-sandisk-094500193.html",
-        "source": "finance.yahoo.com",
-        "published": "2026-09-27T18:45:00+09:00",
-        "latest": "2026-09-28T05:20:00+09:00",
-        "mention_count": 13,
-        "sources": [
-          "finance.yahoo.com",
-          "Yahoo Finance",
-          "KOAT",
-          "WYFF",
-          "KCRA",
-          "The Motley Fool",
-          "WSJ",
-          "247wallst.com",
-          "24/7 Wall St.",
-          "The Globe and Mail",
-          "Investing.com",
-          "Currently.com"
-        ],
-        "title_en": "Down 23%, Should You Buy the Dip on Sandisk Stock?"
       },
       {
         "title": "백악관, 포켓 철회를 통해 8억 1천만 달러의 자금 지원을 차단하기로 결정",
@@ -2482,14 +2684,15 @@
             "link": "https://seekingalpha.com/article/4950013-coreweave-opportunity-is-back-as-the-market-blinks-rating-upgrade",
             "source": "Seeking Alpha",
             "published": "2026-09-27T22:15:00+09:00",
-            "latest": "2026-09-28T02:00:00+09:00",
-            "mention_count": 5,
+            "latest": "2026-09-28T07:49:38+09:00",
+            "mention_count": 6,
             "sources": [
               "Seeking Alpha",
               "Yahoo Finance",
               "CNBC",
               "247wallst.com",
-              "24/7 Wall St."
+              "24/7 Wall St.",
+              "FXStreet"
             ],
             "title_en": "CoreWeave: Opportunity Is Back As The Market Blinks (Rating Upgrade) (NASDAQ:CRWV)"
           },
@@ -2561,6 +2764,19 @@
             "title_en": "The Mystery Man Shadowing Kimberly Guilfoyle as She Pushes Deals Across Europe"
           },
           {
+            "title": "AI Whipsaw, 나스닥을 공포에서 광란으로 전환",
+            "link": "https://www.briefs.co/news/markets-whipsawed-as-ai-fears-and-ai-hype-swung-stocks/",
+            "source": "briefs.co",
+            "published": "2026-09-28T00:03:53+09:00",
+            "latest": "2026-09-28T00:03:53+09:00",
+            "mention_count": 2,
+            "sources": [
+              "briefs.co",
+              "Briefs Finance"
+            ],
+            "title_en": "AI Whipsaw Sends Nasdaq From Fear to Frenzy"
+          },
+          {
             "title": "Vertex, Inc. (NASDAQ:VERX) 주식의 합의 목표 가격은 $17.43입니다.",
             "link": "https://www.marketbeat.com/instant-alerts/consensus-vertex-inc-nasdaq-verx-stock-has-consensus-price-target-of-1743-2026-09-27/",
             "source": "MarketBeat",
@@ -2572,18 +2788,6 @@
               "TradingView"
             ],
             "title_en": "Vertex, Inc. (NASDAQ:VERX) Stock Has Consensus Price Target of $17.43"
-          },
-          {
-            "title": "AI Whipsaw, 나스닥을 공포에서 광란으로 전환",
-            "link": "https://www.briefs.co/news/markets-whipsawed-as-ai-fears-and-ai-hype-swung-stocks/",
-            "source": "briefs.co",
-            "published": "2026-09-28T00:03:53+09:00",
-            "latest": "2026-09-28T00:03:53+09:00",
-            "mention_count": 1,
-            "sources": [
-              "briefs.co"
-            ],
-            "title_en": "AI Whipsaw Sends Nasdaq From Fear to Frenzy"
           }
         ]
       },
@@ -2595,7 +2799,7 @@
             "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
             "source": "CNBC",
             "published": "2026-09-27T06:21:04+09:00",
-            "latest": "2026-09-28T06:46:16+09:00",
+            "latest": "2026-09-28T07:18:25+09:00",
             "mention_count": 7,
             "sources": [
               "CNBC",
@@ -2656,11 +2860,28 @@
         "name": "기타",
         "articles": [
           {
+            "title": "Microsoft의 AI 투자는 수년간 성과를 낼 수 있습니다. 내 목표 가격은 다음과 같습니다",
+            "link": "https://247wallst.com/investing/2026/09/27/microsofts-ai-investment-could-pay-off-for-years-heres-my-price-target/",
+            "source": "247wallst.com",
+            "published": "2026-09-28T00:30:00+09:00",
+            "latest": "2026-09-28T06:29:30+09:00",
+            "mention_count": 6,
+            "sources": [
+              "247wallst.com",
+              "24/7 Wall St.",
+              "WSJ",
+              "ft.com",
+              "Financial Times",
+              "simplywall.st"
+            ],
+            "title_en": "Microsoft’s AI Investment Could Pay Off for Years. Here’s My Price Target"
+          },
+          {
             "title": "저는 77세이고 집세를 내고 사회보장 혜택을 받으며 생활하지만 노숙자들을 돕습니다. 왜 그렇게 많은 사람들이 굶주리는 걸까요?",
             "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
             "source": "MarketWatch",
             "published": "2026-09-28T00:00:00+09:00",
-            "latest": "2026-09-28T02:46:00+09:00",
+            "latest": "2026-09-28T06:21:00+09:00",
             "mention_count": 6,
             "sources": [
               "MarketWatch",
@@ -2671,22 +2892,6 @@
               "WSJ"
             ],
             "title_en": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?"
-          },
-          {
-            "title": "Microsoft의 AI 투자는 수년간 성과를 낼 수 있습니다. 내 목표 가격은 다음과 같습니다",
-            "link": "https://247wallst.com/investing/2026/09/27/microsofts-ai-investment-could-pay-off-for-years-heres-my-price-target/",
-            "source": "247wallst.com",
-            "published": "2026-09-28T00:30:00+09:00",
-            "latest": "2026-09-28T06:29:30+09:00",
-            "mention_count": 5,
-            "sources": [
-              "247wallst.com",
-              "24/7 Wall St.",
-              "WSJ",
-              "ft.com",
-              "simplywall.st"
-            ],
-            "title_en": "Microsoft’s AI Investment Could Pay Off for Years. Here’s My Price Target"
           },
           {
             "title": "OpenAI 에이전트, UN 웹사이트에 접근하기 위해 공격적인 기술 사용",
@@ -2785,7 +2990,7 @@
             "link": "https://www.wsj.com/business/autos/fords-factory-hermosillo-mexico-pigeons-hawk-el-charro-b78d90ae",
             "source": "WSJ",
             "published": "2026-09-27T18:30:00+09:00",
-            "latest": "2026-09-28T04:17:33+09:00",
+            "latest": "2026-09-28T05:46:00+09:00",
             "mention_count": 3,
             "sources": [
               "WSJ",
@@ -2793,6 +2998,20 @@
               "CNBC"
             ],
             "title_en": "Ford’s Latest Employee of the Month Is a Hawk Named ‘El Charro’"
+          },
+          {
+            "title": "이란과 미국의 대립으로 걸프만 증시는 혼조세를 보이고 있으며 사우디는 상승세를 보이고 있습니다.",
+            "link": "https://www.reuters.com/world/middle-east/gulf-bourses-mixed-iranus-standoff-while-saudi-gains-2026-09-27/",
+            "source": "Reuters",
+            "published": "2026-09-27T22:09:57+09:00",
+            "latest": "2026-09-28T01:15:45+09:00",
+            "mention_count": 3,
+            "sources": [
+              "Reuters",
+              "MarketWatch",
+              "CNBC"
+            ],
+            "title_en": "Gulf bourses mixed on Iran–US standoff, while Saudi gains"
           },
           {
             "title": "보잉은 일부 자동 접근 기능에 영향을 미치는 737 Max 소프트웨어 결함을 지적했습니다.",
@@ -2857,25 +3076,34 @@
               "Investing.com"
             ],
             "title_en": "Equitable Holdings director Bertram Scott sells $151k in stock"
-          },
-          {
-            "title": "중국은 더 많은 아기를 원합니다. 그래서 시청 결혼식이 화려해졌습니다.",
-            "link": "https://www.wsj.com/world/asia/china-wants-more-babies-so-it-is-glamming-up-the-city-hall-wedding-84816f21",
-            "source": "WSJ",
-            "published": "2026-09-28T02:27:00+09:00",
-            "latest": "2026-09-28T02:27:00+09:00",
-            "mention_count": 1,
-            "sources": [
-              "WSJ"
-            ],
-            "title_en": "China Wants More Babies. So It Is Glamming Up the City Hall Wedding."
           }
         ]
       }
     ],
-    "total_articles": 247,
-    "total_issues": 36,
+    "total_articles": 260,
+    "total_issues": 37,
     "raw": [
+      {
+        "title": "NASDAQ 시장 출시 전 수준 범위 억제 설정(3부) [동영상]",
+        "link": "https://www.fxstreet.com/news/nasdaq-pre-market-levels-range-containment-setup-part-3-video-202609272249",
+        "source": "FXStreet",
+        "published": "2026-09-28T07:49:38+09:00",
+        "title_en": "NASDAQ pre-market levels range containment setup (part 3) [Video]"
+      },
+      {
+        "title": "트럼프, 이란 평화협정 거부로 유가 반등",
+        "link": "https://www.investing.com/news/commodities-news/oil-rebounds-after-trump-rejects-iran-peace-deal-4919183",
+        "source": "Investing.com",
+        "published": "2026-09-28T07:18:25+09:00",
+        "title_en": "Oil rebounds after Trump rejects Iran peace deal"
+      },
+      {
+        "title": "Dell CFO David Kennedy, 1,400만 달러 규모의 회사 주식 매각",
+        "link": "https://www.investing.com/news/insider-trading-news/dell-cfo-david-kennedy-sells-14-million-in-company-stock-93CH-4919182",
+        "source": "Investing.com",
+        "published": "2026-09-28T07:16:03+09:00",
+        "title_en": "Dell CFO David Kennedy sells $14 million in company stock"
+      },
       {
         "title": "이란 제안이 거부되면서 유가 상승, 주식 선물 하락: 시장 마무리",
         "link": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
@@ -2889,6 +3117,13 @@
         "source": "CNBC",
         "published": "2026-09-28T07:08:45+09:00",
         "title_en": "Stock futures slip after winning week on Wall Street: Live updates"
+      },
+      {
+        "title": "이란과 관련된 디젤 가격 급등으로 인해 주요 EU 시장에서 전기 트럭이 디젤보다 저렴해진다고 환경 단체가 밝혔습니다.",
+        "link": "https://www.investing.com/news/stock-market-news/iranlinked-diesel-price-spike-makes-electric-trucks-cheaper-than-diesel-in-key-eu-markets-environmentalgroup-says-4919176",
+        "source": "Investing.com",
+        "published": "2026-09-28T07:06:28+09:00",
+        "title_en": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental group says"
       },
       {
         "title": "금요일에 예상되는 Tesla 2026년 3분기 납품 보고서: 월스트리트가 보는 것",
@@ -2947,6 +3182,13 @@
         "title_en": "Is Personalis (PSNL) Fully Priced On Its Partnership Driven Growth Story?"
       },
       {
+        "title": "이집트, 네타냐후에게 10월 7일 이전에 이스라엘에 대한 공격이 임박할 것이라고 경고",
+        "link": "https://www.wsj.com/world/middle-east/egypt-warned-netanyahu-of-impending-attack-on-israel-before-oct-7-8e3d5ae0",
+        "source": "WSJ",
+        "published": "2026-09-28T06:21:00+09:00",
+        "title_en": "Egypt Warned Netanyahu of Impending Attack on Israel Before Oct. 7"
+      },
+      {
         "title": "러시아 증시는 거래 마감 후 하락세를 보이고 있습니다. MOEX 러시아 지수는 변동 없음",
         "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4919147",
         "source": "Investing.com",
@@ -2996,11 +3238,25 @@
         "title_en": "World’s worst-performing market slashes minimum price for stocks"
       },
       {
+        "title": "세계 최악의 시장, 주식 최저 가격 인하",
+        "link": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
+        "source": "Financial Times",
+        "published": "2026-09-28T06:00:05+09:00",
+        "title_en": "World’s worst-performing market slashes minimum price for stocks"
+      },
+      {
         "title": "Allegion은 Nasdaq보다 실적이 저조합니까?",
         "link": "https://www.barchart.com/story/news/4823779/is-allegion-underperforming-the-nasdaq",
         "source": "Barchart.com",
         "published": "2026-09-28T05:48:34+09:00",
         "title_en": "Is Allegion Underperforming the Nasdaq?"
+      },
+      {
+        "title": "미국 사이클 선수가 로드 월드 챔피언을 향한 미국 팀의 33년 기다림을 끝내다",
+        "link": "https://www.wsj.com/sports/brandon-mcnulty-pogacar-armstrong-09a5462f",
+        "source": "WSJ",
+        "published": "2026-09-28T05:46:00+09:00",
+        "title_en": "An American Cyclist Ends Team USA’s 33-Year Wait for a Road World Champion"
       },
       {
         "title": "S&P 500의 CAPE 비율이 닷컴 버블 이후 최고 수준을 기록했습니다. 역사적으로 배당주에 대한 의미는 다음과 같습니다.",
@@ -3162,6 +3418,13 @@
         "source": "Morningstar",
         "published": "2026-09-28T03:21:37+09:00",
         "title_en": "UK Markets Brief: Help to Buy’s Possible Comeback, Airtel Money to IPO, and a Key Speech for John Healey"
+      },
+      {
+        "title": "Amazon 주식은 $250 미만에서 매수, 보유 또는 매도됩니까?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-buy-hold-sell-181526568.html",
+        "source": "Yahoo Finance",
+        "published": "2026-09-28T03:15:26+09:00",
+        "title_en": "Is Amazon Stock a Buy, Hold, or Sell Below $250?"
       },
       {
         "title": "Amazon 주식은 $250 미만에서 매수, 보유 또는 매도됩니까?",
@@ -3407,6 +3670,13 @@
         "source": "WSJ",
         "published": "2026-09-28T01:30:50+09:00",
         "title_en": "Go to Boulder for the Mountains. Stay for the Culture."
+      },
+      {
+        "title": "지금 당장 주식 시장에 투자해야 할까요? 역사는 명확한 답을 제공합니다",
+        "link": "https://www.aol.com/articles/really-invest-stock-market-now-162900000.html",
+        "source": "AOL.com",
+        "published": "2026-09-28T01:29:00+09:00",
+        "title_en": "Should You Really Invest in the Stock Market Right Now? History Offers a Clear Answer"
       },
       {
         "title": "SoundHound AI(NASDAQ: SOUN), LLM 기반 음성 AI를 장치 하드웨어에 푸시하기 위해 OASYS Edge 출시",
@@ -3661,6 +3931,13 @@
         "title_en": "AI Whipsaw Sends Nasdaq From Fear to Frenzy"
       },
       {
+        "title": "AI Whipsaw, 나스닥을 공포에서 광란으로 전환",
+        "link": "https://www.briefs.co/news/markets-whipsawed-as-ai-fears-and-ai-hype-swung-stocks/",
+        "source": "Briefs Finance",
+        "published": "2026-09-28T00:03:53+09:00",
+        "title_en": "AI Whipsaw Sends Nasdaq From Fear to Frenzy"
+      },
+      {
         "title": "터키 여당 부의장, 주식 거래 의혹으로 사임",
         "link": "https://www.wral.com/news/ap/17bde-turkeys-ruling-party-deputy-chair-steps-down-after-share-trading-allegations/",
         "source": "WRAL",
@@ -3848,6 +4125,13 @@
         "source": "Yahoo Finance",
         "published": "2026-09-27T22:11:34+09:00",
         "title_en": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment"
+      },
+      {
+        "title": "이란과 미국의 대립으로 걸프만 증시는 혼조세를 보이고 있으며 사우디는 상승세를 보이고 있습니다.",
+        "link": "https://www.reuters.com/world/middle-east/gulf-bourses-mixed-iranus-standoff-while-saudi-gains-2026-09-27/",
+        "source": "Reuters",
+        "published": "2026-09-27T22:09:57+09:00",
+        "title_en": "Gulf bourses mixed on Iran–US standoff, while Saudi gains"
       },
       {
         "title": "S&P 500에 \"매그니피센트 세븐\" 문제가 있습니까? 투자자가 알아야 할 사항은 다음과 같습니다.",
@@ -4375,6 +4659,13 @@
         "title_en": "enCore Energy (NASDAQ:EU) - Two Wellfields Ready, Restart Waits on Texas Permits"
       },
       {
+        "title": "enCore Energy(NASDAQ:EU) - 유정 2개소 준비 완료, 텍사스 허가에 따라 재가동 대기",
+        "link": "https://www.cruxinvestor.com/posts/encore-energy-nasdaqeu-two-wellfields-ready-restart-waits-on-texas-permits-12105",
+        "source": "cruxinvestor.com",
+        "published": "2026-09-27T17:06:22+09:00",
+        "title_en": "enCore Energy (NASDAQ:EU) - Two Wellfields Ready, Restart Waits on Texas Permits"
+      },
+      {
         "title": "역사는 약세장이 다가오고 있다고 말합니다. 가장 똑똑한 투자자들이 이미 하고 있는 일은 다음과 같습니다.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-bear-market-coming-080500963.html",
         "source": "finance.yahoo.com",
@@ -4441,6 +4732,13 @@
         "title": "카타르는 월스트리트 거래를 통해 새로운 경제 현실에 직면하고 있다고 Hormuz는 희망합니다.",
         "link": "https://www.al-monitor.com/originals/2026/09/qatar-confronts-new-economic-reality-wall-street-deals-hormuz-hopes",
         "source": "Al-Monitor",
+        "published": "2026-09-27T14:48:59+09:00",
+        "title_en": "Qatar confronts new economic reality with Wall Street deals, Hormuz hopes"
+      },
+      {
+        "title": "카타르는 월스트리트 거래를 통해 새로운 경제 현실에 직면하고 있다고 Hormuz는 희망합니다.",
+        "link": "https://www.al-monitor.com/originals/2026/09/qatar-confronts-new-economic-reality-wall-street-deals-hormuz-hopes",
+        "source": "al-monitor.com",
         "published": "2026-09-27T14:48:59+09:00",
         "title_en": "Qatar confronts new economic reality with Wall Street deals, Hormuz hopes"
       },

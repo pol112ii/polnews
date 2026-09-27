@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T07:32:46.546025+09:00",
+  "generated_at": "2026-09-28T07:57:15.320063+09:00",
   "topic": {
     "id": "police",
     "label": "경찰",
@@ -37,20 +37,20 @@
       "source": "강원도민일보",
       "published": "2026-09-27T17:03:48+09:00",
       "latest": "2026-09-28T06:25:16+09:00",
-      "mention_count": 20,
+      "mention_count": 23,
       "sources": [
         "강원도민일보",
         "아시아경제",
         "헤럴드경제",
         "v.daum.net",
         "연합뉴스TV",
+        "yonhapnewstv.co.kr",
         "KBS 뉴스",
+        "news.kbs.co.kr",
         "경북매일",
         "뉴스1",
-        "MBC 뉴스",
-        "부산일보",
-        "아시아투데이",
-        "kyeonggi.com"
+        "news1.kr",
+        "MBC 뉴스"
       ],
       "summary": "태국 유명 관광지 파타야 인근에서 한국인으로 추정되는 남성이 폭우로 불어난 물에 휩쓸려 실종돼 현지 경찰이 수색에 나섰다.27일(현지시간) 현지 매체 파타야뉴스에"
     },
@@ -60,9 +60,10 @@
       "source": "뉴스1",
       "published": "2026-09-27T11:34:26+09:00",
       "latest": "2026-09-27T17:36:00+09:00",
-      "mention_count": 18,
+      "mention_count": 21,
       "sources": [
         "뉴스1",
+        "news1.kr",
         "대전일보",
         "뉴시스",
         "옥천신문",
@@ -72,8 +73,7 @@
         "노컷뉴스",
         "서울신문",
         "news.sbs.co.kr",
-        "경향신문",
-        "donga.com"
+        "경향신문"
       ],
       "summary": "충북 옥천군의 한 아파트에서 3명이 숨진 채 발견돼 경찰이 수사에 나섰다.27일 경찰 등에 따르면 이날 오전 8시 58분쯤 옥천군 옥천읍 한 아파트에서 \"1층 화 …"
     },
@@ -83,11 +83,12 @@
       "source": "연합뉴스",
       "published": "2026-09-27T14:20:14+09:00",
       "latest": "2026-09-27T23:22:01+09:00",
-      "mention_count": 16,
+      "mention_count": 18,
       "sources": [
         "연합뉴스",
         "v.daum.net",
         "뉴스1",
+        "news1.kr",
         "경향신문",
         "전북도민일보",
         "굿모닝충청",
@@ -95,8 +96,7 @@
         "브레이크뉴스",
         "ggilbo.com",
         "금강일보",
-        "남도일보",
-        "노컷뉴스"
+        "남도일보"
       ],
       "summary": "정회성 정다움 기자 = 추석 연휴 기간 전남광주 지역에서는 112 신고와 교통사고가 감소하는 등 큰 사건·사고 없이 평온한..."
     },
@@ -105,21 +105,21 @@
       "link": "https://www.dt.co.kr/article/12085870",
       "source": "dt.co.kr",
       "published": "2026-09-27T07:39:49+09:00",
-      "latest": "2026-09-27T22:29:09+09:00",
-      "mention_count": 14,
+      "latest": "2026-09-28T07:28:04+09:00",
+      "mention_count": 16,
       "sources": [
         "dt.co.kr",
         "gukjenews.com",
         "onulnews.com",
         "중도일보",
+        "joongdo.co.kr",
         "투어코리아",
         "아시아경제",
         "view.asiae.co.kr",
         "웹플러스뉴스",
         "경인미래신문",
         "livesnews.com",
-        "뉴시스",
-        "신아일보"
+        "뉴시스"
       ],
       "summary": "지난해 음주운전으로 택시와 버스 운수종사자 자격이 취소된 사례가 하루 평균 4.4건에 달한 것으로 나타났다. 27일 국회 국토교통위원회 소속 더불어민주당 정일영 의원이 한국교통안전공단으로부터 제출받은 자료에 따르면, 지난해 음주운전으로 취소된 택시 운전자격은 1312"
     },
@@ -129,7 +129,7 @@
       "source": "연합뉴스 한민족센터",
       "published": "2026-09-27T20:01:51+09:00",
       "latest": "2026-09-28T03:31:00+09:00",
-      "mention_count": 13,
+      "mention_count": 15,
       "sources": [
         "연합뉴스 한민족센터",
         "imnews.imbc.com",
@@ -139,10 +139,10 @@
         "ajunews.com",
         "글로벌이코노믹",
         "서울경제",
+        "sedaily.com",
         "edaily.co.kr",
         "v.daum.net",
-        "중앙일보",
-        "joongang.co.kr"
+        "중앙일보"
       ],
       "summary": "연합뉴스 한민족센터는 동포 관련 뉴스와 정보를 통해 동포사회의 목소리를 반영합니다."
     }
@@ -151,6 +151,19 @@
     {
       "name": "인사·조직",
       "articles": [
+        {
+          "title": "'인천대 교수 특혜 임용 의혹' 유승민 딸 입건 없이 수사만 10개월째",
+          "link": "https://news.ikbc.co.kr/article/view/kbc202609280008",
+          "source": "KBC광주방송",
+          "published": "2026-09-28T07:30:44+09:00",
+          "latest": "2026-09-28T07:46:00+09:00",
+          "mention_count": 2,
+          "sources": [
+            "KBC광주방송",
+            "위키트리"
+          ],
+          "summary": "유승민 전 의원의 딸인 32살 유담 인천대 무역학부 교수의 특혜 임용 의혹과 관련해 경찰이 10개월 넘게 수사를 벌이고 있어 관심이 모아집니다. 28일"
+        },
         {
           "title": "국가보훈부 인사(전보)",
           "link": "http://www.policenews24.co.kr/news/articleView.html?idxno=23355",
@@ -165,15 +178,16 @@
           "summary": "● 과장급 국립4‧19민주묘지관리소장 과학기술서기관 김상현 2026. 9. 28.일자"
         },
         {
-          "title": "'인천대 교수 특혜 임용 의혹' 유승민 딸 입건 없이 수사만 10개월째",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45RGVEOEd3VzRGVkpjY1o0VW52MlhCTlBBeV9kcjdvLXcxU3Jncm02TzFHN0NOVXNRRlpwcDY0RDgxOWZHc29pMEdza0wydGpBQkJ0WmliZGtKLVdYSW1LbUxB?oc=5",
-          "source": "KBC광주방송",
-          "published": "2026-09-28T07:30:44+09:00",
-          "latest": "2026-09-28T07:30:44+09:00",
+          "title": "‘새벽 5시 쓰러진 부모’ ‘억대 슈퍼카 몰던 코인사기범’… 서대문구를 지켜낸 그들 [우리동네 경찰서]",
+          "link": "https://v.daum.net/v/20260928074718141",
+          "source": "v.daum.net",
+          "published": "2026-09-28T07:47:18+09:00",
+          "latest": "2026-09-28T07:47:18+09:00",
           "mention_count": 1,
           "sources": [
-            "KBC광주방송"
-          ]
+            "v.daum.net"
+          ],
+          "summary": "대한민국 경찰의 창경 81주년, 헤럴드경제는 서울의 31개 경찰서를 소개합니다. [헤럴드경제=김도윤 기자] ‘24시간 살아 움직이는 캠퍼스 타운’. 서울을 대표하는 대학가인 서대문구 신촌에는 대학 개강과 함께 평소보다 분주해지는 곳이 있다. 신촌과 이화여대 일대의 치안…"
         },
         {
           "title": "'인사권 남용 고소' 이학재 전 인천공항 사장, 경찰 '무혐의' 결론",
@@ -275,6 +289,21 @@
           "summary": "최근 농협 계좌를 통한 보이스피싱과 투자사기 피해가 급증하고 있으나, 피해자들의 실제로 돌려받는 환급금은 미미한 수준에 그치는 것으로 나타났다. 이에 피해를 입은 후 환급해주는 대응만으로는 피해 회복에 한계가 있는 만큼, 이상거래 탐지부터 차단, 피해 예방까지 이어지는…"
         },
         {
+          "title": "경찰, '남양주 별장 살인미수' 운전기사 조사...범행 동기 추궁",
+          "link": "https://www.ytn.co.kr/_ln/0103_202609271001303246",
+          "source": "YTN",
+          "published": "2026-09-27T10:01:00+09:00",
+          "latest": "2026-09-27T19:10:50+09:00",
+          "mention_count": 4,
+          "sources": [
+            "YTN",
+            "ytn.co.kr",
+            "imnews.imbc.com",
+            "MBC 뉴스"
+          ],
+          "summary": "경찰이 남양주 별장에서 70대를 살해하려 한 운전기사의 범행 동기를 집중적으로 조사하고 있습니다. 또, 피의자에 대한 구속영장 신청을 검토하고 있습니다. 사회부 취재기자 연결해 자세한 내용 알아보겠습니다. 정영수 기자, 경찰이 피의자 조사를 이어가고 있나요? 네, 경찰…"
+        },
+        {
           "title": "문금주, \"항만 사이버공격 1,168건… 해경 사이버수사 역량 강화해야\"",
           "link": "https://www.globalnewsagency.kr/news/articleView.html?idxno=495982",
           "source": "글로벌뉴스통신GNA",
@@ -305,18 +334,33 @@
           "summary": "연합뉴스 · 이슈 핵심 정리 · 전북경찰청은 지난 17일부터 11일간 추진한 추석 명절 특별치안대책 결과, 살인·강도 등 강력범죄가 단 한 건도 발생하지 않았다고 27일 밝혔다. 경찰은 이 기간 형사와 교통 등 총 1만4천178명의 인력을 투입해 민생안전 확보에 ..."
         },
         {
-          "title": "경찰, '남양주 별장 살인미수' 운전기사 조사...범행 동기 추궁",
-          "link": "https://www.ytn.co.kr/_ln/0103_202609271001303246",
-          "source": "YTN",
-          "published": "2026-09-27T10:01:00+09:00",
-          "latest": "2026-09-27T19:10:50+09:00",
+          "title": "\"딥페이크 만들어줘\" 접근해 구속…경찰, 위장 수사로 2873명 검거",
+          "link": "https://www.news1.kr/society/incident-accident/6300969",
+          "source": "뉴스1",
+          "published": "2026-09-27T09:00:00+09:00",
+          "latest": "2026-09-27T13:18:00+09:00",
+          "mention_count": 4,
+          "sources": [
+            "뉴스1",
+            "news1.kr",
+            "연합뉴스TV",
+            "yonhapnewstv.co.kr"
+          ],
+          "summary": "디지털 성범죄 위장 수사 도입 후 성범죄 검거율↑ 올해 598건, 전년比 234%↑…'온라인 그루밍' 338명 적발 경찰은 피해자의 얼굴을 합성한 딥페이크 영상물을 만들어 파는 피의자에게 '제작을 의뢰하겠다'며 접근했다. 의뢰인으로 위장한 경찰은 피의자의 신원을 특정한…"
+        },
+        {
+          "title": "72년 만의 형사사법 체계 대전환…수사·기소 완전 분리 닻 올린다",
+          "link": "https://www.news1.kr/society/court-prosecution/6301617",
+          "source": "뉴스1",
+          "published": "2026-09-28T06:10:00+09:00",
+          "latest": "2026-09-28T06:10:51+09:00",
           "mention_count": 3,
           "sources": [
-            "YTN",
-            "imnews.imbc.com",
-            "MBC 뉴스"
+            "뉴스1",
+            "news1.kr",
+            "파이낸셜뉴스"
           ],
-          "summary": "경찰이 남양주 별장에서 70대를 살해하려 한 운전기사의 범행 동기를 집중적으로 조사하고 있습니다. 또, 피의자에 대한 구속영장 신청을 검토하고 있습니다. 사회부 취재기자 연결해 자세한 내용 알아보겠습니다. 정영수 기자, 경찰이 피의자 조사를 이어가고 있나요? 네, 경찰…"
+          "summary": "①檢 수사권 전면 폐지…중수청은 6대 범죄 고소·고발은 중수청·경찰에…'사건 핑퐁' 우려, 불송치심사부 신설 오는 10월 2일 개정 형사소송법이 시행되고 중대범죄수사청(중수청)과 공소청이 출범한다. 이에 따라 검사의 수사권은 1954년 형사소송법 제정 이후 72년"
         },
         {
           "title": "'가짜 검사'에 속아 건넨 2억원…백화점 상품권으로 바꿔 넘긴 60대 전달책[사기꾼들]",
@@ -331,6 +375,20 @@
             "v.daum.net"
           ],
           "summary": "중국 등에 거점을 둔 채 한국인을 대상으로 범행을 일삼던 보이스피싱 조직은 지난해 8월 27일 피해자 임모씨에게 전화를 걸었다.재판부는 김씨가 단순히 수표를 수거해 상품권으로 바꾸면서도 기존 임장 업무보다 더 높은 보수를 받은 점에 주목했다.또 김씨가 부동산 .."
+        },
+        {
+          "title": "화성동탄경찰서, 보이스피싱 예방 시민에 포상",
+          "link": "http://www.hyundaiilbo.com/news/articleView.html?idxno=632030",
+          "source": "현대일보",
+          "published": "2026-09-27T15:28:35+09:00",
+          "latest": "2026-09-27T19:00:00+09:00",
+          "mention_count": 3,
+          "sources": [
+            "현대일보",
+            "hyundaiilbo.com",
+            "전민일보"
+          ],
+          "summary": "화성동탄경찰서장은 18일 신속한 112신고로 7500만 원 상당의 보이스피싱 피해 예방에 기여한 시민에게 감사장과 신고포상금을 전달했다. 서에 따르면, 삼성전자에 근무하는 시민 김 모씨는 지난 2일 오후 9시경 화성시 동탄 소재 대형 마트에서 한 남성이 상품권 키오스크…"
         },
         {
           "title": "[형사사법대전환] ⑤ '공룡경찰'이라는데…경찰개혁 속 일선 사기는 바닥",
@@ -389,16 +447,17 @@
           "summary": "디지털 성범죄 위장수사 제도 시행 이후 경찰이 1500여건의 위장수사를 벌여 피의자 2800여명을 검거한 것으로 나타났다. 올해는 아동·청소년 대상 성착취 목적 대화에 대한 위장수사가 크게 늘면서 전체 건수도 지난해 대비 3배 이상 증가했다."
         },
         {
-          "title": "72년 만의 형사사법 체계 대전환…수사·기소 완전 분리 닻 올린다",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvR3JMcjZUWUMxUk1GSDZqVFV6U1pEcThNaVJ5ZVdVTlV5UlFjTFhZcGxkaVNiRHEzc1g2QjUtcVZ0YU1kaWlQQjdpLTczQjFacUxVaG8zTnMta21EUVNPUW5KaTjSAWpBVV95cUxPaU9TTmt3Q25zU3pxejJ4ci1IOVJXMDVEbkJ1YXpHU0NiQ2xXY0NrTXZ0dzJleFlmeU5fd1Y4ZTVHeGlCZlAwR0NRUGNHd0JtUlJDY0xwRVlQOFJKWEdldUhpdi1zZnlKN0Nn?oc=5",
-          "source": "뉴스1",
-          "published": "2026-09-28T06:10:00+09:00",
-          "latest": "2026-09-28T06:10:51+09:00",
+          "title": "‘경찰 불송치’ 공소청이 다시 본다…경제범죄 수사 빈틈 메울까 [중수청·공소청 시대②]",
+          "link": "https://www.etoday.co.kr/news/view/2627909?trc=right_categori_news",
+          "source": "etoday.co.kr",
+          "published": "2026-09-28T05:00:00+09:00",
+          "latest": "2026-09-28T05:00:00+09:00",
           "mention_count": 2,
           "sources": [
-            "뉴스1",
-            "파이낸셜뉴스"
-          ]
+            "etoday.co.kr",
+            "이투데이"
+          ],
+          "summary": "불송치심사부, 수사 공백 보완 기대법조계 “복잡한 경제사건...검사 재검토 효과 있을 듯”▲서울 서초구 대검찰청 모습. (뉴시스)다음 달 2일 중대범죄"
         },
         {
           "title": "가정폭력 후 강력범죄 잇따라...'스마트워치'도 한계",
@@ -412,45 +471,6 @@
             "전북의소리"
           ],
           "summary": "가정폭력이 불러온 살인과 살인미수 사건이 최근 4년 동안 300건을 넘는 것으로 파악됐습니다.스마트워치 지급 같은 조치보다 더욱 강화된 실질적인 대책이 있어야 피해를 막을 수 있다는 지적이 나옵니다.김다현 기자의 보도입니다.[기자] 지난..."
-        },
-        {
-          "title": "\"목소리도 못 믿는다\"…AI 보이스피싱에 통신사도 '진땀' : 네이버 블로그",
-          "link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224424104099&redirect=Dlog",
-          "source": "blog.naver.com",
-          "published": "2026-09-27T21:17:13+09:00",
-          "latest": "2026-09-27T21:17:13+09:00",
-          "mention_count": 2,
-          "sources": [
-            "blog.naver.com",
-            "Naver Blog"
-          ],
-          "summary": "지난해 보이스피싱 피해액 1조2000억…&#x27;AI 기반 보이스피싱 통신서비스 공동 대응 플랫폼&#x27; 구..."
-        },
-        {
-          "title": "음주운전 택시 자격취소 2배 증가…재범·업체별 현황 '깜깜이'",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=277430",
-          "source": "파이낸셜포스트",
-          "published": "2026-09-27T10:19:57+09:00",
-          "latest": "2026-09-27T20:53:03+09:00",
-          "mention_count": 2,
-          "sources": [
-            "파이낸셜포스트",
-            "gukjenews.com"
-          ],
-          "summary": "음주운전으로 버스와 택시 운전자격이 취소되는 사례가 크게 늘고 있지만, 정작 반복 음주운전 여부나 어느 운수업체에서 문제가 집중되는지는 파악되지 않고 있는 것으로 나타났다.정일영 국회의원(더불어민주당, 국토교통위원회)이 한국교통안전공단으로부터 제출받은 자료에 따르면 지…"
-        },
-        {
-          "title": "“내 집에서 애정 행각”...여동생 남친에 둔기 던진 20대 체포",
-          "link": "https://www.kyeonggi.com/article/20260927580286",
-          "source": "kyeonggi.com",
-          "published": "2026-09-27T20:09:03+09:00",
-          "latest": "2026-09-27T20:09:03+09:00",
-          "mention_count": 2,
-          "sources": [
-            "kyeonggi.com",
-            "경기일보"
-          ],
-          "summary": "본인의 집에 몰래 들어와 여동생과 함께 있던 여동생 남자친구에게 화가 나 쇠로 만든 둔기를 던져 다치게 한 20대 여성이 경찰에 붙잡혔다. 27일 파주경찰서에 따르면 특수상해 혐의로 A씨를 붙잡아 조사 중이다. A씨는 18일 오전 7시40분께 파주시의 자신의 집에서 여"
         }
       ]
     },
@@ -459,14 +479,15 @@
       "articles": [
         {
           "title": "경찰, DMZ 사고 관련 대통령·軍지휘부 대상 고발장 접수",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xc1l0NEtUV2FEMVU2Y0xyck5Jc2U1MTBoODItUmhXTndKWVFQOTFzd2dRaENPWk80M1RxaUh6SDFqY2dtOF9ma1BNZEVrcnJnUXRrNWt6UWthRnfSAWBBVV95cUxPa28yeVBjV1AzOXFOcmMwNVZMS2V6d0ZucGVpdHRrQmtrRnlYS1RQOFMzQk5zTXZXTjBhTDEyOWNoTV93QWRKa3ZBalJ6bGttQkZ0Qm5iSGlja2Viei1rczE?oc=5",
+          "link": "https://www.yna.co.kr/view/AKR20260927026000004",
           "source": "연합뉴스",
           "published": "2026-09-27T12:15:09+09:00",
           "latest": "2026-09-27T19:57:33+09:00",
-          "mention_count": 13,
+          "mention_count": 14,
           "sources": [
             "연합뉴스",
             "뉴스1",
+            "news1.kr",
             "dt.co.kr",
             "중앙일보",
             "joongang.co.kr",
@@ -475,9 +496,9 @@
             "v.daum.net",
             "KBC광주방송",
             "산경일보",
-            "한국경제",
-            "아시아경제"
-          ]
+            "한국경제"
+          ],
+          "summary": "최근 서부전선 비무장지대(DMZ)에서 발생한 지뢰 추정 폭발 사고와 관련해 이재명 대통령과 군 지휘부에 대한 ..."
         },
         {
           "title": "[영상] 홍수로 잠긴 길 걷다 순식간에…태국서 한국인 추정 관광객 실종",
@@ -485,14 +506,15 @@
           "source": "연합뉴스",
           "published": "2026-09-27T11:04:58+09:00",
           "latest": "2026-09-28T05:47:00+09:00",
-          "mention_count": 6,
+          "mention_count": 7,
           "sources": [
             "연합뉴스",
             "한국경제TV",
             "v.daum.net",
             "아이뉴스24",
             "inews24.com",
-            "연합뉴스TV"
+            "연합뉴스TV",
+            "yonhapnewstv.co.kr"
           ],
           "summary": "태국의 유명 휴양도시 파타야에서 한국인 관광객으로 추정되는 남성이 폭우로 불어난 배수로에 휩쓸려 실종됐습니다. 로이터통신..."
         },
@@ -502,15 +524,32 @@
           "source": "서울경제",
           "published": "2026-09-27T18:52:41+09:00",
           "latest": "2026-09-28T07:25:15+09:00",
-          "mention_count": 5,
+          "mention_count": 6,
           "sources": [
             "서울경제",
+            "sedaily.com",
             "edaily.co.kr",
             "KBC광주방송",
             "전자신문",
             "v.daum.net"
           ],
           "summary": "태국 유명 휴양지 파타야 인근에서 한국인으로 추정되는 남성이 폭우로 불어난 물에 휩쓸려 실종됐다. 함께 있던 남성 2명은 사고 직후 현장을 떠난 뒤 행방이 확인되지 않고 있어 현지 경찰이 실종자 수색과 함께 이들의 신원 파악에 나섰다. 27일(현지시간) 태국 현지 매체"
+        },
+        {
+          "title": "콩고 키부주서 선박 전복으로 12명 사망 수십명 실종",
+          "link": "https://www.newsis.com/view/NISX20260927_0003804398",
+          "source": "뉴시스",
+          "published": "2026-09-27T18:46:23+09:00",
+          "latest": "2026-09-28T05:41:33+09:00",
+          "mention_count": 5,
+          "sources": [
+            "뉴시스",
+            "연합뉴스",
+            "KBS 뉴스",
+            "news.kbs.co.kr",
+            "news.sbs.co.kr"
+          ],
+          "summary": "=AP/뉴시스] 김재영 기자 = 아프리카 콩고민주공화국 동부의 키부 호수에 교역선 한 척이 전복해 최소한 12명이 익사하고 수십 명이 실종되었다고 당국이 27일 발표했다.26일 밤 늦게 남 키부주 소재 이디위 지역에서 발생한 전복 사건으로 사고 선박에는 50여 명이 타…"
         },
         {
           "title": "충북 추석 연휴 교통사고 하루평균 10.3건…작년보다 52.5%↓",
@@ -529,19 +568,34 @@
           "summary": "충북경찰청은 추석연휴 사흘(24∼26일)간 도내 교통사고가 일평균 10.3건이었다고 27일 밝혔다. 작년 연휴(10월 3∼9일) 일평균 21.7건보다 52.5% 줄었다고 경찰은 설명했다. 하루 평균 부상자는 작년 33명에서 16명으로 줄었고, 사망자는 0.1명에서 0.…"
         },
         {
-          "title": "콩고 키부주서 선박 전복으로 12명 사망 수십명 실종",
-          "link": "https://www.newsis.com/view/NISX20260927_0003804398",
-          "source": "뉴시스",
-          "published": "2026-09-27T18:46:23+09:00",
-          "latest": "2026-09-28T05:41:33+09:00",
+          "title": "당진 석문면 에너지 시설서 화재…주민 대피·현장 접근 통제",
+          "link": "https://www.megaccnews.com/news/articleView.html?idxno=5894",
+          "source": "megaccnews.com",
+          "published": "2026-09-27T10:07:31+09:00",
+          "latest": "2026-09-27T13:00:00+09:00",
+          "mention_count": 5,
+          "sources": [
+            "megaccnews.com",
+            "메가충청뉴스",
+            "cctoday.co.kr",
+            "YTN",
+            "ytn.co.kr"
+          ],
+          "summary": "충남 당진시 석문면의 한 에너지 관련 시설에서 화재가 발생해 지자체가 인근 주민들에게 대피를 당부하고 현장 접근을 통제했다.당진시는 27일"
+        },
+        {
+          "title": "\"국정자원 화재·상황실 신설에도 1·2급 전산사고 빈발 여전\"",
+          "link": "https://stock.mk.co.kr/news/view/1165222",
+          "source": "매일경제 마켓",
+          "published": "2026-09-27T06:00:16+09:00",
+          "latest": "2026-09-28T05:00:50+09:00",
           "mention_count": 4,
           "sources": [
-            "뉴시스",
+            "매일경제 마켓",
             "연합뉴스",
-            "KBS 뉴스",
-            "news.sbs.co.kr"
-          ],
-          "summary": "=AP/뉴시스] 김재영 기자 = 아프리카 콩고민주공화국 동부의 키부 호수에 교역선 한 척이 전복해 최소한 12명이 익사하고 수십 명이 실종되었다고 당국이 27일 발표했다.26일 밤 늦게 남 키부주 소재 이디위 지역에서 발생한 전복 사건으로 사고 선박에는 50여 명이 타…"
+            "korea.kr",
+            "정책브리핑"
+          ]
         },
         {
           "title": "경주시, 전통시장 화재·가스사고 예방 안전점검 실시",
@@ -589,32 +643,19 @@
           "summary": "이장섭 청주시장, 오송 참사 희생자 추모하고 민생현장 챙겨 [뉴스체인지=박미영] 이장섭 청주시장은 추석을 하루 앞둔 24일 오송 지하차도 참사 희생자"
         },
         {
-          "title": "당진 석문면 에너지 시설서 화재…주민 대피·현장 접근 통제",
-          "link": "https://www.megaccnews.com/news/articleView.html?idxno=5894",
-          "source": "megaccnews.com",
-          "published": "2026-09-27T10:07:31+09:00",
-          "latest": "2026-09-27T13:00:00+09:00",
+          "title": "포항서 5중 추돌…추석연휴 교통사고 잇따라 2명 중상",
+          "link": "https://www.newsis.com/view/NISX20260927_0003804000",
+          "source": "뉴시스",
+          "published": "2026-09-27T08:52:40+09:00",
+          "latest": "2026-09-27T16:25:50+09:00",
           "mention_count": 4,
           "sources": [
-            "megaccnews.com",
-            "메가충청뉴스",
-            "cctoday.co.kr",
-            "YTN"
+            "뉴시스",
+            "경북신문",
+            "뉴스1",
+            "news1.kr"
           ],
-          "summary": "충남 당진시 석문면의 한 에너지 관련 시설에서 화재가 발생해 지자체가 인근 주민들에게 대피를 당부하고 현장 접근을 통제했다.당진시는 27일"
-        },
-        {
-          "title": "\"국정자원 화재·상황실 신설에도 1·2급 전산사고 빈발 여전\"",
-          "link": "https://stock.mk.co.kr/news/view/1165222",
-          "source": "매일경제 마켓",
-          "published": "2026-09-27T06:00:16+09:00",
-          "latest": "2026-09-28T05:00:50+09:00",
-          "mention_count": 3,
-          "sources": [
-            "매일경제 마켓",
-            "연합뉴스",
-            "korea.kr"
-          ]
+          "summary": "추석 연휴에 교통사고가 잇따라 2명이 크게 다쳤다.27일 경북소방본부에 따르면 26일 오후 3시 36분께 포항시 대송면에서 신호대기 중인 1t 트럭을 승용차가 들이받아 5중 추돌로 이어졌다.이 사고로 30대 1명이 중상, 60대 여성 등 4명이 경상을 입고 인근 병원으…"
         },
         {
           "title": "[view] 미·중 맹탕 회담…북 비핵화도 실종",
@@ -645,46 +686,32 @@
           "summary": "시험·연구 목적으로 임시운행 허가를 받은 자율주행차에서 자율주행시스템 오류로 확인된 교통사고가 2023년부터 2025년까지 11건 발생해 4명이 다친 것으로 나타"
         },
         {
-          "title": "포항서 5중 추돌…추석연휴 교통사고 잇따라 2명 중상",
-          "link": "https://www.newsis.com/view/NISX20260927_0003804000",
-          "source": "뉴시스",
-          "published": "2026-09-27T08:52:40+09:00",
-          "latest": "2026-09-27T16:25:50+09:00",
+          "title": "광진구 ‘AI 기반 CCTV 고속검색시스템’으로 실종자 등 사회적 약자 골든타임 지킨다",
+          "link": "https://www.sankyungilbo.com/news/articleView.html?idxno=532715",
+          "source": "산경일보",
+          "published": "2026-09-27T10:16:48+09:00",
+          "latest": "2026-09-27T18:40:33+09:00",
           "mention_count": 3,
           "sources": [
-            "뉴시스",
-            "경북신문",
-            "뉴스1"
+            "산경일보",
+            "시정일보",
+            "sijung.co.kr"
           ],
-          "summary": "추석 연휴에 교통사고가 잇따라 2명이 크게 다쳤다.27일 경북소방본부에 따르면 26일 오후 3시 36분께 포항시 대송면에서 신호대기 중인 1t 트럭을 승용차가 들이받아 5중 추돌로 이어졌다.이 사고로 30대 1명이 중상, 60대 여성 등 4명이 경상을 입고 인근 병원으…"
+          "summary": "광진구가 치매 어르신과 아동 등 사회적 약자의 실종 사고 발생 시 신속한 발견과 안전한 귀가를 지원하기 위해 ‘인공지능(AI) 기반 씨씨티비(CCTV) 고속검색시스템’을 본격 운영한다.실종 사고는 발생 초기 이동 동선을 신속하게 파악하는 것이 중요한 만큼, 광진구는 인…"
         },
         {
-          "title": "김해 부원동 새벽시장 화재 발생…인명피해 없어",
-          "link": "https://www.idomin.com/news/articleView.html?idxno=2015659",
-          "source": "idomin.com",
-          "published": "2026-09-27T06:42:32+09:00",
-          "latest": "2026-09-27T15:38:33+09:00",
+          "title": "자원봉사 현장을 덮친 1톤 트럭…안성 나눔장터 참사가 드러낸 행사 안전의 구조적 공백",
+          "link": "http://knpp.co.kr/news/554301",
+          "source": "대한청년일보",
+          "published": "2026-09-27T17:01:55+09:00",
+          "latest": "2026-09-27T17:43:26+09:00",
           "mention_count": 3,
           "sources": [
-            "idomin.com",
-            "ggilbo.com",
-            "금강일보"
+            "대한청년일보",
+            "newsyonhap.com",
+            "뉴스N연합"
           ],
-          "summary": "김해시 부원동 새벽시장에 27일 오전 불이 나 2시간여 만에 진화됐다.김해동부소방서는 이날 오전 3시께 부원동 새벽시장에 화재가 발생했으나 오전 6시 기준 모두"
-        },
-        {
-          "title": "이천소방서, 화재안전조사 중 60대 여성 구해",
-          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1332854",
-          "source": "인천일보",
-          "published": "2026-09-27T09:29:00+09:00",
-          "latest": "2026-09-27T13:45:03+09:00",
-          "mention_count": 3,
-          "sources": [
-            "인천일보",
-            "kyeonggi.com",
-            "경기일보"
-          ],
-          "summary": "이천역에서 화재안전조사를 벌이던 이천소방서 소방관들이 기도가 막힌 60대 여성을 발견해 응급처치로 생명을 구했다.이천소방서는 지난 23일 오전 이천역에서 다중이용시설 화재안전조사 중 음식물 기도폐쇄로 호흡곤란을 겪던 60대 여성을 구조했다."
+          "summary": "행사 현장의 즉응 체계와 주최자의 책임 2026년 9월 19일 오전 11시 20분경, 경기 안성시 공도읍 공도10호 어린이공원에서 열린"
         }
       ]
     },
@@ -751,6 +778,24 @@
       "name": "기타",
       "articles": [
         {
+          "title": "카페 女주인에 스케치북 고백한 경찰... 대법, 강등취소 판결 뒤집어",
+          "link": "https://v.daum.net/v/20260927125008848",
+          "source": "v.daum.net",
+          "published": "2026-09-27T12:50:08+09:00",
+          "latest": "2026-09-28T06:55:01+09:00",
+          "mention_count": 7,
+          "sources": [
+            "v.daum.net",
+            "경향신문",
+            "weekly.chosun.com",
+            "주간조선",
+            "MBC 뉴스",
+            "joongang.co.kr",
+            "중앙일보"
+          ],
+          "summary": "연합뉴스 [파이낸셜뉴스] 자신을 상대로 민원을 낸 시민에게 수십 차례 연락해 취소를 요구한 경찰관에 대한 강등 처분이 정당하다는 대법원 판단이 나왔다. 일부 징계 사유가 인정되지 않더라도 나머지 사유만으로 처분의 타당성이 인정되면 징계를 유지할 수 있다는 법리를 적용한…"
+        },
+        {
           "title": "추석 연휴 전남광주 289만 명 오갔다…대형 인명피해 없어",
           "link": "https://www.gjdream.com/news/articleView.html?idxno=672989",
           "source": "gjdream.com",
@@ -769,20 +814,33 @@
           "summary": "추석 연휴 전남광주 지역에 289만여 명의 귀성·귀경객이 오간 것으로 나타났다. 연휴 기간 화재와 교통사고 등이 잇따랐지만 대규모 인명피해로 이어진 사고는 발생하지 않았다.27일 전남광주통합특별시에 따르면 지난 24일부터 이날 낮 12시까지 전남광주 지역을 오간 인원은…"
         },
         {
-          "title": "카페 女주인에 스케치북 고백한 경찰... 대법, 강등취소 판결 뒤집어",
-          "link": "https://v.daum.net/v/20260927125008848",
-          "source": "v.daum.net",
-          "published": "2026-09-27T12:50:08+09:00",
-          "latest": "2026-09-28T06:55:01+09:00",
-          "mention_count": 5,
+          "title": "'술 마시고 운전했다'더니…음주측정 요구엔 \"안 합니다\" 버틴 30대",
+          "link": "https://news.nate.com/view/20260927n03762?mid=n1101",
+          "source": "네이트",
+          "published": "2026-09-27T09:00:00+09:00",
+          "latest": "2026-09-27T11:52:00+09:00",
+          "mention_count": 4,
           "sources": [
-            "v.daum.net",
-            "경향신문",
-            "weekly.chosun.com",
-            "주간조선",
-            "joongang.co.kr"
+            "네이트",
+            "뉴스1",
+            "news1.kr",
+            "머니투데이"
           ],
-          "summary": "연합뉴스 [파이낸셜뉴스] 자신을 상대로 민원을 낸 시민에게 수십 차례 연락해 취소를 요구한 경찰관에 대한 강등 처분이 정당하다는 대법원 판단이 나왔다. 일부 징계 사유가 인정되지 않더라도 나머지 사유만으로 처분의 타당성이 인정되면 징계를 유지할 수 있다는 법리를 적용한…"
+          "summary": "�Ѵ��� ���� ���� : ��ȸ - ���� : ����1 DB (����=����1) ������ ���� = ���� ������ �ź��� ���Ƿ� ������ �� 30�밡 1�ɿ��� ¡������ ���������� �����޾Ҵ�. ��������…"
+        },
+        {
+          "title": "단독 한강공원서 흉기로 행인 위협...\"카페로 피해 살았다\"",
+          "link": "https://www.ytn.co.kr/_ln/0103_202609280436155122",
+          "source": "YTN",
+          "published": "2026-09-28T04:36:00+09:00",
+          "latest": "2026-09-28T06:40:44+09:00",
+          "mention_count": 3,
+          "sources": [
+            "YTN",
+            "ytn.co.kr",
+            "경기일보"
+          ],
+          "summary": "연휴 마지막 날 한강공원 인근에서 흉기로 시민들을 위협한 40대 남성이 경찰에 붙잡혔습니다. 나들이객이 몰린 낮 시간대라 자칫 큰 인명 피해가 날 뻔했는데, 카페로 몸을 피해 다친 사람은 없었습니다. 당시 긴박했던 상황을, 권준수 기자가 단독 보도합니다. 흉기를 든 남…"
         },
         {
           "title": "방미심위, 온라인 불법·유해정보 방치 논란…경찰청 심의요청 반영 '5.7%' 불과",
@@ -813,20 +871,6 @@
           "summary": "① 대법원은 순찰 중 부적절한 행동을 반복한 경찰관의 강등 처분이 정당하다고 판단했습니다. ② 이 경찰관은 민원 취소를 요구하며 신고자에게 39차례 연락했고 순찰 중 카페 사장에게 스케치북으로 고백하는 등 근무를 태만하게 했습니다. ③ 2심은 강등이 과하다고 봤지만 대…"
         },
         {
-          "title": "'술 마시고 운전했다'더니…음주측정 요구엔 \"안 합니다\" 버틴 30대",
-          "link": "https://news.nate.com/view/20260927n03762?mid=n1101",
-          "source": "네이트",
-          "published": "2026-09-27T09:00:00+09:00",
-          "latest": "2026-09-27T11:52:00+09:00",
-          "mention_count": 3,
-          "sources": [
-            "네이트",
-            "뉴스1",
-            "머니투데이"
-          ],
-          "summary": "�Ѵ��� ���� ���� : ��ȸ - ���� : ����1 DB (����=����1) ������ ���� = ���� ������ �ź��� ���Ƿ� ������ �� 30�밡 1�ɿ��� ¡������ ���������� �����޾Ҵ�. ��������…"
-        },
-        {
           "title": "“민원 철회해달라” 신고자에 39번 연락한 경찰…대법 “강등처분해야”",
           "link": "https://v.daum.net/v/20260927090137338",
           "source": "v.daum.net",
@@ -841,20 +885,34 @@
           "summary": "“민원을 철회해달라”며 신고자에게 39번 연락한 경찰관에게 강등처분을 내린 건 적절하다는 대법원 판단이 나왔다. 대법원 1부(주심 신숙희 대법관)는 경찰관 A씨가 부산광역시경찰청장을 상대로 낸 강등처분 취소 소송에서 A씨 승소를 선고한 원심을 파기하고 사건을 부산고법으…"
         },
         {
-          "title": "단독 한강공원서 흉기로 행인 위협...\"카페로 피해 살았다\"",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SLUxQZDBSNXhRcmhjX3dMbVlZRVdKTVRQT0lDQ2Z5bUQyRzl5b0NhZkpDb0w2NmFTRFY0ZVpEcENNNk9XejdBaGYtejNacjRXeXNfMS0zcElqMlVrQ1E?oc=5",
-          "source": "YTN",
-          "published": "2026-09-28T04:36:00+09:00",
-          "latest": "2026-09-28T06:40:44+09:00",
+          "title": "중수청·공소청 시대 D-5…민주당 검찰개혁 '시험대'",
+          "link": "http://www.inews24.com/view/2009177",
+          "source": "inews24.com",
+          "published": "2026-09-28T07:00:01+09:00",
+          "latest": "2026-09-28T07:00:01+09:00",
           "mention_count": 2,
           "sources": [
-            "YTN",
-            "경기일보"
-          ]
+            "inews24.com",
+            "아이뉴스24"
+          ],
+          "summary": "오는 10월 2일 중수청&middot;공소청 시대 개막 검사 직접수사 불가&hellip;사법경찰만 수사 복잡해진 절차&middot;수사 인력난...수장 인선도 아직 현장 혼선&middot;수사 공백 우려...국정 지지율 주목 새 형사사법체계의 출범이 닷새 앞으로 다가왔…"
+        },
+        {
+          "title": "법무부·중수청·공소청·경찰청 4대 수장 공백…현실 된 개문발차",
+          "link": "https://www.news1.kr/society/court-prosecution/6301371",
+          "source": "뉴스1",
+          "published": "2026-09-28T06:10:01+09:00",
+          "latest": "2026-09-28T06:10:01+09:00",
+          "mention_count": 2,
+          "sources": [
+            "뉴스1",
+            "news1.kr"
+          ],
+          "summary": "②김승원 논란 속 사퇴…중수청장은 지명만 검찰총장, 경찰청장 1년 넘게 공석…새 형사사법체계 혼란 불가피 법무부, 공소청, 중대범죄수사청(중수청) 그리고 경찰청까지 주요 권력기관 4곳 모두 수장을 갖추지 못한 채 새로운 형사사법체계를 맞이하게 됐다. 법조계에서는"
         },
         {
           "title": "[단독]경찰내 성비위 신고 절반이 ‘내사종결’… 조사 중지 요건 강화했지만 효과없어",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DUklqUzVtN3Y1Zi0tRVRNWEVCdUNzcS1lTGVBVFluVnhxRzdnWlphdXJiZ2dPUTlJanAwckk1ZVpkZkQ4T29EekRabnhDQjd5RzhOZ2Y2YnpYM0RlQThHWE5ZZ2hzc245czBieHJJNm5SVDgxRHfSAWZBVV95cUxPVDREOENOcnd2T1hVM3V5YXZhTHVUZU1OcEtBTzdrTVpKQkNMeTJkcWNzdjRTTkNHcFBPWmRJckNRZ19xaGVkaVhTRGt1MW1ZLVdQanU3UXpBM1lsN2doRzBVUG1kanc?oc=5",
+          "link": "https://www.donga.com/news/Society/article/all/20260927/134739562/2",
           "source": "동아일보",
           "published": "2026-09-28T04:30:00+09:00",
           "latest": "2026-09-28T04:34:45+09:00",
@@ -862,7 +920,8 @@
           "sources": [
             "동아일보",
             "v.daum.net"
-          ]
+          ],
+          "summary": "경찰 조직 안에서 발생한 성희롱·성폭력·스토킹 신고 가운데 절반가량이 징계 요구로 이어지지 않고 내사 종결된 것으로 나타났다. 27일 경찰청의 ‘경찰공무원의 성비위 사건 접수 현황’에 따르면 2021∼2025년 경찰 내부 직장 내 성비위 신고는 모두 672건이었다. …"
         },
         {
           "title": "서해 공무원 ‘월북 판단’ 해경 간부들 잇단 승소…징계·형사책임 법원서 뒤집혀",
@@ -927,126 +986,195 @@
             "newsdaily.kr"
           ],
           "summary": "제주해양경찰서(서장 박기정)는 지난 22일 추석 명절을 맞아 지역사회 어려운 이웃들에게 따뜻한 마음을 전하기 위해 제주사회복지공동모금회 사랑의열매에 성금 200만원을 기탁했다고 밝혔다.이번 성금 기탁은 매년 명절마다 이어오고 있는 이웃사랑 나눔 활동의 일환으로 마련됐으…"
-        },
-        {
-          "title": "태풍 내습 대비 유관기관 합동 도상 훈련 실시",
-          "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261399",
-          "source": "뉴스데일리",
-          "published": "2026-09-27T18:08:35+09:00",
-          "latest": "2026-09-27T18:08:35+09:00",
-          "mention_count": 2,
-          "sources": [
-            "뉴스데일리",
-            "newsdaily.kr"
-          ],
-          "summary": "서귀포해양경찰서(서장 김주영)는 9월 22일 가을철 태풍 내습에 따른 해양사고 및 인명·재산 피해를 최소화하기 위해 유관기관 합동 도상훈련(TTX)를 개최했다고 밝혔다.이번 훈련은 태풍 북상 상황을 가정하여 해양경찰을 비롯해 서귀포시청, 서귀포소방서, 제주지방기상청,…"
-        },
-        {
-          "title": "영종경찰·자율방범대 합동순찰에 외국인 주민도 동참",
-          "link": "https://www.kyeonggi.com/article/20260927580107",
-          "source": "kyeonggi.com",
-          "published": "2026-09-27T15:15:11+09:00",
-          "latest": "2026-09-27T15:15:11+09:00",
-          "mention_count": 2,
-          "sources": [
-            "kyeonggi.com",
-            "경기일보"
-          ],
-          "summary": "인천영종경찰서가 지역 자율방범대와 함께 합동순찰 활동을 하며 주민 안전을 살폈다. 영종서는 최근 지역 자율방범대와 함께 영종하늘도시 일대에서 특별 합동순찰 활동을 했다고 27일 밝혔다. 이날 순찰에는 현장을 지나던 싱가포르 출신 외국인 주민 켄(KEN)씨도 참여했다."
         }
       ]
     }
   ],
-  "total_articles": 495,
-  "total_issues": 224,
+  "total_articles": 552,
+  "total_issues": 232,
   "raw": [
     {
+      "title": "‘새벽 5시 쓰러진 부모’ ‘억대 슈퍼카 몰던 코인사기범’… 서대문구를 지켜낸 그들 [우리동네 경찰서]",
+      "link": "https://v.daum.net/v/20260928074718141",
+      "source": "v.daum.net",
+      "published": "2026-09-28T07:47:18+09:00",
+      "summary": "대한민국 경찰의 창경 81주년, 헤럴드경제는 서울의 31개 경찰서를 소개합니다. [헤럴드경제=김도윤 기자] ‘24시간 살아 움직이는 캠퍼스 타운’. 서울을 대표하는 대학가인 서대문구 신촌에는 대학 개강과 함께 평소보다 분주해지는 곳이 있다. 신촌과 이화여대 일대의 치안…"
+    },
+    {
+      "title": "유승민 딸 교수 임용 의혹 수사 10개월째…경찰 수사 상황은?",
+      "link": "https://www.wikitree.co.kr/articles/1162333",
+      "source": "위키트리",
+      "published": "2026-09-28T07:46:00+09:00"
+    },
+    {
+      "title": "서귀포경찰서, 추석연휴 불법 게임장 단속",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261410",
+      "source": "newsdaily.kr",
+      "published": "2026-09-28T07:45:57+09:00"
+    },
+    {
+      "title": "보이스피싱, 피해 뒤 수습에서 ‘사전 차단’으로…금융안전망 달라졌다",
+      "link": "http://knpp.co.kr/news/554286",
+      "source": "대한청년일보",
+      "published": "2026-09-28T07:37:43+09:00"
+    },
+    {
+      "title": "[AI넷] [자율주행 혁명 시리즈 5부: 자동차 사고 사망자 수의 종말] 연간 4만 명이었던 사망자 수가 0명으로? 4만 명의 사망자가 2천 명으로 줄어. 하루 110명이 죽던 것이 5~6명으로 줄어듭니다. 주요 사망 원인이 통계적으로 드문 현상. 자율주행차가 하는 가장 확실한 좋",
+      "link": "http://www.ainet.link/28899",
+      "source": "AI넷",
+      "published": "2026-09-28T07:37:00+09:00"
+    },
+    {
+      "title": "국민의힘 '지뢰 폭발 참사' 한목소리로 '십자포화'…\"조사 고의지연시 대통령 탄핵사유\"",
+      "link": "https://www.jasm.co.kr/news/articleView.html?idxno=318391",
+      "source": "중앙신문",
+      "published": "2026-09-28T07:33:38+09:00"
+    },
+    {
       "title": "'인천대 교수 특혜 임용 의혹' 유승민 딸 입건 없이 수사만 10개월째",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45RGVEOEd3VzRGVkpjY1o0VW52MlhCTlBBeV9kcjdvLXcxU3Jncm02TzFHN0NOVXNRRlpwcDY0RDgxOWZHc29pMEdza0wydGpBQkJ0WmliZGtKLVdYSW1LbUxB?oc=5",
+      "link": "https://news.ikbc.co.kr/article/view/kbc202609280008",
       "source": "KBC광주방송",
-      "published": "2026-09-28T07:30:44+09:00"
+      "published": "2026-09-28T07:30:44+09:00",
+      "summary": "유승민 전 의원의 딸인 32살 유담 인천대 무역학부 교수의 특혜 임용 의혹과 관련해 경찰이 10개월 넘게 수사를 벌이고 있어 관심이 모아집니다. 28일"
+    },
+    {
+      "title": "정일영의원, 음주운전’버스·택시 운전자격 취소 하루 4.4건",
+      "link": "https://www.mp-news.com/news/articleView.html?idxno=70598",
+      "source": "수도권지역뉴스",
+      "published": "2026-09-28T07:28:04+09:00"
     },
     {
       "title": "[이 시각 세계] 태국 파타야 인근에서 한국인 1명 홍수에 휩쓸려 실종",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xZ0R0SUdkTjEtT2FIREJicEFBUlFTdHRZSU1JajVZQS16MnRSS2gtX1VBaHp1UDg2WGFvM2JZTURLRnlCZTdJYVZEMUh0cEk?oc=5",
+      "link": "https://v.daum.net/v/20260928072515761",
       "source": "v.daum.net",
       "published": "2026-09-28T07:25:15+09:00"
     },
     {
       "title": "\"하루 2~3시간밖에 못자\"... 이태원 유족이 정보공개 요구 나선 까닭",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90eTJtRjJRQ2c4Ty02UTN6VFZuekp3ZTBZNDN0OHJKNHJKMWdZcFBEUnpKV0tyalpDZF9tZVdPb1VVLTV0WXJMTElERm1jN1k?oc=5",
+      "link": "https://v.daum.net/v/20260928072258723",
       "source": "v.daum.net",
       "published": "2026-09-28T07:22:58+09:00"
     },
     {
+      "title": "\"정말 기막혔다\"... 딸 자료 청구한 엄마가 받아든 서류 5건의 실체",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268633",
+      "source": "ohmynews.com",
+      "published": "2026-09-28T07:20:00+09:00"
+    },
+    {
+      "title": "걸그룹 여행에 경찰 출동한 사연 “싸우는 줄 알고 신고” (아는 형님)",
+      "link": "https://sports.donga.com/ent/article/all/20260928/134740733/1",
+      "source": "스포츠동아",
+      "published": "2026-09-28T07:18:34+09:00"
+    },
+    {
       "title": "중수청·공소청 시대 D-5…민주당 검찰개혁 '시험대'",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lSlVnMFY3eXo5eXNxenRmZXZfZTNacnU0ek5nTTJfM1ZkM1phZmdZd3ZOcDFMXzc2TVBUalB3UjBQRGxpT1k2LUtJbw?oc=5",
+      "link": "http://www.inews24.com/view/2009177",
       "source": "inews24.com",
       "published": "2026-09-28T07:00:01+09:00"
     },
     {
+      "title": "중수청·공소청 시대 D-5…민주당 검찰개혁 '시험대'",
+      "link": "http://www.inews24.com/view/2009177",
+      "source": "아이뉴스24",
+      "published": "2026-09-28T07:00:01+09:00",
+      "summary": "오는 10월 2일 중수청&middot;공소청 시대 개막 검사 직접수사 불가&hellip;사법경찰만 수사 복잡해진 절차&middot;수사 인력난...수장 인선도 아직 현장 혼선&middot;수사 공백 우려...국정 지지율 주목 새 형사사법체계의 출범이 닷새 앞으로 다가왔…"
+    },
+    {
       "title": "수개월 실종된 타코마지역 여성 숨진 채 발견…전 남친 살인 혐의 기소 > 시애틀 뉴스/핫이슈",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DQ1gxZkM0XzFQcG1Lcmh6VHU1c0JtOWFpYTdGeEU2ZVZYR094eTczaXJ2MjhzRmtOa1BNTzNQdlFSV2Jzdjh1a1NR?oc=5",
+      "link": "https://www.seattlen.com/hot/67983",
       "source": "SeattleN",
       "published": "2026-09-28T06:56:21+09:00"
     },
     {
       "title": "순찰 중 카페 사장에 ‘스케치북 고백’ 경찰…대법 “강등 정당”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlR3ZSdzlPR0VTTEQ0YTFycUszV1VXbDE4VnNxNlBhTXNlZVNHaDNtWWptajdhLUVzdXg5OHhhbjF0RXRBcTJGNVJYc3A0Q2tFamg5VDRR?oc=5",
+      "link": "https://www.joongang.co.kr/article/25465135",
       "source": "joongang.co.kr",
       "published": "2026-09-28T06:55:01+09:00"
     },
     {
+      "title": "순찰 중 카페 사장에 ‘스케치북 고백’ 경찰…대법 “강등 정당”",
+      "link": "https://www.joongang.co.kr/article/25465135",
+      "source": "중앙일보",
+      "published": "2026-09-28T06:55:01+09:00"
+    },
+    {
+      "title": "[와글와글] 도로에 돈다발 뿌리며 도주‥대체 무슨 일?",
+      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854424_37012.html",
+      "source": "MBC 뉴스",
+      "published": "2026-09-28T06:42:49+09:00"
+    },
+    {
+      "title": "[와글와글] 경찰관 순찰 중 카페 업주에 '스케치북 고백'",
+      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854423_37012.html",
+      "source": "MBC 뉴스",
+      "published": "2026-09-28T06:41:48+09:00"
+    },
+    {
       "title": "한강공원서 흉기 든 40대 난동…카페 점주 신고로 피해 막아",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EOE1tekk2dC14SEpBcXdqNEVmbWNRWkh4ZkpVcUlOTEFGUm1ZX29ZaFdEMEltajItdnBuZzlnOFE3eGFEYlpIV2ZOS1RwUkVycVdVcDlVdDNPN28?oc=5",
+      "link": "https://www.kyeonggi.com/article/20260928580008",
       "source": "경기일보",
       "published": "2026-09-28T06:40:44+09:00"
     },
     {
       "title": "파타야에서 한국인 추정 남성 홍수에 휩쓸려 실종",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IVmRTQ20wVUxxS3ZSMW43dWZ1Vkk1TlBhbmhmOUl5WHdwMGxpUmgzaWIzd2NUeE40T1JaRjVFZUdsa3RHOXdEZlVhZER1aEk?oc=5",
+      "link": "https://v.daum.net/v/20260928062516876",
       "source": "v.daum.net",
       "published": "2026-09-28T06:25:16+09:00"
     },
     {
       "title": "72년 만의 형사사법 체계 대전환…수사·기소 완전 분리 닻 올린다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTXpJaldOSmx2S0xfaGU0WHVPb1k0aEd6SVNwTUlENVNNMUwzVW40NUQzVTc0dVc3WXBhc3F1aFVERDRUWGhHazZabGlIdVJEbjc5WldwdFFHUQ?oc=5",
+      "link": "https://www.fnnews.com/news/202609280610505134",
       "source": "파이낸셜뉴스",
       "published": "2026-09-28T06:10:51+09:00"
     },
     {
       "title": "법무부·중수청·공소청·경찰청 4대 수장 공백…현실 된 개문발차",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vWTVIQ0NFTFpyay1INTM2Z3VMVDhPT2c0NjBBR1VWbU1yVzZPTUFFVTJaSGsyMmFOUVBDcTh1TXlQNkdFXzd4T1A2SXNibFF3Y3V5aWVSTE9qVXhFSXpRU21jb2TSAWpBVV95cUxNamZpREpTaXpwOU9ieGVReVVLZGdDNF9oaW9BWElla3Vha0NyZ1ZEd2NMWnpHMXVCWFRUYlNPYW1SNmNIbmM4TXhOUFdKTWxmT2ZHZ21FRndzd1FJVnY4QlJPUTRidGZhVHdR?oc=5",
+      "link": "https://www.news1.kr/society/court-prosecution/6301371",
       "source": "뉴스1",
       "published": "2026-09-28T06:10:01+09:00"
     },
     {
+      "title": "법무부·중수청·공소청·경찰청 4대 수장 공백…현실 된 개문발차",
+      "link": "https://www.news1.kr/society/court-prosecution/6301371",
+      "source": "news1.kr",
+      "published": "2026-09-28T06:10:01+09:00",
+      "summary": "②김승원 논란 속 사퇴…중수청장은 지명만 검찰총장, 경찰청장 1년 넘게 공석…새 형사사법체계 혼란 불가피 법무부, 공소청, 중대범죄수사청(중수청) 그리고 경찰청까지 주요 권력기관 4곳 모두 수장을 갖추지 못한 채 새로운 형사사법체계를 맞이하게 됐다. 법조계에서는"
+    },
+    {
       "title": "72년 만의 형사사법 체계 대전환…수사·기소 완전 분리 닻 올린다",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvR3JMcjZUWUMxUk1GSDZqVFV6U1pEcThNaVJ5ZVdVTlV5UlFjTFhZcGxkaVNiRHEzc1g2QjUtcVZ0YU1kaWlQQjdpLTczQjFacUxVaG8zTnMta21EUVNPUW5KaTjSAWpBVV95cUxPaU9TTmt3Q25zU3pxejJ4ci1IOVJXMDVEbkJ1YXpHU0NiQ2xXY0NrTXZ0dzJleFlmeU5fd1Y4ZTVHeGlCZlAwR0NRUGNHd0JtUlJDY0xwRVlQOFJKWEdldUhpdi1zZnlKN0Nn?oc=5",
+      "link": "https://www.news1.kr/society/court-prosecution/6301617",
       "source": "뉴스1",
       "published": "2026-09-28T06:10:00+09:00"
     },
     {
+      "title": "72년 만의 형사사법 체계 대전환…수사·기소 완전 분리 닻 올린다",
+      "link": "https://www.news1.kr/society/court-prosecution/6301617",
+      "source": "news1.kr",
+      "published": "2026-09-28T06:10:00+09:00",
+      "summary": "①檢 수사권 전면 폐지…중수청은 6대 범죄 고소·고발은 중수청·경찰에…'사건 핑퐁' 우려, 불송치심사부 신설 오는 10월 2일 개정 형사소송법이 시행되고 중대범죄수사청(중수청)과 공소청이 출범한다. 이에 따라 검사의 수사권은 1954년 형사소송법 제정 이후 72년"
+    },
+    {
       "title": "英 경찰, 이란 공습 미군기지 인근서 남성 5명 체포…\"테러 모의 혐의\"",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oZTRoc0FmNXdTSEFESnNxUFhENjVXaG82TE14ZGpIN2hrVFFsREtvd1BQNHUwUmdYX1FQZ05sNEVsNy1Qc0FjXzhBUkNhTGNTNUpFdU80ZUlpc0Y3TkhB?oc=5",
+      "link": "https://m.joseilbo.com/news/view.htm?newsid=576376",
       "source": "조세일보",
       "published": "2026-09-28T06:09:03+09:00"
     },
     {
       "title": "[단독] 배회감지기 보급 중앙치매센터… '몇 명 찾았는지' 몰라",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPYVptWHRkVG5HRGVvTExsWTRodGZwZzhfVV9VeHNZaEhtUDFyd0ViSmZidWR0QkQtWVpHMnV0TFhEYnN0NEJyWk50S1BtUDFlSDJmR3hVeWh4N0E4QlZfTmFKeU1PUnZfLWJz?oc=5",
+      "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=79319",
       "source": "히트뉴스",
       "published": "2026-09-28T06:07:00+09:00"
     },
     {
       "title": "[단독] 수협銀, 보이스피싱 감소에도 평균 피해액 급증..회수율도 34.9% 그쳐",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52ZU9iczY5NnlSTmNGN2NHb2dmMUVReWNVdHhmRGMweWxaOW9iampDNDhSTml0X2dwNFNnTG0zU20yUE5UeURRQlVpbzN5NUE?oc=5",
+      "link": "https://v.daum.net/v/20260928060133421",
       "source": "v.daum.net",
       "published": "2026-09-28T06:01:33+09:00"
     },
     {
       "title": "\"명품 배달인 줄\"…8억 나른 50대 보이스피싱 수거책의 최후 [사기꾼들]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TZ0hqTzA0aVdLQnhIQ3NKb3pIT1RnNlhSNjhwbzNrbnZveUltNHdWel91b2t5Y2FrcTVoYXptQlNVcDVhX0tiWGRuSncxbGM?oc=5",
+      "link": "https://v.daum.net/v/20260928060129415",
       "source": "v.daum.net",
       "published": "2026-09-28T06:01:29+09:00"
     },
@@ -1064,13 +1192,19 @@
     },
     {
       "title": "태국서 한국인 추정 남성 홍수에 휩쓸려 실종",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdmNfeDdTcnZLRHZ4UjZrTUNyRTQxQ0NVNnV0eV96YUhoTXR6SEU1N3FIUU9pVjZRQkNGWmVlb2Z6QThWTF9YVVNpUG45dFRla3RZMC1BNEltcU9LdHVmTnZBR3lQZGM?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260928054727qmr",
       "source": "연합뉴스TV",
       "published": "2026-09-28T05:47:00+09:00"
     },
     {
+      "title": "태국서 한국인 추정 남성 홍수에 휩쓸려 실종",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260928054727qmr",
+      "source": "yonhapnewstv.co.kr",
+      "published": "2026-09-28T05:47:00+09:00"
+    },
+    {
       "title": "민주콩고서 또 선박 전복…최소 12명 사망·수십 명 실종",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OYlJDTHR0U1c2X09kQUdCOGY3aE1RQWZUcnFuUENneUZzLW5TWVItd2hObWE2TGxUTXBCb0NnWE9mZUkxMFdLTkU3M3IzRzZ5UlFOSEZKMTljTzB2OFdsakRtZW9QSm9QckE?oc=5",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008771957",
       "source": "news.sbs.co.kr",
       "published": "2026-09-28T05:41:33+09:00"
     },
@@ -1082,68 +1216,107 @@
     },
     {
       "title": "\"1명은 탈출했는데\"…파타야 홍수에 한국인 추정 남성 실종",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xSi1vSHVBbEI4ZGRnaW43MGwtQ3I1MmFMV3NDWG5PakVVLW1rMGFtNjhXcUtEVzlSSW8xNXBHNVFjMkRTaWdCb0FtVWlfV2s?oc=5",
+      "link": "https://v.daum.net/v/20260928052208967",
       "source": "v.daum.net",
       "published": "2026-09-28T05:22:08+09:00"
     },
     {
       "title": "(설명) 국정자원 화재·상황실 신설에도 1·2급 전산사고 빈발 여전(연합)",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaFdrdkpqTjZSNDFNQmQ0VlRrNGpPQlFqbHZiZGpXY1lfeDRwcVcxNkc4TkVkN2RmZGg5TG5ITm16aHJoazZpdldUTEMzVHJyb2Vub044c0s5MXVLbFVHQWRaWGpTOG1VRkJmUGNKOGRHcDVpOUlQZUFuR2c5OFBzMWRXbEFZZkhobWlrcWdzNA?oc=5",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148972640&pWise=main&pWiseMain=L1",
       "source": "korea.kr",
       "published": "2026-09-28T05:00:50+09:00"
     },
     {
+      "title": "(설명) 국정자원 화재·상황실 신설에도 1·2급 전산사고 빈발 여전(연합)",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148972640&pWise=main&pWiseMain=L1",
+      "source": "정책브리핑",
+      "published": "2026-09-28T05:00:50+09:00"
+    },
+    {
       "title": "‘경찰 불송치’ 공소청이 다시 본다…경제범죄 수사 빈틈 메울까 [중수청·공소청 시대②]",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PbVR0Y1RZOGJjS25aemYzZ0N1RUhmSEZ4RDNmdDQwNWZENnVERm9rM3hVVEZpZlI0emxKaTYyYTQyV25KQzBLb083TW5NZV9vVTl4LTJxYXF6VjREMUlPcGFwakNMQ05vcnQxMl93UnZnd1Rj?oc=5",
+      "link": "https://www.etoday.co.kr/news/view/2627909?trc=right_categori_news",
       "source": "etoday.co.kr",
       "published": "2026-09-28T05:00:00+09:00"
     },
     {
+      "title": "‘경찰 불송치’ 공소청이 다시 본다…경제범죄 수사 빈틈 메울까 [중수청·공소청 시대②]",
+      "link": "https://www.etoday.co.kr/news/view/2627909?trc=right_categori_news",
+      "source": "이투데이",
+      "published": "2026-09-28T05:00:00+09:00",
+      "summary": "불송치심사부, 수사 공백 보완 기대법조계 “복잡한 경제사건...검사 재검토 효과 있을 듯”▲서울 서초구 대검찰청 모습. (뉴시스)다음 달 2일 중대범죄"
+    },
+    {
       "title": "“당신이 신고했지? 죽여버리겠다”…음주운전 신고자 협박한 60대, 실형",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5M3BfSi13bkYtWHJmZGxodVhCdU13bU4zSU1fUUw5QlhfYmxRQ3NDcTI4bUlxazJIZ1duVFB6TUQ2TDBJQlBfdjBQZXA1Q0dU?oc=5",
+      "link": "https://www.munhwa.com/article/11619677",
       "source": "문화일보",
       "published": "2026-09-28T04:42:14+09:00"
     },
     {
       "title": "단독 한강공원서 흉기로 행인 위협...\"카페로 피해 살았다\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SLUxQZDBSNXhRcmhjX3dMbVlZRVdKTVRQT0lDQ2Z5bUQyRzl5b0NhZkpDb0w2NmFTRFY0ZVpEcENNNk9XejdBaGYtejNacjRXeXNfMS0zcElqMlVrQ1E?oc=5",
+      "link": "https://www.ytn.co.kr/_ln/0103_202609280436155122",
       "source": "YTN",
       "published": "2026-09-28T04:36:00+09:00"
     },
     {
+      "title": "단독 한강공원서 흉기로 행인 위협...\"카페로 피해 살았다\"",
+      "link": "https://www.ytn.co.kr/_ln/0103_202609280436155122",
+      "source": "ytn.co.kr",
+      "published": "2026-09-28T04:36:00+09:00",
+      "summary": "연휴 마지막 날 한강공원 인근에서 흉기로 시민들을 위협한 40대 남성이 경찰에 붙잡혔습니다. 나들이객이 몰린 낮 시간대라 자칫 큰 인명 피해가 날 뻔했는데, 카페로 몸을 피해 다친 사람은 없었습니다. 당시 긴박했던 상황을, 권준수 기자가 단독 보도합니다. 흉기를 든 남…"
+    },
+    {
       "title": "[단독]경찰내 성비위 신고 절반이 ‘내사종결’… 조사 중지 요건 강화했지만 효과없어",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkUERSM2N2RHI0QlRjaEtCb2lUYUE0RG5qaFN6SHFZck4xRG5CRFJWak1oZWtsaDdMSDRDdE9XSmRLZXNhVldZREJqbXlEX0k?oc=5",
+      "link": "https://v.daum.net/v/20260928043445121",
       "source": "v.daum.net",
       "published": "2026-09-28T04:34:45+09:00"
     },
     {
       "title": "[단독]경찰내 성비위 신고 절반이 ‘내사종결’… 조사 중지 요건 강화했지만 효과없어",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DUklqUzVtN3Y1Zi0tRVRNWEVCdUNzcS1lTGVBVFluVnhxRzdnWlphdXJiZ2dPUTlJanAwckk1ZVpkZkQ4T29EekRabnhDQjd5RzhOZ2Y2YnpYM0RlQThHWE5ZZ2hzc245czBieHJJNm5SVDgxRHfSAWZBVV95cUxPVDREOENOcnd2T1hVM3V5YXZhTHVUZU1OcEtBTzdrTVpKQkNMeTJkcWNzdjRTTkNHcFBPWmRJckNRZ19xaGVkaVhTRGt1MW1ZLVdQanU3UXpBM1lsN2doRzBVUG1kanc?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260927/134739562/2",
       "source": "동아일보",
-      "published": "2026-09-28T04:30:00+09:00"
+      "published": "2026-09-28T04:30:00+09:00",
+      "summary": "경찰 조직 안에서 발생한 성희롱·성폭력·스토킹 신고 가운데 절반가량이 징계 요구로 이어지지 않고 내사 종결된 것으로 나타났다. 27일 경찰청의 ‘경찰공무원의 성비위 사건 접수 현황’에 따르면 2021∼2025년 경찰 내부 직장 내 성비위 신고는 모두 672건이었다. …"
     },
     {
       "title": "추석 연휴 도내 강력범죄 줄고 가정폭력 증가...벌 쏘임·실종 사고 등 잇따라",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYXhlNGdBWmUwX3FTWGNOMElVZ2s5YXFaR2hLV1RFTXFCekFNYVN5TjVDWE9abDVFX3UwSExfcS16eXl3ZE5DWEVWUXZ5bWZlbXhoRWxEakdRTDAtbUZ3NVprNUg5Rlk?oc=5",
+      "link": "https://www.jbsori.com/news/articleView.html?idxno=17951",
       "source": "전북의소리",
       "published": "2026-09-28T04:24:08+09:00"
     },
     {
       "title": "‘항저우 실종사건’의 주역, 나고야의 새로운 태양이 됐다…곽빈, 4년 만에 증명한 ‘진짜 에이스’",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IYUJYNklVdlk0WU41d0YxXzNzY0dwVEw2TGxrZkhQbnc4QVpjLWE0czNaWFB4TS16d1B6LTRfM2VwaGw1a3c1clBXdDZieDVtVGxF?oc=5",
+      "link": "http://www.osen.co.kr/article/G1112883126",
       "source": "OSEN",
       "published": "2026-09-28T04:05:00+09:00"
     },
     {
+      "title": "‘항저우 실종사건’의 주역, 나고야의 새로운 태양이 됐다…곽빈, 4년 만에 증명한 ‘진짜 에이스’",
+      "link": "https://www.mt.co.kr/sports/2026/09/28/202609272152775127O",
+      "source": "머니투데이",
+      "published": "2026-09-28T04:05:00+09:00"
+    },
+    {
       "title": "인도·네팔, 홍수·산사태로 최소 80여명 사망·실종",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FM0czUW4yWTlEeTZZc3VvLVdsVlhnamVXZ2dob25fWWwxYnRwT3JMNV8ySDFMYmFxUE50V0hVUjNEbTBjSV85N1FGenZ0a082SmlWcnNtMDdDVDNoVTlWY1dCYVAwa0xEbHJjNHpNejBBT0hIZVE?oc=5",
+      "link": "https://m.ytn.co.kr/news_view.php?key=202609280431558524&s_mcd=0104",
       "source": "YTN",
       "published": "2026-09-28T03:31:00+09:00"
     },
     {
+      "title": "인도·네팔, 홍수·산사태로 최소 80여명 사망·실종",
+      "link": "https://m.ytn.co.kr/news_view.php?key=202609280431558524&s_mcd=0104",
+      "source": "ytn.co.kr",
+      "published": "2026-09-28T03:31:00+09:00"
+    },
+    {
       "title": "남아공 잇따른 총기 난사 27명 사망·26명 부상...\"이권 다툼 때문\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12cFBpajJMM2Y5dGlWZUhBa3J2TnhYT3pxTW1YckVPaUo2endSekt3UHE5Y3RBRXJBa2pQY2ExQnc0T3E2ZGwyelB1S3J2STlVQV91QjRfZVV4UmwtdXc?oc=5",
+      "link": "https://www.ytn.co.kr/_ln/0104_202609280421281982",
       "source": "YTN",
+      "published": "2026-09-28T02:31:00+09:00"
+    },
+    {
+      "title": "남아공 잇따른 총기 난사 27명 사망·26명 부상...\"이권 다툼 때문\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202609280421281982",
+      "source": "ytn.co.kr",
       "published": "2026-09-28T02:31:00+09:00"
     },
     {
@@ -1155,7 +1328,7 @@
     },
     {
       "title": "훈련 중 교통사고로, 끝내 사망...'인간 승리 아이콘' 日 패럴림픽 메달리스트, 중태 빠진 지 일주일 만에 별세",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1OGhxSzFDUXRzWXY1OHpqRlRnY0JoQ1VMeUpKcU5yMUYzSlI1WGFrUmlYZElLRzhVM0ZlckE5LUxLUUJXZFNxT3cxX0E2azA?oc=5",
+      "link": "https://v.daum.net/v/20260928015208554",
       "source": "v.daum.net",
       "published": "2026-09-28T01:52:08+09:00"
     },
@@ -1167,7 +1340,7 @@
     },
     {
       "title": "인도·네팔 덮친 폭우와 눈사태…최소 80여명 사망·실종",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoc1pvb3h4QUt3a0o1UHNmazBrNG5OWkZyR1k4WWVwcjBiVTBqRFFvYzE0S1NaZEJkbGNYZUZTbzNQV0xubWtrOFlXeXk5NW10dE5wWV9R?oc=5",
+      "link": "https://www.joongang.co.kr/article/25465106",
       "source": "joongang.co.kr",
       "published": "2026-09-28T00:55:14+09:00"
     },
@@ -1178,8 +1351,14 @@
       "published": "2026-09-28T00:26:00+09:00"
     },
     {
+      "title": "민주콩고서 또 선박전복…최소 12명 사망·수십명 실종",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8672245",
+      "source": "news.kbs.co.kr",
+      "published": "2026-09-28T00:26:00+09:00"
+    },
+    {
       "title": "'차량 추돌→하반신 마비' 인간승리 아이콘 비극, 또 교통사고→향년 55세 사망 \"장애인스포츠 영웅이었는데...\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tUzlxb0JrMktGM1dhLU1EZ0l2aDU3NFhWMEFfYTVwMjJPdFl0bjRXTXVNdzI5Y2dRZ3hyMV9wWTZoWS1uRjUtVERWUUtkX0U?oc=5",
+      "link": "https://v.daum.net/v/20260928002336999",
       "source": "v.daum.net",
       "published": "2026-09-28T00:23:36+09:00"
     },
@@ -1203,7 +1382,7 @@
     },
     {
       "title": "민주콩고서 또 선박전복…최소 12명 사망·수십명 실종",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVGI2OFI2LXRxMTRGMk00aGVfTnRENUloSHBOYU1mQkJQS1otam1sSm54aDg4M19xSmJpRzkwTGxqT2pQTk9lUy1panVsTGJJUWxJSHdPVXdsMno0RW9zMtIBYEFVX3lxTFBjVGI2OFI2LXRxMTRGMk00aGVfTnRENUloSHBOYU1mQkJQS1otam1sSm54aDg4M19xSmJpRzkwTGxqT2pQTk9lUy1panVsTGJJUWxJSHdPVXdsMno0RW9zMg?oc=5",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260928000200099",
       "source": "연합뉴스",
       "published": "2026-09-28T00:10:04+09:00"
     },
@@ -1221,7 +1400,7 @@
     },
     {
       "title": "[view] 미·중 맹탕 회담…북 비핵화도 실종",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50aVFadldaU2N3ODAtQm9XdndrRlc3VWxLUXhLOVNSZ1NyNlJtY0ZBQzRUQlQycmJaMjlxZmZwcGEtV21RVXFlbWNhc2Yza3VPVnJLZWJ3?oc=5",
+      "link": "https://www.joongang.co.kr/article/25465095",
       "source": "joongang.co.kr",
       "published": "2026-09-28T00:08:55+09:00"
     },
@@ -1243,6 +1422,12 @@
       "title": "'남양주 별장 흉기' 50대 구속영장 신청...살인죄로 변경",
       "link": "https://www.ytn.co.kr/_cs/_ln_0103_202609280006476595_005.html",
       "source": "YTN",
+      "published": "2026-09-28T00:06:00+09:00"
+    },
+    {
+      "title": "'남양주 별장 흉기' 50대 구속영장 신청...살인죄로 변경",
+      "link": "https://www.ytn.co.kr/_cs/_ln_0103_202609280006476595_005.html",
+      "source": "ytn.co.kr",
       "published": "2026-09-28T00:06:00+09:00"
     },
     {
@@ -1284,7 +1469,7 @@
     },
     {
       "title": "파타야서 한국인 추정 남성 홍수에 휩쓸려 실종…동행 2명은 행방 묘연",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kS2RLdlFwR0x2MmZwMm5jMlZZcDYzZjBxbW9ZUUpZTmV0TEE2YnByZl94ZWNubUxGd1NMN3BXQ2IxMm1zTkRyVjNyekVneW1iMV81Z1MyUWxWS0tZYml0ZHNxUkNfTHVRQWVGQk130gFuQVVfeXFMTmRLZEt2UXBHTHYyZnAybmMyVllwNjNmMHFtb1lRSllOZXRMQTZicHJmX3hlY25tTEZ3U0w3cFdDYjEybXNORHJWM3J6RWd5bWIxXzVnUzJRbFZLS1liaXRkc3FSQ19MdVFBZUZCTXc?oc=5",
+      "link": "http://weekly.chosun.com/news/articleViewAmp.html?idxno=55651",
       "source": "주간조선",
       "published": "2026-09-27T23:07:27+09:00"
     },
@@ -1296,7 +1481,7 @@
     },
     {
       "title": "충북경찰청, 추석 명절 기간 평온한 치안 유지",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52RDVwckxPYmVxY2xvRThJbUI0WjVUdHdVejIzUEY4Vk1VbWZGbkJid2M5bVU1WlpMbFNqaGFCVnotWUdfOUZuc2VFUTgzemowN1kzd05DbnZhQ3ZIMGNOTVhXX3dqNXBQWkRJ?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261406",
       "source": "newsdaily.kr",
       "published": "2026-09-27T22:59:31+09:00"
     },
@@ -1308,7 +1493,7 @@
     },
     {
       "title": "대전경찰청, 「추석 연휴 국민 체감안전 제고 대책」 결과 발표",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uRUd0XzhTb0M2YU1sT2hkRWRzakFzU3Z4WnNORkpvR0JKOERzNTNDQXhWd2pFTUN5MERwLXdsdlhlNTM5aW5EY0ZURlQ2VGg5ZEFxVUpEV0ladzZJWmJrT0xDblBLb2hsVERF?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261405",
       "source": "newsdaily.kr",
       "published": "2026-09-27T22:51:57+09:00"
     },
@@ -1316,6 +1501,12 @@
       "title": "추석 연휴 전남광주 112신고·교통사고 감소",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8672236",
       "source": "KBS 뉴스",
+      "published": "2026-09-27T22:46:00+09:00"
+    },
+    {
+      "title": "추석 연휴 전남광주 112신고·교통사고 감소",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8672236",
+      "source": "news.kbs.co.kr",
       "published": "2026-09-27T22:46:00+09:00"
     },
     {
@@ -1338,13 +1529,13 @@
     },
     {
       "title": "전남경찰, 평온한 추석 명절 치안 확보..112신고·교통사고 감소, 전 기능 총력 대응",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aVGNfUmVpNWdqT0VhanRQcm1kRXI4eVRJaFR6djBROW1XVXg4UHpjSkFHNUpGdkJaQkVoUjlQdUJjTV9KckZRSDVLa29uZ0p1VlBpdFVwb2RLWkIyZGtJMFdSYlNwQlROVmdn?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261404",
       "source": "newsdaily.kr",
       "published": "2026-09-27T22:40:52+09:00"
     },
     {
       "title": "태국 파타야서 '한국인 추정 남성' 홍수 속 실종… “동행 2명은 현장 떠나”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EM1VJREhFVUcwajQwVlEzNTBzeU1PeW5SejVYSVMtZmdnSW9wQ3B6M25ZOE1DSmlTUFNLUzJtNU9YdjA4czJYR09mUHVzUQ?oc=5",
+      "link": "https://www.etnews.com/20260927000110",
       "source": "전자신문",
       "published": "2026-09-27T22:30:00+09:00"
     },
@@ -1382,13 +1573,13 @@
     },
     {
       "title": "창동역 에스컬레이터 아찔한 '도미노 사고'… 시민 대처로 대형 참사 면해",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfa000ZUVlbVJBQ05qcktrdnA4bEhYclh2RzFISGh1bnJJM0xpZzJ0dHFrZUFibVZEeTJvcGlpVDRuWlFpcEcwS2lybWQ5Z0Z4V1pQUDRR?oc=5",
+      "link": "https://www.news21tongsin.co.kr/news/306345",
       "source": "news21tongsin.co.kr",
       "published": "2026-09-27T22:12:27+09:00"
     },
     {
       "title": "[현장의 시선] 경찰개혁의 종착지는?",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jcFRmTUIwcF9nMFlsWEh3TU1INTRETEVLWFZhNGVkSnVDZFRwVEJJWWRVQms0QUxOSGtFX2t0R1FhcTY2Z0RSYzZINHp2NkRvZVZuYVdKbFRfdGxIMGlvSG9CczhWcEFlSWNJ?oc=5",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=560753",
       "source": "대구신문",
       "published": "2026-09-27T22:10:00+09:00"
     },
@@ -1406,7 +1597,7 @@
     },
     {
       "title": "순찰 중 카페 주인에 ‘스케치북 고백’한 경찰…민원인엔 39차례 연락도",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PS1pDN0ZLSmR5VTd0LU5XcGsxeWZXcEJ1emtMX2RpeU8wNmtBeExaR0tfMXZOY0VGbVNOckh5MnItX0pzQXNuX0NBX3pBcVhrY3dTZ3IwaVBDbnpjdGJxRTZ1MUVOVERvMEHSAW5BVV95cUxOS0FIQzlZRkpoWGdldnFXaC0zTnluUlBURnJDNEotU3BDZkxYVlZBU01aSGY4a05CZUstdHdMbGc2WWxkRWYwN0U2dzYxNlJ0bXZ5dFFaUFV4VWRzWDdfRDFZMGpjcUVYb0R3bEdvdw?oc=5",
+      "link": "http://weekly.chosun.com/news/articleView.html?idxno=55643",
       "source": "주간조선",
       "published": "2026-09-27T22:00:00+09:00"
     },
@@ -1418,7 +1609,7 @@
     },
     {
       "title": "[제2보] 나주소방서 화재증명원 관리 책임자는 '입주자대표회장'… 예견된 인재(人災)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RaDJ2QWhHRDREM3dyMHFEbFdZVXdlMHBrVzdidzZzN3BWbTNQa1JtZHdHb21Yd3R4Y3VtVE4tUC1VbUdILThqZlZZa05VUldVbmlzcEV0aGYwWkR6anlrQUE0ZmFScXhxZC13dDg2TEZBWVU?oc=5",
+      "link": "https://www.koreapressunion.com/news/articleView.html?idxno=17769",
       "source": "한국언론연합",
       "published": "2026-09-27T21:58:47+09:00"
     },
@@ -1430,7 +1621,7 @@
     },
     {
       "title": "[속보]‘0-5 참사’ 딛고 8회초 터진 결승타…韓야구, 日 꺾고 AG 5연패",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qdGR5UVdJSzFJaXlkV05fMFQyT2N0VEw2YWhkNjRnLVdYVUNFRnFPMlhJXzFjc2pxTzVBN2lJUXU2QTE5cW5HUmpqUk5zdTlveV9jc1kwTzVWRFBpU3Z3emx6aVp6WkFScTlUZmFiU09nNGc20gFmQVVfeXFMT3l2dDQtQ0lLb1RhNkNqNkVDek5aU1JzVDBha0YzSHZxRDVzRHpXdGcxQjZDeEN4MXlvWU9yT1M3WlVCQnMwYlk3NExXdy1SRWZKbmU0RGt3U0c1YldzcHF1WW4zdW9R?oc=5",
+      "link": "https://www.donga.com/news/Sports/article/all/20260927/134740019/1",
       "source": "동아일보",
       "published": "2026-09-27T21:55:00+09:00"
     },
@@ -1438,6 +1629,12 @@
       "title": "두 번의 참사 없었다!…‘김도영 결승타+곽빈 투혼의 111구 역투’ 류지현호, 日 3-1 제압＆충격패 설욕→AG 5연패 달성 [AG 리뷰]",
       "link": "https://www.mk.co.kr/news/sports/12162147",
       "source": "매일경제",
+      "published": "2026-09-27T21:52:07+09:00"
+    },
+    {
+      "title": "두 번의 참사 없었다!…‘김도영 결승타+곽빈 투혼의 111구 역투’ 류지현호, 日 3-1 제압＆충격패 설욕→AG 5연패 달성 [AG 리뷰]",
+      "link": "https://www.mk.co.kr/news/sports/12162147",
+      "source": "mk.co.kr",
       "published": "2026-09-27T21:52:07+09:00"
     },
     {
@@ -1460,7 +1657,7 @@
     },
     {
       "title": "전남광주 \"추석 연휴 큰 사건·사고 없이 289만명 오갔다\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwYVV0a3lIR0tLWWNrcmF4LWphNUROc3ljaElPN3dnRGdRNUNVUXZUM1Atbks4ZEtDd0VNUWlHWnlTT0NMdE9zYmpPX2lpMEEzNEt6RDV4MndUcjN0WmlpcV9sTUYwaTlJNjFsQkV0ZHc?oc=5",
+      "link": "https://www.todaygwangju.com/news/articleView.html?idxno=321805",
       "source": "투데이광주전남",
       "published": "2026-09-27T21:31:27+09:00"
     },
@@ -1480,13 +1677,13 @@
     },
     {
       "title": "\"목소리도 못 믿는다\"…AI 보이스피싱에 통신사도 '진땀' : 네이버 블로그",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajZ4X1U4RldNY3pkUHhkWUtUX1hfaC1yTXZ6ZkFERGlDSnJpckJ5TW44QzNQdHQybm84WUJLTm5yU0UyblZZQVB5V0ptT1FsUGM2SHk4NnBqcHc0d2lFUGZfd0JleFVGMTFGMnluUzRrMmozOFFKcGVaeGE2RFJQMUR1bUtpQXlTSE44aUJXMA?oc=5",
+      "link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224424104099&redirect=Dlog",
       "source": "Naver Blog",
       "published": "2026-09-27T21:17:13+09:00"
     },
     {
       "title": "농협 보이스피싱 피해 3,220억 원···환급률은 10%대",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KNVlOLXFxU0NDemJ5XzNBbUtENTI3UTJpbW1tX1ZtS3dSbkdVZXZBRVdsTmloWHkzVnVDUmdFSmtkcmxlY0xBNlpSbEVreDVjS1ZGX0p3LWRfNHVnQ0tTY0o2NEhUMWc4NXplRA?oc=5",
+      "link": "https://www.theleader.co.kr/news/articleView.html?idxno=8657",
       "source": "theleader.co.kr",
       "published": "2026-09-27T21:15:25+09:00"
     },
@@ -1510,7 +1707,7 @@
     },
     {
       "title": "파타야 홍수에 韓추정 남성 실종…동행인 2명은 신고없이 사라졌다",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuX2ZqZWxCWTVBZkZzSWJvX1kxZUhhTTNwbzQ4eE45V2RnOGZsVTFIZ0FMbkV3cjJhT3NUZzhyOGlwTG1FZmNRelF1X0FHSUp0eWlYVkZn?oc=5",
+      "link": "https://www.joongang.co.kr/article/25465035",
       "source": "joongang.co.kr",
       "published": "2026-09-27T21:00:21+09:00"
     },
@@ -1547,7 +1744,7 @@
     },
     {
       "title": "국가보훈부 인사(전보)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1WERkclQ5SW9MNHNxcGhqMWlIRlJES2VBbHNrek1ZSmtYQjRkREY3TU80QUlTMUd6Tk9abGJJYWc5VG9NNlNteWlyODFkNTk4UUZnSkRTMnEwN0FOanJIaXJPSmVwazZJZ0duWDJiYnY?oc=5",
+      "link": "http://www.policenews24.co.kr/news/articleView.html?idxno=23355",
       "source": "policenews24.co.kr",
       "published": "2026-09-27T20:46:41+09:00"
     },
@@ -1561,6 +1758,12 @@
       "title": "인도·네팔 우기 폭우 참사…80여명 사망·실종",
       "link": "https://www.sedaily.com/article/20095292",
       "source": "서울경제",
+      "published": "2026-09-27T20:32:44+09:00"
+    },
+    {
+      "title": "인도·네팔 우기 폭우 참사…80여명 사망·실종",
+      "link": "https://www.sedaily.com/article/20095292",
+      "source": "sedaily.com",
       "published": "2026-09-27T20:32:44+09:00"
     },
     {
@@ -1590,7 +1793,7 @@
     },
     {
       "title": "인도 북부·네팔, 홍수·산사태로 최소 80여명 사망·실종",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTc3Y5YzNrYjIzWGpLV0pSTld2NXVBZnlOSXdzNXIzWkdtN0k1V1V4VzVRMHNOeUNUT251NHNGZU1PeWdvRGZJTk15aWdENXVjeUhxWjY1ekFZQdIBWEFVX3lxTE9BdDVDRUVmZjJDRDdVQ3piRGdXY0xWVkRLMzU0aU1mbkhmMTdldkxWSmlkZGhCUXFTUnZQRUp3MjFVWkFzUDl5bFNrM0NKeV84ZE9FRGMtZi0?oc=5",
+      "link": "https://www.ajunews.com/view/20260927200701485",
       "source": "ajunews.com",
       "published": "2026-09-27T20:21:53+09:00"
     },
@@ -1627,7 +1830,7 @@
     },
     {
       "title": "인도 북부·네팔, 홍수·산사태로 최소 80여 명 사망·실종",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93QlFEbVJ5Ui1TaWxNcDFQNlNvR0o4aklYNlAzdE1qX3Q3NTJlN0FyQ3A0Y2d6cDRXUVhCQTlpeW5NRkR1OWEzTWNfRTRveTBtREtucnBEWExlU1Z2N1BldWNVZ3prSmk0TmFCTHhRNHYtYXFR0gF0QVVfeXFMT3dCUURtUnlSLVNpbE1wMVA2U29HSjhqSVg2UDN0TWpfdDc1MmU3QXJDcDRjZ3pwNFdRWEJBOWl5bk1GRHU5YTNNY19FNG95MG1ES25ycERYTGVTVnY3UGV1Y1VnemtKaTROYUJMeFE0di1hcVE?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6854355_36926.html",
       "source": "MBC 뉴스",
       "published": "2026-09-27T20:10:14+09:00"
     },
@@ -1640,7 +1843,7 @@
     },
     {
       "title": "“내 집에서 애정 행각”...여동생 남친에 둔기 던진 20대 체포",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUHR0T2xEOEFCeG5JMU1FaUphZWZXajdob0YxS09yODlOU0pvR1drTDJoT2xuY1NxcEFIUjJ2bGhUcUhTa3F0Ti15M0tDVl9OU29pTzN5Z2p1bGc?oc=5",
+      "link": "https://www.kyeonggi.com/article/20260927580286",
       "source": "경기일보",
       "published": "2026-09-27T20:09:03+09:00"
     },
@@ -1725,8 +1928,14 @@
     },
     {
       "title": "“안전에는 휴일이 없다”…중구, 경찰·소방과 손잡고 추석 맞이 ‘합동 특별방범진단’ 실시",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uZjZHNjR6cWRsNW5ubWhoSjl4QkhwcVdnZmNzRUxob011c0thWnBuNEkyWDF3ZkNPQVRrMHk4allYZmJqNWY2eGRLWjhhR2tVX3dRbVYySkliZDhNX0NtbVFacmQtVU9DV2dB?oc=5",
+      "link": "https://www.sijung.co.kr/news/articleView.html?idxno=437847",
       "source": "시정일보",
+      "published": "2026-09-27T19:02:55+09:00"
+    },
+    {
+      "title": "“안전에는 휴일이 없다”…중구, 경찰·소방과 손잡고 추석 맞이 ‘합동 특별방범진단’ 실시",
+      "link": "https://www.sijung.co.kr/news/articleView.html?idxno=437847",
+      "source": "sijung.co.kr",
       "published": "2026-09-27T19:02:55+09:00"
     },
     {
@@ -1762,7 +1971,7 @@
     },
     {
       "title": "'가짜 검사'에 속아 건넨 2억원…백화점 상품권으로 바꿔 넘긴 60대 전달책[사기꾼들]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MT05yeDJieVRDTTZjNjB6WTFWdWw1endCQ01vRnJhaExYV0JTd1l2OE5sMGtVZ3VGY0tFcEdaYlZHVk5YTGRpaUtvalBSV2Y4SnVHRTItSXlsdw?oc=5",
+      "link": "https://www.fnnews.com/news/202609271333256839",
       "source": "파이낸셜뉴스",
       "published": "2026-09-27T19:00:00+09:00"
     },
@@ -1774,7 +1983,7 @@
     },
     {
       "title": "문금주 의원, “항만 사이버공격 1,168건… 해경 사이버수사 전담인력 8명뿐”",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUpRVDF4T0FqMzk4VVo1UVlYWjdVY3RkdWFzZEV4aE82bzYtWEFqOU5DemQ0Z1Q0NEJYVGMySVFpN2puQy1tY1czem1KUkVsWnNCWlJtNWVkaHpkWXFqWHpXTmlHUl9xWUQzMXd3czJGUTZFYlBmOG16NFM3Z2dqUW5oUFB0Sk9jWjdia05zQWJLRjlvWnEzZGFXckNsemNrTXpfb2pmcl9UeU5p?oc=5",
+      "link": "https://www.ibnews.or.kr/sub_read.html?uid=133366&section=sc1&section2=%EC%A0%95%EC%B9%98/%EC%9E%90%EC%B9%98",
       "source": "ibnews.or.kr",
       "published": "2026-09-27T18:59:00+09:00"
     },
@@ -1804,6 +2013,12 @@
       "summary": "태국 유명 휴양지 파타야 인근에서 한국인으로 추정되는 남성이 폭우로 불어난 물에 휩쓸려 실종됐다. 함께 있던 남성 2명은 사고 직후 현장을 떠난 뒤 행방이 확인되지 않고 있어 현지 경찰이 실종자 수색과 함께 이들의 신원 파악에 나섰다. 27일(현지시간) 태국 현지 매체"
     },
     {
+      "title": "태국 파타야서 한국인 추정 男 급류에 실종…집 찾아갔더니 ‘젖은 옷·PC 3대’ 발견",
+      "link": "https://www.sedaily.com/article/20095277",
+      "source": "sedaily.com",
+      "published": "2026-09-27T18:52:41+09:00"
+    },
+    {
       "title": "방콕·파타야에 물난리…한국인 추정 1명 실종",
       "link": "https://ichannela.com/news/detail/000000552419.do",
       "source": "채널A 뉴스",
@@ -1811,7 +2026,7 @@
     },
     {
       "title": "방콕·파타야에 물난리…한국인 추정 1명 실종",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EblkxU0RyZ2h5Nm1kQjl6d3llMmYwVXY5WnltLXpLSmtFR1BHa3BhSmU5Znlja1FjQjYtYU5yanlOWUZZOXB1cVNjWjdUcjJiYXQxakEzNGRVSDd2aFHSAWNBVV95cUxQTmlZS045TUZGZGJnX05QSUQwY2dTMm1ia1NPWVF4MXYyWUxER3N4NzBrY2xHVmpCSndmV1VyTm5qSGctUWRxNlJPQi1QX3JaXzlXQmgxaEUtUmpGQ0RPSGY0V1k?oc=5",
+      "link": "https://ichannela.com/news/detail/000000552419.do",
       "source": "ichannela.com",
       "published": "2026-09-27T18:52:00+09:00"
     },
@@ -1842,7 +2057,7 @@
     },
     {
       "title": "홍수로 잠긴 길 걷다 순식간에⋯파타야서 한국인 추정 남성 실종",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84Wm9pdEs3MEVlODlRcDlseTV3WkQxN29DamJlTG9aNGRMNFE3WFZ0alFrbHdzTGFzRnVIY0NFWWtqS2JUTjY4SHpSWQ?oc=5",
+      "link": "http://www.inews24.com/view/2009232",
       "source": "inews24.com",
       "published": "2026-09-27T18:45:24+09:00"
     },
@@ -1854,8 +2069,14 @@
     },
     {
       "title": "“1시간 영상 분석에 단 10분”…광진구, ‘AI CCTV 고속검색시스템’으로 실종자 골든타임 사수",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzai1ETjhhVWoxMFBmcUplcWhEaFJrWGVUdFBzdmhZdUJ2ZlNBU19Ra0ozaUd2eUxTRnA4S1BoTDgySWdLc0lhZ0twTjR6T24za1MzTHR6MXFodFJXUURmY0NabjZuMjRsQkcw?oc=5",
+      "link": "https://www.sijung.co.kr/news/articleView.html?idxno=437844",
       "source": "시정일보",
+      "published": "2026-09-27T18:40:33+09:00"
+    },
+    {
+      "title": "“1시간 영상 분석에 단 10분”…광진구, ‘AI CCTV 고속검색시스템’으로 실종자 골든타임 사수",
+      "link": "https://www.sijung.co.kr/news/articleView.html?idxno=437844",
+      "source": "sijung.co.kr",
       "published": "2026-09-27T18:40:33+09:00"
     },
     {
@@ -1890,7 +2111,7 @@
     },
     {
       "title": "“한명은 빠져나왔지만…” 태국 파타야 홍수에 한국인 추정 남성 실종",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NdnkybW01WmlPbkszQW5yTlhVNDRhR1lpQmxDTEZLODZBM1phZXNUMGozakZoWVRrWFljRVN2MmlMb2Y0bzRfMlZKZjcxazdWdjBPNzBXbjFIMjg?oc=5",
+      "link": "https://www.kyeonggi.com/article/20260927580234",
       "source": "경기일보",
       "published": "2026-09-27T18:23:55+09:00"
     },
@@ -1920,7 +2141,7 @@
     },
     {
       "title": "제주해경청장, 추석연휴 해양사고 예방 치안현장 점검에 나서",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jMExnWHZiZXBxUk5Ub2FTdHpXUUpydVU1TWw2b01IazM1SG5Sb3NaUTlDXzEwVU9SWlRNM2NROWxiUldhak9MUFo3djQwMnlBZ2xSUDdxZElMWUlaTDVzVlhCX2dFd1hUY2lF?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261401",
       "source": "newsdaily.kr",
       "published": "2026-09-27T18:18:02+09:00"
     },
@@ -1933,7 +2154,7 @@
     },
     {
       "title": "추석맞이 따듯한 나눔 이어가 사랑의 열매에 성금 기탁",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwS2Q5TmFBa25lS1VlNlA5aFlxNUZEcTJGUEg3N3JVTWtQTmNhY0JsWE1jRDI3STBBVFBCdTAzZjFWQnNQb2xKeVZ1SnBqODJfTGxiOURWaFpTbTVqVTR3LS1fckt5RHlWN0Mw?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261400",
       "source": "newsdaily.kr",
       "published": "2026-09-27T18:12:55+09:00"
     },
@@ -1952,7 +2173,7 @@
     },
     {
       "title": "태풍 내습 대비 유관기관 합동 도상 훈련 실시",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04Y0JDeW1URGVOU19xNWVlNjlkYWREOWk3TkdQZThVVXNwMTV4bkdEUWpKcGNDVTRlR1ZKdGVfVVdYRU9qd3lDVFJJLVFWTEYwcE5sN21SYmZpSmlkdTNxTHNBbjEtUzJVaElr?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261399",
       "source": "newsdaily.kr",
       "published": "2026-09-27T18:08:35+09:00"
     },
@@ -1982,7 +2203,7 @@
     },
     {
       "title": "태국 파타야 인근서 한국인 추정 남성 홍수에 휩쓸려 실종",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2MkpIdHFrb2tOV2hsOUhpUUgtY0xXMWxQQ083Vy1oS3lWSk9GdldRSWpHaHdSaEpTQ1c1MHJoVzZLVnpfREpHMXZMN3lUYnlfQVNuQUV6SkMtY25hZlNDX1BjbEhXeUhJNkROVDJOZjB0ejF20gF0QVVfeXFMTXEzbUVqZVVTeVM4UzBTVUJVOU5ZYXhTMTlKalJudnplVW5yb3IzTjlfTVpkZ2hJV0FPLWNpenYzWTZhd1hRcDBJQzBWN3RKaFpreThNdURFN1R5bll4QWtWdWZ4MWVfSXNNcnd6QWpKNTR1ZEQ?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6854342_36925.html",
       "source": "MBC 뉴스",
       "published": "2026-09-27T18:01:38+09:00"
     },
@@ -2012,8 +2233,14 @@
     },
     {
       "title": "\"태국 파타야서 한국인 남성 홍수에 휩쓸려 실종\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82YmZsclRzeDJXR19CNFpzbHJuQUtwRFN3SGpxdkZ5Z3pfLWtHUS1zUmJTMlY1X3ZOeFhBcF9CMjNfeVlNRmVtaFFCVHVzd1pmcjdBem1RajZCa09meXfSAWNBVV95cUxOVmxaRmVsYjhRTmZObG9MQVF6Ny1jOEpWLUtlZFZ2a183RTRWOHlDN2lPNDJ5bkEwdGd6ZkYtV3JKaHhhZ3ZQbTRZRHpYX3BMVkpDZEEyWG5TUTRhTGxoZmVVc0k?oc=5",
+      "link": "https://www.news1.kr/world/asia-australia/6302470",
       "source": "뉴스1",
+      "published": "2026-09-27T17:50:59+09:00"
+    },
+    {
+      "title": "\"태국 파타야서 한국인 남성 홍수에 휩쓸려 실종\"",
+      "link": "https://www.news1.kr/world/asia-australia/6302470",
+      "source": "news1.kr",
       "published": "2026-09-27T17:50:59+09:00"
     },
     {
@@ -2031,8 +2258,14 @@
     },
     {
       "title": "자원봉사 현장을 덮친 1톤 트럭…안성 나눔장터 참사가 드러낸 행사 안전의 구조적 공백",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NeUVWNW0xZFpISGhLd1FCWnpFWVQ0R3cwbF9vTHF6cUktMTFpem5od1RTb1RaMVZNeGU1YlVJUVkzWl9Uck9CQXFn?oc=5",
+      "link": "https://newsyonhap.com/news/127171",
       "source": "newsyonhap.com",
+      "published": "2026-09-27T17:43:26+09:00"
+    },
+    {
+      "title": "자원봉사 현장을 덮친 1톤 트럭…안성 나눔장터 참사가 드러낸 행사 안전의 구조적 공백",
+      "link": "https://newsyonhap.com/news/127171",
+      "source": "뉴스N연합",
       "published": "2026-09-27T17:43:26+09:00"
     },
     {
@@ -2063,6 +2296,12 @@
       "title": "옥천 아파트서 일가족 3명 숨진 채 발견…경찰 수사",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260927173603sa4",
       "source": "연합뉴스TV",
+      "published": "2026-09-27T17:36:00+09:00"
+    },
+    {
+      "title": "옥천 아파트서 일가족 3명 숨진 채 발견…경찰 수사",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260927173603sa4",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-09-27T17:36:00+09:00"
     },
     {
@@ -2132,9 +2371,21 @@
       "published": "2026-09-27T17:11:00+09:00"
     },
     {
+      "title": "태국 파타야서 한국인 추정 남성 홍수에 휩쓸려 실종",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8672103",
+      "source": "news.kbs.co.kr",
+      "published": "2026-09-27T17:11:00+09:00"
+    },
+    {
       "title": "태국 파타야서 홍수로 한국인 추정 남성 1명 실종",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR2026092717101053U",
       "source": "연합뉴스TV",
+      "published": "2026-09-27T17:10:00+09:00"
+    },
+    {
+      "title": "태국 파타야서 홍수로 한국인 추정 남성 1명 실종",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026092717101053U",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-09-27T17:10:00+09:00"
     },
     {
@@ -2172,7 +2423,8 @@
       "title": "자원봉사 현장을 덮친 1톤 트럭…안성 나눔장터 참사가 드러낸 행사 안전의 구조적 공백",
       "link": "http://knpp.co.kr/news/554301",
       "source": "대한청년일보",
-      "published": "2026-09-27T17:01:55+09:00"
+      "published": "2026-09-27T17:01:55+09:00",
+      "summary": "행사 현장의 즉응 체계와 주최자의 책임 2026년 9월 19일 오전 11시 20분경, 경기 안성시 공도읍 공도10호 어린이공원에서 열린"
     },
     {
       "title": "울산 슬도방파제서 낚시객 테트라포드 추락…해경 구조",
@@ -2206,7 +2458,7 @@
     },
     {
       "title": "수사권 개편에 인력 몰아놓은 대전경찰… 생활치안 균형 ‘시험대’",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMWtLUVdweGRZcjdlQjdwWVJYMm03ZmNsZ2RXel8tQ1d5X2thcDBKQXZRTjd2YkFJSl9DLUZNVFZ4QUtKNmFDUkFJa2tLeTdZT0tjVlVydFJPZWkySnl5bjlpLXNEV2VpUnI3Ug?oc=5",
+      "link": "https://www.joongdo.co.kr/web/view.php?key=20260927010008047",
       "source": "중도일보",
       "published": "2026-09-27T16:49:28+09:00"
     },
@@ -2214,6 +2466,12 @@
       "title": "추석 연휴 실종 신고 3년간 5155건…대전서도 고령자 실종 잇따라",
       "link": "https://www.joongdo.co.kr/web/view.php?key=20260927010008037",
       "source": "중도일보",
+      "published": "2026-09-27T16:48:15+09:00"
+    },
+    {
+      "title": "추석 연휴 실종 신고 3년간 5155건…대전서도 고령자 실종 잇따라",
+      "link": "https://www.joongdo.co.kr/web/view.php?key=20260927010008037",
+      "source": "joongdo.co.kr",
       "published": "2026-09-27T16:48:15+09:00"
     },
     {
@@ -2284,8 +2542,14 @@
       "published": "2026-09-27T16:25:50+09:00"
     },
     {
+      "title": "추석 연휴 충북서 교통사고·화재 등 사건사고 잇따라",
+      "link": "https://www.news1.kr/local/sejong-chungbuk/6302408",
+      "source": "news1.kr",
+      "published": "2026-09-27T16:25:50+09:00"
+    },
+    {
       "title": "중국 최고지도자 이름 상호 중식당 훼손…중국인 4명 범행 당일 출국",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RYjU2N3hBdm9Jbk9JSFNLbVlNcmROUG5BaEM0a3ZVc0Q2MEo2OGZmZUJBSWFpM1RBNjlmWjhXSjlJNHExM2prNWpuREd3WXZVSWVXRnNCdVhBWWM?oc=5",
+      "link": "https://www.kwnews.co.kr/article/20260927500590",
       "source": "강원일보",
       "published": "2026-09-27T16:23:38+09:00"
     },
@@ -2314,6 +2578,12 @@
       "published": "2026-09-27T16:12:00+09:00"
     },
     {
+      "title": "경찰, '남양주 별장 살인미수' 50대 운전기사 구속영장 신청",
+      "link": "https://www.ytn.co.kr/_cs/_ln_0103_202609271612199009_005.html",
+      "source": "ytn.co.kr",
+      "published": "2026-09-27T16:12:00+09:00"
+    },
+    {
       "title": "경찰, DMZ 폭발사고 관련 李대통령·軍지휘부 고발장 접수…'직권남용·직무유기' 혐의",
       "link": "https://www.ikbc.co.kr/article/view/kbc202609270025",
       "source": "KBC광주방송",
@@ -2327,7 +2597,7 @@
     },
     {
       "title": "추석 연휴 대전지역 112신고·교통사고 줄어",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydVVsZkRYYWpPeVNFYlVxWV9Bamgzc25tbWV1S240Y3hTeVlWM19OVWRwWTdqTnozYkdUMlAtUFhkMmp6WlVGd09KUTBDakx4QXE0czYyMTlacG9IbzB1dVBUcmQyOUtVQWc?oc=5",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183740",
       "source": "금강일보",
       "published": "2026-09-27T16:05:10+09:00"
     },
@@ -2356,9 +2626,21 @@
       "published": "2026-09-27T16:01:41+09:00"
     },
     {
+      "title": "옥천 아파트서 3명 숨진 채 발견…경찰 수사(종합)",
+      "link": "https://www.news1.kr/local/sejong-chungbuk/6302395",
+      "source": "news1.kr",
+      "published": "2026-09-27T16:01:41+09:00"
+    },
+    {
       "title": "경찰 “추석 가정폭력 신고 평소보다 42% 증가…하루 평균 1,294건”",
       "link": "https://news.kbs.co.kr/news/view.do?ncd=8672100",
       "source": "KBS 뉴스",
+      "published": "2026-09-27T15:58:00+09:00"
+    },
+    {
+      "title": "경찰 “추석 가정폭력 신고 평소보다 42% 증가…하루 평균 1,294건”",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8672100",
+      "source": "news.kbs.co.kr",
       "published": "2026-09-27T15:58:00+09:00"
     },
     {
@@ -2370,7 +2652,7 @@
     },
     {
       "title": "이장섭 청주시장, 오송 참사 희생자 추모하고 민생현장 챙겨",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4UzNfT0N4Mm03bkRSZjJsMGpPelZNeEdsaVlxaHNFNzJjc3YxWVBvZGd2NDlnNEsycHo5M0xvb05WMERiV1IyZmdB?oc=5",
+      "link": "http://www.mediatoday.asia/1839947",
       "source": "mediatoday.asia",
       "published": "2026-09-27T15:54:00+09:00"
     },
@@ -2405,6 +2687,12 @@
       "published": "2026-09-27T15:46:26+09:00"
     },
     {
+      "title": "충남경찰청, 하반기 등굣길 어린이 교통안전 캠페인 전개",
+      "link": "https://www.dominilbo.com/news/articleView.html?idxno=278991",
+      "source": "dominilbo.com",
+      "published": "2026-09-27T15:46:26+09:00"
+    },
+    {
       "title": "충북 추석 연휴 교통사고, 작년보다 절반 이상 줄었다",
       "link": "https://www.newsis.com/view/NISX20260927_0003804283",
       "source": "뉴시스",
@@ -2436,13 +2724,13 @@
     },
     {
       "title": "서산 육류가공업체서 화재… 인명피해 없어",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RbWFoM3Y3d244a3hiTFJXemVLRjl6RzlCZnlpcUZVMTI4dF91YVVJNHRTVy13ZWZzYnhCbjk1ZlhtZkltSDBjbXNlV3I2SjZRa2tTV2wxVHhTRUtrUG9QUUxRX18wTEtUa2c?oc=5",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183725",
       "source": "금강일보",
       "published": "2026-09-27T15:38:33+09:00"
     },
     {
       "title": "대전 서구 관저동 키즈카페서 화재… 1명 경상",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pdFJ5U1UzMVVsd0NzczRpVkhsVVJCN0pVRHAwaS1LQ3NRdzJJYTBralRobjBSbHF0LWR0U2hpWFRfSTFJTUd2Tm5FcWlDclpuNERTNl9WZWJqczJUYW0teWhEVGdqQ3d1ZFE?oc=5",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183688",
       "source": "금강일보",
       "published": "2026-09-27T15:38:33+09:00"
     },
@@ -2466,6 +2754,13 @@
       "published": "2026-09-27T15:28:35+09:00"
     },
     {
+      "title": "화성동탄경찰서, 보이스피싱 예방 시민에 포상",
+      "link": "http://www.hyundaiilbo.com/news/articleView.html?idxno=632030",
+      "source": "hyundaiilbo.com",
+      "published": "2026-09-27T15:28:35+09:00",
+      "summary": "화성동탄경찰서장은 18일 신속한 112신고로 7500만 원 상당의 보이스피싱 피해 예방에 기여한 시민에게 감사장과 신고포상금을 전달했다. 서에 따르면, 삼성전자에 근무하는 시민 김 모씨는 지난 2일 오후 9시경 화성시 동탄 소재 대형 마트에서 한 남성이 상품권 키오스크…"
+    },
+    {
       "title": "광주·전남 경찰, 추석 연휴 종합치안대책 성과… 112신고·교통사고 급감",
       "link": "http://www.breaknews.com/1239194",
       "source": "브레이크뉴스",
@@ -2487,6 +2782,12 @@
       "title": "옥천 아파트서 일가족 3명 숨진 채 발견…경찰 수사",
       "link": "https://www.mk.co.kr/news/society/12161897",
       "source": "매일경제",
+      "published": "2026-09-27T15:22:48+09:00"
+    },
+    {
+      "title": "옥천 아파트서 일가족 3명 숨진 채 발견…경찰 수사",
+      "link": "https://www.mk.co.kr/news/society/12161897",
+      "source": "mk.co.kr",
       "published": "2026-09-27T15:22:48+09:00"
     },
     {
@@ -2518,7 +2819,7 @@
     },
     {
       "title": "영종경찰·자율방범대 합동순찰에 외국인 주민도 동참",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1Y09RLWtibkd1RFB2cVgtc0s2WDVuWXozek5ORTdpMXRQa3RPLTJPOS1uNkFUQnM4Uk4zN25YRTVGbkRwRkVwQ0c5VHhMTlFFSG1nTTN4T04yY2c?oc=5",
+      "link": "https://www.kyeonggi.com/article/20260927580107",
       "source": "경기일보",
       "published": "2026-09-27T15:15:11+09:00"
     },
@@ -2536,7 +2837,7 @@
     },
     {
       "title": "옥천 아파트서 일가족 3명 숨진 채 발견…경찰 수사",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vSGN4T1E1RHBpbTZNd05MMGhFTzZQWEVUQ2cxNTFnazVOb2hLbVZocHRneXVoTkJzcHdJYmdLazNSU05sUk9mOEQzWGhVZ1F3UldnbTlBaTVyREthYWVZSHhlSVJMSUNRYnBV?oc=5",
+      "link": "https://www.megaccnews.com/news/articleView.html?idxno=5910",
       "source": "메가충청뉴스",
       "published": "2026-09-27T15:14:32+09:00"
     },
@@ -2548,7 +2849,7 @@
     },
     {
       "title": "충남 당진 석문에너지 화재…4시간 30분 만에 큰불 잡혀",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zYkZlYXBwOEZlMUZ0TVRJZFBHY0hXS1RtempwUkl2dGJpbFBVeVFXMjh6SVdJTUM5eGJ4eU5HVldkQjhFZmRlZUtMN1B6WmhJbDZYNjJvYWk4Tl9IMjFHcjUxVHpoZUh6TkdN?oc=5",
+      "link": "https://www.megaccnews.com/news/articleView.html?idxno=5909",
       "source": "메가충청뉴스",
       "published": "2026-09-27T15:10:23+09:00"
     },
@@ -2607,6 +2908,12 @@
       "published": "2026-09-27T14:45:57+09:00"
     },
     {
+      "title": "가평군 50대 공무원 사망… 경찰, 사망 경위 조사",
+      "link": "https://www.gijn.kr/news/articleView.html?idxno=429502",
+      "source": "gijn.kr",
+      "published": "2026-09-27T14:45:57+09:00"
+    },
+    {
       "title": "전북경찰청, 고령자 교통사망사고 특별경보 운영",
       "link": "https://www.domin.co.kr/news/articleView.html?idxno=1570082",
       "source": "전북도민일보",
@@ -2620,7 +2927,7 @@
     },
     {
       "title": "경찰, DMZ 사고 관련 대통령·군 지휘부 고발장 접수",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PcnBVYzVaaE1WNzlyaWxlb2hXYmFUZFVGNmFPaXJlakRad0stdUcwRGRLYnlxZmFZYTVPTDNyUGtST0dQRlA1M25TN3BocnpYVWR0TnpR?oc=5",
+      "link": "https://www.joongang.co.kr/article/25464979",
       "source": "joongang.co.kr",
       "published": "2026-09-27T14:45:11+09:00"
     },
@@ -2644,7 +2951,7 @@
     },
     {
       "title": "옥천서 일가족 3명 숨진 채 발견…경찰 수사",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HYjRoUHZXOHQwazNRQ1Y1RmdEQ0M2MnFjWjVKUzdMcXNBc3RlMklxVWpoMGJibmU1c2xxN0xvc1JvbHVmcE9nLVpzSTI4dnhDY2NGU2dMc1BuLVJQSUlyNzl3Y0NvNVFlejJlTlZQa29wYXFub0HSAWZBVV95cUxOUUk1aXI5OW9kbW9XR1BGZHlPWi1pNDdqUFF0NXNfVUNHZWFSZmcxYVhOMXBXMThaLUwtUkE3Vk9kV0lsNG4tMTRmRDlzcXVxSjl2STlDMzdJbFZwUzhhUzFYTkk2TlE?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260927/134737157/2",
       "source": "동아일보",
       "published": "2026-09-27T14:42:52+09:00"
     },
@@ -2715,6 +3022,12 @@
       "published": "2026-09-27T14:33:55+09:00"
     },
     {
+      "title": "추석 연휴 전남광주 교통사고 52% 감소…112신고도 줄어",
+      "link": "https://www.news1.kr/local/gwangju-jeonnam/6302337",
+      "source": "news1.kr",
+      "published": "2026-09-27T14:33:55+09:00"
+    },
+    {
       "title": "청양 경찰, 가을 수확철 농기계·교통사고사망 급증… 각별한 주의 당부",
       "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296583",
       "source": "전국매일신문",
@@ -2722,7 +3035,7 @@
     },
     {
       "title": "청양 경찰, 가을 수확철 농기계·교통사고사망 급증… 각별한 주의 당부",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94R0pUa2NtcVJWcGxjRlV5MTBldkw1cWFETGduZ0tuVkZOWERuQzUyUXJRWXRwV2pFYWowY25PeGg4Skw5LUdtTTdGYXp2MnVYeS1TajZYcDB3ME5MeUpyMXZlcWwzOWhiRG9XbkxR?oc=5",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296583",
       "source": "jeonmae.co.kr",
       "published": "2026-09-27T14:33:25+09:00"
     },
@@ -2753,7 +3066,7 @@
     },
     {
       "title": "'평온한 추석 연휴' 전남광주 112 신고·교통사고 모두 줄어",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YazkyT3I1WVZjSi1zeDY1c01KZkpkNUdvUXA0TlNTcmVockl4elJuRXZZazdOTFd5WFdWSkV2Z0VCRVpFOEVyTG9hek81cHM?oc=5",
+      "link": "https://v.daum.net/v/20260927142149854",
       "source": "v.daum.net",
       "published": "2026-09-27T14:21:49+09:00"
     },
@@ -2814,6 +3127,12 @@
       "published": "2026-09-27T14:08:00+09:00"
     },
     {
+      "title": "'중식당 테러' 용의자 중국인 4명 이미 출국..수사 장기화 불가피",
+      "link": "https://www.ytn.co.kr/_ln/0103_202609271408547728",
+      "source": "ytn.co.kr",
+      "published": "2026-09-27T14:08:00+09:00"
+    },
+    {
       "title": "광진구의회 최동수 의원, 음식판매자동차 화재 예방·합법적 영업 기반 마련 나서",
       "link": "https://www.sankyungilbo.com/news/articleView.html?idxno=532826",
       "source": "산경일보",
@@ -2833,7 +3152,7 @@
     },
     {
       "title": "“사람이 쓰러졌어요”… 화재점검 중 60대 여성 살린 이천 소방관들",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tZDBhOFdZZXViZnY4bXFzRW9GWjEzbmg3QzJQNjM0LThtWU4yMWJqUWlXUXFEQ3BZeS1hXzVmRy1aNXlvZERuLXFwT1lBTUZiRVZtcjFkTERsdVk?oc=5",
+      "link": "https://www.kyeonggi.com/article/20260927580083",
       "source": "경기일보",
       "published": "2026-09-27T13:45:03+09:00"
     },
@@ -2858,7 +3177,7 @@
     },
     {
       "title": "옥천 아파트서 50대 부부·10대 자녀 숨진 채 발견",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DUWswdHNYRzFGUUNCYUNCU1g5VzdwSHdHaC1hZXZqOWxHNmMyZTNubjdmNHM1RzMzU0xMbUdNZ1QzcmRNUFR4b2JPdVZWS2M3NzZtWHNpOVRsNkk?oc=5",
+      "link": "https://www.kyeonggi.com/article/20260927580069",
       "source": "경기일보",
       "published": "2026-09-27T13:43:59+09:00"
     },
@@ -2871,7 +3190,7 @@
     },
     {
       "title": "음주운전 버스·택시 운전 자격 취소 하루 4.4건·1년새 85% 늘어 정일영·민주당, 자격 취소 총 5,341건·10건 중 8건은 택시",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54a1FHZ2lPbkNxNFRuTTQ0NDRheGs3RG5NWkFTM3BCc1Q0U0N0d0ZGVEM5b1VzQ0dhakFoNzRhMDdqNVFDc19BWFpYNWl5OVpOUG8yNy1kQmRKX1VaNHZiOFpGbTVMLUhIT1VpWW5NOA?oc=5",
+      "link": "https://www.auto-today.co.kr/news/articleView.html?idxno=14178",
       "source": "오토투데이",
       "published": "2026-09-27T13:39:08+09:00"
     },
@@ -2895,6 +3214,12 @@
       "published": "2026-09-27T13:30:00+09:00"
     },
     {
+      "title": "檢은 기소·警은 “정당 지휘”…장윤기 사건 수사 충돌 [채민석의 경솔한이야기]",
+      "link": "https://www.sedaily.com/article/20095146",
+      "source": "sedaily.com",
+      "published": "2026-09-27T13:30:00+09:00"
+    },
+    {
       "title": "영종도 갯벌서 해루질 중 고립된 30대 男… 해경이 구조",
       "link": "https://www.chosun.com/national/incident/2026/09/27/JBJD3VQH3VGWVNJYIMAPIWZHKU/",
       "source": "조선일보",
@@ -2914,6 +3239,12 @@
       "summary": "지뢰 추정 폭발로 군 간부 3명 부상…대응 미흡 등 주장 지난 21일 서부전선 비무장지대(DMZ)에서 발생한 지뢰 추정 폭발 사고와 관련해 이재명 대통령과 군 지휘부가 잇따라 경찰에 고발당했다.27일 뉴스1 취재에 따르 …"
     },
     {
+      "title": "경찰, 'DMZ 폭발사고' 관련 李대통령·군 지휘부 고발장 접수",
+      "link": "https://www.news1.kr/society/incident-accident/6302304",
+      "source": "news1.kr",
+      "published": "2026-09-27T13:28:35+09:00"
+    },
+    {
       "title": "충남 당진 에너지시설 화재…소방 대응 1단계 발령",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008771493",
       "source": "news.sbs.co.kr",
@@ -2928,7 +3259,7 @@
     },
     {
       "title": "인천 하나개해수욕장서 물에 빠진 남성…해경에 구조",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10c2NydV80YzZXbUV3VWxhRG9NRDZRVkttNDVBeTZjV01Zbm1Rd3FwcEVRS3hUUzJxNzV0TmtVbEdST1NndmRvX0h5alM2UVJYZm1IdmhONExhRXM?oc=5",
+      "link": "https://www.kyeonggi.com/article/20260927580075",
       "source": "경기일보",
       "published": "2026-09-27T13:19:19+09:00"
     },
@@ -2936,6 +3267,12 @@
       "title": "디지털 성범죄 2,873명 검거…위장수사에 ’덜미’",
       "link": "https://www.yonhapnewstv.co.kr/news/MYH20260927131836Cl4",
       "source": "연합뉴스TV",
+      "published": "2026-09-27T13:18:00+09:00"
+    },
+    {
+      "title": "디지털 성범죄 2,873명 검거…위장수사에 ’덜미’",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260927131836Cl4",
+      "source": "yonhapnewstv.co.kr",
       "published": "2026-09-27T13:18:00+09:00"
     },
     {
@@ -2960,6 +3297,12 @@
       "title": "충남 당진 석문에너지 화재...대응 1단계 발령",
       "link": "https://www.ytn.co.kr/_ln/0115_202609271300416027",
       "source": "YTN",
+      "published": "2026-09-27T13:00:00+09:00"
+    },
+    {
+      "title": "충남 당진 석문에너지 화재...대응 1단계 발령",
+      "link": "https://www.ytn.co.kr/_ln/0115_202609271300416027",
+      "source": "ytn.co.kr",
       "published": "2026-09-27T13:00:00+09:00"
     },
     {
@@ -3019,6 +3362,12 @@
       "published": "2026-09-27T12:50:51+09:00"
     },
     {
+      "title": "채팅하던 그 아이, 실은 경찰이었다...디지털 성범죄 때려잡는 건 위장 수사",
+      "link": "https://www.mk.co.kr/news/society/12161840",
+      "source": "mk.co.kr",
+      "published": "2026-09-27T12:50:51+09:00"
+    },
+    {
       "title": "카페 女주인에 스케치북 고백한 경찰... 대법, 강등취소 판결 뒤집어",
       "link": "https://v.daum.net/v/20260927125008848",
       "source": "v.daum.net",
@@ -3033,7 +3382,7 @@
     },
     {
       "title": "전북경찰청, 추석 연휴 특별치안활동, 평온한 명절 치안 유지",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PakFWZmRyQnJKaV9LUFN2WUhKVURvcnVQdWRsTEJXZzVlZG5rT1l3cWRBZ1lVazFDV19iQUZmUXNWTFdmUzVabmQzYzVKSUF4ZFdMNTFaODI0aENuV2M4cDFrWEpOckJGbjhj?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261391",
       "source": "newsdaily.kr",
       "published": "2026-09-27T12:48:17+09:00"
     },
@@ -3046,7 +3395,7 @@
     },
     {
       "title": "광주경찰청, 추석 명절 종합치안대책 추진으로 평온한 민생 치안 확보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZW51UDc3MElQdFNzSTRaYzNKTXJiN1NGWUVsWHFBbjZDcWdGendtSHRGay1oMC1QWmcxVkZQRHItSDJ5OGs0UjFPc1owVUVfdXhfVU0yNnR2VnE5Nkxyd1haVGNBZU9NTGU0?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261390",
       "source": "newsdaily.kr",
       "published": "2026-09-27T12:42:48+09:00"
     },
@@ -3095,9 +3444,10 @@
     },
     {
       "title": "경찰, DMZ 사고 관련 대통령·軍지휘부 대상 고발장 접수",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xc1l0NEtUV2FEMVU2Y0xyck5Jc2U1MTBoODItUmhXTndKWVFQOTFzd2dRaENPWk80M1RxaUh6SDFqY2dtOF9ma1BNZEVrcnJnUXRrNWt6UWthRnfSAWBBVV95cUxPa28yeVBjV1AzOXFOcmMwNVZMS2V6d0ZucGVpdHRrQmtrRnlYS1RQOFMzQk5zTXZXTjBhTDEyOWNoTV93QWRKa3ZBalJ6bGttQkZ0Qm5iSGlja2Viei1rczE?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20260927026000004",
       "source": "연합뉴스",
-      "published": "2026-09-27T12:15:09+09:00"
+      "published": "2026-09-27T12:15:09+09:00",
+      "summary": "최근 서부전선 비무장지대(DMZ)에서 발생한 지뢰 추정 폭발 사고와 관련해 이재명 대통령과 군 지휘부에 대한 ..."
     },
     {
       "title": "옥천 아파트서 일가족 3명 숨진 채 발견…경찰 수사",
@@ -3127,6 +3477,12 @@
       "title": "경찰, '남양주 별장 살인미수' 운전기사 영장 신청 방침",
       "link": "https://www.ytn.co.kr/_ln/0103_202609271205364911",
       "source": "YTN",
+      "published": "2026-09-27T12:05:00+09:00"
+    },
+    {
+      "title": "경찰, '남양주 별장 살인미수' 운전기사 영장 신청 방침",
+      "link": "https://www.ytn.co.kr/_ln/0103_202609271205364911",
+      "source": "ytn.co.kr",
       "published": "2026-09-27T12:05:00+09:00"
     },
     {
@@ -3190,6 +3546,12 @@
       "source": "뉴스1",
       "published": "2026-09-27T11:34:26+09:00",
       "summary": "충북 옥천군의 한 아파트에서 3명이 숨진 채 발견돼 경찰이 수사에 나섰다.27일 경찰 등에 따르면 이날 오전 8시 58분쯤 옥천군 옥천읍 한 아파트에서 \"1층 화 …"
+    },
+    {
+      "title": "옥천 아파트서 3명 숨진 채 발견…경찰 수사",
+      "link": "https://www.news1.kr/local/sejong-chungbuk/6302251",
+      "source": "news1.kr",
+      "published": "2026-09-27T11:34:26+09:00"
     },
     {
       "title": "“미성년자 성착취 대화 유인했는데 알고보니 위장경찰?”…경찰, 위장수사로 디지털성범죄 2873명 적발",
@@ -3285,7 +3647,7 @@
     },
     {
       "title": "남부권역 7개 시·도 경찰청 체취증거팀 5일간 고강도 합동 훈련 실시",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zWmU2eHRnUlljMEF5aXJDZmRORWpkOHBFU3R3alNiQVhaeUh4MlQ1NEViVW52NEM3dUF0VG85bEwxQTBTOHg3dU1TTDBKYlRyazgyU0R1X215R2x1UHFKMmxabFZPQ2FBNEJn?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261387",
       "source": "newsdaily.kr",
       "published": "2026-09-27T11:08:50+09:00"
     },
@@ -3395,7 +3757,7 @@
     },
     {
       "title": "대구, 청년법률특강 개최 – 교통사고 대처법 배우기",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vN0JCZF8tMFhpb1JCbkxuNGdKTHZlWlFoUnBSUUlRcnhxOEZ5cF9heVNUR0dwTkdHWm1vX21ZMWpTcVNvRnE0?oc=5",
+      "link": "https://www.ktnnews.co.kr/127447",
       "source": "코리아투데이뉴스",
       "published": "2026-09-27T10:35:54+09:00"
     },
@@ -3422,7 +3784,8 @@
       "title": "광진구 ‘AI 기반 CCTV 고속검색시스템’으로 실종자 등 사회적 약자 골든타임 지킨다",
       "link": "https://www.sankyungilbo.com/news/articleView.html?idxno=532715",
       "source": "산경일보",
-      "published": "2026-09-27T10:16:48+09:00"
+      "published": "2026-09-27T10:16:48+09:00",
+      "summary": "광진구가 치매 어르신과 아동 등 사회적 약자의 실종 사고 발생 시 신속한 발견과 안전한 귀가를 지원하기 위해 ‘인공지능(AI) 기반 씨씨티비(CCTV) 고속검색시스템’을 본격 운영한다.실종 사고는 발생 초기 이동 동선을 신속하게 파악하는 것이 중요한 만큼, 광진구는 인…"
     },
     {
       "title": "김해서부서·민간기업 협력, ‘택시 헤드레스트’ 활용 보이스피싱 예방 홍보",
@@ -3450,7 +3813,7 @@
     },
     {
       "title": "당진서 승합차 음주운전 단독사고…일가족 6명 경상",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6ZFNMVUpxWXBRY25UMVpySk80R1lwTXVFVXJCTDJ4RXNIa0hkMTBHalVveHREcGNBVXBKRlBjZGxMTU1Na2RYTDEyVUtobFgwTWtxM1hOZ2lIUjBJMU9keUxQazJJMEktcWRR?oc=5",
+      "link": "https://www.megaccnews.com/news/articleView.html?idxno=5895",
       "source": "메가충청뉴스",
       "published": "2026-09-27T10:09:48+09:00"
     },
@@ -3463,7 +3826,7 @@
     },
     {
       "title": "당진 석문면 에너지 시설서 화재…주민 대피·현장 접근 통제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtNGZZYjd0WEVMb3lLMm9LSjZ6MnZUVXJ5WVc1QlNtZDJmMDVVM0VUdHNpQTRtdGNaNE9wa3VaVW84akNubXVudUlnYlZWZFpVcnVzYzFJV0RpbWFPZUNNaUVxdUJxU3BuQ25r?oc=5",
+      "link": "https://www.megaccnews.com/news/articleView.html?idxno=5894",
       "source": "메가충청뉴스",
       "published": "2026-09-27T10:07:31+09:00"
     },
@@ -3481,6 +3844,12 @@
       "summary": "경찰이 남양주 별장에서 70대를 살해하려 한 운전기사의 범행 동기를 집중적으로 조사하고 있습니다. 또, 피의자에 대한 구속영장 신청을 검토하고 있습니다. 사회부 취재기자 연결해 자세한 내용 알아보겠습니다. 정영수 기자, 경찰이 피의자 조사를 이어가고 있나요? 네, 경찰…"
     },
     {
+      "title": "경찰, '남양주 별장 살인미수' 운전기사 조사...범행 동기 추궁",
+      "link": "https://www.ytn.co.kr/_ln/0103_202609271001303246",
+      "source": "ytn.co.kr",
+      "published": "2026-09-27T10:01:00+09:00"
+    },
+    {
       "title": "\"민원 취소해달라\" 전화·문자 지속한 경찰…대법 \"강등 정당\"",
       "link": "https://v.daum.net/v/20260927100001471",
       "source": "v.daum.net",
@@ -3494,7 +3863,7 @@
     },
     {
       "title": "고속도로 사고 줄었는데 사망자는 늘어···안전띠 미착용 사망, 2배로 급증",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByZEIyNElydEhlSGY1X0pNYTV1WDIzUjFGOHpvc2xOaGtGLVM3LTQ5SkdfZ2RoZWd4eGhlTk5Hekw4N2Rwc1pIaVNmWDc?oc=5",
+      "link": "https://dgmbc.com/NewsArticle/863543",
       "source": "dgmbc.com",
       "published": "2026-09-27T10:00:00+09:00"
     },
@@ -3518,7 +3887,7 @@
     },
     {
       "title": "음주운전 신고했다고 \"죽여버릴것\" 협박..60대 실형",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS29mckdNY2F4T01KMjh5NkhEMTFYYU1WakR3SHM4bFhjN3hOOUNCS0RKVk51OU5vYUI3TnlXdG5GbzRjODNncTJnWVZrdFJ4T3E3M1lpV3NzMVY5MmRsSFROaHhyNGoycE9JQ0hXZGlsTFc0SVd5Y1hTb0FvbEktXw?oc=5",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=01305446645584384&mediaCodeNo=257",
       "source": "edaily.co.kr",
       "published": "2026-09-27T09:52:39+09:00"
     },
@@ -3537,7 +3906,7 @@
     },
     {
       "title": "사무장병원·면대약국 수사만 ‘1년(11.9개월)’… 그사이 재산 빼돌려 징수율 ‘10%대’ 추락",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5id1l5TmFSdXMtTDEyeGg3aUdMeG5pTEI4WlFzODJiUkpDdlk2cGRNSlpkU1JhTnZLVDI3VXMyeVA1Unl6aFhOTjdVbm9wLU1jNVNDcnlleDFYYkQyOFlHeTR3dEMtNDFpYjRR?oc=5",
+      "link": "https://www.newsdaily.kr/news/articleView.html?idxno=261379",
       "source": "newsdaily.kr",
       "published": "2026-09-27T09:45:40+09:00"
     },
@@ -3556,7 +3925,7 @@
     },
     {
       "title": "'도로 위 폭탄' 음주 택시·버스 1년 만에 85%↑.. 재범 여부도 몰라",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtQ3RLeXBabUdPU0pVd3NGSDBseTI5dGI2bmRYMGUyWkZkT092bHd3UFlwQm9IbUdpMkQtZ0RBZl82LXBFSmc?oc=5",
+      "link": "https://v.daum.net/v/KFiH4iZvOF",
       "source": "v.daum.net",
       "published": "2026-09-27T09:34:02+09:00"
     },
@@ -3582,7 +3951,7 @@
     },
     {
       "title": "문금주, \"항만 사이버공격 1,168건… 해경 사이버수사 역량 강화해야\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kT0ZjYjNwTkJVVTlFeFVIalNaR0F0OWFSdktDTEhpNV9ZNzE3dWY1d3dJNENiSlA4ams2OFhma1FFaE5Dckp3elFha1RGUmxOWWNYN2xyOFlXWEhfWFNKZDRpTHY0RWlWVDNYQXdueWhXZ21U?oc=5",
+      "link": "https://www.globalnewsagency.kr/news/articleView.html?idxno=495982",
       "source": "globalnewsagency.kr",
       "published": "2026-09-27T09:26:54+09:00"
     },
@@ -3608,6 +3977,12 @@
       "title": "\"술 먹고 승객 태웠다\"…버스·택시 음주 자격취소 '하루 4.4건' 폭증",
       "link": "https://m.joongdo.co.kr/view.php?key=20260927010008028",
       "source": "중도일보",
+      "published": "2026-09-27T09:10:31+09:00"
+    },
+    {
+      "title": "\"술 먹고 승객 태웠다\"…버스·택시 음주 자격취소 '하루 4.4건' 폭증",
+      "link": "https://m.joongdo.co.kr/view.php?key=20260927010008028",
+      "source": "joongdo.co.kr",
       "published": "2026-09-27T09:10:31+09:00"
     },
     {
@@ -3712,6 +4087,19 @@
       "published": "2026-09-27T09:00:00+09:00"
     },
     {
+      "title": "\"딥페이크 만들어줘\" 접근해 구속…경찰, 위장 수사로 2873명 검거",
+      "link": "https://www.news1.kr/society/incident-accident/6300969",
+      "source": "news1.kr",
+      "published": "2026-09-27T09:00:00+09:00",
+      "summary": "디지털 성범죄 위장 수사 도입 후 성범죄 검거율↑ 올해 598건, 전년比 234%↑…'온라인 그루밍' 338명 적발 경찰은 피해자의 얼굴을 합성한 딥페이크 영상물을 만들어 파는 피의자에게 '제작을 의뢰하겠다'며 접근했다. 의뢰인으로 위장한 경찰은 피의자의 신원을 특정한…"
+    },
+    {
+      "title": "'술 마시고 운전했다'더니…음주측정 요구엔 \"안 합니다\" 버틴 30대",
+      "link": "https://www.news1.kr/local/jeonbuk/6300434",
+      "source": "news1.kr",
+      "published": "2026-09-27T09:00:00+09:00"
+    },
+    {
       "title": "포항서 5중 추돌…추석연휴 교통사고 잇따라 2명 중상",
       "link": "https://www.newsis.com/view/NISX20260927_0003804000",
       "source": "뉴시스",
@@ -3738,7 +4126,7 @@
     },
     {
       "title": "“하루 30~40만원 준다길래”…보이스피싱 전달책, 7억원대 피해에 징역 2년",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JeE1qOWlhUXpKRm9FdjFJRmxXYXNJNmY2c2RZZzFJdGYxR1BaeVAteEg4NWlmU3VqZGhNUEItNVVSSGhJY2RBLWxJSUhyNFM5aEd2akhHN0VES2s?oc=5",
+      "link": "https://www.kyeonggi.com/article/20260927580013",
       "source": "경기일보",
       "published": "2026-09-27T08:38:30+09:00"
     },
@@ -3762,7 +4150,7 @@
     },
     {
       "title": "음주측정 거부 실형 출소 후 신고자 보복 협박한 60대 다시 철창행",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRT211V0J1eTZPU2pfMEN0c2NRZGJZVWJOZVFsY3E3dUd4QVpOdUpnQlloTzZuNzA3blhScEdOQXRJV1ZpMlZCNGY5M3dxTWxSQk9IbnZ0UzZDX0JHY1RfbUtnTlB2MmE0ZHRUVF9MdXozQm1RVlHSAWZBVV95cUxOaS1SUmJCRnE2aUZtUklpblo2WWl0Q0FZSFloN1RDQ3Z5eUtfWnVOYlVDMEtROW5maEFyNE5neUVsSi1waXM4TXFyenNhNm1XQnlrMWtJTEdzd0U0THZaWURkZE1QLWc?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20260927/134735491/1",
       "source": "동아일보",
       "published": "2026-09-27T08:17:32+09:00"
     },
