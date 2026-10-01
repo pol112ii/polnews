@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T08:07:57.981080+09:00",
+  "generated_at": "2026-10-02T08:50:35.230179+09:00",
   "topic": {
     "id": "police",
     "label": "경찰",
@@ -37,7 +37,7 @@
       "source": "파이낸셜뉴스",
       "published": "2026-10-01T09:18:19+09:00",
       "latest": "2026-10-01T16:52:00+09:00",
-      "mention_count": 16,
+      "mention_count": 17,
       "sources": [
         "파이낸셜뉴스",
         "MBC 뉴스",
@@ -82,10 +82,11 @@
       "source": "연합뉴스",
       "published": "2026-10-01T15:28:41+09:00",
       "latest": "2026-10-01T21:15:13+09:00",
-      "mention_count": 11,
+      "mention_count": 12,
       "sources": [
         "연합뉴스",
         "아이뉴스24",
+        "inews24.com",
         "newsis.com",
         "OhmyNews",
         "굿모닝충청",
@@ -104,7 +105,7 @@
       "source": "헤드라인제주",
       "published": "2026-10-01T11:40:50+09:00",
       "latest": "2026-10-01T20:20:46+09:00",
-      "mention_count": 11,
+      "mention_count": 12,
       "sources": [
         "헤드라인제주",
         "한라일보",
@@ -112,6 +113,7 @@
         "제이누리",
         "제주투데이",
         "아이뉴스24",
+        "inews24.com",
         "채널제주",
         "newsnjeju.com",
         "삼다일보",
@@ -122,7 +124,7 @@
     },
     {
       "title": "세 차례 폭발·화재로 13명 숨졌는데…한화에어로 대전사업장 안전위반 473건",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oZ0JrWWZ4cS1lTWdmNXRDREExWGVSakZvNnNJV2U2X2ZJSGdLY0FrbWs4MDlFY0YxR015bGFENGxuUVRSOHBfTVJDckJvWjlxZTdURE5MWQ?oc=5",
+      "link": "https://mbiz.heraldcorp.com/article/10890163",
       "source": "헤럴드경제",
       "published": "2026-10-01T12:00:10+09:00",
       "latest": "2026-10-01T17:42:14+09:00",
@@ -139,7 +141,8 @@
         "메트로신문",
         "디지털데일리",
         "ddaily.co.kr"
-      ]
+      ],
+      "summary": "세 차례 폭발·화재 사고로 13명이 숨진 한화에어로스페이스 대전사업장에서 폭발 예방을 위한 기본 안전조치 위반이 무더기로 적발됐다. 폭발"
     }
   ],
   "sections": [
@@ -246,7 +249,7 @@
           "source": "YTN",
           "published": "2026-10-01T15:55:00+09:00",
           "latest": "2026-10-02T00:47:00+09:00",
-          "mention_count": 8,
+          "mention_count": 9,
           "sources": [
             "YTN",
             "hani.co.kr",
@@ -255,7 +258,8 @@
             "뉴스토마토",
             "OBS경인TV",
             "경향신문",
-            "조선일보"
+            "조선일보",
+            "chosun.com"
           ],
           "summary": "\"형사사법체계 현장에 뿌리내릴 때까지 비상체제\" / \"중요 사건 경찰서장이 확인…중첩 점검 체계 구축\" / \"범죄 피해자 보호, 수사 제1원칙 삼을 것\""
         },
@@ -265,10 +269,11 @@
           "source": "디스커버리뉴스(DISCOVERYNEWS)",
           "published": "2026-10-01T14:55:19+09:00",
           "latest": "2026-10-01T23:35:11+09:00",
-          "mention_count": 8,
+          "mention_count": 9,
           "sources": [
             "디스커버리뉴스(DISCOVERYNEWS)",
             "더트래커",
+            "thetracker.co.kr",
             "퍼블릭뉴스통신",
             "news33.net",
             "창업일보",
@@ -277,6 +282,43 @@
             "한국금융신문"
           ],
           "summary": "[디스커버리뉴스=강성덕 기자 ecowrite@daum.net]빌라 매매 계약금이라며 거액을 송금한 60대 고객의 거래가 보이스피싱으로 확인돼 2억5천만원의 금융사기 피해를 막은 사례가 나왔다. 농협상호금융의 이상거래탐지시스템(FDS)이 의심 거래를 조기에 포착하고 영업…"
+        },
+        {
+          "title": "진로변경·후진 차량 노려 고의사고…보험금 5천만 원 챙긴 배달원 송치",
+          "link": "https://nmn.ff.or.kr/19/?idx=174924840&bmode=view",
+          "source": "nmn.ff.or.kr",
+          "published": "2026-10-01T14:18:52+09:00",
+          "latest": "2026-10-01T20:41:38+09:00",
+          "mention_count": 8,
+          "sources": [
+            "nmn.ff.or.kr",
+            "굿모닝충청",
+            "당진신문",
+            "idjnews.kr",
+            "로이슈",
+            "lawissue.co.kr",
+            "충청매일",
+            "gukjenews.com"
+          ],
+          "summary": "충남경찰청, 13차례 사고 낸 40대 보험사기방지특별법 위반 혐의로 검찰 송치천안·아산 일대에서 진로를 변경하거나 후진하는 차량을 상대로 고의 교통사고를 낸 뒤 보험금 약 5천만 원을 받아낸 40대 오토바이 배달원이 경찰에 적발됐다.충남경찰청 교통수사계는 보험사기방지…"
+        },
+        {
+          "title": "소아응급센터 진료중 경찰 압수수색…의학회 \"환자안전 위협\"",
+          "link": "https://www.yna.co.kr/view/AKR20261001123300530",
+          "source": "연합뉴스",
+          "published": "2026-10-01T14:38:56+09:00",
+          "latest": "2026-10-02T08:33:00+09:00",
+          "mention_count": 7,
+          "sources": [
+            "연합뉴스",
+            "서울경제",
+            "sedaily.com",
+            "v.daum.net",
+            "조선일보",
+            "동아일보",
+            "newsis.com"
+          ],
+          "summary": "경기 남부의 한 병원 소아응급센터에서 환자 진료가 이뤄지는 도중 경찰이 압수수색 영장을 집행한 것을 두고 대한..."
         },
         {
           "title": "인천경찰청, 보이스피싱·노쇼사기 등 범죄예방 숏폼 제작",
@@ -297,26 +339,43 @@
           "summary": "인천경찰청이 시민들이 일상에서 접할 수 있는 범죄의 주요 수법과 대응 방법을 알리기 위해 짧은 영상 콘텐츠를 제작했다.인천경찰청은 인천시청자미디어센터와 인천대학교 공연예술학과 학생들과 협업해 보이스피싱과 노쇼사기, 신종마약 관련 범죄예방 캠페인 영상 3편을 제작·배포한…"
         },
         {
-          "title": "진로변경·후진 차량 노려 고의사고…보험금 5천만 원 챙긴 배달원 송치",
-          "link": "https://nmn.ff.or.kr/19/?idx=174924840&bmode=view",
-          "source": "nmn.ff.or.kr",
-          "published": "2026-10-01T14:18:52+09:00",
-          "latest": "2026-10-01T20:41:38+09:00",
+          "title": "경남경찰청, 개정 형소법 시행에 수사심의위 외부위원 추가 위촉",
+          "link": "https://www.yna.co.kr/amp/view/AKR20261001088400052",
+          "source": "연합뉴스",
+          "published": "2026-10-01T11:19:51+09:00",
+          "latest": "2026-10-01T21:44:01+09:00",
           "mention_count": 7,
           "sources": [
-            "nmn.ff.or.kr",
-            "굿모닝충청",
-            "당진신문",
-            "idjnews.kr",
+            "연합뉴스",
+            "v.daum.net",
+            "뉴스1",
+            "news1.kr",
             "로이슈",
-            "충청매일",
-            "gukjenews.com"
+            "lawissue.co.kr",
+            "경남매일"
           ],
-          "summary": "충남경찰청, 13차례 사고 낸 40대 보험사기방지특별법 위반 혐의로 검찰 송치천안·아산 일대에서 진로를 변경하거나 후진하는 차량을 상대로 고의 교통사고를 낸 뒤 보험금 약 5천만 원을 받아낸 40대 오토바이 배달원이 경찰에 적발됐다.충남경찰청 교통수사계는 보험사기방지…"
+          "summary": "개정 형사소송법 시행을 하루 앞둔 1일 경남경찰청은 경찰수사심의위원회(이하 수사심의위) 외부위원 8명을 추가로..."
+        },
+        {
+          "title": "‘자진 출석’이 ‘추격 검거’로…경찰 간부 재판행",
+          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086021",
+          "source": "kyongbuk.co.kr",
+          "published": "2026-10-01T17:56:02+09:00",
+          "latest": "2026-10-02T08:11:00+09:00",
+          "mention_count": 6,
+          "sources": [
+            "kyongbuk.co.kr",
+            "경기일보",
+            "v.daum.net",
+            "조선일보",
+            "chosun.com",
+            "동아일보"
+          ],
+          "summary": "스스로 파출소를 찾아와 뺑소니 범행을 시인하고 경찰 조사까지 마친 피의자를 긴급체포한 뒤, 체포 관련 서류에는 경찰관이 피의자를 추격해 붙잡은 것처럼 기재한 사건과 관련해 경찰 교통수사팀장이 재판에 넘겨졌다.대구지방검찰청 의성지청은 지난달 30일 경북지역 한 경찰서 교…"
         },
         {
           "title": "익산署, 보이스피싱 수거책 검거 신고 은행원에 감사장 수여",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmWTQtbWYzZUF6RlVvVTZwMG9CTU9ILTlTNUcyR20tYXM1OWJMaU16aTFJV29YYVZZMm5GcFpzMmZUaDFNWURianItWUZGTU9yMzcwek4yWkh0NmpSb01CSzc5dHBKUQ?oc=5",
+          "link": "http://www.jtnews.kr/news/articleView.html?idxno=100810",
           "source": "jtnews.kr",
           "published": "2026-10-01T12:12:00+09:00",
           "latest": "2026-10-01T17:02:00+09:00",
@@ -328,7 +387,8 @@
             "신아일보",
             "익산시민뉴스",
             "gkg.co.kr"
-          ]
+          ],
+          "summary": "익산경찰서(서장 정창훈)는 지난달 30일 익산농협 영등지점에 방문하여 보이스피싱 범죄 피해를 예방한 은행원 A씨에게 감사장을 수여했다.익산농협 은행원 A씨는 전날 고금리 대출을 저금리로 대환해주겠다는 보이스피싱 범죄에 속은 민원인이 은행을 방문, 현금 600만원을 인출…"
         },
         {
           "title": "[단독]검찰, ‘이진숙 체포’ 경찰·검사·판사 불기소…불출석 사유서 은폐 사실도 없어",
@@ -380,7 +440,7 @@
         },
         {
           "title": "10월부터 보이스피싱 피해 구제 확대... 배달앱 원산지 고지 의무화도",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aajVMRl9nLUJNRUhHYVR2QVVIUVhxekl0eGVDR2R4N09Nako3VzRwV1N1ZjZLZkRRTl83dEpNTE96djBGWS1VYTZfTl8xaG1XOGRjTmgwVzJOZkpFUzRCdTlDN0xPTWxxc0E?oc=5",
+          "link": "https://www.hjnews.co.kr/news/articleView.html?idxno=24783",
           "source": "한국재난뉴스",
           "published": "2026-10-01T10:59:07+09:00",
           "latest": "2026-10-01T23:00:45+09:00",
@@ -391,36 +451,22 @@
             "v.daum.net",
             "여성종합뉴스",
             "knongnews.com"
-          ]
+          ],
+          "summary": "10월부터 가상자산을 이용한 보이스피싱 피해자에 대한 구제가 확대되고 배달 음식 애플리케이션 등 통신판매중개업자의 원산지 고지 의무가 강화된다. 또한 노래연습장의 청소년 출입 규제가 완화되고 건강보험료 체납자의 본인부담상한액 초과 환급금 공제도 가능해진다.오늘(1일)…"
         },
         {
-          "title": "경남경찰청, 개정 형소법 시행에 수사심의위 외부위원 추가 위촉",
-          "link": "https://www.yna.co.kr/amp/view/AKR20261001088400052",
-          "source": "연합뉴스",
-          "published": "2026-10-01T11:19:51+09:00",
-          "latest": "2026-10-01T21:44:01+09:00",
+          "title": "민주·진보당, 음주운전 시의원 징계요구안 접수",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XeU5pRWpkMjRlcUtjTEU4Z1lhSk9wcVZQcXhvaTJhWDNFWFhFbWpDamJmTm9qOHRQR3ZpamY1TzUzcjFRSFBJdG5heGdiQjdNV1VJ?oc=5",
+          "source": "울산MBC",
+          "published": "2026-10-01T10:09:55+09:00",
+          "latest": "2026-10-01T15:24:20+09:00",
           "mention_count": 5,
           "sources": [
-            "연합뉴스",
-            "v.daum.net",
+            "울산MBC",
             "뉴스1",
-            "로이슈",
-            "경남매일"
-          ],
-          "summary": "개정 형사소송법 시행을 하루 앞둔 1일 경남경찰청은 경찰수사심의위원회(이하 수사심의위) 외부위원 8명을 추가로..."
-        },
-        {
-          "title": "소아응급센터 진료중 경찰 압수수색…의학회 \"환자안전 위협\"",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Q25ic2p0NmFYX3RNTjdCemt1dy1fZDQ2a2dYNktZcDRJQzlsdVZTbXE0b3VGNGE2MWpHdWlSQmlhVUk2T2FhSG1NNjJ6U0F6ODNla2FuWENMeknSAWBBVV95cUxPNHIwbTU1RU51OFhsYVpsR2VPUWpKQk5wUG5STk5oTjhZUy01NGZ5S09aaDRTQ0NLNkhkVV9tMlVqM3JzNHBBQzVzVFRhMGdzVFo2bUpSQ241Nm55RUtYZGQ?oc=5",
-          "source": "연합뉴스",
-          "published": "2026-10-01T14:38:56+09:00",
-          "latest": "2026-10-02T04:30:00+09:00",
-          "mention_count": 4,
-          "sources": [
-            "연합뉴스",
-            "서울경제",
-            "조선일보",
-            "동아일보"
+            "news1.kr",
+            "울산저널i",
+            "newsis.com"
           ]
         },
         {
@@ -438,21 +484,6 @@
           ]
         },
         {
-          "title": "‘자진 출석’이 ‘추격 검거’로…경찰 간부 재판행",
-          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086021",
-          "source": "kyongbuk.co.kr",
-          "published": "2026-10-01T17:56:02+09:00",
-          "latest": "2026-10-01T21:49:23+09:00",
-          "mention_count": 4,
-          "sources": [
-            "kyongbuk.co.kr",
-            "경기일보",
-            "v.daum.net",
-            "조선일보"
-          ],
-          "summary": "스스로 파출소를 찾아와 뺑소니 범행을 시인하고 경찰 조사까지 마친 피의자를 긴급체포한 뒤, 체포 관련 서류에는 경찰관이 피의자를 추격해 붙잡은 것처럼 기재한 사건과 관련해 경찰 교통수사팀장이 재판에 넘겨졌다.대구지방검찰청 의성지청은 지난달 30일 경북지역 한 경찰서 교…"
-        },
-        {
           "title": "인천 보이스피싱, 지난해 대비 55.9% 뚝…피해액도 60%↓",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob3R5YWpGLXBxWC10ZkFTSXVmTGI0WXBXVEtKQnhDeUZhOXRreGJpcXQzYXV1ZGthWGxzOE9YdjNZN3RndGpQcVlYdjZybjNuUzdNR25EaEFLWDFTR01radIBeEFVX3lxTE9oYmxzRDZNTlFkVTdWdzljVTBtZU9kbWdpSGpOeU5XaXBhUVdGMURJSnRkaFp2VGFKTldMbVhUVXRJZWZpbW1KdmgxOU9IMlFuSW05azcwRm9BemdoUTdRZmtWdldBOURHMEppa1B2RUxIVUI3em9nag?oc=5",
           "source": "newsis.com",
@@ -465,20 +496,6 @@
             "경인방송 뉴스",
             "인천투데이"
           ]
-        },
-        {
-          "title": "민주·진보당, 음주운전 시의원 징계요구안 접수",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XeU5pRWpkMjRlcUtjTEU4Z1lhSk9wcVZQcXhvaTJhWDNFWFhFbWpDamJmTm9qOHRQR3ZpamY1TzUzcjFRSFBJdG5heGdiQjdNV1VJ?oc=5",
-          "source": "울산MBC",
-          "published": "2026-10-01T10:09:55+09:00",
-          "latest": "2026-10-01T15:24:20+09:00",
-          "mention_count": 4,
-          "sources": [
-            "울산MBC",
-            "뉴스1",
-            "울산저널i",
-            "newsis.com"
-          ]
         }
       ]
     },
@@ -487,11 +504,11 @@
       "articles": [
         {
           "title": "'꼬꼬무' 모산 수학여행 버스 참사",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82LUxpenRRNEs1ZmU2LWcwc1ZkSkFFdmh2ZzBsWm9FdFRkZDRPUUgzUGtSb1F3YjdGQjZORE9Fa1lZMkVBWVl2ajVtdk9PYXR3ZWZ1VC16bnlsLTRKaW1Db2Jvd0c?oc=5",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202610010078",
           "source": "bntnews.co.kr",
           "published": "2026-10-01T11:21:42+09:00",
-          "latest": "2026-10-02T07:25:00+09:00",
-          "mention_count": 8,
+          "latest": "2026-10-02T08:25:30+09:00",
+          "mention_count": 9,
           "sources": [
             "bntnews.co.kr",
             "TopStarNews",
@@ -500,8 +517,30 @@
             "gukjenews.com",
             "비즈엔터",
             "제주교통복지신문",
-            "싱글리스트"
-          ]
+            "싱글리스트",
+            "스포츠조선"
+          ],
+          "summary": "‘꼬리에 꼬리를 무는 그날 이야기’(꼬꼬무) 모산 수학여행 참사, 56년 만에 찾는 생존자 ‘꼬리에 꼬리를 무는 그날 이야기’(꼬꼬무)"
+        },
+        {
+          "title": "\"어르신 교통안전, 지역사회와 함께\"…대구경찰청 고령자 교통사고 예방 협력 나서",
+          "link": "https://www.imaeil.com/page/view/2026100109042929616",
+          "source": "매일신문",
+          "published": "2026-10-01T09:04:39+09:00",
+          "latest": "2026-10-01T23:08:34+09:00",
+          "mention_count": 9,
+          "sources": [
+            "매일신문",
+            "로이슈",
+            "lawissue.co.kr",
+            "BBS불교방송",
+            "news.bbsi.co.kr",
+            "신아일보",
+            "kyongbuk.co.kr",
+            "hidomin.com",
+            "시사뉴스"
+          ],
+          "summary": "대구경찰청(청장 박준성)은 지난달 30일 대구시청자미디어센터..."
         },
         {
           "title": "전남광주통합특별시, 지역사회 합동 치매어르신 실종 대응 훈련 - 보도자료 | 기사",
@@ -509,11 +548,12 @@
           "source": "news.tf.co.kr",
           "published": "2026-10-01T14:23:28+09:00",
           "latest": "2026-10-01T17:29:21+09:00",
-          "mention_count": 8,
+          "mention_count": 9,
           "sources": [
             "news.tf.co.kr",
             "더팩트",
             "뉴스1",
+            "news1.kr",
             "newsis.com",
             "gogsung.com",
             "곡성투데이",
@@ -523,26 +563,8 @@
           "summary": "시민체감형으로 1일 실시된 치매 어르신 실종 대응 모의 훈련이 펼쳐졌다. / 전남광주시[더팩트ㅣ전남광주=최치봉 기자] 전남광주통합특별시는 1일 광주종합버스터미널에서 2026.."
         },
         {
-          "title": "\"어르신 교통안전, 지역사회와 함께\"…대구경찰청 고령자 교통사고 예방 협력 나서",
-          "link": "https://www.imaeil.com/page/view/2026100109042929616",
-          "source": "매일신문",
-          "published": "2026-10-01T09:04:39+09:00",
-          "latest": "2026-10-01T23:08:34+09:00",
-          "mention_count": 7,
-          "sources": [
-            "매일신문",
-            "로이슈",
-            "BBS불교방송",
-            "신아일보",
-            "kyongbuk.co.kr",
-            "hidomin.com",
-            "시사뉴스"
-          ],
-          "summary": "대구경찰청(청장 박준성)은 지난달 30일 대구시청자미디어센터..."
-        },
-        {
           "title": "과천시, 교통사고 예방을 위한 과천청사 사거리 도로 재도색 추진",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MSW9sdEs5ZE96TnVhMHBBV3hXM1l6V1BaczdlcjN1TlpzbWNfdGR2V1dxSnZyUVZwRW9JQXJaWTdRMnk0R2lNbUtB?oc=5",
+          "link": "https://www.ggpyeonghwa.com/615670",
           "source": "경기평화신문",
           "published": "2026-10-01T11:14:00+09:00",
           "latest": "2026-10-01T17:45:00+09:00",
@@ -555,11 +577,12 @@
             "웹이코노미",
             "브릿지경제",
             "뉴스핌"
-          ]
+          ],
+          "summary": "과천시청 과천시가 교통사고 발생 빈도가 높은 과천청사 사거리 일대를 대상으로 도로 차선 및 노면 색깔 유도선 재도색"
         },
         {
           "title": "별이 된 160번째 이태원 참사 희생자",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKdFJ3NGd6ejk0bzNtY3lTaURyVjROVEw0Q2YzS0c1clJHSWtGVXFQRDJnQzd2bW4xVUxrcVpub2V5YlNfRlJJTDNoN3NuY2Q5YkFIZTVrT08zTmFXczNEdkZ6Y1o3dw?oc=5",
+          "link": "https://mobile.newsis.com/photo/NISI20261001_0021469740",
           "source": "newsis.com",
           "published": "2026-10-01T11:20:03+09:00",
           "latest": "2026-10-01T21:13:03+09:00",
@@ -571,6 +594,22 @@
             "한국일보",
             "헤럴드경제",
             "한국NGO신문"
+          ]
+        },
+        {
+          "title": "노인의 날 맞아 어르신 교통사고 예방 캠페인…노인보호구역 현장점검",
+          "link": "https://www.newspim.com/news/view/20261001000542",
+          "source": "뉴스핌",
+          "published": "2026-10-01T12:00:00+09:00",
+          "latest": "2026-10-01T15:45:05+09:00",
+          "mention_count": 6,
+          "sources": [
+            "뉴스핌",
+            "퍼블릭타임스",
+            "데일리안",
+            "v.daum.net",
+            "전국도민뉴스",
+            "한국재난뉴스"
           ]
         },
         {
@@ -606,7 +645,7 @@
         },
         {
           "title": "천안서북소방서, \"안전이 더해져야 진짜 힐링\" 가을철 캠핑 화재 예방 당부",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yZzA1X0lwVEpRNnEwdVJGRUhaNlk5aTFKWElvVDR4cHJRYml1c2J6UGktZUF5ejhDenlEU2hPdW11ODBKWXVJMmVzZDk5VnF6eXlNMUowVC1PNmVQZVo2RnJaMA?oc=5",
+          "link": "https://www.gninews.co.kr/news/article.html?no=867687",
           "source": "gninews.co.kr",
           "published": "2026-10-01T12:31:13+09:00",
           "latest": "2026-10-01T17:32:14+09:00",
@@ -617,7 +656,8 @@
             "mediatoday.asia",
             "경기in",
             "웹이코노미"
-          ]
+          ],
+          "summary": "천안서북소방서가 완연한 가을을 맞아 야외 캠핑 인구가 늘어남에 따라 캠핑장 내 화재 및 안전사고 예방 수칙 준수를 당부하고 나섰다. 최근 선선해진 날씨로 캠핑 활동이 늘면서 휴대용 가스버너나 이동식 난방기기 취급 부주의로 인한 사고가 잇따르고 있다. 이에 소방서는 △텐…"
         },
         {
           "title": "복기왕 \"고속도로 2차 사고 6분 안에 발생…순찰차 출동은 15분\"",
@@ -635,19 +675,35 @@
           ]
         },
         {
-          "title": "노인의 날 맞아 어르신 교통사고 예방 캠페인…노인보호구역 현장점검",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VeHlXN1hoUXBvSDZmSXM1ZEZzMDFwR0RtSGE1UFBQUkxhY004bmlxbGp6ZVdVLW5JdTNQS2xHWjRIYUoxelhlemF2TVdhbDY0Z05sbXFsOFJoSms0?oc=5",
-          "source": "뉴스핌",
-          "published": "2026-10-01T12:00:00+09:00",
-          "latest": "2026-10-01T15:45:05+09:00",
+          "title": "이태원참사 4주기 앞둔 별들의집…‘참사 트라우마 사망’ 상인 액자 걸려",
+          "link": "https://www.hani.co.kr/arti/society/society_general/1280360.html",
+          "source": "hani.co.kr",
+          "published": "2026-10-01T11:44:00+09:00",
+          "latest": "2026-10-01T15:30:34+09:00",
           "mention_count": 5,
           "sources": [
-            "뉴스핌",
-            "퍼블릭타임스",
-            "데일리안",
-            "전국도민뉴스",
-            "한국재난뉴스"
-          ]
+            "hani.co.kr",
+            "한겨레",
+            "뉴스1",
+            "news1.kr",
+            "v.daum.net"
+          ],
+          "summary": "이태원참사 4주기를 앞둔 1일 오전 서울 종로구 기억소통공간 ‘별들의 집’에 160번째 희생자 백형준씨의 사진이 걸렸다. 별들의 집 곳곳에 적힌 159라는 숫자는 160으로 덧대어져 있었다. 이태원 상인으로 참사를 목격하고 구조에 참여했던 백씨는 이후 트라우마를 겪다"
+        },
+        {
+          "title": "영천시, 치매환자 실종 대응 모의훈련…지역 안전망 강화",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067973",
+          "source": "신아일보",
+          "published": "2026-10-01T15:29:49+09:00",
+          "latest": "2026-10-02T08:24:21+09:00",
+          "mention_count": 4,
+          "sources": [
+            "신아일보",
+            "kyongbuk.co.kr",
+            "내외일보",
+            "충청메시지"
+          ],
+          "summary": "경북 영천시치매안심센터는 지난달 29일 화북면 자천1리 치매보듬마을에서 주민과 유관기관이 참여한 ‘2026년 치매극복 실종예방 프로젝트’를 진행했다고 1일 밝혔다"
         },
         {
           "title": "“덤프트럭과 충돌” 송기윤, 15세 연하 아내 교통사고 후유증 언급 (특종세상)",
@@ -681,7 +737,7 @@
         },
         {
           "title": "한동훈, 李 국군의날 기념사에 \"불의의 사고? 北지뢰공격=교통사고 취급\"",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFWDdWSXB2cm5QSklOUnU3eVpURTJyQktIVFhjNGtNN090SVJHUDZ0cW9sY3d4NERtMVQzQVdaaFdBNWFnUVVXU1oycm9sX09wRnEyNTFlUlFOSndoVGs2R0NR?oc=5",
+          "link": "https://www.imaeil.com/page/view/2026100111503312251",
           "source": "매일신문",
           "published": "2026-10-01T11:54:55+09:00",
           "latest": "2026-10-01T22:10:38+09:00",
@@ -691,42 +747,29 @@
             "v.daum.net",
             "문화일보",
             "munhwa.com"
-          ]
-        },
-        {
-          "title": "\"안전한 전주 만들자\" 전주시의회-전북경찰청 맞손",
-          "link": "https://www.newsis.com/view/NISX20261001_0003811062",
-          "source": "newsis.com",
-          "published": "2026-10-01T15:36:16+09:00",
-          "latest": "2026-10-01T17:16:30+09:00",
-          "mention_count": 4,
-          "sources": [
-            "newsis.com",
-            "뉴스핌",
-            "호남제일신문",
-            "honamjeil.com"
           ],
-          "summary": "전북 전주시의회와 전북경찰청이 안전한 전주시를 만들기 위한 상호 협력을 다짐했다.최주만 전주시의장은 1일 제39대 신효섭 전북경찰청장과 간담회를 가졌다.최주만 의장을 비롯해 김동헌 부의장, 온혜정 운영위원장, 신효섭 전북경찰청장 등 관계자 10명이 참석했다.들은 범죄…"
-        },
-        {
-          "title": "이태원참사 4주기 앞둔 별들의집…‘참사 트라우마 사망’ 상인 액자 걸려",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53bW1kYUtuZTc0VkVWQjNBYlBGNEpMMjZkWE5veGRFY2hpQ08wbjI1YXY4RUdwOWVJYUxXQXk4X0dicDRaaFF5Q1k2cXRUZTh4czBfSEt4bTFWSk5sWGJrSEpHcENDdFlDTkdBYnRFYkQyZw?oc=5",
-          "source": "hani.co.kr",
-          "published": "2026-10-01T11:44:00+09:00",
-          "latest": "2026-10-01T15:30:34+09:00",
-          "mention_count": 4,
-          "sources": [
-            "hani.co.kr",
-            "한겨레",
-            "뉴스1",
-            "v.daum.net"
-          ]
+          "summary": "한동훈 무소속 국회의원, 강신철 국방부 장관, 이재명 대통령..."
         }
       ]
     },
     {
       "name": "정책·행정",
       "articles": [
+        {
+          "title": "제주자치경찰, 올레길·오름·해안가 순찰…특별치안활동 마무리",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109761",
+          "source": "BBS불교방송",
+          "published": "2026-10-01T13:34:14+09:00",
+          "latest": "2026-10-01T15:59:30+09:00",
+          "mention_count": 4,
+          "sources": [
+            "BBS불교방송",
+            "news.bbsi.co.kr",
+            "뉴스1",
+            "news1.kr"
+          ],
+          "summary": "제주특별자치도 자치경찰단이 관광객이 몰리는 시기를 맞아 올레길과 오름, 해안가 등 관광지와 치안 사각지대를 중심으로 특별치안활동을 벌였습니다.자치경찰단은 지난 8월 28일부터 9월 26일까지 30일간 생활권 순찰 범위를 관광지와 치안 사각지대까지 확대해 도민과 관광객이…"
+        },
         {
           "title": "음성경찰서-자치경찰치안협의체 교통분과 '착' 한 운전 캠페인 실시",
           "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2304471",
@@ -740,19 +783,6 @@
             "cbnews.kr"
           ],
           "summary": "음성경찰서는 지난 29일 자치경찰치안협의체 교통분과와 합동 캠페인을 실시했다고 1일 밝혔다."
-        },
-        {
-          "title": "제주자치경찰, 올레길·오름·해안가 순찰…특별치안활동 마무리",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109761",
-          "source": "BBS불교방송",
-          "published": "2026-10-01T13:34:14+09:00",
-          "latest": "2026-10-01T15:59:30+09:00",
-          "mention_count": 2,
-          "sources": [
-            "BBS불교방송",
-            "뉴스1"
-          ],
-          "summary": "제주특별자치도 자치경찰단이 관광객이 몰리는 시기를 맞아 올레길과 오름, 해안가 등 관광지와 치안 사각지대를 중심으로 특별치안활동을 벌였습니다.자치경찰단은 지난 8월 28일부터 9월 26일까지 30일간 생활권 순찰 범위를 관광지와 치안 사각지대까지 확대해 도민과 관광객이…"
         },
         {
           "title": "경기북부자치경찰위, 포천·구리서 주민 치안 의견 청취",
@@ -802,6 +832,22 @@
           "summary": "제주 자치경찰이 올레길과 오름, 해안가 등 관광지와 치안 사각지대로 순찰 범위를 넓히고 민간단체와 함께 ‘보이는 순찰’을 강화했다.제주특별자치도 자치경찰단은 지난 8월 28일부터 9월 26일까지 30일간 도민과 관광객의 체감안전도를 높이기 위한 특별치안활동을 실시했다고…"
         },
         {
+          "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cjJ6dFplaXlIZkNPYXRXeS05bTRqRUgxMkgwN0xBbVVHOEtZbURHUzZQa281Sl9DbjItby1DY0lhNXpwelhmcVI5dVR2ellrX2RpRlpQdllMTWfSAWBBVV95cUxNb25EVUhITjY3MGhrRE4xSU1EeFFZZTlFXzNIa2Z1U0RQTEVBaVhLU1p5Z0RldGJXYVJ0clhYUmlRQjV3TDkzVnpwb2ZJemlqaHlPS2JmRnlVYXotMFNhaDI?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-10-02T05:30:02+09:00",
+          "latest": "2026-10-02T07:41:31+09:00",
+          "mention_count": 6,
+          "sources": [
+            "연합뉴스",
+            "v.daum.net",
+            "매일신문",
+            "KBC광주방송",
+            "timenews.co.kr",
+            "타임뉴스"
+          ]
+        },
+        {
           "title": "\"법학, 바다의 현장을 만나다\" 인천대 법학부, 해양경찰청 현장견학/진로설명회 실시",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630234",
           "source": "베리타스알파",
@@ -834,32 +880,20 @@
           "summary": "경찰청이 2년여 만에 전국 경찰 수사 지휘관들을 한자리에 소집합니다. 개정 형사소송법 시행을 앞두고 새 형사사법체계 안착을 위한 방안을 논의하고 내부 기강을 다잡을 예정입니다. 김태원 기자의 보도입니다. 전국 경찰 수사지휘관들이 오늘(1일) 경찰청에 집결합니다. 개정…"
         },
         {
-          "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkbmwwVWJLdTlMdGxRaFdndi1VcF9CdV9sLUV2ZmYwZEdhRm9jem1rcm5yTlZ4R016Y0plV2FuNzk1bnNKSnJvUFgxX3I1ZXc?oc=5",
-          "source": "v.daum.net",
-          "published": "2026-10-02T05:31:57+09:00",
-          "latest": "2026-10-02T07:41:31+09:00",
-          "mention_count": 4,
-          "sources": [
-            "v.daum.net",
-            "매일신문",
-            "KBC광주방송",
-            "timenews.co.kr"
-          ]
-        },
-        {
           "title": "한화에어로, 폭발 관리 위반 대거 적발…과태료 5억 부과",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2FwRnBJOFpzSWN0SEJqZHIya2xTeE9yNHZWWFluX0w4enBmUXFBX3BSSnJvWUFYWWFvMkZOZmg4UHRhVGpBd3hkUXhpcHB4a29JaXVSZzBPclhkYlpQZThqazVQOGMwendid1pBTTdBcGU2OHFPN001ZHZFNU1pWQ?oc=5",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=03657206645608656&mediaCodeNo=257",
           "source": "edaily.co.kr",
           "published": "2026-10-01T12:00:05+09:00",
           "latest": "2026-10-01T17:24:52+09:00",
-          "mention_count": 4,
+          "mention_count": 5,
           "sources": [
             "edaily.co.kr",
             "한국일보",
             "스페셜경제",
+            "speconomy.com",
             "파이낸셜뉴스"
-          ]
+          ],
+          "summary": "정부가 지난 6월 폭발 사고로 5명이 사망한 한화에어로스페이스 대전사업장에 대해 과태료 5억원을 부과했다. 대전사업장은 폭발·화재 등 이번 사고와 연관된 안전 관리 조치를 대거 위반한 것으로 나타났다. 지난 6월 폭발 사고가 발생한 대전 유성구 한화에어로스페이스 대..…"
         },
         {
           "title": "부산해경, 이기대 앞바다서 심정지 상태 남성 발견, 병원 이송",
@@ -867,14 +901,42 @@
           "source": "로이슈",
           "published": "2026-10-01T11:23:26+09:00",
           "latest": "2026-10-01T14:43:00+09:00",
-          "mention_count": 4,
+          "mention_count": 5,
           "sources": [
             "로이슈",
+            "lawissue.co.kr",
             "문화일보",
             "KBS 뉴스",
             "news.kbs.co.kr"
           ],
           "summary": "부산해양경찰서(서장 성대훈)는 10월 1일 오전 남구 이기대 해상에서 사람이 물에 떠 있다는 신고를 접수, 구조세력을 현장으로 보내 남성을 구조해 병원으로 옮겼다고 밝혔다.부산해양경찰에 따르면, 이 날 오전 8시 52분경 이기대 치마바위 앞 해상에 사람이 물에 떠 있다…"
+        },
+        {
+          "title": "검찰청 폐지 D-1…여, “경찰 개혁”·야, 거리 나가 “규탄”",
+          "link": "https://v.daum.net/v/20261001215012778",
+          "source": "v.daum.net",
+          "published": "2026-10-01T21:50:12+09:00",
+          "latest": "2026-10-02T06:11:00+09:00",
+          "mention_count": 3,
+          "sources": [
+            "v.daum.net",
+            "news.kbs.co.kr",
+            "KBS 뉴스"
+          ],
+          "summary": "형사사법 체계 대변화를 하루 앞두고 여야는 각각 여론전에 나섰습니다. 국민의힘은 거리로 나가, 이번 개편을 졸속 추진이라고 규탄했고, 더불어민주당은 수사·기소 분업화일 뿐이라며 경찰 개혁에도 속도를 냈습니다. 박효빈 기자의 보도입니다. [리포트]"
+        },
+        {
+          "title": "해양경찰 비위 중징계 비율 43.4% ‘기강해이’ 심각",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByLXBsc0pwcmkxNGlEcTlPSDJXVFRRX3BrZWc2ZDVaOFVwNHlpQ3h0NE83ZHdJNEFndGswTGNDZnVnSklmUjB5TVdLaG11SWZISnpfbWQ4QTV6M0RmaUN4UUliOGxsTGZLOEx6azRRd9IBc0FVX3lxTE42X1BGTWVlNGpxdUZKVVU2eWJ2R2ZEZkx3YmtZTUhvSEczWjdRWTZQNEp6SWpINzV1V3RMWGtHQ1pCTlc2cEdsMENqd3YtV2xBN3JpTnkzSDA1aUJpdk9NM1FiUmxWd0JzeDNxU1o4OWNvREU?oc=5",
+          "source": "해운의소리",
+          "published": "2026-10-01T13:26:42+09:00",
+          "latest": "2026-10-02T00:00:00+09:00",
+          "mention_count": 3,
+          "sources": [
+            "해운의소리",
+            "일등방송",
+            "아시아뉴스통신"
+          ]
         },
         {
           "title": "해경, 불법 고용 외국인 선원 승선시킨 어선 적발",
@@ -933,21 +995,8 @@
           "summary": "평택해양경찰서(서장 허경준)는 1일, 경찰서 3층 중회의실에서 ‘2026년 평택해양경찰서 시민인권단 정기회의’를 개최했다고 밝혔다.평택해양경찰서는 인권을 존중하는 경찰활동상을 정립하기 위해 인권과 관련된 제도·정책·관행에 대해 제언을 받거나 개선사항에 대해 권고 의견을…"
         },
         {
-          "title": "검찰청 폐지 D-1…여, “경찰 개혁”·야, 거리 나가 “규탄”",
-          "link": "https://v.daum.net/v/20261001215012778",
-          "source": "v.daum.net",
-          "published": "2026-10-01T21:50:12+09:00",
-          "latest": "2026-10-02T06:11:00+09:00",
-          "mention_count": 2,
-          "sources": [
-            "v.daum.net",
-            "news.kbs.co.kr"
-          ],
-          "summary": "형사사법 체계 대변화를 하루 앞두고 여야는 각각 여론전에 나섰습니다. 국민의힘은 거리로 나가, 이번 개편을 졸속 추진이라고 규탄했고, 더불어민주당은 수사·기소 분업화일 뿐이라며 경찰 개혁에도 속도를 냈습니다. 박효빈 기자의 보도입니다. [리포트]"
-        },
-        {
           "title": "고소·고발은 어디에?…사건 처리 어떻게 달라지나",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wekowYmdIR3JWdVBjcWZVZEpqZnktMmZmS3Q2NkZUeExFbGxiVTVzY1BncmQ4ZUpnWXdNVjEyYllrTnF4WlFZYW1rWHZlZ0lhQ2hwcDBCbFFmS1FlaEpLM1pObWQ4dkk?oc=5",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261002055432Bum",
           "source": "연합뉴스TV",
           "published": "2026-10-02T05:54:00+09:00",
           "latest": "2026-10-02T06:02:11+09:00",
@@ -955,20 +1004,21 @@
           "sources": [
             "연합뉴스TV",
             "v.daum.net"
-          ]
+          ],
+          "summary": "오늘부터 형사사법 체계가 대전환을 맞습니다. 일반 국민 입장에서는 범죄 피해자나 가해자가 됐을 때 어떻게 대처해야 할지, 기존 사건이 어떻게 되는지가 가장 큰 관심사 일텐데요. 이준흠 기자가 정리했습니다. [기자] 기존에는 검찰청 민원실에도 고소·고발장을 낼"
         },
         {
-          "title": "해경 비위 중징계 비율 43.4% ‘기강 해이’… 3대 중대 비위·간부급 비위 심각",
-          "link": "http://m.ibnews.or.kr/a.html?uid=133523&section=sc1&section2=%EC%A0%95%EC%B9%98/%EC%9E%90%EC%B9%98",
-          "source": "일등방송",
-          "published": "2026-10-01T14:51:00+09:00",
-          "latest": "2026-10-02T00:00:00+09:00",
+          "title": "\"형사 체계 전환, 경찰 조직 명운 걸린 일\"…우려 속 '비상 체제' 가동",
+          "link": "https://www.news1.kr/society/incident-accident/6308005",
+          "source": "뉴스1",
+          "published": "2026-10-02T05:30:00+09:00",
+          "latest": "2026-10-02T05:30:00+09:00",
           "mention_count": 2,
           "sources": [
-            "일등방송",
-            "아시아뉴스통신"
+            "뉴스1",
+            "news1.kr"
           ],
-          "summary": "해양경찰청 소속 공무원의 비위 행위가 최근 5년간 500건을 넘어서며 공직기강 해이가 심각한 수위에 도달한 것으로 나타났다. 특히 솔선수범해야 할 간부급 비위와 조직 문화를 저해하는 3대 중대 비위(갑질·음주운전·성비위)가 높은 비중을 차지해 강도 높은 대책 마련이 시…"
+          "summary": "서장 매일 중요·검사 요구 사건 점검…시도청·국수본까지 중첩 관리 수사 인력 보강·전문성 강화…범죄 피해자 보호 제1원칙으로 70년 넘게 이어진 검찰 중심의 형사사법 체계가 수사와 기소를 완전히 분리하는 새로운 체계로 전환되면서 경찰도 준비에 분주하다.'경찰 등 수사기…"
         },
         {
           "title": "여성 불안감 증폭에 경찰의 선택은? 드론·순찰로봇 투입",
@@ -982,305 +1032,450 @@
             "munhwa.com"
           ],
           "summary": "경찰이 1일부터 여성 1인 가구가 밀집한 지역을 중심으로 순찰을 강화하고 드론과 순찰로봇 등을 투입하는 종합 치안 활동에 나선다. 경찰청은 이날부터 12월 31일까지 여성 1인 가구 밀집 지역과 범죄 취약지역을 대상으로 이 같은 치안 활동을 추진한다고 밝혔다. 원룸촌과"
-        },
-        {
-          "title": "[단독] 알고도 덮었다…경찰 ‘허위종결’ 5년간 5건, 해임은 단 1명",
-          "link": "https://www.sisajournal.com/news/articleView.html?idxno=389001",
-          "source": "시사저널",
-          "published": "2026-10-01T18:44:39+09:00",
-          "latest": "2026-10-01T18:45:44+09:00",
-          "mention_count": 2,
-          "sources": [
-            "시사저널",
-            "v.daum.net"
-          ],
-          "summary": "경찰이 사건 수사 과정에서 허위 내용을 시스템에 입력해 사건을 종결한 비위가 최근 5년간 5건 적발된 것으로 확인됐다. 경찰 내부에서 허위종결 비위가 드러났음에도"
         }
       ]
     }
   ],
-  "total_articles": 655,
-  "total_issues": 310,
+  "total_articles": 719,
+  "total_issues": 324,
   "raw": [
     {
+      "title": "부안경찰서 서림지구대, 우편물 악용등 전화금융사기 홍보활동 펼쳐",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Scl9rRnBlejJfVmZQX3FrcHpYOXNnVjl4bFJLOF9VaUNURGN4QlRqZGhBa3hmMWdpd3EzUkhHemlWRVdTNXJSZ1pMbmJfTk5HMk9fQWdqMVpvMHJpYkdKUmRJWjVfZw?oc=5",
+      "source": "부안독립신문",
+      "published": "2026-10-02T08:43:59+09:00"
+    },
+    {
+      "title": "이집트 남부 아스완에서 관광버스 교통사고로 12명 부상",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13cGJvMG0walZJbmFaa1F3X0N5X2tQUTcxeHNpSFQ5TlhfbGVEalJOWEY3bE5BcW10MzFLdVVueUlja3BTOFdKZXlsb25acElFV3RlNEkwczAwdHNxRG1OedIBeEFVX3lxTE1RSlhMak4wQjVpQ0szckZpMzVSUzJzM2sySU9Mb1FLblprVHBNU2VoY0gtc2hRdE0tMWNyNm9PbERPb1RmT2xtS2YzendmZjJUWnYyOEk4VGpMekk5aWhhMjR3ckRxLVJibzlseURfYmg5QUZ2bVNwTA?oc=5",
+      "source": "newsis.com",
+      "published": "2026-10-02T08:39:27+09:00"
+    },
+    {
+      "title": "주우재 ‘하의 실종’·허경환 ‘복근 실종’…'뭔데뭔데!' 포스터 2종 공개",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnTG9wcnVSa3NqUEtURkJISkdGNG9Mc2FvUjFteFFGWm5IRHdHSnEwQ3o1TDducVdadm4xZ2xLVHFPSk5kVUsxNTk5OGZnYW1kQU11VWpGb1Vjb1hyRXh4SE94S2RnUQ?oc=5",
+      "source": "싱글리스트",
+      "published": "2026-10-02T08:38:00+09:00"
+    },
+    {
+      "title": "금감원·금융권, 고령층 금융교육 687건 실시…보이스피싱 예방 강화",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8waDdZbEpqODVLZWdzTTNQR1hPS0pCc0ZhMDRlYmZZa3cwNVltR2o0TmJNdUphRzJwblY5ek85ZDZRZmVPa3Y4aDM1VndGWmthanJ2enhWLVJkTDVSVGgyVzVCaUJqdnpISS1VaFd2RWpScTFq?oc=5",
+      "source": "파이낸셜포스트",
+      "published": "2026-10-02T08:37:16+09:00"
+    },
+    {
+      "title": "\"자율주행 맹신이 참사로\" 고속도로 ACC 사고 치사율, 일반 사고 7배",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4welEtMV9lN3l2S01lTGJ4U1BuWVRDZmF1dWtBNEw3ZkFFT1lTa1Z3ZTlGeHZXM2hLYnpnaVNQSXJDUGswWXBmWjlpcFh4Rk0?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-10-02T08:36:00+09:00"
+    },
+    {
+      "title": "기고) 10월 결실의 계절, 교통사고, 농산물 절도, 보이스피싱 예방은 작은 관심에서 시작된다. (서산경찰서 성연파출소장 경감 방준호)",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LR0h6aWllTks0dlJiYTVfTTctdldEb2lWak9pTFBkdVBSMGlTQUVXQ242SnItUkNOQTZxQy1nQkJYRV9meE5xS2lsQk4wOTJ6dzJCS1YtMEhhWEZ6cTZZcUJTOFoyR2Q3?oc=5",
+      "source": "서산태안신문",
+      "published": "2026-10-02T08:35:56+09:00"
+    },
+    {
+      "title": "진료중 응급실 압수수색한 경찰…\"참담해\" 반발",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xN0ZySjBQSXYtS2dYQkx5SzJfYUpUbXpRQUVBaHJRb3BIVzJPQ1lBTjIwaXlaWUNCUEJINmxlMXJ0SVVvaHJIeUk2TzRKSllfVnpfY1A2blV2NW90a1dMM9IBeEFVX3lxTE1lQVhxVjFDdlFueVI5Skg2ZHJBRzlLRXhQNXlYeHpxcHVaYjQ1a1hqNE5lQ0pscmp1NXNkbDVlUEVGc3htYmlCNno1UGZKczRabkg0elBRZy1uVjRDWTE4cTloQl9KZ2J3Tm0wV3A1emIxejJPUkhuSA?oc=5",
+      "source": "newsis.com",
+      "published": "2026-10-02T08:33:00+09:00"
+    },
+    {
+      "title": "수사·기소 분리 첫날, 더 커진 경찰 권한…14만 경찰 ‘비상대응체제’",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UaDZEcmZGM0p2bUVYcEY5elRKaUtvdlI3ZzR5NXZTQ2h6Nk5yeEp2YnZ0WFB5WVZjajM1NGV1VF91S1pWd25FVW9LbjhGT2FEd2JVTkhpT2FVRTBvcEFiU1dtNW9QLW9WRmxv?oc=5",
+      "source": "hdnews.co.kr",
+      "published": "2026-10-02T08:32:17+09:00"
+    },
+    {
+      "title": "조인철 의원, 스마트크루즈 믿었는데.. 고속도로 ACC 사고 치사율, 일반 사고 7배",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0MFd2UkpEM21wNmNXRGxROUdUZlh6WmtXaFhDUVB3OFVDR195QWpwVTlqVVRmMVJyYnl6a3ROSDFCVldtYTlXM0VqOXF2NHd5VDZtTURqLWdVSjNqWjRIR1J2WQ?oc=5",
+      "source": "경기뉴스원",
+      "published": "2026-10-02T08:30:50+09:00"
+    },
+    {
+      "title": "인도 경찰에 연행되며 구호 외치는 망명 티베트인들",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lbDRIajVQdGpuU25xeFNIRkpRWUYyMTdiSk9KaG4xOTRKMHdoaGFZc1NOY2xQekRETl83SG1ZQmtHalhLV1hHcmhNMkhiQXRDS0NzQ3JGMFJ2ZlplaFZKZ2cxTEZOdw?oc=5",
+      "source": "newsis.com",
+      "published": "2026-10-02T08:27:54+09:00"
+    },
+    {
+      "title": "경서중 수학여행 참사 '반전'..뒤늦게 밝혀진 진실 \"선생님 명예 회복돼야\" ('꼬꼬무')",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3RtTFBQSDlkbkUyck5QcmdTUElKVWxWYXNmUGhTVzBSbndXQmNORVBVTnNCU3FaLU83bnNST2pKemZ6dWEzdGJMNGE2cTE0TkVWWXRGVjZ0NmVKOFBxOTRCbmdmT0FLR1NxRmsxa2NRVE8wX1ZmVUZ5TU1aNGdJVlc3MWE?oc=5",
+      "source": "스포츠조선",
+      "published": "2026-10-02T08:25:30+09:00"
+    },
+    {
+      "title": "계룡시, 계룡軍문화축제서 치매환자 실종예방 모의훈련 펼친다",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LWnAyMkNlZ0FTaG1FWHJuVUdZWEtGVy1sVUdZZkFjZnR5WU1LbXV5SDNxOEJTOWtNNUoxanRhUlZSRmNMdnF2QnNYZ205UDFzelJjWkd5QXdPZ05OUnBwNENnYzRYekRqeWtz?oc=5",
+      "source": "충청메시지",
+      "published": "2026-10-02T08:24:21+09:00"
+    },
+    {
+      "title": "[시민 곁의 인천경찰⑤] 지역 경계를 넘는 범죄를 추적한다",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZYUJZbVFUUXh5enQwRDc3ejMyT0Z6aEI1dEpDaGRRd0tmS0ZuaVlSV3ZMTTJYUHFQUFA2UnZvWmM5OVBJc2NWWTNXa2hUcWZ6TkIxZ1BJbVl4SGRjb1ZSc0xjX1pyTG1UbFdWQ0V3?oc=5",
+      "source": "인천뉴스",
+      "published": "2026-10-02T08:22:13+09:00"
+    },
+    {
+      "title": "기온 뚝 떨어지자 잇단 돈사 화재...간밤 담양서 3억3,600만원 피해",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ta3FHRTFaaVRONTJ3dG5OVC1NelctV1lNVFQ3Z3BZOUNUeG9jdFZFZEJJVGp0UmRfOEN1V2VWdU9uaThiVkdIMkJrUVF0OTkzZTJFaDV6aXR2YVFYYkdFYi1B?oc=5",
+      "source": "돼지와사람",
+      "published": "2026-10-02T08:21:13+09:00"
+    },
+    {
+      "title": "계룡軍문화축제서 치매환자 실종 대응 모의훈련",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LOExZZ1BIZjJJTlZtbjFsbVhpSUhsSElmcUtTX3AxR0VPdmxuV2dmVDNUQ1NmLW1sN1Jiazg3OFhJZHo1X01LNkJpWVYwVllNQlF1NUEwQVE5MmhrczNxVDUwQ002cW1OWnFPM0xobw?oc=5",
+      "source": "내외일보",
+      "published": "2026-10-02T08:12:26+09:00"
+    },
+    {
+      "title": "자수한 뺑소니범을 ‘추격 검거’로 조작…경찰 간부 기소",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53TGREZHVwZXY3R2VtZmJUUndxU1AxZUctRXVQSEVfYzVyMmVWMEZFbTVLWVRHcUowallKV0twckFsS0tWMTVCSThmTUtvZEtOajZVYkdNQVVTWHltVjhmTENSYlBLQXhKNkRWQkhIUnhOQjNrY2fSAWZBVV95cUxNaS01cm1BX2tTUkVnSkpCNEVxYVBmc1Z1S2VuOUhFMXlIVld0eGNiN3BTWkRQVjRCRjRYMC1vLWVmdnhUZDFyU3JlZUhpN21CTWRBUk1VdUdFZnhycXpDUmxOQXk0LUE?oc=5",
+      "source": "동아일보",
+      "published": "2026-10-02T08:11:00+09:00"
+    },
+    {
+      "title": "[단독] 본청 155명 늘릴 때 울산 4명·전남 7명…사는 곳 따라 갈리는 ‘수사 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uUUJFWl8yQktTcFlJUWpwblJaUktDMi1YRF9RRVR5ZlZzcXdFSThja2xQd1NtS0ZGMXVCZXZaaW9ab01qT2h1YmVhNWlzR28?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-10-02T08:07:13+09:00"
+    },
+    {
+      "title": "수사 전권 쥐는 경찰...이 시각 경찰청",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GdjRZWVYxTzdWQVV6QzF0RlFxRF94U1FpeDF4TzF5MmVld0ZGdm45d3ZYbnR6czNDRlpZUFNVN1RTWVBvRHM3bXhsbTVCZGwtdk9CYjBpTUdsNmpuTlE?oc=5",
+      "source": "YTN",
+      "published": "2026-10-02T08:04:00+09:00"
+    },
+    {
       "title": "BNK경남은행 직원 2명, 보이스피싱 피해 예방 감사장",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYNFdtek9zcjk0TVl4bUwtWmZneTZPbDlmY3FRdFp2R0ZRQkJUU1FGSTdxc0laR1g5Nm9MZVB6XzFHQ2tkZDZGRW9sRm0xbnpJR0tuWlNuSGg3dw?oc=5",
+      "link": "https://m.knnews.co.kr/mView.php?idxno=1552084",
       "source": "경남신문",
       "published": "2026-10-02T08:01:03+09:00"
     },
     {
       "title": "ACC 켜고 달리다 사고 32건·23명 사망...치사율 고속도로 전체의 7배",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55ZW5vckRQWWpRSktaanJkam5wVkRZZ1Nlenp6amhsTVNGazZTM3VhY2tWTVJBeTg0Z0FrQWpBam5OMmtUSVZiQVJlQU1MSEpMMmV1NVhYVERETE9QU1NhYmUwd05qd3c?oc=5",
+      "link": "https://www.m-economynews.com/news/article.html?no=71267",
       "source": "M이코노미뉴스",
       "published": "2026-10-02T08:00:46+09:00"
     },
     {
+      "title": "플라이두바이 기장, 머리 찔리고 팔 중상…승객·예비 조종사들이 참사 막았다",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCYlJMb3BsNGVtUUVrTTJ5VXVwY2NidTVJaDdLXzQ2cmpVcHp6bGNXMEVSNl9rY29JVU1TdHlTcERfSnM1cThON3dwN3U2MDlDcVJFTlJqNzNfNkhVaUppdlNTMDlxeVRFd0UxTw?oc=5",
+      "source": "파이낸스투데이",
+      "published": "2026-10-02T08:00:00+09:00"
+    },
+    {
       "title": "승객이 막은 조종실 참사…이스라엘, 조종사 점검 강화",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXpCcHA3cUg5QVNCQ25xd2gwN1RHUUk2S0hkYm9rV2o2R181bXRBUjBUemZDUnFZNHVtVVdKQTlTaW11SzZwTVE2czRKcDJnM0VKMEZkMXM3R2VWOTZ4VFVOZEpzdjFnMnJERi1RbXlPNExuZ1NwLUFhWTloc1Npc1d0YWcwSzgt?oc=5",
+      "link": "https://www.g-enews.com/article/Global-Biz/2026/10/202610010733458319fda4f5ab74_1",
       "source": "글로벌이코노믹",
       "published": "2026-10-02T07:44:07+09:00"
     },
     {
       "title": "공소청·중수청 시대 오늘 개막… ‘검찰 개혁’ 시험대 올랐다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80anhfSG5WOXltSC1VWEd6ME54aE83ZUpuMEE4eTN6RzZNNWM5cDN0RmFmWmlvaFNiSjhreXFMUEs5WmI0RHlKUUFheTVlV0p5aGZrSw?oc=5",
+      "link": "https://www.timenews.co.kr/article/1707256",
       "source": "timenews.co.kr",
       "published": "2026-10-02T07:41:31+09:00"
     },
     {
+      "title": "공소청·중수청 시대 오늘 개막… ‘검찰 개혁’ 시험대 올랐다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80anhfSG5WOXltSC1VWEd6ME54aE83ZUpuMEE4eTN6RzZNNWM5cDN0RmFmWmlvaFNiSjhreXFMUEs5WmI0RHlKUUFheTVlV0p5aGZrSw?oc=5",
+      "source": "타임뉴스",
+      "published": "2026-10-02T07:41:31+09:00"
+    },
+    {
+      "title": "[와글와글 플러스] \"에스컬레이터 사고 절반이 영유아·고령자\"",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aYjB4MmxWNk9ZYzdqUThUb2hkeHJ5emY4clZkd1RvNGNGZHNueElzSGJscjZDaU1yMkkyVzRuejVkd2pJUVdnRlZKQzJIa1BING1WQzlLVWI1dVJPTjBHV3FUOHJNSW53dDB3Q1FlMk9WZEJlZWVjbW9n0gF6QVVfeXFMTTZjakJtcXpTZlRxNF9icUdlWU1IRFU0QlVEQ3BmV2swbEJLcnhUS0lKakgyYVVwQ1hPZGZTNmJ4SFVNRU1MMS1ITXV0MEJwek1vX1F5M3VDLUdNai1hWTQwSTBtSjh6UzBjZkJGTkJRcnY0ZmkzYS1mbkE?oc=5",
+      "source": "MBC 뉴스",
+      "published": "2026-10-02T07:28:58+09:00"
+    },
+    {
+      "title": "[와글와글 플러스] \"서울 교통사고 사망 보행자 40%는 어르신\"",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HZE1ySUxvbFhGQTdtVFl5aFhLYUtfcGRsVkh0Y0x1cUVqUEZKaXJLR2hTSFBRMzRrck9jV0dET3o0amFhcXk4bFJDUzJ0dHU2cG9UaTR3QndFM2dDZmZPZTN5UDVyQ1I0a2ZXNGlKSi0tNXVVNnZPVGdn0gF6QVVfeXFMTVNjMWs0TlNLN0hYVUN1QmFxSmZ5TWdmaFlCR3ZlOVFKbjJpRTE1Z2lSVFFLTHkyb0pudGtTTldjVmh1ZkpGMUZuV2poYjRrQlFjRWRZLUEwendFdVU3RzJCX1NFWDhGRnVBWS1kRlRiRC1LanhkSHdJWUE?oc=5",
+      "source": "MBC 뉴스",
+      "published": "2026-10-02T07:27:46+09:00"
+    },
+    {
       "title": "‘꼬꼬무’ 경서중 수학여행 버스 참사...생존자들 “선생님들 명예가 회복되어야”",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pclluMVlHRTBVa1JGWGF6VlhBZEJXU0VlQ2lWcWJtNGV6OXB5YTVKWHZ5OUNDRzNTVEE2M1ltM3NiOWJ5RzZmRlVRTDhtNjBLUzNIZndBTDZkOHlWUmN1NzFyVmpfZw?oc=5",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=770403",
       "source": "싱글리스트",
       "published": "2026-10-02T07:25:00+09:00"
     },
     {
       "title": "송기윤 아내 “3년 버틸까”…대형사고 후유증 고백",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zcjRoRFdjcms1cnFtU3J0QnRvWldZSkRjQjdzQmpwWTZoMVNlb1BrQ2tOdlU2NnBRa1FKd19KUnNVVTFpWHI0ZTBWZjE4aHBOdjFmcUhlaDBERERyWHVEWW5lX1A?oc=5",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202610020020",
       "source": "bntnews.co.kr",
       "published": "2026-10-02T07:09:38+09:00"
     },
     {
       "title": "\"도로 위에 말\" 뚝딱 해결한 경찰…알고 보니",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40YjdWTmEtbTd4MElhZmNlRDdkRDVQS1ZKUU43ZTdmT280MDhsdmRRRE8zTzYwUGNzMUlFbTZsMVNoUVAzRVpvRkZxek1BOHY3NFAtODczVDhaZFVjUXBSbGxrOTBhdHBtNnfSAWZBVV95cUxObW5sSDlpWUlJemhCRjNDM09uU1lYRVkyMno1T2k0NXRvdGFiVGlrTW5pS0pOV1o4UmFKeFFfMGJDREFlLURFaC1sRHM4b2JWbVc5UFdUT2xwb1hKSUNkdFJiY0JpTHc?oc=5",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779769",
       "source": "news.sbs.co.kr",
       "published": "2026-10-02T07:06:08+09:00"
     },
     {
       "title": "\"도로 한가운데 말이 기습 출몰\" 신고에…'능숙한 대응' 경찰의 깜짝 정체",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1anNzLVJNYXNfcU5BbnJHM2pmNzdXeHk5V2hEV1Bqb0JlUkNLMmI2UW5KNGVGcGZrYnVNVmY3THJTa3RxMWE0c1FrQUs1d2M?oc=5",
+      "link": "https://v.daum.net/v/20261002070402602",
       "source": "v.daum.net",
       "published": "2026-10-02T07:04:02+09:00"
     },
     {
       "title": "“검사는 수사하지 않는다”…뭐가 달라지나",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIMVlkaURrOVhCOVdpSHZCY0VrbUpHRmJPQURVOU1lNTJsQkRqZHNfS1ZrNU5CY3pST09pcmJOLTdEZ3VhZ0hUMThvbjJINHM5S2ZrUVVxZnBzcUU?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8676258",
       "source": "news.kbs.co.kr",
       "published": "2026-10-02T07:04:00+09:00"
     },
     {
+      "title": "“검사는 수사하지 않는다”…뭐가 달라지나",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIMVlkaURrOVhCOVdpSHZCY0VrbUpHRmJPQURVOU1lNTJsQkRqZHNfS1ZrNU5CY3pST09pcmJOLTdEZ3VhZ0hUMThvbjJINHM5S2ZrUVVxZnBzcUU?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-10-02T07:04:00+09:00"
+    },
+    {
       "title": "[수사 대변혁] ①檢 문 닫고 수사는 남아...수사 지연에 \"지친다 지쳐\"",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQNlI3REpvcGdtNEJsM2ZGX2VsZy1SLTlqQTZKdHUtc3lxUl9TODEtcTNjV1h2cjA0c1dSMUZTZGdQY0JZNHUxLWtyOA?oc=5",
+      "link": "http://www.inews24.com/view/2011111",
       "source": "아이뉴스24",
       "published": "2026-10-02T07:01:03+09:00"
     },
     {
       "title": "압구정 한양아파트 화재, 로봇청소기 때문은 아니었다",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41VF9yc2FPOEhLT0RxX1lLQTNncUgzLXo5R2hBbXh4aWRfMnJNYlFPT2lpRWZTXzFFS1lwbEd6YTVmcENkbFktMXduMkN0Nzk2d1VyVjU4SU5iQzjSAWBBVV95cUxOc25OLXBwN0ZVaEkyd1hoY0h6ODFTU0pzOGZ0T3VuTHl4dkxQNEIzX3BDa05zWVgyQ0FqNDUwN0R0ZkxuUmh5c2QydkdoT0FiRGNOMmJ2ZW92b1l2YzVwTE4?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20261001195800004",
       "source": "연합뉴스",
       "published": "2026-10-02T07:00:02+09:00"
     },
     {
       "title": "[와글와글] \"아기가 숨을 못 쉬어요\"‥경찰이 목숨 구해",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aMThnWVBzUG1QTkNCVC16eVlfcVVEaDBHcGE1VkkxankzZ3lMQ0xwdjltUlRpcnFvZ2dkTFNJRzI3Ul93SVNWSjdGZ1lEdHd3U3RNd3Q0TzBCRkRZWWNRYmM5SnBjdGswYlJLV3lOQTVaYkdhMXpFbTRn0gF6QVVfeXFMT3F0ZGE2ZVZjYzI2TjdkaXV0bGtudEtZZ0YzWVI5akc3R3NEdFppbGp1bUpfcXdfMWNacHZRODlOY0ItQXBmMU4xalJOVXVibDhteVlkTWJ3Rk8yQnl1bWtVSTF0SDJGMWV1TWtmdEFRQUM4b2dyWTlHcHc?oc=5",
+      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6855324_37012.html",
       "source": "MBC 뉴스",
       "published": "2026-10-02T06:51:38+09:00"
     },
     {
       "title": "78년 검찰 역사 속으로…공소청·중수청 시대 오늘 개막",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEUjBzZTNqRm1IeTZzVVRweExNWVhCSEZST2tLTGJhcGMtNWtyTkFfYjc5cHdremtOTTV6aUZNNGV2RDFMNmRJTnpiTHkzR1NFa1hVeWlNYnhsRmpwS1BCSHhn?oc=5",
+      "link": "https://news.ikbc.co.kr/article/view/kbc202610020003",
       "source": "KBC광주방송",
       "published": "2026-10-02T06:50:13+09:00"
     },
     {
       "title": "지역경찰 인력 거점에 집중…'경찰 1명 이하' 지구대·파출소 299곳",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZcGlKNlNOMGxBbGc2aDZrN2ctVXQ1Y3NueUFJTVVBVU5YRzJ5aGppdVMySTJmR24wUkVObGlhaE1XUkRKb2dmTlUwRlp6S2c?oc=5",
+      "link": "https://v.daum.net/v/20261002063143075",
       "source": "v.daum.net",
       "published": "2026-10-02T06:31:43+09:00"
     },
     {
       "title": "세종경찰청, 드론테러 공동대응 협의체 개최",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5POVNpM2dod2k2RDVyM0I1M2stXy1XYlh4YzhqV2JzaDdZdnZBVDBoTUEwVDYzcks3NGloQTRoMDk3Tm1PQU9JNF9heEhrTm1pdWZhb3NyTHNNXzg3RkdXMnRhTFRSUV9VekJF?oc=5",
+      "link": "https://www.dtoday.co.kr/news/articleView.html?idxno=795014",
       "source": "일간투데이",
       "published": "2026-10-02T06:31:00+09:00"
     },
     {
       "title": "오늘 공소청·중수청 시대 개막…`검찰개혁` `공룡경찰` 함께 시험대",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVGU4ZjAxUEpORzNfUzhHR1Nfb0hJRDY1eFNGZGVOTnZiSG5ucDI3SzVtOG5vbHI5bDlZMVZfRVNwWVk4LUU3U2xwdXB3a3JTUlh0bVpPY1BUa0NOdzBsSHln?oc=5",
+      "link": "https://www.imaeil.com/page/view/2026100206204397041",
       "source": "매일신문",
       "published": "2026-10-02T06:21:27+09:00"
     },
     {
       "title": "\"상업성·법절차 부합 전제로\"…\"심각한 외교 참사\"",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcExkeVR3bGV0U19JQlFfLWFRVXc1S0hxN0JHdm9LLWFFWFI3SHVQaDkyTzJhcl9zYkw5RTRHZjhGVldpWXo1c3ptZTRaOWphQnptcWtCYVNjZWVkWUJ5TEhxRXlqMTdFNV9WOV8zR255bG9ZaXZjNldDWHViRzc0R3paOTFxN3haMFVXWm1sMWw4YTAxVldJ?oc=5",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779812&plink=PLAY&cooper=ATOM&autoplay=Y",
       "source": "news.sbs.co.kr",
       "published": "2026-10-02T06:13:12+09:00"
     },
     {
       "title": "검찰청 폐지 코앞…여, “경찰 개혁”·야, 거리 나가 “규탄”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0T0dwbkFXcENmSTBOTTFISGZBOW0yWC1ab2g4ejdpeHg4bU00anpkSGJUYjd3ZXVjc0N5UnpmaUQzY19JYURKVnF5c3oxV0xwYTdpanJ6LTF5aFU?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8676226",
       "source": "news.kbs.co.kr",
       "published": "2026-10-02T06:11:00+09:00"
     },
     {
+      "title": "검찰청 폐지 코앞…여, “경찰 개혁”·야, 거리 나가 “규탄”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0T0dwbkFXcENmSTBOTTFISGZBOW0yWC1ab2g4ejdpeHg4bU00anpkSGJUYjd3ZXVjc0N5UnpmaUQzY19JYURKVnF5c3oxV0xwYTdpanJ6LTF5aFU?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-10-02T06:11:00+09:00"
+    },
+    {
       "title": "[단독]“화재 6번 난 공장도 안 받았다”…반복화재 시설 10곳 중 6곳 ‘안전조사 사각지대’",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5keTV1TS1MQXZpT083bkhhbDBxT1JnWXM3UXlPTmZuNTdZZ0tPMzNkMUxWcS1Mc0JuZmZweW1HWUJOdlpWSkphZ3J1YUQ4Ylk?oc=5",
+      "link": "https://v.daum.net/v/20261002060431514",
       "source": "v.daum.net",
       "published": "2026-10-02T06:04:31+09:00"
     },
     {
       "title": "검사가 수사 못하는 시대 개막…내 사건 처리는 어떻게 달라지나[일문일답]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5UEJWUk8tMW5DLXBHelFwT3BSUE5RdTdVWU1uRjM2RXUxSmpIRE1HOHBwMG43ODJ1UmZvY2xtNlFDRk85Z1FfZ3o5LUY5dTg?oc=5",
+      "link": "https://v.daum.net/v/20261002060211359",
       "source": "v.daum.net",
       "published": "2026-10-02T06:02:11+09:00"
     },
     {
       "title": "[검찰청 폐지] ③ 신설된 검사의 '사실관계 확인'...증거 사용 제한돼 경찰수사가 중요",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51VlJLXzl2eWR6YnJNU3NPbzVkdk5SbTFkUWtPZWlpUHVIckRHaWVsWVYxZjF1bnlIOEpBLTMtSjFfSWtDR0p0VTh0YnZzU0x6ZVVRMnZnYVZNNlpX?oc=5",
+      "link": "https://www.newspim.com/news/view/20261001001339",
       "source": "뉴스핌",
       "published": "2026-10-02T06:00:00+09:00"
     },
     {
       "title": "[검찰청 폐지] ①'한국형 FBI' 중수청 출범…수장 공백 속 '1호 사건'에 초관심",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUZHJzRDZsUWk5S0NjNHVMTmhteVRYMFFZMDAyR1NVdFhSdHlrOHJ2V1Jxc2dub3hWckVDRGNudUN3UGVTdldZVmc2SzhDN3djaVdENXJPdEdxRk1N?oc=5",
+      "link": "https://www.newspim.com/news/view/20261001001192",
       "source": "뉴스핌",
       "published": "2026-10-02T06:00:00+09:00"
     },
     {
       "title": "[단독]조보아, `교통사고 하차` 이청아 대타 투입",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wNVVLNTJRLTMtY2dzZ3pqa1VTeExRME9KNkhIZkhHdDdNTG1kQVlfTVljZGFUN3lHYldKV2Z5Mk5ORDhmYjdZX3NLVWdUeWNhNldyaXlxY2tSWVlrS0pFaQ?oc=5",
+      "link": "https://mydaily.co.kr/page/view/2026100123413577739",
       "source": "마이데일리",
       "published": "2026-10-02T06:00:00+09:00"
     },
     {
       "title": "연소득에 대출 한도까지 샜다…신한은행 정보유출 '2차 피해' 우려는",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tWWZOdHZVaTE1LUNTZE5tempRVXJJdmR4Y1NhM3J5QUtjNVYzeE03YVpISF9vZWxGeGZJR0UxQ2s5RHlaTlZXYnNHOW5Lc3JOdVFGUC1jQ0l0eTRkY3lrZ9IBeEFVX3lxTE45SU4yTEtlNGlROWRGb3g3dnpYXzcwZXZZMTJqb1BuMjR0bmNIUV82b0hsVWZIYjExcXdzakIyR3J3ekxQaHJVcG44eVo0N2otVk5seWFnYnhNaktVR01idFdyLV9kZVZwaVNIMzRtTEIzQmxVLVNtUQ?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261001_0003811580",
       "source": "newsis.com",
       "published": "2026-10-02T06:00:00+09:00"
     },
     {
       "title": "송기윤 아내, 덤프트럭 교통사고 후유증에 정신과 약 복용 “남편 덕 살아”(특종세상)[어제TV]",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81cHlnUEpveEwtRWxNVWNYdGZocS1OT1JELUVablNJMnY4NElLRUR3SUhsWHN6MTJHbVBqeWlTamxpeGZCRHAyMWxUMDFFcThncmxWU2lPOTZkMURuSUl3d041c1hXQV83c3FGUHRHaTZlWHpQcW5KTDdTYw?oc=5",
+      "link": "https://www.newsen.com/news_view.php?uid=202610012035466110&code=100100",
       "source": "뉴스엔",
       "published": "2026-10-02T05:54:38+09:00"
     },
     {
       "title": "고소·고발은 어디에?…사건 처리 어떻게 달라지나",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wekowYmdIR3JWdVBjcWZVZEpqZnktMmZmS3Q2NkZUeExFbGxiVTVzY1BncmQ4ZUpnWXdNVjEyYllrTnF4WlFZYW1rWHZlZ0lhQ2hwcDBCbFFmS1FlaEpLM1pObWQ4dkk?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261002055432Bum",
       "source": "연합뉴스TV",
-      "published": "2026-10-02T05:54:00+09:00"
+      "published": "2026-10-02T05:54:00+09:00",
+      "summary": "오늘부터 형사사법 체계가 대전환을 맞습니다. 일반 국민 입장에서는 범죄 피해자나 가해자가 됐을 때 어떻게 대처해야 할지, 기존 사건이 어떻게 되는지가 가장 큰 관심사 일텐데요. 이준흠 기자가 정리했습니다. [기자] 기존에는 검찰청 민원실에도 고소·고발장을 낼"
     },
     {
       "title": "\"목장 탈출한 말, 도로에\" 출동한 경찰 허리띠 푼 이유가...'반전 이력'",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15c0JhaTJYbXd3NmJaT2t1WnFlZXR6Yll4SGxLaEppNXFVSmhTOHFVVHNoWHZ4Sjh0NktkNWQ1MXhFTnVWRjFRZXAzVXptMUc4RldkTXd4c3pVVGlOV2lvRURMMkJBdGFBcFgw0gFwQVVfeXFMTy00MnZ6QkNnaXV5bjNzSklLZll1X3dlc29odU1rZkFCQ2hZZkVQeTlYWk5qNldtVEZjN1BkaC00LXIxSnlTT19zVFdOTTdCMjBJcU43WmYtc1k4aEZiX0hudmo1aUxZTjgyWFg0NWFBdQ?oc=5",
+      "link": "https://www.mt.co.kr/society/2026/10/02/2026100205101836927",
       "source": "머니투데이",
       "published": "2026-10-02T05:45:12+09:00"
     },
     {
       "title": "기소·수사 분리 초긴장…현장 안착까지 ‘비상대응체제’",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81Ykk4NldNRE5KZlJTS05uRVJqU1g3TFdEblJVS2l5SFV5bGFBaGhXcnBra1Bpd2RFdWJIdUxDNmxDNl9yajhTQzg3WFcxR21UOXhqRVBwNTZzWkk?oc=5",
+      "link": "https://www.kyeonggi.com/article/20261001580610",
       "source": "경기일보",
       "published": "2026-10-02T05:45:00+09:00"
     },
     {
       "title": "다행히 음주운전 전과자 추가는 없었다?…靑 1일 쇄신 인선 살펴보니 [시사뒷담]",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad3Y4TXU4N2RyeWZlU2hSaDlPUC1FRVQ3cUZDZnRGZWlEVVhKb25laTV4SU1WektodUdNTkg2YU5YSk1RMUc3X0xGZU5vYzFPSlg3SGJsM0xzQ1ZtR0gwcXlB?oc=5",
+      "link": "https://www.imaeil.com/page/view/2026100119003357339",
       "source": "매일신문",
       "published": "2026-10-02T05:39:00+09:00"
     },
     {
       "title": "카탈리나섬 앞바다 의료 헬기 추락…2명 사망·1명 실종",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wZWdCM3pFWnFMdGM5aG9XZDdsY2dXTFJoamFfTUNWbldraDF4bVRPTmQ4NW1zZFBJQ2xKcElnNV9KWWwxQjZ2LWdyS2xHcjg4azNJOUlRNTdLNklxYkVpV293?oc=5",
+      "link": "https://www.koreadaily.com/article/20261001133532508",
       "source": "미주중앙일보",
       "published": "2026-10-02T05:35:00+09:00"
     },
     {
       "title": "오늘부터 '공룡 경찰' 분주…사건적체·수사전문성 미비 한숨만",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94ZWFTRnBpa1ZPS1BqUHZqQk5tYkluelhZTUNkZzNBZl9rUjI2LU95NnpFcHpkM2NmRU9MYmZmTGRodVlWdEo1TkszNHlsNlE?oc=5",
+      "link": "https://v.daum.net/v/20261002053202566",
       "source": "v.daum.net",
       "published": "2026-10-02T05:32:02+09:00"
     },
     {
       "title": "고소·고발은 경찰, 7대범죄는 중수청…새 형사사법체계 오늘 가동",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NNHQwa3NzY0FkSWx1Q1k0UndOZW5CZ0MxZkdIcVR6dXNLV1pZODM1OE0tN0xxNjZHeG1Na0R3aFctR2tfcFZJbDRlSDB5RWc?oc=5",
+      "link": "https://v.daum.net/v/20261002053159559",
       "source": "v.daum.net",
       "published": "2026-10-02T05:31:59+09:00"
     },
     {
       "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkbmwwVWJLdTlMdGxRaFdndi1VcF9CdV9sLUV2ZmYwZEdhRm9jem1rcm5yTlZ4R016Y0plV2FuNzk1bnNKSnJvUFgxX3I1ZXc?oc=5",
+      "link": "https://v.daum.net/v/20261002053157557",
       "source": "v.daum.net",
       "published": "2026-10-02T05:31:57+09:00"
     },
     {
       "title": "영국 경찰, 공군기지 사건 관련 영국·이란 이중국적자 체포",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xSGduX1VVdjRHOFo1N0dsaldKZG8xMmI1bHN4SE9OOXVkYWxVa0NSTlFuR1poLUFjdDU1Ymt3bVRSR1lmeWpNOGxyeU45VGJh0gFTQVVfeXFMT0ZtbFhwZEE0c1MyVHd5Nk1haXY2MmhBUFhzVGVvUHpUYnp2WGR6QnJrZU5lWk11eXpVTVFiV1hnOHRmdVJhTGJCWkxyRDg2a19WdDg?oc=5",
+      "link": "https://www.voakorea.com/a/8206815.html",
       "source": "VOA 한국어 홈페이지",
       "published": "2026-10-02T05:31:29+09:00"
     },
     {
       "title": "오늘부터 '공룡 경찰' 분주…사건적체·수사전문성 미비 한숨만",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FMkNPTy1SczF6akxtN1F6RXZzS1RnZzNfNUdRN2puWWl3RG40M0xRUi1ud2tUdUJoUzZTZkRLMGJfME8wWE5VZml6bUNyYThLYjl5SmhrSjl3QW_SAWBBVV95cUxQQXh4N3ZLb2JBQ2lWTl9QeVZTYmtqdEMySDVBYkpoLVFLMW83Qkg4X20xakUyVWtKOWdsMUpLR0s0clpGVjBTSDFxR0ZlSzlXWHBBY2laU29qUGZGSUJwZ1k?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20261001188200004",
       "source": "연합뉴스",
       "published": "2026-10-02T05:30:03+09:00"
     },
     {
+      "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cjJ6dFplaXlIZkNPYXRXeS05bTRqRUgxMkgwN0xBbVVHOEtZbURHUzZQa281Sl9DbjItby1DY0lhNXpwelhmcVI5dVR2ellrX2RpRlpQdllMTWfSAWBBVV95cUxNb25EVUhITjY3MGhrRE4xSU1EeFFZZTlFXzNIa2Z1U0RQTEVBaVhLU1p5Z0RldGJXYVJ0clhYUmlRQjV3TDkzVnpwb2ZJemlqaHlPS2JmRnlVYXotMFNhaDI?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-02T05:30:02+09:00"
+    },
+    {
       "title": "\"형사 체계 전환, 경찰 조직 명운 걸린 일\"…우려 속 '비상 체제' 가동",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ocGZBa2VHbVBfc241NWoyYmtPUWRxR1BoNVZNUnlyalpSWWwyRjU3R3B1TC1QMXlpWFR4US1OU1hTbjh5eUJKdkNRaFJFWlVTcGtHRHY5ZkpEaGpKTjBBd0ppN3DSAWpBVV95cUxOYXRyM1NXRWlrYVlkU0YxWkFTWEdLb3cxNHFSVFF6dWZSZ3NlN0d0d3lGR25MN3Nya2dHclhqYUFIWTJTOUVFR1I2UGpiMzM2MlI5aE12cTRpV2VzWjB5UGV1LXRBel9vNG1R?oc=5",
+      "link": "https://www.news1.kr/society/incident-accident/6308005",
       "source": "뉴스1",
-      "published": "2026-10-02T05:30:00+09:00"
+      "published": "2026-10-02T05:30:00+09:00",
+      "summary": "서장 매일 중요·검사 요구 사건 점검…시도청·국수본까지 중첩 관리 수사 인력 보강·전문성 강화…범죄 피해자 보호 제1원칙으로 70년 넘게 이어진 검찰 중심의 형사사법 체계가 수사와 기소를 완전히 분리하는 새로운 체계로 전환되면서 경찰도 준비에 분주하다.'경찰 등 수사기…"
     },
     {
       "title": "변호인 접견 조차 불투명의뢰인 방어권 차질 우려",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85cUFnZHJHUFpLVFFPamdfM1g1N0hHbHZRWHFZWnpqbkNwSUE1aGVMLTh1UGpHclFMOXljMERHZ0ttdmw4X2M5SENaQ0M0Ym50bTYzMHpGWm81eTQ?oc=5",
+      "link": "https://www.kyeonggi.com/article/20261001580611",
       "source": "경기일보",
       "published": "2026-10-02T05:30:00+09:00"
     },
     {
+      "title": "\"형사 체계 전환, 경찰 조직 명운 걸린 일\"…우려 속 '비상 체제' 가동",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ocGZBa2VHbVBfc241NWoyYmtPUWRxR1BoNVZNUnlyalpSWWwyRjU3R3B1TC1QMXlpWFR4US1OU1hTbjh5eUJKdkNRaFJFWlVTcGtHRHY5ZkpEaGpKTjBBd0ppN3DSAWpBVV95cUxOYXRyM1NXRWlrYVlkU0YxWkFTWEdLb3cxNHFSVFF6dWZSZ3NlN0d0d3lGR25MN3Nya2dHclhqYUFIWTJTOUVFR1I2UGpiMzM2MlI5aE12cTRpV2VzWjB5UGV1LXRBel9vNG1R?oc=5",
+      "source": "news1.kr",
+      "published": "2026-10-02T05:30:00+09:00"
+    },
+    {
       "title": "\"불륜인 줄 알아\" 송기윤♥김숙진, 손 꼭 잡고 데이트..교통사고 후 애틋 [특종세상][★밤TV]",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUmJYcllyWEgwLXJFSXR6TU1tUF9TODdPSlc2VDBZcU8xMnlqSW1DYlJvSzNua1J3TTlsQWlYSG9RRUtFbnZrdFdKNk90cmJTWDJTUEVxcmR3OFMxeXNlYkQtcm9oYlFhVWQwdDA5Nm1SQ2hWQUVKOTNVNWEtUVJtWQ?oc=5",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/10/02/2026100122091555155",
       "source": "starnewskorea.com",
       "published": "2026-10-02T05:20:00+09:00"
     },
     {
       "title": "72년 만의 형사사법 대전환…경찰 수사역량 본격 시험대",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vM3I5Yml3X2pKX3ZRT2hXVnhNbEZiTy1IWnl2MTJJbGIwZ1UyUG9ldmZwVkU4RVo0VC04bWViejlHUFBKYmJzdDJ0QUJNWnM?oc=5",
+      "link": "https://v.daum.net/v/20261002050332802",
       "source": "v.daum.net",
       "published": "2026-10-02T05:03:32+09:00"
     },
     {
       "title": "'수사의 시작과 끝' 다 거머쥐다…경찰도 초긴장[중수청·공소청 출범④]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tQTBXV3dHRE5zMXZibGdrY044empIdUVadkg0N3hRdzcybm9JWjJubWl6ZXFYQnJtbmRZUHBaM1JkeW9iXzIzUXM4ODRVQ1ZSRXB2anU5eHotbmI2MHhHNNIBeEFVX3lxTE1VYWVfRlBIMW45Nk1CdHdwZS02azJVcGZ3SUdOU1BVY3FUYVZkeC1OUWNRa2theWM2U2xVcTV1aEJzbUpaSmtCNXBaWlpPTVJkTl91Tk1rbFJ1c0lxZWxBOVVZUVlNTVZhallVMEhBaFpQMUs3SGNXdA?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261001_0003811362",
       "source": "newsis.com",
       "published": "2026-10-02T05:03:00+09:00"
     },
     {
       "title": "‘검찰 무료 수사 서비스’ 끝났다…돈 써서 직접 억울함 푸는 시대",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zU2NORmJ5eW1UWDVyQnBnVUxBc0NWNFNDNDJuRnpMTVctTFFBVVdzc05xTGtSTDhYREt3eFBvaVhjTm1mdE1NaEJiSzYtamM?oc=5",
+      "link": "https://v.daum.net/v/20261002050255737",
       "source": "v.daum.net",
       "published": "2026-10-02T05:02:55+09:00"
     },
     {
       "title": "“지구대 보내달라”…檢사건 떠안게 된 수사 경찰들 ‘대탈출’",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WSlVQVnJCRnJnTm0yS0lVdDhvNFl3MkRBR3pxUk9vU2ZIRUQxU1pPMVlUbnYyLXFQSkZEeDVPb01VU0h0aGprMGRqOWlxNWpKQ2JoTFpR?oc=5",
+      "link": "https://www.joongang.co.kr/article/25466582",
       "source": "중앙일보",
       "published": "2026-10-02T05:00:01+09:00"
     },
     {
       "title": "“지구대 보내달라”…檢사건 떠안게 된 수사 경찰들 ‘대탈출’",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42dFVYQzJJa1pBNEViOGM4VG84d0UwVkJsUnA5T2huQ3EzRzVWOVVTc01kcm9mSVVVSUFFaFVqTlQ0OVlXdWRYQzhkM2dGTzFiMHpaLWM1R1hSZF9ETUNBcTdB?oc=5",
+      "link": "https://www.koreadaily.com/article/20261001130101490",
       "source": "미주중앙일보",
       "published": "2026-10-02T05:00:00+09:00"
     },
     {
       "title": "오늘부터 검사는 수사 안 한다…형사소송법 대개편[중수청·공소청 출범①]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52c09JWVNoWHVscjJOVXJyTklRWWtldVU1MjBSSC1MOG9aZjF4VDdVR2dmRmQwY2ZUeFAtWkthZmxlbXNVLWlDMHJHeXYtdzhJNWZTeDVzYmFuYXRTQmFwadIBeEFVX3lxTE92WUNjN1ROaUdwYTNJSjBSbGVHSUgxWjdfbnBILThGbkVReUpWbWtkTUI5c0x5ZlE5d1h2b1dHQ19LOGtibTVwTGE3S1RvdnJ2T3ZORDlsMk9qSzd0UzF4WHZpYjVyRkNzM3RwR3d3U3h3djZYOUVTaw?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261001_0003811161",
       "source": "newsis.com",
       "published": "2026-10-02T05:00:00+09:00"
     },
     {
       "title": "[검찰청 폐지 D-day] 경찰 업무량 폭증 전망…미제 사건 대응 우려 심화",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVlhYNzZHTFV2R0YzMUhpd2taWXQ5VjBkenFEd1lYQ1BMQ1FNdnltVkpfZld4UjhIREtwQzZqU09fY2RRVjBTMkREUGdCVGtOcXMwOThqeFpua2hWWVR6VklqM0t6RWs4LXoycHB0Qlk1Z0YtdjNrTGt6eVJnVmRlWWQ3enlNMENJSkhGb3Y5YVRzTFVqLVlXNEYwZ3FTaEFrTGxLai11cnc0Y05DbEVEMndMR2NGc3JyS0hWRHh3c2ZyVFBIQXdjcXdibVNYMHhleTR2TkVBZ3NIaE51eTJoaVVn?oc=5",
+      "link": "https://www.dailian.co.kr/news/view/1697052/%EA%B2%80%EC%B0%B0%EC%B2%AD-%ED%8F%90%EC%A7%80-D-day-%EA%B2%BD%EC%B0%B0-%EC%97%85%EB%AC%B4%EB%9F%89-2026",
       "source": "데일리안",
       "published": "2026-10-02T04:36:00+09:00"
     },
     {
       "title": "경찰, 진료중인 응급실 압수수색 논란… 소아학회 “치료 지연-안전사고 위험”",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xcTVzUDltM3E5bmNxV0IzenVGTmpWTTVKcWt6NmVQQzN3T1hvUTRyRnZESFp0LWNZSHVFbzB0UkRhVDFUNXV1VmFjQkNUcUpJOU5jY2dOcVIzalFfczV2RjFqbjZNaFRtRTFtN0RrbTJDckVxMXfSAWZBVV95cUxPOUJpMWJuQkJ3YndYMzZlQXVibTl0bmcwb2dMbERCSDNJOVNZaGRySnhDN0NzalZCRW1oZThFTnhSa1UzdWZIZFp4S2ZYYy1sWkhlLUhWcmVzcmZNRjdCRE9hRUo2aUE?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20261002/134771905/2",
       "source": "동아일보",
       "published": "2026-10-02T04:30:00+09:00"
     },
     {
       "title": "李 “사건 암장-수사비리 꿈도 못꾸게 경찰개혁”",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIZTRPQ21BUjdyaXhQM3NseXd1bGxwYkotaHRvYk1MV3BXcTU0ODJSTE10NERSTkRNMUIwQ25DWDJhNDA5QlhsVHBnTXpOajdmNDZpbkg1MDBuRVZralp3am5BVmVpTzFFa0N6UnRWSlh2c0doSWc?oc=5",
+      "link": "https://www.donga.com/news/Society/article/all/20261002/134772501/2",
       "source": "동아일보",
       "published": "2026-10-02T04:30:00+09:00"
     },
@@ -1299,7 +1494,7 @@
     },
     {
       "title": "“덤프트럭과 충돌” 송기윤, 15세 연하 아내 교통사고 후유증 언급 (특종세상)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VV1Z4cGJKakRuclJLeU1tMm1XbEotZkkxdTd2WkNhZVMxbmRwNi1WcTFIZHdyX09vNTc2MThUN0ZMYWZWaUtCd0gwNnlIbndfbGlqaGlxN1pSc0RReURyZg?oc=5",
+      "link": "https://enews.imbc.com/News/RetrieveNewsInfo/519823",
       "source": "enews.imbc.com",
       "published": "2026-10-02T01:12:00+09:00"
     },
@@ -1352,6 +1547,18 @@
       "published": "2026-10-02T00:43:00+09:00"
     },
     {
+      "title": "경찰 수사 미진하면… 검사 대신 피해자가 직접 이의 제기 나서야",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGdTeURPczNmS3ZoNFpudnlLdnBTNXM0RjJWLTZXOGV6c3Y4bmxtLXJiMEdvYXI0R3prVmpDczVKaWVYeTlubXk3emwxc2IwZnNsZmZaV0wxb1AxMHhUNFdlYTUxaC1mNW16MGhTSnZHUzJLQTU5eDBMeGhjTkhyaDFzb1AxNVE?oc=5",
+      "source": "chosun.com",
+      "published": "2026-10-02T00:43:00+09:00"
+    },
+    {
+      "title": "거대 수사권 쥐게 된 경찰… 전국 지휘관 650명 모여 \"비상 대응 체제로\"",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWRMNWFBQ2V5ZFJLamtvYndHNUp6Vjdsbld0NFQxZUNXYkFKcHZuZ0pQdnNNWlZUTFgxNFl4TlhPbDVwV01BZjZKZUZPd3Y5NHhTM2Z6Z0RKQkE3aEpLcm1oSTNzU2g2UUxXcjBoVXR4cy11ZjhScDVLOEhFWGFaZ2VUeGN6REtVa2dMM21uY18?oc=5",
+      "source": "chosun.com",
+      "published": "2026-10-02T00:43:00+09:00"
+    },
+    {
       "title": "거물 수사 때마다 지지부진…대형수사 역량 물음표",
       "link": "https://www.yonhapnewstv.co.kr/news/MYH20261002003757erm",
       "source": "연합뉴스TV",
@@ -1371,8 +1578,14 @@
     },
     {
       "title": "[사설] 지뢰 폭발이 \"불의의 사고\"라니 가해자 없는 피해라는 건가",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0NzS1JKZHIxeUZqYXFlbHViSGtfN3RPNTVrdkFOaFpSSUlWWE9jeXNKY1A0RkYwa011MWlJSjg1UXNYX255YW05ak40eGRYa3R4LUtZeXNYVkNuSmFNV2ZzU0kwYjhwUkJidzd4T3J6VE9ZWGxzZnZpcERUN3hINEJvVXZQQQ?oc=5",
+      "link": "https://www.chosun.com/opinion/editorial/2026/10/02/H7ZEADWAZBABVLFLGNOVKMG5WU/",
       "source": "조선일보",
+      "published": "2026-10-02T00:10:00+09:00"
+    },
+    {
+      "title": "[사설] 지뢰 폭발이 \"불의의 사고\"라니 가해자 없는 피해라는 건가",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0NzS1JKZHIxeUZqYXFlbHViSGtfN3RPNTVrdkFOaFpSSUlWWE9jeXNKY1A0RkYwa011MWlJSjg1UXNYX255YW05ak40eGRYa3R4LUtZeXNYVkNuSmFNV2ZzU0kwYjhwUkJidzd4T3J6VE9ZWGxzZnZpcERUN3hINEJvVXZQQQ?oc=5",
+      "source": "chosun.com",
       "published": "2026-10-02T00:10:00+09:00"
     },
     {
@@ -1389,19 +1602,19 @@
     },
     {
       "title": "애월농협, 보이스피싱 피해 예방 및 금융교육 실시",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VYW84TF9qQ08yZkgybDlxcUZmbzdoajNuZ0s4bVpQbzhnQWx2QlZfYy1HTW8xaEV5aUNUQ182Nk5RNUFuNHZ1SHhhN0tOWjNxNXZ2NHNQOVVFZFE3Sk53NzBZcTFrZzhfeGJ5ZA?oc=5",
+      "link": "https://www.newsnjeju.com/news/articleView.html?idxno=301064",
       "source": "뉴스N제주",
       "published": "2026-10-02T00:06:22+09:00"
     },
     {
       "title": "[사설] 기관장 공석, 인력 미달로 사법 개편 출범, 기업이라면 퇴출 감",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXZ4Wi1ibzFSRy1LNXRPeWZCNWlINVRUXzlFc3FKMVJFWFBIR2tUUUgxZ19LQVdtVUVvYjFtUFlGWFdXZjRWQm1tVnhoQXo2TGJGdEY0UWMxNDZLR2FUUVRONkRuTTBHQnVLTkFwZDBjeFBtTjZhbERlaThxQTVqSDc4Vmpkdw?oc=5",
+      "link": "https://www.chosun.com/opinion/editorial/2026/10/02/QQZ7JX4XFZGHBGVMSE7F3JSQWA/",
       "source": "조선일보",
       "published": "2026-10-02T00:03:49+09:00"
     },
     {
       "title": "檢, 경찰·중수청으로 사건 이송… 일부는 공소청서 90일 더 수사",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aSjFYWEdDQjVSSndrbmdCMUtzbTBsemdDMm1mbU1BWHRKU3dTXzhrTWFzdXVjZGZyOVFqc0lsSXN0Y0FUV1FvdEhDUnRiOGdnS3FxMlBoX1ZCV2ZhVGFqSHA4b29WN1R2MVRXeV8wUFBBakt6?oc=5",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/10/02/20261002004004",
       "source": "서울신문",
       "published": "2026-10-02T00:03:00+09:00"
     },
@@ -1419,7 +1632,7 @@
     },
     {
       "title": "경찰청, 관계성 범죄 검거·구속 증가…피해자 보호 강화",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oUkczZjRDbEhnMVZBMktaSHk3TDlYekpuUHdSVXRNNkw5RlZoaFdmbTF1VTA3alY0VTcyVnpTdDJBeDhwMk92bm8zbEFyVkNObzhzenRSaWZqQWl3R3JxZU50Ym50dk9iSTEzeDVGRQ?oc=5",
+      "link": "https://www.goodtimes.or.kr/news/articleView.html?idxno=336962",
       "source": "굿타임즈",
       "published": "2026-10-01T23:35:43+09:00"
     },
@@ -1431,7 +1644,7 @@
     },
     {
       "title": "“자식 낳고 나니 남 일 같지 않다”…‘꼬꼬무’ 정이랑, 버스 참사에 눈물",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yQUxQTDVaYVZLcmh2SVdhZWt1LWl3bU5Xc1ZsQUlXVVhPNXlKY2tLTmdMM2hVeFVsNTYtdnRYajl2a0JPdjV5OFlmS2FrQ0FtTDNBMUJmUVZMOHBqdlhnNzh1Yi1LU1pnZkZmd2lTa0Jodw?oc=5",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16232864",
       "source": "TopStarNews",
       "published": "2026-10-01T23:28:32+09:00"
     },
@@ -1456,13 +1669,13 @@
     },
     {
       "title": "여성 불안감 증폭에 경찰의 선택은? 드론·순찰로봇 투입",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50VjlzNFBCaURkLU1uTi1DWV9OeW80a3FWblhJdTZtVUhqZi1YQ251dmtDRDBya1R4cHFObUtWcjN5OUdnR200X0ZqckhhVDRD?oc=5",
+      "link": "https://www.munhwa.com/article/11620946",
       "source": "munhwa.com",
       "published": "2026-10-01T23:14:31+09:00"
     },
     {
       "title": "신고자 정보 오픈채팅방에 올린 경찰관…대기발령",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xeXVrNzJSLXptWnQwamkyNnJpQkFOS2dkcXlIUVVSbzJVbEFlTnQ3LWg4b2VwYi03Ym85SDk1d3RnVGVQZEJ2Q0RYWWtnZElBTVR4c1M1S25DRE5Zd2ZCT3lOeDBUam8?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261001231218Rzj",
       "source": "연합뉴스TV",
       "published": "2026-10-01T23:12:00+09:00"
     },
@@ -1533,8 +1746,14 @@
       "published": "2026-10-01T22:31:00+09:00"
     },
     {
+      "title": "[경기 119] 자원순환시설 불…LPG 차량 사고 후 화재",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vV0dleFRRWW82a0lkNTJ0Y1Q3b29USzZoQ3RoVDNWLWlEQ0tJZ1dzSV9LRl9YSklaOGJDZWZ1ZmtESEthTjZ2cUR5dzFpZnptVW5qRGQwWUd3Zl9sSU1Idk9DWWcyckdsZ242cFB3?oc=5",
+      "source": "OBS경인TV",
+      "published": "2026-10-01T22:29:29+09:00"
+    },
+    {
       "title": "`자수했는데 추격 체포라고?`… 뺑소니 수사 조작한 경찰 간부 `철퇴`",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56b3JzdEFnNjRPaThTZHl4WDNUTHV0eFpuR2NOQmw1aHJQYnppWXN1OGV0LVBiV1kzMXNaVE1IaG9hckxOOVBSY3hwZGIzZkJHUTJNVEUzallMeE0xSVNTMFhXMENzMDZsZzFzNXNlZk9KWTRN?oc=5",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026100122212947834",
       "source": "부산일보",
       "published": "2026-10-01T22:21:43+09:00"
     },
@@ -1558,7 +1777,7 @@
     },
     {
       "title": "한동훈 “李대통령, 北 지뢰공격을 ‘교통사고’ 취급”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lUFoxRWNmRlBmRXVRRlk4RmZhVllSSFhpMHduNU51cGctTXA5akNKQ2NGVnJ0cHJud1RJNGUteGVEQ3ZuajRtRkNBWVNYZnpp?oc=5",
+      "link": "https://www.munhwa.com/article/11620940",
       "source": "munhwa.com",
       "published": "2026-10-01T22:10:38+09:00"
     },
@@ -1582,7 +1801,7 @@
     },
     {
       "title": "경찰청, 관계성 범죄는 '사적 문제' 아닌 '중대 범죄' 경찰, 엄정 대응으로 검거·격리조치 대폭 증가",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VVFRfcDRid2hicF9CTzcydjNxV2JpdEhoTlFaSnZXVVlOS3FwaXNCa0czVkV4WHpaTVNMbVhTWVk0YlZ2bjc2UlhjTDdRVmNfd0o4NmpFQ0w2YUswT2M5VGhJeXN6UmtENlBOVw?oc=5",
+      "link": "http://www.adtimes.co.kr/news/articleView.html?idxno=1943245",
       "source": "행정신문",
       "published": "2026-10-01T21:51:58+09:00"
     },
@@ -1597,6 +1816,12 @@
       "title": "검찰, ‘자진 출석’ 뺑소니범을 ‘추격 검거’로 조작한 경찰 기소",
       "link": "https://www.chosun.com/national/regional/2026/10/01/IO7POMXZ2BDCRIDOJLSWOFIULQ/",
       "source": "조선일보",
+      "published": "2026-10-01T21:49:23+09:00"
+    },
+    {
+      "title": "검찰, ‘자진 출석’ 뺑소니범을 ‘추격 검거’로 조작한 경찰 기소",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSW1VM3hkQzVUVmh6UUNTbzlTeHMzWW1wUk9YYUExb29qMXFWUG5zS0hfOGxlcHFXSG1YNnBpQ2ZYZ25DLVUzOWpZZXZIR2pBN0FQbHFVdXJJYVlKZ2hmbXg0amlydHpTZFdyOElDMS0wOG14YmlCeW9HcllaSGRpLVVHcFZJZw?oc=5",
+      "source": "chosun.com",
       "published": "2026-10-01T21:49:23+09:00"
     },
     {
@@ -1624,6 +1849,12 @@
       "published": "2026-10-01T21:40:54+09:00"
     },
     {
+      "title": "[단독] “가해자한테 못 받은 돈만 2687억”… 뺑소니·무보험 정부 보상금 회수율 ‘8.2%’",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hWlZ0MEFtaFpKdFBmNWNiQ0p1UFowYThmMUV1WjZfZE1JVG5BTjFRMV95Ulo4STRIaXhnWm1QMmFHd0hfMkE?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-10-01T21:40:13+09:00"
+    },
+    {
       "title": "울산 민주당 시의원 “선출직 음주운전 행위 매우 엄중한 사안”",
       "link": "http://www.ujeil.com/news/articleView.html?idxno=392982",
       "source": "울산제일일보",
@@ -1637,7 +1868,7 @@
     },
     {
       "title": "베테랑 조종사가 막은 ‘여객기 참사’…총선 불안한 네타냐후는 정치 공세",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5WFlzNnVpY2NBLWg3aUpOUE9kQnhrRVZVVjQxUnZwc0ljbDQzRUpxaG9OaUNJYUt0anpRS0gwbVdzdzAtRWRlem9wMF9BRmZrSWdSSU0xR0NEQdIBX0FVX3lxTE9ocUdYSnV4TlVUeWJLOGtBb0tmdUd6Y2d1SUk4Y2NHX3Q2UUY3WW0xSVltd3RtelN2R2FOV2tUek56enFwVzNPZzJVM2JIYzE3Vl9ZV0tDeVpZUzRBdjRR?oc=5",
+      "link": "https://www.khan.co.kr/article/202610012134025",
       "source": "경향신문",
       "published": "2026-10-01T21:34:00+09:00"
     },
@@ -1661,13 +1892,13 @@
     },
     {
       "title": "경찰, 동대문구 통일단체 압수수색…국가보안법 위반 혐의",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Cc21tUzlHRzk0VzVFd1dzQmZNdHRfYVR0WTB2NmJoaml5eXlmX1BaQ0FRNXJ3NG04eWxOb0NFemNNbGVHWU16QlQyY2dBZlowVHE1a2YwbU1vcVRJNm1ndQ?oc=5",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202610010073",
       "source": "KBC광주방송",
       "published": "2026-10-01T21:20:01+09:00"
     },
     {
       "title": "유튜버가 음주운전 단속?…“과하면 형사 처벌”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hUzdmN2pOZTgyMUJGd1FmUjFDS3NiUHVZX09KV1RnaDFFRDNLWDVNMF9LN3l1ZlU2eTVMYUpBYXZUS0NSeEpLa0d1dm5GYmwzZHRzN2daa0hjekU?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8676001",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T21:20:00+09:00"
     },
@@ -1745,7 +1976,7 @@
     },
     {
       "title": "제 발로 파출소 찾아온 뺑소니범…‘추격 검거’ 허위 서류 쓴 경찰 기소",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqOTNaVGU2cWJuTFFtV3hyVHJuMGp4dWkzaU12ZEJISC1NWjRYRzBIRzRRdlc1cHpiZlVyQk9GVWlwNXFfTEJnZXpnSEx0NEU?oc=5",
+      "link": "https://v.daum.net/v/20261001204113338",
       "source": "v.daum.net",
       "published": "2026-10-01T20:41:13+09:00"
     },
@@ -1763,7 +1994,7 @@
     },
     {
       "title": "“법학, 바다의 현장을 만나다” 인천대학교 법학부, 해양경찰청 현장견학·진로설명회 실시",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJTVM5VVNrZ21fX3hyUXdKZ2xJX3RFbHVfYTExaTdLZWtxaXcyV1BFdW5pekZ1S3ZCaWdoQVhhWkdmeWxDc0Nwb0duM0lEbXhFUFRYYjJoVzJYR2tfXzVmZHJPVk0wS1Q0RnJZOFhZUQ?oc=5",
+      "link": "https://www.naewoeilbo.com/news/articleView.html?idxno=2425745",
       "source": "내외일보",
       "published": "2026-10-01T20:37:03+09:00"
     },
@@ -1775,7 +2006,7 @@
     },
     {
       "title": "인천 보이스피싱 55.9% 급감...경찰, 35초 ‘숏폼’으로 피싱·노쇼사기 예방 나선다",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGRGhIUHN0Y3hycE5pc2d0WE93eVUza1c5MTVnLTh5dG55dUxPaEFuNmUwQUIzSjd5UUhmdUtlRlZmSGJCaDV5a3dnVlRTTmJaRHVWcEVHTklZbFh1THVsRTBrMkVhR0E?oc=5",
+      "link": "https://www.asn24.com/news/articleView.html?idxno=570601",
       "source": "asn24.com",
       "published": "2026-10-01T20:32:44+09:00"
     },
@@ -1793,13 +2024,13 @@
     },
     {
       "title": "국민의힘 제주시갑 조직위원장에 박기남 전 자치경찰단장 임명",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YbDNwUXRWZ2dFaXotbG9ZZU5PZktKYks4SVJkR25jdlp5MjZvNVRGS3BCWXZCUm9fbUpEVFZWV2VFWFp4TUtmbkFzVVRhdkZ4NS1LX25fYnBtcUx1aGdlQXI0SjR0dDlRZVR3?oc=5",
+      "link": "https://www.newsjeju.net/news/articleView.html?idxno=426547",
       "source": "뉴스제주",
       "published": "2026-10-01T20:20:46+09:00"
     },
     {
       "title": "목장 탈출한 말 능숙하게 귀가 시킨 신입 경찰…알고 보니 승마선수 출신",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UY0VVenNha1BzTHNUVlZDMlNDaS1jVFdtRzBuamE2MGRKZkNVQWtMeF9LQmFJTmFmQ2NPbHZFeHplRmJyN290UzExZGJobms?oc=5",
+      "link": "https://v.daum.net/v/20261001201714874",
       "source": "v.daum.net",
       "published": "2026-10-01T20:17:14+09:00"
     },
@@ -1847,7 +2078,7 @@
     },
     {
       "title": "경찰, 동대문구 통일단체 압수수색…국가보안법 위반 혐의",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6N3FZVU9ILWQ2dFdMc3JlWEt0cjZ1WjhKdDhQRjg5clNJaGcyTmdfWWFUVWt0MmRFV0pGNG01TG9Ed1oxM2VpS2lnRzdsdUpoc1VfYlFWdU04U0k?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675916",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T19:56:00+09:00"
     },
@@ -1859,7 +2090,7 @@
     },
     {
       "title": "경찰, 동대문구 통일 단체 ‘국가보안법 위반 혐의’로 압수수색",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjBnVlFJMjVFSmk3dlN3VTZ1MkwwckVVeEx6d2N1ZnJIRUQ5RnNBU2R5Z3BuTUVqOXJ2ZXVaQ0tSLU13NnU2R3lSMmZXNkMyTFhVM2xCcExRN1VtSjJWMkR4Si1PanVLcDRnTlZlWFVwS0dlbjU0TXk1VHZ2MlBDenBEMTl0MHBaMVZlSjJ3?oc=5",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261001.99099000396",
       "source": "kookje.co.kr",
       "published": "2026-10-01T19:55:00+09:00"
     },
@@ -1895,7 +2126,7 @@
     },
     {
       "title": "준비 덜 된 경찰시대…‘대국민 수사 실험’ 우려",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWS0wbG9FMUNrUFZ5QUdBLXAtN3ZoYXdqWVlad0lfQ0xXa1dDVnI1amduSU9zTDFxd3NzNVhuYjk0WHgwSktSZFNHYWlsbzhSRkhVNE9aY1piYWtWZ0tzX01DV0taRlBEVGwzTkIwUDdyYi0xalF5UE5xXy1VN00xbmNyZFpJSUgyU1RSNHpB?oc=5",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261002.22001000394",
       "source": "kookje.co.kr",
       "published": "2026-10-01T19:39:00+09:00"
     },
@@ -1913,7 +2144,7 @@
     },
     {
       "title": "법리 복잡한 지능범죄 급증…“공부해 수사할 엄두 안 난다”",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjh5cldWaGQ1S1pTbkFzOUVvdGlrWGRGMGNsU0Y1c3lWSHVLdTh1ME9FckRwczdHTnpwbnJlWk9vQnR6Tm9VX2dWMnE5UGVock5lSVVvOURjMi1FZHlRSm9XR3FKUzNQd3JGcURMbHl5Z0c4bW9KSDNqN0Zya0tmd0ZiRmZTNi1hMWx4ZU5n?oc=5",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261002.22003000385",
       "source": "kookje.co.kr",
       "published": "2026-10-01T19:32:00+09:00"
     },
@@ -1985,7 +2216,7 @@
     },
     {
       "title": "이관 사건 규모 깜깜이…수사 혼선 불가피",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xVENuNnNWRFNlOUFKWkZ1WVl1RkNxeTBQYTk5ajFaNzdCcVRKTE5tc3hUR3JOODJWME1Kc0Z0eWo5U1Zma2R0Z2NHbFFJWTJoY2NQaFNBeV85aEpnRVRvTlBwbDExZw?oc=5",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675817",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T19:11:00+09:00"
     },
@@ -1997,7 +2228,7 @@
     },
     {
       "title": "[단독] “수사 경찰 따로 키운다”…민주당, ‘수사 경찰’ 분리해 양성 검토",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QY2o3b2h6SWpmZEJTT0g0UDZmbW1PVk0ybC0wNXIzRUV6RW51cU9rdTBSdlhjSi1qUi1pQUhobkdhcHp1aTMtT2JHX2tVODhEdzdHcmpFWDlqc28?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675810",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T19:09:00+09:00"
     },
@@ -2070,7 +2301,7 @@
     },
     {
       "title": "오픈채팅방에 신고자 연락처 올린 경찰…대기발령 조치",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uaWxZSDUwTWZxYkRmejYtZDlKNWMzQV9NZ2pxYkU4NzRzbGd2Q1ZqZkVhb0I1eDI0MEhlRkdoYTVFNHhabXR3RUdfUWphQTV5THN6QU5KV2tiN2M?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675775",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T18:47:00+09:00"
     },
@@ -2137,7 +2368,7 @@
     },
     {
       "title": "이 대통령 “국정자원 화재 1년, 후진적 인재 반복 안 돼…시스템 이중화 속도”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wMHpYUWRYY1k0LTBDTHRaeG02Yl9Hb1E1WGdDR2doR0xZWDdSaEhaU1pwR2RmbDVndnRyMmlfZFNnRWlBd3dscFVsSHZmSUxWa1hmc1F1bU41Zm8?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675771",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T18:25:00+09:00"
     },
@@ -2203,7 +2434,7 @@
     },
     {
       "title": "서천군 공무원 음주운전 적발…민선9기 출범 후 첫 사례",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fTTVTRGpVX0c2cHNGclBUZXQxZ2xIVVJEajM2YjlMdlM2OTl6cG54S3hreWpwYWZPa0hZNm9sTjZQU0pneDFaQW5pVlRHWUdsS0hrUlFKUDc3TlnSAVZBVV95cUxPSkJjZVJRNktPQkd0ckRYcF9NOXZMbVhzR2Z5dWtlem5sYmdfMWlmTjNaNG43MnRJdlA5eGFQQ2E5VjdCWHJWYUpJMW51NmJKa1hmaXptQQ?oc=5",
+      "link": "https://news.tf.co.kr/read/national/2372200.htm",
       "source": "더팩트",
       "published": "2026-10-01T18:10:13+09:00"
     },
@@ -2242,6 +2473,12 @@
       "link": "https://www.kyeonggi.com/article/20261001580490",
       "source": "경기일보",
       "published": "2026-10-01T18:03:29+09:00"
+    },
+    {
+      "title": "환아 사망 수사 중 소아응급센터 압수수색…의료계·경찰 '과잉수사' 공방",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zY0FvU1dMZWZHMUI5YURqMzBIYjdETDJNN0I4VXo5M2ZLanBRQk5Fenk5WS1SQTZFV254ODhJSEFqTmZKWTZWNmpMM3B6N2c?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-10-01T18:01:46+09:00"
     },
     {
       "title": "檢·국정원 넘어선 권한…‘정보·수사·안보·치안’ 한 손에 쥔 경찰 시대 개막",
@@ -2296,7 +2533,7 @@
     },
     {
       "title": "해경, 불법 고용 외국인 선원 승선시킨 어선 적발",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3aWJYWUltS0V6bjM1eWw4UHZzUzBOXzRQdlYzOERzUF9pRVVMMjZsRDROeVVHT2ZjNmNBeDBMQlFkTk1UM095YXVvd1B4NFpVUFJfbGQwelQ1ZFk?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675754",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T17:49:00+09:00"
     },
@@ -2397,6 +2634,12 @@
       "published": "2026-10-01T17:30:15+09:00"
     },
     {
+      "title": "코인으로 뜯긴 보이스피싱 피해금도 돌려받는다…법령 84개 시행",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NUTNYU1hIT1VJQ2FxbGhRTTlvaC1ScXV3TDFYM1BVMG9Yb2JRVHl0OXVYVTZnaEt1Wmk4cXBHSXBobThvZlJpTXctdzYtOUV2SWJSQ2VCWjBzZ3BaTWfSAWNBVV95cUxOTzlKNURaMzRNZTdyd2RjSVlNWTlVUWdpeW5ZWHN3UkF2UXRoUlZLQ3EtY09WOEl1V1lWQzVnSktGX2s3aEtfNnFGTFZfdDBjYlBHbnI3aVpRNEM1WWpFSy0yQWc?oc=5",
+      "source": "news1.kr",
+      "published": "2026-10-01T17:30:15+09:00"
+    },
+    {
       "title": "전남광주시, 터미널서 치매어르신 실종 대응 합동 훈련",
       "link": "https://daily.hankooki.com/news/articleView.html?idxno=1411466",
       "source": "데일리한국",
@@ -2464,7 +2707,7 @@
     },
     {
       "title": "전주시의회-전북경찰청, 안전한 전주 조성을 위한 협력 다짐",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KNG1lbFFrdXBvQURiU09SUmFNbHN3aHNTVlpsOWRqWnZfUGs4Yy1WcWdVMzR0R3dzdHY3dUxiN3JicTdGd05zV2RidTN2d1N5Z0Yzc2lRQ3NSQ3FwaWI2NkJoa3k5N01Mdnhv?oc=5",
+      "link": "https://www.honamjeil.com/news/articleView.html?idxno=27370",
       "source": "honamjeil.com",
       "published": "2026-10-01T17:16:30+09:00"
     },
@@ -2537,7 +2780,7 @@
     },
     {
       "title": "오송 참사 유가족, 공소청에 김영환 전 충북지사 기소 촉구",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XdUtUNkNBd3JIeGtCUXBxaThhNDM5YXNQa0wwVXZLQ3ZHRGgzTGFTQzJXeHBZOU9EMmUyTmRiVlVRUkpLRm9DX3lzNWpBLTlSVlJpZC1Oa29DZ1VlN3VzdnpR?oc=5",
+      "link": "https://www.inews365.com/news/article.html?no=937952",
       "source": "충북일보",
       "published": "2026-10-01T16:53:10+09:00"
     },
@@ -2572,6 +2815,12 @@
       "published": "2026-10-01T16:50:56+09:00"
     },
     {
+      "title": "충남경찰청, 고의사고 내고 보험금 5천만원 타낸 오토바이 기사 '송치'",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWcHh0dkROYkFnS2dFbGMyQzJMN3lJUk5ZM09KRFg2LU13dEdHWXU4SWE5RW1sM1ZUY3pwc1dTb2Yyd21iTFY4M2ZFZTJlUWlFc0J4UTNYNVQyejAxamJYRXE4OW93dVNkUXZScU9xNDkzZkhmd0NCenFR?oc=5",
+      "source": "lawissue.co.kr",
+      "published": "2026-10-01T16:50:56+09:00"
+    },
+    {
       "title": "무주 싸리재터널서 경차가 경운기 추돌…80대 운전자 숨져(종합)",
       "link": "https://www.newsis.com/view/NISX20261001_0003811287",
       "source": "newsis.com",
@@ -2602,9 +2851,21 @@
       "published": "2026-10-01T16:44:58+09:00"
     },
     {
+      "title": "진료중 소아응급실 압수수색…의료계-경찰 ‘과잉 수사’ 공방",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jeHp1UGhaQXQzMjhMSVp0WmJYMjZMVmtGOENacUhKdFNjSTQ3M0JWV05NSW05YW9Kb2NIUXgzTGdDODRoci1FaGZJY2lPdEFyM1HSAVNBVV95cUxPMTA2ZGs3VlFUZk5xbW9NTlZlZ2NMd19aamQtTkRDbHltYlpkS1pYd3V5TnpqZy10REZFTERYZ1NWeUk2TXhibjBCVkUwZkNsWkZZTQ?oc=5",
+      "source": "sedaily.com",
+      "published": "2026-10-01T16:44:58+09:00"
+    },
+    {
       "title": "경남경찰청, 중수청법·공소청법 시행에 따라 경찰수사심의위원회 확대 운영",
       "link": "https://www.lawissue.co.kr/view.php?ud=2026100116361356529a8c8bf58f_12",
       "source": "로이슈",
+      "published": "2026-10-01T16:38:46+09:00"
+    },
+    {
+      "title": "경남경찰청, 중수청법·공소청법 시행에 따라 경찰수사심의위원회 확대 운영",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QN1M0dlNOb0NQNE9xWXZ3YTlSeW1aLWxpT0cxVlVyNUdnZ29fcWQtSnl1UFNzQjYyNzZJdnNvNVNfVVJDWkV3VlIwNG5ZTkNBV0U4enBpVURJcmRjWGpFVTIzdlNnS2RjcER5OFRYVTJGajJUb0d0T2l3?oc=5",
+      "source": "lawissue.co.kr",
       "published": "2026-10-01T16:38:46+09:00"
     },
     {
@@ -2627,8 +2888,14 @@
       "published": "2026-10-01T16:36:26+09:00"
     },
     {
+      "title": "진주시민행동, 조규일 시장 의혹 사건 빠른 수사 촉구",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00N0E5TVlzTHFsS2RRSFQyUXVBUG9seVZlZk9iN3piMVJQRDhoZVpOMkl6bGZmbVdQSVkydWY2S19Sa1hFeERYcm9hRjVGWnRWb0c3MmtiYVlUVWJOSWxuLUhIR25DRGtyQXc?oc=5",
+      "source": "idomin.com",
+      "published": "2026-10-01T16:36:26+09:00"
+    },
+    {
       "title": "당진경찰서장, 보이스피싱 피해 막은 우강농협 직원에 감사장",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OU3Y2cWZKakwta3pBT3lfS25WdGJadU5faFpRaDlKR2gzMWc0djRISEVNX1lxcjU5SVN0QlNTR0w0QnJNRlJ5WFFlZGRCeHpXT0tzZlQ3cTFEWU9mOE5IeTNmN0RuSHdTeTFna2FOT2E?oc=5",
+      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2444237",
       "source": "충청일보",
       "published": "2026-10-01T16:36:24+09:00"
     },
@@ -2694,7 +2961,7 @@
     },
     {
       "title": "사고 뒤 ‘죽음의 6분’…고속도로 순찰차는 15분 뒤 도착했다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oclVjeTNaX3NVUTF5V1JSMmZGZzdJSGFpaU9tTWVnZzRlcTItM1RUX1djdHhYdEZ0c1pkdzdrQTgyQXYwVkRfeHM2bHRMVVk2V2YtcXpSYVFhSHNfbXliek9WQ1VhR0R3U08yLWRR?oc=5",
+      "link": "https://www.news-home.co.kr/news/articleView.html?idxno=75434",
       "source": "뉴스홈(newshome)",
       "published": "2026-10-01T16:23:28+09:00"
     },
@@ -2743,7 +3010,7 @@
     },
     {
       "title": "충남 서산 금속기계 공장서 화재… 인명피해 없어",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lSUtuOFk2VXE3Q0Zzal9hei15WGczSHB1dHlFN21ndHh4NmhVaDREaEJlcnZNcW13Qi0yb25abmpvajdIZ09YcHJuNDlvQWxCVnNJb1RFQ0ZsdTBXTnRWYTEzVkcwT0ZmakE?oc=5",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1184846",
       "source": "금강일보",
       "published": "2026-10-01T16:16:57+09:00"
     },
@@ -2779,7 +3046,7 @@
     },
     {
       "title": "8년간 13명 사망 한화에어로…중대재해처벌법 적용 받나",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HQjFJQjV6ci0tZTlCUW85aWkyRGFWQTZkZm05OTljalRFcjJTamY2SkJYUzh3VHVnMkZfOFpsbF9KQTNSNXhxRWF4Q0FWdFRoeWR0UXNYbnBUeG9takdJNHJIc3E?oc=5",
+      "link": "https://news.mtn.co.kr/news-detail/2026100114440878290",
       "source": "news.mtn.co.kr",
       "published": "2026-10-01T16:11:40+09:00"
     },
@@ -2827,7 +3094,7 @@
     },
     {
       "title": "경찰, 새 형소법 시행 맞춰 ‘비상대응체제’…‘수사 전결권’ 갖게 돼",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SR0ZxNk9ObFhvQWR5SThYaTZoa3MxM0xzUlpvWDdka21yLW5xM09Hbzgyd0hSVmZyUF9pdzB0d1l3TTUyV0hsOUtFdUFGZ09CVC02c2JfLVJRT1NFendPckJDRGdtcEJSZVNQdDczV3RyQQ?oc=5",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1280440.html",
       "source": "한겨레",
       "published": "2026-10-01T16:01:00+09:00"
     },
@@ -2841,6 +3108,12 @@
       "title": "제주자치경찰, 해안·오름 등 치안 사각지대 특별치안활동",
       "link": "https://www.news1.kr/amp/local/jeju/6307886",
       "source": "뉴스1",
+      "published": "2026-10-01T15:59:30+09:00"
+    },
+    {
+      "title": "제주자치경찰, 해안·오름 등 치안 사각지대 특별치안활동",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0bDFXQXB4djBnU3dydG5HUW5vSURPcmRVV05seDA5V0xSU1ZqdlRzUlc2R2w3NFRhaWpRRVU0WWpmc3NyUjRCUzZtZS16RThpYVhxcTdB0gFWQVVfeXFMUHRsMVdBcHh2MGdTd3J0bkdRbm9JRE9yZFVXTmx4MDlXTFJTVmp2VHNSVzZHbDc0VGFpalFFVTRZamZzc3JSNEJTNm1lLXpFOGlhWHFxN0E?oc=5",
+      "source": "news1.kr",
       "published": "2026-10-01T15:59:30+09:00"
     },
     {
@@ -2875,6 +3148,12 @@
       "published": "2026-10-01T15:56:30+09:00"
     },
     {
+      "title": "5명 사망 한화에어로, ‘46건의 폭발화재 위험요인’ 있었다",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fMXZZcFFjWkxIdkN1LUN0MXhnZGZ2aHpPVTBRcFJwVFZNdWtWSUljOU83YnlhTUtxVXVYcjZjNnNsbUxIOUpNQVl2OFdKU0VHbWfSAVNBVV95cUxQMUxMZzd5RUxrdXNrUEhiRGJSRkVJMW4yMWNiOEFtdVJRdmgzS1hIa3p4NlNYZ01JTDVYalRxTWxLUkM1ZW1naFRyZTlYQzlvZ2Z2QQ?oc=5",
+      "source": "sedaily.com",
+      "published": "2026-10-01T15:56:30+09:00"
+    },
+    {
       "title": "경찰, 전국 수사 지휘관 소집...\"비상대응체제 전환\"",
       "link": "https://www.ytn.co.kr/_ln/0103_202610011555271013",
       "source": "YTN",
@@ -2889,7 +3168,7 @@
     },
     {
       "title": "전남광주통합특별시, 지역사회 합동 치매어르신 실종 대응 훈련",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fQTdhaVJVZjFRT1RzeWVUZGQzSmI2QmlxNmx4eDgtM1lRR2VONEtQUnBzQk1XSkpNaDROSjlBQ2tWZw?oc=5",
+      "link": "http://www.gogsung.com/43099",
       "source": "곡성투데이",
       "published": "2026-10-01T15:55:00+09:00"
     },
@@ -2913,7 +3192,7 @@
     },
     {
       "title": "법규 위반 차량만 노렸다..충남경찰청, 고의사고로 보험금 5000만원 챙긴 40대 송치",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RenRjcEQtMW03SGN0Y1Zzbjd4WmE3QmNBMDRrb3J1Q0dvZW1IUVVhQk5uR0FBQnhxY2VfdDdpLVpxemhFMXJPcjBTcjQ1ekpiNkdwVlltdFNzcWRTX3ItakF1Rk1WLWJi?oc=5",
+      "link": "https://www.idjnews.kr/news/articleView.html?idxno=303009",
       "source": "idjnews.kr",
       "published": "2026-10-01T15:52:44+09:00"
     },
@@ -2933,6 +3212,12 @@
       "title": "박기남 전 제주자치경찰단장, 국민의힘 제주시갑 조직위원장 임명",
       "link": "https://www.inews24.com/view/2011047",
       "source": "아이뉴스24",
+      "published": "2026-10-01T15:50:24+09:00"
+    },
+    {
+      "title": "박기남 전 제주자치경찰단장, 국민의힘 제주시갑 조직위원장 임명",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rTndlQm1MMXhBTkFHbFAybjZ2dEdvSU05Y0RBdGNmTjB2Yi03dWEzY1JjMHQ1YWJWSmp3YVNuNGFyLThKZ1lKREU2YVU?oc=5",
+      "source": "inews24.com",
       "published": "2026-10-01T15:50:24+09:00"
     },
     {
@@ -2962,7 +3247,7 @@
     },
     {
       "title": "국회앞에서 이재명 정권 실정 대국민 보고 대회 정책 실패 인사 참사_대통령은 사죄하라",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ed3lTNHdfQkVYejZLN1h3UE1FMW1qd09oNmZRLXd0NUlRc3EwNE9JNVNQcXpXUkk1UmwtMVVtbm9MOXpzWlEyTjBuNThYQQ?oc=5",
+      "link": "http://www.krnews21.co.kr/news/363242",
       "source": "뉴스21일간",
       "published": "2026-10-01T15:44:18+09:00"
     },
@@ -2974,7 +3259,7 @@
     },
     {
       "title": "보이스피싱 막은 FDS란? 농협상호금융, '빌라 계약금' 위장 사기 2억5000만 원 차단",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IZFhsUGZQdW9LNTNfOFBPcEhaNG9QZnFuZmNUbFBJbWNRMDlQUnFJeC1aa1JvaTkwNzlmNDNYanZ2Z1RNYTBVM1RzT2k5d29oSU90Yl9XMkZTT3QyenlSLWhSTkxZeGFn?oc=5",
+      "link": "https://www.news33.net/news/articleView.html?idxno=118347",
       "source": "창업일보",
       "published": "2026-10-01T15:43:14+09:00"
     },
@@ -3022,10 +3307,17 @@
       "published": "2026-10-01T15:30:06+09:00"
     },
     {
+      "title": "李대통령 \"불가역적 檢개혁 흔들림 없이 완수할 것…경찰개혁도 주요 과제\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZ1hkVnc3cjdhNExWVmpxWkdQTVU2cHpVaW1XQmM4VVR6MExib2FQZ3JVLVhZclBQN3BYUUF5ZUdJSFhiYnozNzRBN1kydlhEUHhoTklBYklIRGpMUDljMzNkc2dVVWVrWkg4VXJpUHo?oc=5",
+      "source": "news.einfomax.co.kr",
+      "published": "2026-10-01T15:30:06+09:00"
+    },
+    {
       "title": "영천시, 치매환자 실종 대응 모의훈련…지역 안전망 강화",
       "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067973",
       "source": "신아일보",
-      "published": "2026-10-01T15:29:49+09:00"
+      "published": "2026-10-01T15:29:49+09:00",
+      "summary": "경북 영천시치매안심센터는 지난달 29일 화북면 자천1리 치매보듬마을에서 주민과 유관기관이 참여한 ‘2026년 치매극복 실종예방 프로젝트’를 진행했다고 1일 밝혔다"
     },
     {
       "title": "오송참사대책위 “김영환 기소, 공소청 최우선 과제”",
@@ -3034,9 +3326,21 @@
       "published": "2026-10-01T15:29:25+09:00"
     },
     {
+      "title": "오송참사대책위 “김영환 기소, 공소청 최우선 과제”",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vbktDQUhSV1o5UkxqRnMyRExvLW5qNHlQZmwtdWdiMkd3eTFBdmVPeHNsd01DU0Zma0xrb0NpMlhzbzVKTGxDcVhONGo?oc=5",
+      "source": "inews24.com",
+      "published": "2026-10-01T15:29:25+09:00"
+    },
+    {
       "title": "10·29이태원참사 4주기…'기억과 애도의 달' 선포",
       "link": "https://www.news1.kr/society/incident-accident/6307814",
       "source": "뉴스1",
+      "published": "2026-10-01T15:29:08+09:00"
+    },
+    {
+      "title": "10·29이태원참사 4주기…'기억과 애도의 달' 선포",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkUHlpd0t6QURlNlRzampHU005RjdxMjBHZmdvZXVrcHZ6cWZQdnRYSVVlNnZMek8wanJNWm11eGFYaU5oTkZZWkpHTm9VNUVLWTdBdHVZSElNdzh6UkdWdWlOV0_SAWpBVV95cUxNVkZZbGJwZzh5T01YTlV1YW5wd2hzTkEtOGN4alAyemYxRFAxSlR5b3dtOHVucThCcEJLTU84SlAxZ3N1Tmowd1hCY25rcHNjVFhTNlVsUFIwLUNwNG00aFlyRjlCTGh4TVNR?oc=5",
+      "source": "news1.kr",
       "published": "2026-10-01T15:29:08+09:00"
     },
     {
@@ -3137,6 +3441,12 @@
       "published": "2026-10-01T15:16:28+09:00"
     },
     {
+      "title": "도박판 벌인 해양경찰관 등 5명 입건",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFpZOGxyVUM1WVlSVkVoTUFpelF2SGtfTEQzQUxWa2hrNzJBenFuTzhEWGNRaFJzVjVHRklwUTI4VEh3cl9iM1hzVXhFcjNHTFlTR1ZGWFM1aEwwYzRYN013V19YTlVJUkM1b0loNldfVWhBZ1BBZm1xZlkyS0RVZ2dCUlpkUQ?oc=5",
+      "source": "전북도민일보",
+      "published": "2026-10-01T15:15:00+09:00"
+    },
+    {
       "title": "[특별기고] 72년 만의 형사사법시스템 대변혁, 국민 편익으로 입증되어야",
       "link": "https://v.daum.net/v/20261001151138952",
       "source": "v.daum.net",
@@ -3156,7 +3466,7 @@
     },
     {
       "title": "5명 숨진 한화에어로 대전사업장…`폭발·화재` 안전위반 무더기 적발",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eVI5SWNidmNMRjNqR3Y3RHFFclRaemIwSk9uazNzQlZKN3B0UXBhSzdxWFhpUU5KdXpDdlVkT1FPR3hKTXdaXzI0NDJCdG5KTzdCbEkyT0V5SWdJeE1RSGxnaW0?oc=5",
+      "link": "https://www.ddaily.co.kr/page/view/2026100115063960944",
       "source": "ddaily.co.kr",
       "published": "2026-10-01T15:07:48+09:00"
     },
@@ -3180,7 +3490,7 @@
     },
     {
       "title": "청주상당경찰서, 자치경찰 치안협의체 정기회의 개최",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzTVJQWnN6ZV9vU2U5aEE0SmFJblliaEtFZWcyNHFKanpfTlFQb3JlU0c4T2pWUm1jSGlMbi1pbXRMRTJzWWlJU0FBZ1JVRzhDdHNTNU96bTlBQWlFUGpRZDBQNU1xaUk?oc=5",
+      "link": "https://www.cbnews.kr/news/articleView.html?idxno=245314",
       "source": "cbnews.kr",
       "published": "2026-10-01T15:04:44+09:00"
     },
@@ -3216,7 +3526,7 @@
     },
     {
       "title": "평택해경, 시민인권단 정기회의서 이은미 평택시 가족센터장 신규 위촉",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tcHg0dHo0TmE2T0NxTUs1cEJZMVgzb2RjVTk2bFJXZVMtNndSNmlqZ1MtbVByNm14UHVGb2JsRngwY053NDN4SUpEaGlXY3FtdUh6T1Noc1NwWS1VYmxxYWgzcmE?oc=5",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2001847",
       "source": "매일일보",
       "published": "2026-10-01T15:01:04+09:00"
     },
@@ -3235,7 +3545,7 @@
     },
     {
       "title": "공소청∙중수청 출범 ‘D-1’…형사 절차 무엇이 달라지나",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PRHA2UnpqRmU1ak92SmlkZkRLVHlHTHgzd2c4ZmlZTkRVTlhad0xfMVZ5Nkpwc054TWRwZXpLSGo0ZnVodXFoQnNOallJM3d5YkdLYVZXTU9HRnRxSUc5VXc2WWtLRWk0SllDZ0VUQ25Kdw?oc=5",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1280299.html",
       "source": "한겨레",
       "published": "2026-10-01T14:59:00+09:00"
     },
@@ -3243,6 +3553,12 @@
       "title": "'빌라 계약금'이라던 거래 알고보니 보이스피싱...농협상호금융 FDS가 2.5억 피해 막아",
       "link": "https://thetracker.co.kr/View.aspx?No=4248759",
       "source": "더트래커",
+      "published": "2026-10-01T14:56:15+09:00"
+    },
+    {
+      "title": "'빌라 계약금'이라던 거래 알고보니 보이스피싱...농협상호금융 FDS가 2.5억 피해 막아",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83d1ZKQVhsQVNDLUo2N2tMU01TaDZEcDE5VkNvTWxvcFNYdEJnTVNjMDVuNFVjZW1OalBrZlNfTHRRQjF3YUJFVWw1TW1GMEJqYjFuMnMxUEg?oc=5",
+      "source": "thetracker.co.kr",
       "published": "2026-10-01T14:56:15+09:00"
     },
     {
@@ -3341,7 +3657,7 @@
     },
     {
       "title": "부산 남구 이기대 앞바다서 40대 남성 숨져…해경 수사",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1d09hNGp6V2JsXy0xSjR3YnhCRjdka2dmRTJITHVackVPUGd1SzJDTmQyaVh3WExmRDlvLWlqUkhOdzM3Z2hxZkdYendXZURzRDRQUFVBS1ZYOTg?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675668",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T14:43:00+09:00"
     },
@@ -3353,8 +3669,14 @@
     },
     {
       "title": "‘7명 사상’ 한화에어로, 법 위반 473건 적발…과태료 5억",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQkhTSlpLb3c2Y0JBaDIwNV9PNFhUdDdVUUhZU2JYZDROeFhIamZqbkQycncwVXdkdGR5TVg0RjY5U2hIelBSek5UWmtEalZZaXlQdDdkeFZIRW0zMEc4MFZNQkVfbEhSTFJzcw?oc=5",
+      "link": "https://www.speconomy.com/news/articleView.html?idxno=418470",
       "source": "스페셜경제",
+      "published": "2026-10-01T14:41:20+09:00"
+    },
+    {
+      "title": "‘7명 사상’ 한화에어로, 법 위반 473건 적발…과태료 5억",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQkhTSlpLb3c2Y0JBaDIwNV9PNFhUdDdVUUhZU2JYZDROeFhIamZqbkQycncwVXdkdGR5TVg0RjY5U2hIelBSek5UWmtEalZZaXlQdDdkeFZIRW0zMEc4MFZNQkVfbEhSTFJzcw?oc=5",
+      "source": "speconomy.com",
       "published": "2026-10-01T14:41:20+09:00"
     },
     {
@@ -3365,15 +3687,16 @@
     },
     {
       "title": "[군산시] “지원금 준다며 신분증 요구”…사칭 보이스피싱 주의",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00RXQ2RFk3R0RkYm8wMHlZclJGSzQySlhzS2ZkT0pFemJONVdyQzJhaFdiRTZMc1pab3BXajJaWVhrR1Q4TnhZU3FuU2MwWnNQTlZ2WTJFYUVvLU1aVVRKTEV1WHVlODN1?oc=5",
+      "link": "http://www.todayan.com/news/articleView.html?idxno=632035",
       "source": "투데이안",
       "published": "2026-10-01T14:39:25+09:00"
     },
     {
       "title": "소아응급센터 진료중 경찰 압수수색…의학회 \"환자안전 위협\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Q25ic2p0NmFYX3RNTjdCemt1dy1fZDQ2a2dYNktZcDRJQzlsdVZTbXE0b3VGNGE2MWpHdWlSQmlhVUk2T2FhSG1NNjJ6U0F6ODNla2FuWENMeknSAWBBVV95cUxPNHIwbTU1RU51OFhsYVpsR2VPUWpKQk5wUG5STk5oTjhZUy01NGZ5S09aaDRTQ0NLNkhkVV9tMlVqM3JzNHBBQzVzVFRhMGdzVFo2bUpSQ241Nm55RUtYZGQ?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20261001123300530",
       "source": "연합뉴스",
-      "published": "2026-10-01T14:38:56+09:00"
+      "published": "2026-10-01T14:38:56+09:00",
+      "summary": "경기 남부의 한 병원 소아응급센터에서 환자 진료가 이뤄지는 도중 경찰이 압수수색 영장을 집행한 것을 두고 대한..."
     },
     {
       "title": "충남 보령해경, LNG 해상 유출·화재 대응력 강화",
@@ -3406,6 +3729,12 @@
       "published": "2026-10-01T14:31:22+09:00"
     },
     {
+      "title": "\"치매 어르신 발견하면 이렇게\"…전남광주통합시 실종 대응훈련",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XeUVVSFlZU2FmTUx3d3lVQWVadmZ5TzA1QTdBUVBqRG9zWXYzMnN4RVg5cGd3aVhlUmJXejlYTTAzRkRLUVhVVDlGTHlsWVF0YUxfZXJVNkRfdFZ2VTJv0gFkQVVfeXFMUEFhYTQ2YmpZcWdDR1Q1NjJUMEUtV3g4OG5wUDRkLTJZcW5xQVNfalRvVTJPOWtMWm9mYkZBWmhYUGt2WVZEMzY3Z29qVE9TSGltd2FWRjJvTVBIMERaMEUyaE1mWg?oc=5",
+      "source": "news1.kr",
+      "published": "2026-10-01T14:31:22+09:00"
+    },
+    {
       "title": "새벽 아파트단지 교차로 ‘굉음 드리프트’… 경찰 용의자 추적",
       "link": "https://www.kyeonggi.com/article/20261001580153",
       "source": "경기일보",
@@ -3425,7 +3754,7 @@
     },
     {
       "title": "계양소방서, 가을철 캠핑장 화재·안전사고 예방수칙 홍보",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA2cjVJclNjVnpvTk5kVkVwRlNSbWtrMW9XY2ZDektuN3ZOVVduU3RSMnp3aTM5SmRVLVZPSkw5NElqZTg?oc=5",
+      "link": "http://www.gipress.com/651372",
       "source": "경기in",
       "published": "2026-10-01T14:28:00+09:00"
     },
@@ -3469,7 +3798,7 @@
     },
     {
       "title": "전남광주통합특별시, 지역사회 합동 치매어르신 실종 대응 훈련 - 보도자료 | 기사",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52aWNZdTJoUTVGT2RBSklwZEg3WXlaY0hoWDlEMWpYN0ZhazlQY21UbTQ1SlFNaTVJN0FjY2oyX1pwbVp6TG9FNkdaMVNqQXpINTg4Y2dreXl2c0tYUFgw?oc=5",
+      "link": "https://news.tf.co.kr/read/releasecopy/2371938.htm",
       "source": "더팩트",
       "published": "2026-10-01T14:23:28+09:00"
     },
@@ -3535,6 +3864,12 @@
       "published": "2026-10-01T14:10:33+09:00"
     },
     {
+      "title": "트럼프 '알래스카 LNG' 일방발표…與 \"합리성 따질 것\" 野 \"외교 참사\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fN0pWazUxSWNLdThxMTJsMHprTUM1SG51c2FpZEFGaFQ5ZXZmNHN3ZzRrcUtJT2hLNm5EWFI0WW01Z1Y0am1ta1B0QzhieDFGNUZocTVaX21hZ9IBX0FVX3lxTFBCcUp0SnlBVmZra3FkTTVkTENlek11UnNabXBHNFI3elJpbGcwOEJld1FQNklBemFPWk9YMmRJSTU0eFdSa1RIaVFLcnZkalhEeVlxNTN5ZXJLNlcxYmVJ?oc=5",
+      "source": "news1.kr",
+      "published": "2026-10-01T14:10:33+09:00"
+    },
+    {
       "title": "과천청사 사거리 도로 새단장…교통사고 예방 나선다",
       "link": "https://www.kyeonggi.com/article/20261001580238",
       "source": "경기일보",
@@ -3542,7 +3877,7 @@
     },
     {
       "title": "'음주운전' 낸시랭, \"계약해지 확정 아니야\"…사실과 달랐다",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wXzBpRU9HTFRvR3VlX3ZFZWZmZk43cUdlUHN5eG9jYWVZRldBNjFLN2FwWmwtQ0pqcnNpaEZTMEhSMkVZUkZqMzlnRFV4NUs4NzIyaHlZLXBpaVF1YjVrdE45dElIck9qb2c5OTBKMmZqZw?oc=5",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16232022",
       "source": "TopStarNews",
       "published": "2026-10-01T14:10:10+09:00"
     },
@@ -3584,6 +3919,12 @@
       "published": "2026-10-01T14:08:05+09:00"
     },
     {
+      "title": "서울동부지검 보이스피싱 합수부 활동 마무리…4년간 1381명 입건·360억 환수",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QZS1VY3o2ZGc4RHg0Z0o4TUZPRm1XOGFBV3hrMHRhbXhhX2VGU1c5bjVtOEZEeU1BakZjZ0ZjYXpxVlMzYk92YW9xRkZPSXZIY0HSAVNBVV95cUxOM0x1V3ZVd0JSNFJLMWhBdUNyYXVZd1c1YXdsd3dxWExGSmN1UFFPTW1XUEJidTBla1U3ZTk3a0ljWDlTcGFZVWdKN1JVd2lMWng0Zw?oc=5",
+      "source": "sedaily.com",
+      "published": "2026-10-01T14:08:05+09:00"
+    },
+    {
       "title": "장동혁, 李대통령에 북한에 책임 추궁 요구…\"지뢰 참사는 文·李 합작\" 주장",
       "link": "https://m.ddaily.co.kr/page/view/2026100112562553813",
       "source": "디지털데일리",
@@ -3609,7 +3950,7 @@
     },
     {
       "title": "경찰, 중대 수사 비위 ‘배제 징계’ 원칙…내부통제 강화",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fck9nOGxsWjlBbmI4Zkd4ekdJSl9SS3RFc3JDUVdPbHBwcXdVS2EtZzc2UmtITTE1LUpYaEtUZFpTd2xkclZ2aDctYktWM1hIWUVJS2xiM0VZS2hiZDQzWTcyTnQxVWloekw2YVBR?oc=5",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261001010000198",
       "source": "아시아투데이",
       "published": "2026-10-01T14:01:25+09:00"
     },
@@ -3634,7 +3975,7 @@
     },
     {
       "title": "[나경원 긴급] 軍 발목절단 참사에도 북한 규탄없는 이재명정부 규탄 기자회견",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9helo2cUNmNGlwa0FZX1F4SWRnOVhTUzgtOVBGWl9ycXd4TThDNHBWMGtGOXBhTHFUeWNISnBsdTJOcmlKQXBMUE1abUZQTjFTSE5nU3VGTXBoWEI5SkF0Q2dINFVxWERPZTBv0gFvQVVfeXFMUGZQZVFKZ1lwczNXT2tiV1dmeDBwM2oyUV9ualhpSUUyeFEyLUJoX0ViTndHdUEzdUdFZWNDVEhEblU5c1pGdmUzT1R2eExWVEpKNXFBbG9rTzZqVkFNamRmX3RPbmlPbnRvS3p2UVBZ?oc=5",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=128799",
       "source": "펜앤마이크",
       "published": "2026-10-01T14:00:00+09:00"
     },
@@ -3646,31 +3987,37 @@
     },
     {
       "title": "“교통사고 잦은 과천청사 앞 도로 색깔 바꿔요”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02ZzFmbFFCOWt2N3lORmtLOUtORFpqOXpVSk9jaVBFX2JRRnBWV0ZJNlNvYkJIX3Q3RlltRmlvTjdPSHBSWjc1Zm91S20wWDNnc1dGWHh5V3FJM1dnRGN1SDZwU3NMbjVsMTNaTTVB?oc=5",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261001010000300",
       "source": "아시아투데이",
       "published": "2026-10-01T13:58:23+09:00"
     },
     {
       "title": "교통사고 장면으로 불안 자극…보험 방송광고 ‘공포 마케팅’",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uMUZ1dk00bm1ZLXhJU3IyWTM4bXRlaGNlZmdZeUNWRGJrQzBTRXZaTU9xX01OTExWUm15VnVkQ1Q3REFDb3kyZ3pDcHA3ZUVK?oc=5",
+      "link": "https://www.munhwa.com/article/11620862",
       "source": "문화일보",
       "published": "2026-10-01T13:55:27+09:00"
     },
     {
       "title": "교통사고 장면으로 불안 자극…보험 방송광고 ‘공포 마케팅’",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uMUZ1dk00bm1ZLXhJU3IyWTM4bXRlaGNlZmdZeUNWRGJrQzBTRXZaTU9xX01OTExWUm15VnVkQ1Q3REFDb3kyZ3pDcHA3ZUVK?oc=5",
+      "link": "https://www.munhwa.com/article/11620862",
       "source": "munhwa.com",
       "published": "2026-10-01T13:55:27+09:00"
     },
     {
       "title": "[단독] 추석 때 에어서울 화재 보조배터리, 중국산 '리콜' 제품이었다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92dWNVWW9lNFZueWlzeHlpNkpFQTFmQlBwWXJDUDc3QzRwNW1KemhPeUhWRThYNTZ4eXIzS2R5OWlqaFhJeUUwdEFqdlhTUGJkbEQ2WUFRb1Exd9IBX0FVX3lxTE1ZR0N2YUJNdGN4aElWa254el95SXdXVS1ISEhXeVA4STNDUjRjM2ZQUGVqMTV4OTdVZE1vWlNyV3hDZGo3T3lzVkJ1eTQxYk9qaE9fcXRqcHhCMmlhUkhZ?oc=5",
+      "link": "https://www.news1.kr/politics/assembly/6307559",
       "source": "뉴스1",
       "published": "2026-10-01T13:51:38+09:00"
     },
     {
+      "title": "[단독] 추석 때 에어서울 화재 보조배터리, 중국산 '리콜' 제품이었다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92dWNVWW9lNFZueWlzeHlpNkpFQTFmQlBwWXJDUDc3QzRwNW1KemhPeUhWRThYNTZ4eXIzS2R5OWlqaFhJeUUwdEFqdlhTUGJkbEQ2WUFRb1Exd9IBX0FVX3lxTE1ZR0N2YUJNdGN4aElWa254el95SXdXVS1ISEhXeVA4STNDUjRjM2ZQUGVqMTV4OTdVZE1vWlNyV3hDZGo3T3lzVkJ1eTQxYk9qaE9fcXRqcHhCMmlhUkhZ?oc=5",
+      "source": "news1.kr",
+      "published": "2026-10-01T13:51:38+09:00"
+    },
+    {
       "title": "수사책임 커지는 경찰…2년 만에 전국 지휘관 회의",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1TzhoRVlSSUtzM0x4QUw3NDhPNlZHTGQ5UVFSMGc5cXo1T0dMQzdBTFBhWk95RkJVOTFTV2FvSkZkTHBFM0ZfRHJNWm1qUTZsNVRRMFc4V3JVOGxoSlIwS9IBYEFVX3lxTFB1TzhoRVlSSUtzM0x4QUw3NDhPNlZHTGQ5UVFSMGc5cXo1T0dMQzdBTFBhWk95RkJVOTFTV2FvSkZkTHBFM0ZfRHJNWm1qUTZsNVRRMFc4V3JVOGxoSlIwSw?oc=5",
+      "link": "https://www.yna.co.kr/amp/view/MYH20261001010400038",
       "source": "연합뉴스",
       "published": "2026-10-01T13:50:53+09:00"
     },
@@ -3682,8 +4029,14 @@
     },
     {
       "title": "경북 경주월성농협, 보이스피싱 예방 캠페인 펼쳐",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQRlFyUDY4eGZSQUZCSDV4dm1pczc5NjJkejFScm0tZ0NUeDdqOG5uLV84ZmVONmFSbHdjeGZuR05ncU4tNDZSTzVZd1ZnYnpaUjhSRllqMHNOUQ?oc=5",
+      "link": "https://www.nongmin.com/article/20261001500059",
       "source": "농민신문",
+      "published": "2026-10-01T13:49:00+09:00"
+    },
+    {
+      "title": "경북 경주월성농협, 보이스피싱 예방 캠페인 펼쳐",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQRlFyUDY4eGZSQUZCSDV4dm1pczc5NjJkejFScm0tZ0NUeDdqOG5uLV84ZmVONmFSbHdjeGZuR05ncU4tNDZSTzVZd1ZnYnpaUjhSRllqMHNOUQ?oc=5",
+      "source": "nongmin.com",
       "published": "2026-10-01T13:49:00+09:00"
     },
     {
@@ -3695,7 +4048,7 @@
     },
     {
       "title": "‘보이스피싱 저승사자’ 동부지검 합수부 역사속으로…500명 구속, 360억원 환수 [세상&]",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwaW1ZYzB1YU0xdGk0UkRUbGljRU9UdGVZZUtVRUE1UHBVUDB3SU1peFhMRnA2bEs2V2RrWWhGY1VDWVV2aHdFY0RuWlJvZU9rY1lvMUlqYw?oc=5",
+      "link": "https://mbiz.heraldcorp.com/article/10890472",
       "source": "헤럴드경제",
       "published": "2026-10-01T13:45:00+09:00"
     },
@@ -3706,14 +4059,20 @@
       "published": "2026-10-01T13:40:06+09:00"
     },
     {
+      "title": "도박판 벌인 해양경찰 간부 검거",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uejAzR3g1UEUyZGJzWm1Rc0lUaU5JaFR4amphRGpQellFZ18tYWtaYkRpZ2JibjFWZDQyQjZQcEd5d1BDZzlXcVZ5cGpSX3JW?oc=5",
+      "source": "jb.nocutnews.co.kr",
+      "published": "2026-10-01T13:40:06+09:00"
+    },
+    {
       "title": "이태원 참사 4주기 앞두고 “기억과 애도의 달” 선포…160번째 희생자 영정 걸어",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TdHRsVl9uLTBjV25rUkxRUjRCZWhhZnlETnhiT2ZLeG53REdRZXd6dENJcTRTNmFLQ3lkSERDYWQ0WDBkV2JiOS0yOUV1MlVUUGpnM3M5aDJ2eGc?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675644",
       "source": "KBS 뉴스",
       "published": "2026-10-01T13:39:00+09:00"
     },
     {
       "title": "이태원 참사 4주기 앞두고 “기억과 애도의 달” 선포…160번째 희생자 영정 걸어",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TdHRsVl9uLTBjV25rUkxRUjRCZWhhZnlETnhiT2ZLeG53REdRZXd6dENJcTRTNmFLQ3lkSERDYWQ0WDBkV2JiOS0yOUV1MlVUUGpnM3M5aDJ2eGc?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675644",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T13:39:00+09:00"
     },
@@ -3731,6 +4090,18 @@
       "summary": "제주특별자치도 자치경찰단이 관광객이 몰리는 시기를 맞아 올레길과 오름, 해안가 등 관광지와 치안 사각지대를 중심으로 특별치안활동을 벌였습니다.자치경찰단은 지난 8월 28일부터 9월 26일까지 30일간 생활권 순찰 범위를 관광지와 치안 사각지대까지 확대해 도민과 관광객이…"
     },
     {
+      "title": "제주자치경찰, 올레길·오름·해안가 순찰…특별치안활동 마무리",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sejN0QXV2YmN2Yk1BTlBOdEs5N3p6cnZrakZZM3AydHNkVmdsYWRNZzF2ZjdFb2UwNms3bEtQMG1LcV9aYmxtdGNkRm5QYk0zQjZYdGppTjhQWkpTcjlCVDlxc1JuOE5FVmYw?oc=5",
+      "source": "news.bbsi.co.kr",
+      "published": "2026-10-01T13:34:14+09:00"
+    },
+    {
+      "title": "해양경찰 비위 중징계 비율 43.4% ‘기강해이’ 심각",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByLXBsc0pwcmkxNGlEcTlPSDJXVFRRX3BrZWc2ZDVaOFVwNHlpQ3h0NE83ZHdJNEFndGswTGNDZnVnSklmUjB5TVdLaG11SWZISnpfbWQ4QTV6M0RmaUN4UUliOGxsTGZLOEx6azRRd9IBc0FVX3lxTE42X1BGTWVlNGpxdUZKVVU2eWJ2R2ZEZkx3YmtZTUhvSEczWjdRWTZQNEp6SWpINzV1V3RMWGtHQ1pCTlc2cEdsMENqd3YtV2xBN3JpTnkzSDA1aUJpdk9NM1FiUmxWd0JzeDNxU1o4OWNvREU?oc=5",
+      "source": "해운의소리",
+      "published": "2026-10-01T13:26:42+09:00"
+    },
+    {
       "title": "제주자치경찰, 올레길·오름·해안가까지 ‘보이는 순찰’",
       "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400808",
       "source": "jejudomin.co.kr",
@@ -3738,19 +4109,19 @@
     },
     {
       "title": "제주자치경찰, 올레길·오름·해안가까지 ‘보이는 순찰’",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2Q0dBVGxjMnBBVGtLUmJsc1FzWkY5OTVreGZoVnpYN2dONEdPYUpjc3JkLS1FTHRWUl9TMmh2a1hmc0hBWWRtZXBnaEVqa3pZcVA2MHBGT01lRGNob0hSalVVc1FzZV93LWt4VXM4Yw?oc=5",
+      "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400808",
       "source": "제주도민일보",
       "published": "2026-10-01T13:24:25+09:00"
     },
     {
       "title": "경찰, 인천 연수구청 압수수색…구청장 선거법 위반 혐의 강제수사 착수",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Wjd1Z3ZhV1oxbFlhcWRXalhHcEpyWXB6VVh4ZDdCaWV1VDNseDYtd1V2N0lRTzZ5VXpDN0Z0U0JwZmctYUhnLUhvVHU5b3BhZW45RS02NTZlNExOY1I3OF9PSnVGMGRrUEpWdHdaQQ?oc=5",
+      "link": "https://www.seoul.co.kr/news/society/2026/10/01/20261001500117",
       "source": "서울신문",
       "published": "2026-10-01T13:24:21+09:00"
     },
     {
       "title": "[단독] `암살자(들)` 제작자, 음주운전 구속 전력... 전과만 6개",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaU19FenZyaTI1Uk1tbi1xZXFnSGdWWjIxVmxTek5WVF9fd3p4QUpPdnl6Undyb19yT0FjcHpVdVdmdjVjbkVJcHZfMzhSZ0Jya1oybzJPc0p3SV90V3hWYXdn?oc=5",
+      "link": "https://www.imaeil.com/page/view/2026100111485731529",
       "source": "매일신문",
       "published": "2026-10-01T13:13:32+09:00"
     },
@@ -3762,25 +4133,25 @@
     },
     {
       "title": "올레길부터 해안가까지…제주 자치경찰 1006회 순찰",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ORzZlRnJRWXNqMVVaODIybm9JN2QyMTQzUVhfem9xZy1zQVpXVXBHS1J0NnoyWVZjeTdRMDR5ME5LNEktUDA3amFEczNLRTF0dzdvUjRjcGhGLWpsSGRzTWstdUhpX0lZRHB3?oc=5",
+      "link": "https://www.newsjeju.net/news/articleView.html?idxno=426512",
       "source": "뉴스제주",
       "published": "2026-10-01T13:09:39+09:00"
     },
     {
       "title": "고속도로 역주행하다 충돌…실종신고 된 ‘치매’ 80대가 가해",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qQWlHN1BxYW94WEFiYjNGNjNBYW91RXI1cnluRkdJVjJ3cWtKeTk4dzROa0VjRTZzM3ZyeGNrWDVSYllMRG1CYm1nMS1BMjI1RUZMVUF3?oc=5",
+      "link": "https://biz.heraldcorp.com/article/10890468",
       "source": "헤럴드경제",
       "published": "2026-10-01T13:06:27+09:00"
     },
     {
       "title": "국민의힘 제주 갑 조직위원장에 박기남 전 제주자치경찰단장",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sbDhod1lJUDhFNmc1NTJKdHVEOFFlWE8zaHZnOTUwM1dMb2xyWmFWN1B2MC1oNnZoWnI5Y3g4M3VaVTh4LUIwYWNLNVZwTFNpNWg5cXpuMWUwWGxr?oc=5",
+      "link": "https://www.jnuri.net/news/article.html?no=70263",
       "source": "제이누리",
       "published": "2026-10-01T13:05:03+09:00"
     },
     {
       "title": "한화에어로 반복된 폭발사고에도 안전 ‘구멍’… 대전사업장 특별감독서 473건 적발",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GSzBtTFFVdVlQQlNmbER1UGNKRzFxUm4yVHA0dVJMVHBCNzUxSE5YdjFCaFlISHd2NURmUHRadkt4WWJmT2FLQVA3NEVIeWFJM3JJd1NRWE95Zjl5U2NlYUdSdmsxRlZtQnRVbEkwclg?oc=5",
+      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=250813",
       "source": "안전신문",
       "published": "2026-10-01T13:02:19+09:00"
     },
@@ -3792,7 +4163,7 @@
     },
     {
       "title": "국민의힘 제주시갑 조직위원장에 박기남 전 자치경찰단장",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zSGU4RTZqT1MzaFpNMnRRNlQ0YzYxUGxOQmhxX0ZCbzMzTmcwdnhDNjNaVDNkQUdwUjdITmtFLThXTDM4dkF1MlpmZ3hnRHBDb2hYbmhWU1Z0MmR2VGRhMHVpRE1TcnRCNGNDNHRR?oc=5",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3710413",
       "source": "gukjenews.com",
       "published": "2026-10-01T13:00:55+09:00"
     },
@@ -3811,19 +4182,19 @@
     },
     {
       "title": "한화에어로 대전사업장 특별감독서 법 위반 473건 적발",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QWlY4R2JzOFFVOGQ5RWY0dHFGVGZaWTFqMFZLUnJ5NE9TWWg0SjBEamxKX1U2Sjd6aEp4RXYzWVVoLUQ2VGFZMkU1RDBSa3pSZ21VSEdMdGZVX09ZV1BDNzJCc2R5b0E?oc=5",
+      "link": "https://www.anjunj.com/news/articleView.html?idxno=50740",
       "source": "안전저널",
       "published": "2026-10-01T12:48:10+09:00"
     },
     {
       "title": "한화에어로 대전사업장 특별감독서 법 위반 473건 적발",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QWlY4R2JzOFFVOGQ5RWY0dHFGVGZaWTFqMFZLUnJ5NE9TWWg0SjBEamxKX1U2Sjd6aEp4RXYzWVVoLUQ2VGFZMkU1RDBSa3pSZ21VSEdMdGZVX09ZV1BDNzJCc2R5b0E?oc=5",
+      "link": "https://www.anjunj.com/news/articleView.html?idxno=50740",
       "source": "anjunj.com",
       "published": "2026-10-01T12:48:10+09:00"
     },
     {
       "title": "철원소방서, 제44회 태봉제 대비 축제장 현지실사",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1KWmQydE8zQjZ6dk12OXBjZnBnQUd0R1M2d3BrUkVFdEpsVkVZU2pndTJCOTI4R29CQ0RYVWQtd1VHWUNO?oc=5",
+      "link": "http://www.fpn119.co.kr/257413",
       "source": "FPN-소방방재신문",
       "published": "2026-10-01T12:43:00+09:00"
     },
@@ -3835,7 +4206,7 @@
     },
     {
       "title": "10월부터 달라지는 법령…가상자산 보이스피싱 피해구제·노래방 청소년 출입 허용",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyV1I4eTRIMlRZQmlVTmRHV25xdV9EWTI0YjVpMXR3YUVxUkFLSExpN0JBQ29nbXlGRXNaTkg5cGdzU0d1MGtVeDEyUFVzUWlEODRmSEJYUks2ZXZfTTJXeHhBSC1NNTVqLTNyVjNGVQ?oc=5",
+      "link": "https://womannews.net/detail.php?number=456366&thread=22r03r03",
       "source": "여성종합뉴스",
       "published": "2026-10-01T12:38:26+09:00"
     },
@@ -3847,7 +4218,7 @@
     },
     {
       "title": "[속보] 경부고속도로 승용차 추돌사고 처리중",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04XzBHWFZUeWtHZlo3QmZpU3ZjdS1CajZQOVdic2xVeXdyM3BFNWx5Z0FaaEVoZi1jOWo3ajEzU1JPUTlKMjgyVGlXWDg5VFRnaFdBaW95R0RmcWc1S2dRaFV6V3dKV21lcXBwRU54ZWpMMkE?oc=5",
+      "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=469351",
       "source": "스페셜타임스",
       "published": "2026-10-01T12:33:14+09:00"
     },
@@ -3864,20 +4235,27 @@
       "published": "2026-10-01T12:31:41+09:00"
     },
     {
+      "title": "경남경찰청, 개정 형소법 시행에 경찰수사심의위 확대 운영",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FczZFdGR6cUF0UWJpbTFSOEFaRWtyQi1sMm9OUDBEeWdZQmktQ0xZNWFSSGpLQ00yRDM1ZkJCNzlnejN0ZWU1eHRxVGNCcEViNUtPMk9LUmo5cUdYc2lB0gFkQVVfeXFMTTNGa01tUlB1dDNZbnJicGdXc3VXOTZ1MERoMmRsdzhxMi1wMjVaYnR2endLOVpYdEJ6ZDNpNXNkUXc2ZDNqWW01SktmSTY3M0c4cTV1emxJMFFNaTJMdmVSdUlmNA?oc=5",
+      "source": "news1.kr",
+      "published": "2026-10-01T12:31:41+09:00"
+    },
+    {
       "title": "천안서북소방서, \"안전이 더해져야 진짜 힐링\" 가을철 캠핑 화재 예방 당부",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yZzA1X0lwVEpRNnEwdVJGRUhaNlk5aTFKWElvVDR4cHJRYml1c2J6UGktZUF5ejhDenlEU2hPdW11ODBKWXVJMmVzZDk5VnF6eXlNMUowVC1PNmVQZVo2RnJaMA?oc=5",
+      "link": "https://www.gninews.co.kr/news/article.html?no=867687",
       "source": "gninews.co.kr",
       "published": "2026-10-01T12:31:13+09:00"
     },
     {
       "title": "천안서북소방서, \"안전이 더해져야 진짜 힐링\" 가을철 캠핑 화재 예방 당부",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yZzA1X0lwVEpRNnEwdVJGRUhaNlk5aTFKWElvVDR4cHJRYml1c2J6UGktZUF5ejhDenlEU2hPdW11ODBKWXVJMmVzZDk5VnF6eXlNMUowVC1PNmVQZVo2RnJaMA?oc=5",
+      "link": "https://www.gninews.co.kr/news/article.html?no=867687",
       "source": "중부시사신문",
-      "published": "2026-10-01T12:31:13+09:00"
+      "published": "2026-10-01T12:31:13+09:00",
+      "summary": "천안서북소방서가 완연한 가을을 맞아 야외 캠핑 인구가 늘어남에 따라 캠핑장 내 화재 및 안전사고 예방 수칙 준수를 당부하고 나섰다. 최근 선선해진 날씨로 캠핑 활동이 늘면서 휴대용 가스버너나 이동식 난방기기 취급 부주의로 인한 사고가 잇따르고 있다. 이에 소방서는 △텐…"
     },
     {
       "title": "인천경찰청, 올 8월 보이스피싱 발생·피해액 55.9%·60.2% 감소",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9abEZaVFUwY1oyVXJUWDFDa1dLdlZ0N0p1WUt4MUIzem1oeXVraVZYcGpfd2xiN1ZGbmRsaXVoYXFxVDRPRlpjYmVoTlNGWDk0ZHBBY1V6SHU0X1JOMFhxQmNzZEVOSkZncUhULTFJcw?oc=5",
+      "link": "https://www.auto-today.co.kr/news/articleView.html?idxno=14411",
       "source": "오토투데이",
       "published": "2026-10-01T12:30:11+09:00"
     },
@@ -3889,73 +4267,86 @@
     },
     {
       "title": "라다 코뮌 경찰은 2026년 국가 안보 수호를 위한 전국적인 운동에서 자치 및 자위 모델의 효과성을 검토하고 평가하기 위한 회의를 성공적으로 개최했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOc3g1YWxkTF9hU0lNd2NWLWthTDFGaDVlQ2pHeHlvZ2VJcU1fRVQ0MGpsMkhXdkd3b1cxaW1lMHBNc2h1c2hmeldVWF9aLThUS011RS14UEJGak1aNHR2bU43R0dRS2p4cTJUUUFUV0xFclhzX1BmeTVVMXZNQ3hRbnVEemFNamtYWmNPVzlXamZBOWpHNDlfUWo2TnRDeldMT3VQX0ZDV1RXZTAzM3JHZ1JBY0RSeVJHWTI1bE96OWRVWFEtcGR0VmpmOUVwbkZwLWJyTkNGZkJFNWhYUGNpMXJQU2htXzI5MGNaekdLM3dfcDNVSDZCNzlZN1p0OWhHMWVTQm5iME5fbXRaWlo0?oc=5",
+      "link": "https://www.vietnam.vn/ko/cong-an-xa-la-da-to-chuc-thanh-cong-hoi-nghi-so-ket-danh-gia-hieu-qua-cac-mo-hinh-tu-quan-tu-phong-trong-phong-trao-toan-dan-bao-ve-an-ninh-to-quoc-nam-2026",
       "source": "Vietnam.vn",
       "published": "2026-10-01T12:22:13+09:00"
     },
     {
       "title": "익산署, 보이스피싱 수거책 검거 신고 은행원에 감사장 수여",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmWTQtbWYzZUF6RlVvVTZwMG9CTU9ILTlTNUcyR20tYXM1OWJMaU16aTFJV29YYVZZMm5GcFpzMmZUaDFNWURianItWUZGTU9yMzcwek4yWkh0NmpSb01CSzc5dHBKUQ?oc=5",
+      "link": "http://www.jtnews.kr/news/articleView.html?idxno=100810",
       "source": "jtnews.kr",
-      "published": "2026-10-01T12:12:00+09:00"
+      "published": "2026-10-01T12:12:00+09:00",
+      "summary": "익산경찰서(서장 정창훈)는 지난달 30일 익산농협 영등지점에 방문하여 보이스피싱 범죄 피해를 예방한 은행원 A씨에게 감사장을 수여했다.익산농협 은행원 A씨는 전날 고금리 대출을 저금리로 대환해주겠다는 보이스피싱 범죄에 속은 민원인이 은행을 방문, 현금 600만원을 인출…"
     },
     {
       "title": "‘폭발 사고로 5명 사망’ 한화에어로, 노동부 감독서 안전 위반 사항 473건 적발",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1TjRtd2pjX3c3QnBGUEZ1cnlYQk1xTGFWNVYtaGt0a2w4LXBhbFpqazhkZjBjVlAwMXJ6QWNhd0dKZmQ4SmNqU0VQZ0g3WGU2YVBJZGJuMTR5TFk?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675564",
       "source": "KBS 뉴스",
       "published": "2026-10-01T12:11:00+09:00"
     },
     {
       "title": "‘폭발 사고로 5명 사망’ 한화에어로, 노동부 감독서 안전 위반 사항 473건 적발",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1TjRtd2pjX3c3QnBGUEZ1cnlYQk1xTGFWNVYtaGt0a2w4LXBhbFpqazhkZjBjVlAwMXJ6QWNhd0dKZmQ4SmNqU0VQZ0g3WGU2YVBJZGJuMTR5TFk?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675564",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T12:11:00+09:00"
     },
     {
       "title": "대전 한화에어로, 노동부 특별감독서 473건 위반 적발‥폭발·화재·누출 위험 91건",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKRlJ5alU1eHRRUkhLemRvQUNDN0c1a0FudGhWdmlWX3poOF9ub0JwSVRmZW1Tc2ZTVnV4Zk90UEV2X1pROGhzcjlPZkd5MDA?oc=5",
+      "link": "https://v.daum.net/v/20261001120708235",
       "source": "v.daum.net",
       "published": "2026-10-01T12:07:08+09:00"
     },
     {
       "title": "경찰, 2026년 스토킹·가정폭력 피의자 4만3000건 검거… 2025년 대비 41% 증가",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKM2pVVmlNUWMzLUtDVzg0bzFISkJXaGRwWHVCeDJmcnpyUEY4UktMbEcwV1htSFdILWJ2YzlYN2l0WklxTF9EZjA1eXlVT244S2FVNDZfbUrSAVRBVV95cUxPazU5UkRrLXlBVHdZbXlWSFNLemplNS15UF9Ma0R4aE1sSG1iQmJDUnhVMzRYaHVMV2hqdEdoNFNDUVNvaWJBWmJNcW4xZElhdFJoSFA?oc=5",
+      "link": "https://www.segye.com/newsView/20261001509489",
       "source": "세계일보",
       "published": "2026-10-01T12:03:29+09:00"
     },
     {
       "title": "보이스피싱 배상 누가 내나…은행 vs 통신사 떠넘기기 '공방'",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyUzBkWklYSlpqZjZEWEZFekhqMU93OU9tR0UwUmtfZnZiWGpwcTNlTXFuY0lFUVE2cGZQdm9WY3ZNdHBDbjB3MHpoUDZhT1k?oc=5",
+      "link": "https://v.daum.net/v/20261001120329095",
       "source": "v.daum.net",
       "published": "2026-10-01T12:03:29+09:00"
     },
     {
       "title": "스토킹·가정폭력 검거 42% 늘어…전자장치 부착도 5배 급증",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mdjE4Xy12TU9uRDlNSkQ0SEh3VmVNMUdQeUVxSFZTRFJVQl9OeTN2d1FiQlZUZGJUYnMtUmJKWnJLS2dyb21WRHBYSFc5MEE?oc=5",
+      "link": "https://v.daum.net/v/20261001120301032",
       "source": "v.daum.net",
       "published": "2026-10-01T12:03:01+09:00"
     },
     {
       "title": "지난해 서울 교통사고 사망자 39%는 길 걷던 어르신들… 무단 횡단 주의보",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRG1kZEpHSUYxNTlveExUdDBUcEhRejdCZkxtazNmXzJ4UW9TS3pZbERyTTJWYVppTGhjZXU1amM2LXFGMWxVak1BSFBwa0IzQjJreHNqYWtNYi1iLWIzNDAzcTE5V21QUm1xOU1rdnd4Zm5OUXVHUUhxV00tSEhQeG9qZWNScTZrUmpYWjZpTU4?oc=5",
+      "link": "https://www.chosun.com/national/national_general/2026/10/01/TAYVRI5HTRA6FJXKFS75KKAOXM/",
       "source": "조선일보",
       "published": "2026-10-01T12:02:56+09:00"
     },
     {
+      "title": "지난해 서울 교통사고 사망자 39%는 길 걷던 어르신들… 무단 횡단 주의보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRG1kZEpHSUYxNTlveExUdDBUcEhRejdCZkxtazNmXzJ4UW9TS3pZbERyTTJWYVppTGhjZXU1amM2LXFGMWxVak1BSFBwa0IzQjJreHNqYWtNYi1iLWIzNDAzcTE5V21QUm1xOU1rdnd4Zm5OUXVHUUhxV00tSEhQeG9qZWNScTZrUmpYWjZpTU4?oc=5",
+      "source": "chosun.com",
+      "published": "2026-10-01T12:02:56+09:00"
+    },
+    {
+      "title": "행안부 노인의 날 맞아 어르신 교통사고 예방 캠페인",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11alptaFNsdWxLUGRpWDF5VVhNQzA0ZWdlVVRyN1V1THQ1aEU3QVJVdlJGVFQzSzFrSXJ0RktvLWhiZ0tya3l2RUN1ZWQyZ0U?oc=5",
+      "source": "v.daum.net",
+      "published": "2026-10-01T12:02:47+09:00"
+    },
+    {
       "title": "스토킹 피의자 전자장치 부착 388%↑…관계성 범죄 '격리' 강화",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEOHRlNGJ2QzNUdnNFbkpSU1hOcExfMHJQNUlkdHlQTjVFU2w0ZUFfa3JLcEtjRUw3cXNJNEMtUFNXajVCUFIyUGJodGV2MGs?oc=5",
+      "link": "https://v.daum.net/v/20261001120202870",
       "source": "v.daum.net",
       "published": "2026-10-01T12:02:02+09:00"
     },
     {
       "title": "대전 한화에어로, 노동부 특별감독서 473건 위반 적발‥폭발·화재·누출 위험 91건",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UTi1PSnE2eHVQN0VaLUJBUVJ4XzBCRzB3VGp0Ri1YUjNSTHZyaGpiaWRWQmI0SEVndHBFQ3hjZVZLaWhHeDVSeGkwSkpPbTdzQXhRc1RJSDZJZ0M1MHplMU9fV3dMcDN0LXhvRklVMm4xcHVXLUVV0gF3QVVfeXFMUFlaVFpnZnB2RnVvd0szOXhSVDNRcHZzeGpyMzhNSjJCc3JRbkdHVXR5blNialRybmpoYXV4Z3pxY0F4Uk5kb0s0SU5sZDRhNWV5Y0xUc0hLV1F1LW1FTnZYQU80dm8xSEpzZThIS3M2NkU4TGJKOXc?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6855173_36918.html",
       "source": "MBC 뉴스",
       "published": "2026-10-01T12:01:58+09:00"
     },
     {
       "title": "어르신 교통사고 줄인다…노인의 날 맞아 보호구역 현장점검",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOT2Y1dWttUEhPdEx1WVYyWVg4c0tsdXZxeVoweFFkQlNjYkxtWmtxZHpFdHVtOTRvNFFTVkFSa2xuY0dIUDRMQXprUTZMZkFRcXVqaWV6SER3akZLMjl0c1RRUG0xOTlWZHFDRzVHUXpPejdYVmpBVy0zdThkbTdlWVZuQlFlaUJOSTRncVIwM1VVSDNSSUd0MUFCT3NCZzAxZWw5Q2o2aFZVV1FIaU5QWGg2OEE0TmJ4V1FvNmozUVNVd09PS05RaXhYVzVQSmY4VUpWYng1MGVob2NPaXJ2SUdjTHVDalBnYWZpaGFIWTBZNllFeTNxOEZWR1R4OEwtYjlzbmMwSzBfSFM5cGp6QlB1X21hYW8?oc=5",
+      "link": "https://www.dailian.co.kr/news/view/1696643/%EC%96%B4%EB%A5%B4%EC%8B%A0-%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0-%EC%A4%84%EC%9D%B8%EB%8B%A4%EB%85%B8%EC%9D%B8-%EB%82%A0-%EB%A7%9E%EC%95%84-2026",
       "source": "데일리안",
       "published": "2026-10-01T12:01:00+09:00"
     },
@@ -3973,68 +4364,76 @@
     },
     {
       "title": "전자발찌 부착명령 스토킹범 1년새 5배↑…경찰 \"엄정 대응\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyel8zdFRYX3pvMUsxaEo3Q1pPWmw5bWdsX2p2NWpYNzNWVHdUT2FzVVpVN3FvUS1tY0tyOFU3M3VBOGZzV2kybVRCZVlqRGlXc0dFemJYejNNOXoz?oc=5",
+      "link": "https://supple.kr/news/cmuoyzcd000181ver7l2durbm",
       "source": "supple.kr",
       "published": "2026-10-01T12:00:17+09:00"
     },
     {
       "title": "교통사고 사망자 중 고령자 40%…서울경찰 집중 예방활동",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsaXRBMjBZNEloZ202Y18zdEhHMDVDYjFuMnllWUVSV1ItV0lQRFVXaEN0WTZ3QkNWbzFnRmMwaUVFVUxTZ0RmRHFidE8tZjBCLS1MVEozVGFiVTDSAWBBVV95cUxPWkkxUEtkbHdCcnFaZ3ZaZk1YZVQ3LUxoaC15NDdPZmQ3QWtJWU1zVzJYNGNRSV9mcmpHSmU5ZGF1OEtuY2pqUmpNTTVxMVFSWDlHOU9YaDd6OVJsSXE4VXE?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20261001051900004",
       "source": "연합뉴스",
       "published": "2026-10-01T12:00:14+09:00"
     },
     {
       "title": "세 차례 폭발·화재로 13명 숨졌는데…한화에어로 대전사업장 안전위반 473건",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oZ0JrWWZ4cS1lTWdmNXRDREExWGVSakZvNnNJV2U2X2ZJSGdLY0FrbWs4MDlFY0YxR015bGFENGxuUVRSOHBfTVJDckJvWjlxZTdURE5MWQ?oc=5",
+      "link": "https://mbiz.heraldcorp.com/article/10890163",
       "source": "헤럴드경제",
-      "published": "2026-10-01T12:00:10+09:00"
+      "published": "2026-10-01T12:00:10+09:00",
+      "summary": "세 차례 폭발·화재 사고로 13명이 숨진 한화에어로스페이스 대전사업장에서 폭발 예방을 위한 기본 안전조치 위반이 무더기로 적발됐다. 폭발"
     },
     {
       "title": "한화에어로, 폭발 관리 위반 대거 적발…과태료 5억 부과",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2FwRnBJOFpzSWN0SEJqZHIya2xTeE9yNHZWWFluX0w4enBmUXFBX3BSSnJvWUFYWWFvMkZOZmg4UHRhVGpBd3hkUXhpcHB4a29JaXVSZzBPclhkYlpQZThqazVQOGMwendid1pBTTdBcGU2OHFPN001ZHZFNU1pWQ?oc=5",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=03657206645608656&mediaCodeNo=257",
       "source": "edaily.co.kr",
-      "published": "2026-10-01T12:00:05+09:00"
+      "published": "2026-10-01T12:00:05+09:00",
+      "summary": "정부가 지난 6월 폭발 사고로 5명이 사망한 한화에어로스페이스 대전사업장에 대해 과태료 5억원을 부과했다. 대전사업장은 폭발·화재 등 이번 사고와 연관된 안전 관리 조치를 대거 위반한 것으로 나타났다. 지난 6월 폭발 사고가 발생한 대전 유성구 한화에어로스페이스 대..…"
     },
     {
       "title": "스토킹·가정폭력 41.6% 증가…경찰, '관계성 범죄' 전수점검",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FMy1SazNlRmJFZVVvRGhNWmZtNUY0NHdpVUJpb09mSE9KZVBweG1QWmt6SmczUFZCdzV2LWMyZWdEYkN6cy1FRlBBS3NSaTdLVkRCSnBR0gFQQVVfeXFMUDJTNWdlcjVpc095c0Z1WG1OMDMxV29raUZzNDh5ZVU0aTh5ZTcybHNoYkUyQWotQS1CcVl2UjdFTEJTamg5VklGcEI5QmhuY1M?oc=5",
+      "link": "https://news.tf.co.kr/read/life/2371779.htm",
       "source": "news.tf.co.kr",
       "published": "2026-10-01T12:00:02+09:00"
     },
     {
       "title": "스토킹·가정폭력 41.6% 증가…경찰, '관계성 범죄' 전수점검",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FMy1SazNlRmJFZVVvRGhNWmZtNUY0NHdpVUJpb09mSE9KZVBweG1QWmt6SmczUFZCdzV2LWMyZWdEYkN6cy1FRlBBS3NSaTdLVkRCSnBR0gFQQVVfeXFMUDJTNWdlcjVpc095c0Z1WG1OMDMxV29raUZzNDh5ZVU0aTh5ZTcybHNoYkUyQWotQS1CcVl2UjdFTEJTamg5VklGcEI5QmhuY1M?oc=5",
+      "link": "https://news.tf.co.kr/read/life/2371779.htm",
       "source": "더팩트",
       "published": "2026-10-01T12:00:02+09:00"
     },
     {
       "title": "노인의 날 맞아 어르신 교통사고 예방 캠페인…노인보호구역 현장점검",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VeHlXN1hoUXBvSDZmSXM1ZEZzMDFwR0RtSGE1UFBQUkxhY004bmlxbGp6ZVdVLW5JdTNQS2xHWjRIYUoxelhlemF2TVdhbDY0Z05sbXFsOFJoSms0?oc=5",
+      "link": "https://www.newspim.com/news/view/20261001000542",
       "source": "뉴스핌",
       "published": "2026-10-01T12:00:00+09:00"
     },
     {
       "title": "교통사고 사망자 감소하는데…서울 고령 보행자 사망 53% 증가",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03dzVEZGVfWjNSNDJLMFk3XzdsdHdjU1NzbHlDSkZCM0paWnlLM2JWU2ZhTTRYSWMxWlU1QjNuT294Y1VDMmtuUDBscHBIWTJqZ1hSUlRmUTJnZVBjYmhpVHFPQzPSAWpBVV95cUxQemhxaElCRU1NenBXMkdvOFU3NFkyMlJzMWhNMnRsOHVmWnViUml1SjZKcVdzTVk3SWdrYURuSWpoSEJ2QWl5QXZzOS1oWFFENGdyUXVSNU9XNEJPeUhud2xfTlhPNldMUXdn?oc=5",
+      "link": "https://www.news1.kr/society/incident-accident/6307374",
       "source": "뉴스1",
       "published": "2026-10-01T12:00:00+09:00"
     },
     {
       "title": "2일 '노인의 날'... 어르신 교통사고 예방 홍보전",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fM1MwRl9EQnZiMjRZNVVEY1Judmt4WlpYZ0pfSkNBaDlLcGNnQ2NlNFZwbDMxU080b2tYQ1QzamNpLW4tNnFpZVg2ZUU1UFRFWnFiNWZ0V2FHQkhsZk1xRXFGek0xT1ZpOUHSAW5BVV95cUxNQWZlZmhJc1FoWXl6Vy1OcTVEekhLYmVXSUVNN0ZTZHlCVWV4bjc1UXR6UG9ERDkwMXh1T0hKejRoOE9CMHRFcXd5S1NBRktwREU1eUpjMmdCbjRsYjRyVV9pbW1rY3NhMW5FU2szUQ?oc=5",
+      "link": "https://www.public25.com/news/articleView.html?idxno=55708",
       "source": "퍼블릭타임스",
       "published": "2026-10-01T12:00:00+09:00"
     },
     {
       "title": "고령보행자 사망 비중 2년 새 14%p↑…서울경찰, 예방활동 한 달 연장",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtaFVzenlSX04xNTk3ZWhCNlIwMlVqNXVfbE8tQUdJMWZUdVRjbURWeENwUUhFUXVpTFN2U2VMQmEyVENlT2ROSXk0ZW5hcEl4VmYyc2wyWW9qUQ?oc=5",
+      "link": "https://www.fnnews.com/news/202609301630084659",
       "source": "파이낸셜뉴스",
       "published": "2026-10-01T12:00:00+09:00"
     },
     {
       "title": "스토킹·가정폭력 초기부터 엄정 대응…검거 42% 늘었다",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03anBIaDV0ZnlnektOdnp3bGVnU243UEhsSHJmbVZqSnItVm5NMXhHNVhqQWluT2ppenhCN0dLSGhwU1VzM2lLYzdZMXBqOGdLUnVmejZZNzdFWHR6Ti1MRW5QZVFKVE9TQWxR0gFwQVVfeXFMTXhtWWtGaGtwTWNiblkyeXAwXzlVTGYycnk4R0V0am01Z2NpYy1VQXYzZC1jRl9ZVGJyTkk5RTN5bmxXTUlKNDBIWGxvbnlRZ1BaOFY4VXZ2RTB2dXBqaVNjOVpBWWFPbWpIU2t6V2plag?oc=5",
+      "link": "https://www.mt.co.kr/society/2026/10/01/2026100109053919096",
       "source": "머니투데이",
+      "published": "2026-10-01T12:00:00+09:00"
+    },
+    {
+      "title": "교통사고 사망자 감소하는데…서울 고령 보행자 사망 53% 증가",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03dzVEZGVfWjNSNDJLMFk3XzdsdHdjU1NzbHlDSkZCM0paWnlLM2JWU2ZhTTRYSWMxWlU1QjNuT294Y1VDMmtuUDBscHBIWTJqZ1hSUlRmUTJnZVBjYmhpVHFPQzPSAWpBVV95cUxQemhxaElCRU1NenBXMkdvOFU3NFkyMlJzMWhNMnRsOHVmWnViUml1SjZKcVdzTVk3SWdrYURuSWpoSEJ2QWl5QXZzOS1oWFFENGdyUXVSNU9XNEJPeUhud2xfTlhPNldMUXdn?oc=5",
+      "source": "news1.kr",
       "published": "2026-10-01T12:00:00+09:00"
     },
     {
@@ -4045,32 +4444,39 @@
     },
     {
       "title": "이태원참사 4주기 앞둔 별들의 집…트라우마로 숨진 상인 사진 걸렸다",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53bW1kYUtuZTc0VkVWQjNBYlBGNEpMMjZkWE5veGRFY2hpQ08wbjI1YXY4RUdwOWVJYUxXQXk4X0dicDRaaFF5Q1k2cXRUZTh4czBfSEt4bTFWSk5sWGJrSEpHcENDdFlDTkdBYnRFYkQyZw?oc=5",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1280360.html",
       "source": "한겨레",
       "published": "2026-10-01T11:56:00+09:00"
     },
     {
       "title": "급발진 주장 교통사고로 8명 중경상",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QaXhkWmdrU1FtTVppZ1J1elhnbFRBOVBLLTBCc1BacTJSNFZmZmVSZzNyMXhjYnRtNGtsYU9uZENXMzFGUG9WRHhGUzRtMWhqRWFXX3hpOVRoMmxWVVkyODBJc2ozQThPalV6cw?oc=5",
+      "link": "https://www.samdailbo.com/news/articleView.html?idxno=270868",
       "source": "삼다일보",
       "published": "2026-10-01T11:55:00+09:00"
     },
     {
       "title": "한동훈, 李 국군의날 기념사에 \"불의의 사고? 北지뢰공격=교통사고 취급\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFWDdWSXB2cm5QSklOUnU3eVpURTJyQktIVFhjNGtNN090SVJHUDZ0cW9sY3d4NERtMVQzQVdaaFdBNWFnUVVXU1oycm9sX09wRnEyNTFlUlFOSndoVGs2R0NR?oc=5",
+      "link": "https://www.imaeil.com/page/view/2026100111503312251",
       "source": "매일신문",
-      "published": "2026-10-01T11:54:55+09:00"
+      "published": "2026-10-01T11:54:55+09:00",
+      "summary": "한동훈 무소속 국회의원, 강신철 국방부 장관, 이재명 대통령..."
     },
     {
       "title": "과천시, 과천청사 사거리 차선·노면 유도선 재도색 추진",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1MzR3ZHdyeDNEelhsTUMwaGtYUFhzMkV2cUtFTXoxRUhGTk4yM3RRVGlsUm5lYXpaaFBuVXVmUE5yRG5wMjhIV0U4R1JNemJWdGxtZ1NmZFdHaWQwZVh2MTBPZkNaX2I2X1BZ?oc=5",
+      "link": "https://www.pressian.com/pages/articles/2026100111505172117",
       "source": "프레시안",
       "published": "2026-10-01T11:50:51+09:00"
     },
     {
       "title": "민주 울산시의원들, '음주 운전' 김대영 의원 징계요구안 제출",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Xck4zM2JaTE5KUC1tUnVHVDMyUHU1VGgwcllEcTZjZnJmbGhZVGlXNmV1Z3NiVmNidGhiZFA2eG9FazFoVVBmODNfd0dUX05IcVHSAVdBVV95cUxQdGlqb1dMbW84X09DOWVIVHhBYzYwdk9wdDE4SHdjY2VUckdkd2JjZkYzVl9ZVkpZTmhRS1FxVXdxTzRzUnRiMHRkS2VMdFFPUS1sdlBMNjQ?oc=5",
+      "link": "https://www.news1.kr/local/ulsan/6307451",
       "source": "뉴스1",
+      "published": "2026-10-01T11:48:30+09:00"
+    },
+    {
+      "title": "민주 울산시의원들, '음주 운전' 김대영 의원 징계요구안 제출",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Xck4zM2JaTE5KUC1tUnVHVDMyUHU1VGgwcllEcTZjZnJmbGhZVGlXNmV1Z3NiVmNidGhiZFA2eG9FazFoVVBmODNfd0dUX05IcVHSAVdBVV95cUxQdGlqb1dMbW84X09DOWVIVHhBYzYwdk9wdDE4SHdjY2VUckdkd2JjZkYzVl9ZVkpZTmhRS1FxVXdxTzRzUnRiMHRkS2VMdFFPUS1sdlBMNjQ?oc=5",
+      "source": "news1.kr",
       "published": "2026-10-01T11:48:30+09:00"
     },
     {
@@ -4081,13 +4487,13 @@
     },
     {
       "title": "동급생과 다툰 중학생 뇌출혈…경찰·교육당국 조사",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hYVlhbHNndUpLXzJOaWVNd09mRExnb1Z0T20xWWFvMl9JVjVwNEJMUlBnQzFIVXZNcTJPd3EtUmdTRWQ3R0djTnhTMTZyOXYyVDZ0S1VEQ3lwTjQ?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675558",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T11:48:00+09:00"
     },
     {
       "title": "동료 조종사 흉기로 찌르고 여객기 추락 시도⋯승객들이 참사 막아",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1NmRoWERaRVRYNG5TUkJnZm1pWkg3Uld6T096QnVFV0lmUVZuc1Fqdnpla3hla0N1eDBzZDVTUXcyQzFBY2psV1ZodWpTaHdadUR1dXlJSG14MlMzU2M2Z053?oc=5",
+      "link": "https://www.imaeil.com/page/view/2026100110405729912",
       "source": "매일신문",
       "published": "2026-10-01T11:45:43+09:00"
     },
@@ -4099,19 +4505,20 @@
     },
     {
       "title": "이태원참사 4주기 앞둔 별들의집…‘참사 트라우마 사망’ 상인 액자 걸려",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53bW1kYUtuZTc0VkVWQjNBYlBGNEpMMjZkWE5veGRFY2hpQ08wbjI1YXY4RUdwOWVJYUxXQXk4X0dicDRaaFF5Q1k2cXRUZTh4czBfSEt4bTFWSk5sWGJrSEpHcENDdFlDTkdBYnRFYkQyZw?oc=5",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1280360.html",
       "source": "hani.co.kr",
-      "published": "2026-10-01T11:44:00+09:00"
+      "published": "2026-10-01T11:44:00+09:00",
+      "summary": "이태원참사 4주기를 앞둔 1일 오전 서울 종로구 기억소통공간 ‘별들의 집’에 160번째 희생자 백형준씨의 사진이 걸렸다. 별들의 집 곳곳에 적힌 159라는 숫자는 160으로 덧대어져 있었다. 이태원 상인으로 참사를 목격하고 구조에 참여했던 백씨는 이후 트라우마를 겪다"
     },
     {
       "title": "시민 지키랬더니 사고 친 ‘경찰 로봇’…결국 독방행? [잇슈#태그]",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wcS1BUTlJdFBqU0RIdGNOd3RtSWUtWUlJenhXNFppbWQ5Vl9WUTk4bV84TzRmeHZ0bXVjZVlaZTlSR080OWtBWWJYUFVuLXlMX3FtS2daUFlnb0E?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675550",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T11:44:00+09:00"
     },
     {
       "title": "개정 형소법 시행 D-1, 전국 경찰 수사지휘관 소집",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrazc0T2lqYkU4WHdOZTdUYmZPS2NXdG5QZllYVmtpaUx2VFl1djUwdWFRbEk4U3BNdXhGOTd2S1hoUmczR21yOEZFdEgxQVVUSjN2cEMzLWJrYXdZZ3F5ZDlaSWtZVnVRNWZDeFdR?oc=5",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539140",
       "source": "OBS경인TV",
       "published": "2026-10-01T11:42:47+09:00"
     },
@@ -4130,7 +4537,7 @@
     },
     {
       "title": "강릉 음식점 화재로 2명 부상…주방 벽면·용품 소실",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5md0dJNmJFOWFEclFjb20xcDJmNEhtSzk0SG5sMXA2dDduTVgtOXp5NTZqdlJaekhEdTQyNHl5LTJ4YlR4QkVIdUUyZktLaVE4MVNBTmF2LXZzMk1Ndzd6YmlFVUVpTlhfa2Y3Rkt3?oc=5",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3710374",
       "source": "gukjenews.com",
       "published": "2026-10-01T11:39:50+09:00"
     },
@@ -4155,37 +4562,43 @@
     },
     {
       "title": "'보이스피싱 피해구제 확대' 비롯해 84개 법령 이달 시행",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUSUlIM0lXNDgzcnlYbHhXcjhmN0p1RWphdFFMZGpIa3lNOEdlNnBGSkpJUlFsVTdFWmlOb2lEdUxrcE5xWFAzM2ZjaEhQYUk?oc=5",
+      "link": "https://v.daum.net/v/20261001112801839",
       "source": "v.daum.net",
       "published": "2026-10-01T11:28:01+09:00"
     },
     {
       "title": "'보이스피싱 피해구제 확대' 비롯해 84개 법령 이달 시행",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pa2dwT25EU0ROUVlGQWRPRnFfSzBVaS0tTlJzdEhwS09MU0x2OTFqbkdweTRxcFRLeFJUT3Qzb1drQ1B5a0J3ZWFUWlNEdjhIRGFJNFdPT1FXdGPSAWBBVV95cUxORVRYOUpsNzZXZXB5QTJyNlNUTEpkZzA3LTJfRS01ektRU3Uwa2xYNkNLeDZaLUM4Tm1HS3U2Zk5nTC10UHpCbTRkdWJ6YmRkbGVHaWp2aGVzdmJkY2MyUUM?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20261001083000001",
       "source": "연합뉴스",
       "published": "2026-10-01T11:26:13+09:00"
     },
     {
       "title": "고속도로 2차 사고 평균 6분 안에 발생…순찰차 도착은 15분",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4endEZjdiMDJYdTBrRGd5T0pBTzB1c1lpdVZ0SDU5N1lmSmE1LWlybDlSeFdNd29VbGtLWGl4anl4Z2JGTVEtTk1DYWhIYVlZUzVFbF80N2ZRakxqOENTSVlyT041MWpQZGFr?oc=5",
+      "link": "https://www.pressian.com/pages/articles/2026100111250766946",
       "source": "프레시안",
       "published": "2026-10-01T11:25:07+09:00"
     },
     {
       "title": "제주항공 참사 유가족 \"유해 방치 사태 원인·책임 국감서 밝혀야\"",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ycHdwVzNETWsxTDMweHVfLWttZVJuTzRmYkJqcDBNMFFtSmlPMDFBclNQR1l0dm0ycU4ydXlsZ0FEdWV4ckt1b1NWcDVqb1NCY2FlNFhxbW5CRzFwVkRZ0gFkQVVfeXFMTXI5YlFrZmJRUlB0Xzh1Uk9rb3N1WkF3RzFpd014OE9DeE5HMzJ5WlRRejdfcG52RmR0aFNNUFZjdWVldkNPeFp5WGJiRlZScUhuTjVSeFQ1S1BBMXMwM1lvVy1xXw?oc=5",
+      "link": "https://www.news1.kr/local/gwangju-jeonnam/6307358",
       "source": "뉴스1",
       "published": "2026-10-01T11:24:48+09:00"
     },
     {
+      "title": "제주항공 참사 유가족 \"유해 방치 사태 원인·책임 국감서 밝혀야\"",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ycHdwVzNETWsxTDMweHVfLWttZVJuTzRmYkJqcDBNMFFtSmlPMDFBclNQR1l0dm0ycU4ydXlsZ0FEdWV4ckt1b1NWcDVqb1NCY2FlNFhxbW5CRzFwVkRZ0gFkQVVfeXFMTXI5YlFrZmJRUlB0Xzh1Uk9rb3N1WkF3RzFpd014OE9DeE5HMzJ5WlRRejdfcG52RmR0aFNNUFZjdWVldkNPeFp5WGJiRlZScUhuTjVSeFQ1S1BBMXMwM1lvVy1xXw?oc=5",
+      "source": "news1.kr",
+      "published": "2026-10-01T11:24:48+09:00"
+    },
+    {
       "title": "보은경찰서, 상습 음주운전자 차량 압수",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DQjZVUDh5LXFfOFhRaUQtTXBJUjVjTy04NXlsa2QyUlZrRGd6aTZKVXVxTzhsZFF2dmJZVHlWbWN5WjBSYkRrNG5ZMktrSXp3cTREUzRJTTFrbG45WnJlX0kxenlYMTZjUnNKRHlB?oc=5",
+      "link": "https://www.boeunpeople.com/news/articleView.html?idxno=82078",
       "source": "보은사람들",
       "published": "2026-10-01T11:23:53+09:00"
     },
     {
       "title": "\"유해 방치 규명을\" 12·29 여객기 참사 유족 국회 농성",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wZmdzQ19KdGNMTE93QkVrSjl0YmlBYmgwdzFaanhyc1J0Y0VQVG91RTZnS0JPWm9vTVZURGcyODllLXZNbTFGbGpLQjRyc1YwNkI2bjY4amgyZW5CdjFweNIBeEFVX3lxTE1XbHVHblU3ajRHai15c2FMWV9qSWxXYl84bXAyUUlGMm5WdkVCSVFCZ2t2ZlFzVjJuem9PZE5BdDNONEJfR1Jud0Y4QUtkQml6MU5lc1c4MElYSmI3NzFWSFJYQlVVMWRNUlJyVjRYYnZqOHlrMjdwSg?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261001_0003810533",
       "source": "newsis.com",
       "published": "2026-10-01T11:23:31+09:00"
     },
@@ -4197,6 +4610,12 @@
       "summary": "부산해양경찰서(서장 성대훈)는 10월 1일 오전 남구 이기대 해상에서 사람이 물에 떠 있다는 신고를 접수, 구조세력을 현장으로 보내 남성을 구조해 병원으로 옮겼다고 밝혔다.부산해양경찰에 따르면, 이 날 오전 8시 52분경 이기대 치마바위 앞 해상에 사람이 물에 떠 있다…"
     },
     {
+      "title": "부산해경, 이기대 앞바다서 심정지 상태 남성 발견, 병원 이송",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsX1BjRzg0eWFGUnhSSE5xdDZrNTVsYjZmLUwzLUZzVkZrWmJsVW5iZTVrYzF0OEFRZkU5SEdnSUxFbDE3Zm1oMUtDdERuMXRDRzdTMWVjVHdaRlRFODBnMU42MmFwb0RtQnZIekFBMkFlVjN6SWRWNF9R?oc=5",
+      "source": "lawissue.co.kr",
+      "published": "2026-10-01T11:23:26+09:00"
+    },
+    {
       "title": "경남경찰청, 개정 형소법 시행에 수사심의위 외부위원 추가 위촉",
       "link": "https://v.daum.net/v/20261001112144393",
       "source": "v.daum.net",
@@ -4204,13 +4623,14 @@
     },
     {
       "title": "'꼬꼬무' 모산 수학여행 버스 참사",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82LUxpenRRNEs1ZmU2LWcwc1ZkSkFFdmh2ZzBsWm9FdFRkZDRPUUgzUGtSb1F3YjdGQjZORE9Fa1lZMkVBWVl2ajVtdk9PYXR3ZWZ1VC16bnlsLTRKaW1Db2Jvd0c?oc=5",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202610010078",
       "source": "bntnews.co.kr",
-      "published": "2026-10-01T11:21:42+09:00"
+      "published": "2026-10-01T11:21:42+09:00",
+      "summary": "‘꼬리에 꼬리를 무는 그날 이야기’(꼬꼬무) 모산 수학여행 참사, 56년 만에 찾는 생존자 ‘꼬리에 꼬리를 무는 그날 이야기’(꼬꼬무)"
     },
     {
       "title": "별이 된 160번째 이태원 참사 희생자",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKdFJ3NGd6ejk0bzNtY3lTaURyVjROVEw0Q2YzS0c1clJHSWtGVXFQRDJnQzd2bW4xVUxrcVpub2V5YlNfRlJJTDNoN3NuY2Q5YkFIZTVrT08zTmFXczNEdkZ6Y1o3dw?oc=5",
+      "link": "https://mobile.newsis.com/photo/NISI20261001_0021469740",
       "source": "newsis.com",
       "published": "2026-10-01T11:20:03+09:00"
     },
@@ -4230,7 +4650,7 @@
     },
     {
       "title": "보이스피싱 합수부, 4년간 526명 기소…범죄수익 360억 환수",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0UUhhd3oyMzBUU0RnOU1GNkJ2SUdudlRrNm1YTlhiOHF6ZThHOGdWUGRUbWRUajN1RElPMk1MLTh6LXBLMDNHRS1MTWluX0k?oc=5",
+      "link": "https://v.daum.net/v/20261001111831174",
       "source": "v.daum.net",
       "published": "2026-10-01T11:18:31+09:00"
     },
@@ -4248,7 +4668,7 @@
     },
     {
       "title": "국힘 \"지뢰참사, 文·李정권 합작품…대북 굴종노선 폐기해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81STdkbkZmV3pYRUlweTVsbjd0ejRwSllJb2NqSEl4eU5GOEhSRUxFTGhiX0l0MHN4VXRtcGdWVTd4N2o3czVUaWRDVFAyc2c?oc=5",
+      "link": "https://v.daum.net/v/20261001111457898",
       "source": "v.daum.net",
       "published": "2026-10-01T11:14:57+09:00"
     },
@@ -4260,25 +4680,26 @@
     },
     {
       "title": "과천시, 교통사고 예방을 위한 과천청사 사거리 도로 재도색 추진",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MSW9sdEs5ZE96TnVhMHBBV3hXM1l6V1BaczdlcjN1TlpzbWNfdGR2V1dxSnZyUVZwRW9JQXJaWTdRMnk0R2lNbUtB?oc=5",
+      "link": "https://www.ggpyeonghwa.com/615670",
       "source": "경기평화신문",
-      "published": "2026-10-01T11:14:00+09:00"
+      "published": "2026-10-01T11:14:00+09:00",
+      "summary": "과천시청 과천시가 교통사고 발생 빈도가 높은 과천청사 사거리 일대를 대상으로 도로 차선 및 노면 색깔 유도선 재도색"
     },
     {
       "title": "‘활동 종료’ 앞둔 보이스피싱 합수부, 4년간 526명 구속·환수액 360억",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCd1g1cnpwVEhTQlBkaXlCbE1Pb2Z1RmtFRDQ5RUVsT1c2V3g1SDBJbS1ERE43VVllbkk5d2YxSjZSVk1JcUhORXpTTDFuU2JRZktRMQ?oc=5",
+      "link": "https://news.jtbc.co.kr/article/NB12320863",
       "source": "JTBC",
       "published": "2026-10-01T11:14:00+09:00"
     },
     {
       "title": "서울동부지검 보이스피싱 합수단, 4년간 526명 구속…360억원 환수",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tMWVTQ0RKZ1lBMzNyU3htYktMaWtwR19Pd3RiMVlJN2J1UFBGVExRRmE1bHRxT0VNSTNCWHhOWDZTdm1jNjAyRzh1dmlWZEwzMTBkZnEtVW12anRQMkFYMGN0bUhuUUtZNUFsVTVn?oc=5",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261001010000156",
       "source": "아시아투데이",
       "published": "2026-10-01T11:13:27+09:00"
     },
     {
       "title": "김천경찰서, 실종자 조기발견을 위한 `지역 치안 협력 간담회` 개최",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tRjRZRVlLeW95ekxsc0NuS0JzaDBJbGhNazZjMEFkeV9aSkZPN1RkOWp3LVlEZEhPcERYekpGcWg4RDFxT29vYS10VUhNSnVQY0dZNUdTOWt2Sm11Z1N6TERB?oc=5",
+      "link": "https://www.imaeil.com/page/view/2026100110482500338",
       "source": "매일신문",
       "published": "2026-10-01T11:12:36+09:00"
     },
@@ -4290,25 +4711,25 @@
     },
     {
       "title": "서울동부지검 보이스피싱 합수단 “4년간 1,381명 입건 성과”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JSTFSSnhkbnllVGFULURkUDIzYUR0STdFVWxyWHVsNDJSSkt1a2RpaHh5TS1ZNzdGeVJuS2E2aEZSdHhjTUdubXNZUE13S3NMMTdpdFV2dXpOZEE?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675496",
       "source": "KBS 뉴스",
       "published": "2026-10-01T11:11:00+09:00"
     },
     {
       "title": "서울동부지검 보이스피싱 합수단 “4년간 1,381명 입건 성과”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JSTFSSnhkbnllVGFULURkUDIzYUR0STdFVWxyWHVsNDJSSkt1a2RpaHh5TS1ZNzdGeVJuS2E2aEZSdHhjTUdubXNZUE13S3NMMTdpdFV2dXpOZEE?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675496",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T11:11:00+09:00"
     },
     {
       "title": "\"유해 방치·부실 수습 진상 밝혀야\"…무안공항 참사 유가족 국회 농성",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JMXFfb2JsSnVzcDFIR1g0MHFmR2ZHanpnbnRYZ1k1bEN3MlRNT0JyeWVnb0NRVF9sWFdZSWQ5aTRoZDh2clpFb3JlY1FIMUk?oc=5",
+      "link": "https://v.daum.net/v/20261001110759474",
       "source": "v.daum.net",
       "published": "2026-10-01T11:07:59+09:00"
     },
     {
       "title": "파주 갓길서 작업하다 트럭에…작업자 1명 사망·1명 중상",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EYU5jUG82UzIyWFVDUkVQTkNyTW5lRlFfbWJ4Qks5RGx5TV9oUzczSzVwbXlfRk5mbUJzY19YaFlQbmtRN1lvY1VudXZ4cGw0a1Z5eFkzVnk0aHNuaWR0RFNsNldlQ0xuN2c?oc=5",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008778481",
       "source": "news.sbs.co.kr",
       "published": "2026-10-01T11:06:17+09:00"
     },
@@ -4320,21 +4741,22 @@
     },
     {
       "title": "과천시, 교통사고 잦은 과천청사 사거리 차선·유도선 재정비",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUjZWOHFlSk0yOVFIa0xXT1RQNUR6bGt2aXNqQ1FsbVNla012NEFLcHRwZTI1RUI5Rnp0T0hZcUR5ZUpsZVRRa1J2bWV0cml1OU5mcWVIZXY2QUFuVF9xaWI2dXR6bXND?oc=5",
+      "link": "https://www.kmaeil.com/news/articleView.html?idxno=653285",
       "source": "경인매일",
       "published": "2026-10-01T11:03:07+09:00"
     },
     {
       "title": "과천청사 사거리 교통안전 개선…차선·유도선 재정비 - 보도자료 | 기사",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40emgyUFlsUkRrUmFyVEpseExDVTcxSUNaZEE2SloyX205WWhPZHBnempSMzFCeXBHdkFhT3IzZTNBdmktYnBwWjdxMU5iT0FnRllKOTNMdW1qYldEVWpr?oc=5",
+      "link": "https://news.tf.co.kr/read/releasecopy/2371805.htm",
       "source": "news.tf.co.kr",
       "published": "2026-10-01T11:02:01+09:00"
     },
     {
       "title": "10월부터 보이스피싱 피해 구제 확대... 배달앱 원산지 고지 의무화도",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aajVMRl9nLUJNRUhHYVR2QVVIUVhxekl0eGVDR2R4N09Nako3VzRwV1N1ZjZLZkRRTl83dEpNTE96djBGWS1VYTZfTl8xaG1XOGRjTmgwVzJOZkpFUzRCdTlDN0xPTWxxc0E?oc=5",
+      "link": "https://www.hjnews.co.kr/news/articleView.html?idxno=24783",
       "source": "한국재난뉴스",
-      "published": "2026-10-01T10:59:07+09:00"
+      "published": "2026-10-01T10:59:07+09:00",
+      "summary": "10월부터 가상자산을 이용한 보이스피싱 피해자에 대한 구제가 확대되고 배달 음식 애플리케이션 등 통신판매중개업자의 원산지 고지 의무가 강화된다. 또한 노래연습장의 청소년 출입 규제가 완화되고 건강보험료 체납자의 본인부담상한액 초과 환급금 공제도 가능해진다.오늘(1일)…"
     },
     {
       "title": "인천해경, 항공기 불시착 가정해 수난대비기본훈련 실시",
@@ -4344,7 +4766,7 @@
     },
     {
       "title": "檢 보이스피싱 합수단 “4년간 526명 구속·범죄 수익 360억 환수” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2tnbEJtQUNwd0dVZkVYa1VFQ3BFTTlTRkdXekR6OHJQYXBkbHNPVmNtMmxGQ0hqUVQzejREV1FrNjlEVDk4Q0UtaWZwMDBYNFJuWFlBVW5YbEF6QWNOQ2pZNklwQ2NlWnVBcUdMQmtNeUEwOXBkQ2FzV0ZBb2hJNjBSWdIBlwFBVV95cUxQcVdYWDhmWFM2akVHS3JDLTN2U3dWX0h5MHI5OTgya3ZTXzRQa1oweTJwdlFfRnd0cXc4TEhHZXVhUlc2aVBRQUZJbzFvd19NV1A1d3VXYS00aTJrR2xtV2szajRZSlBkek9uUk1QU1RiY2UxOG5Xb1pESi1Yc0tfSU16N3pWYmdjQkJod2dmWGh6RTRrZVF3?oc=5",
+      "link": "https://biz.chosun.com/topics/law_firm/2026/10/01/ICKO5IKJYNCIDNKTENXTLF5GQI/",
       "source": "Chosunbiz",
       "published": "2026-10-01T10:56:00+09:00"
     },
@@ -4356,7 +4778,7 @@
     },
     {
       "title": "부기장이 기장 찌르고 추락 시도…180명 탄 이스라엘행 여객기 참사 날 뻔",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uNnpPR1VwZlFmMllWc2JZNmxOSFdfaEU3RDVOV183dWhsc0txVHJEUkZ2anBXaExQTGFTbEZTVkI0aFpWNjhqUTdaa2V1amlHcnVabjQzR1luaXdpZTY2UG9DanBYQWUxV3c?oc=5",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=723265",
       "source": "hidomin.com",
       "published": "2026-10-01T10:50:48+09:00"
     },
@@ -4368,13 +4790,13 @@
     },
     {
       "title": "국힘 \"참담한 국군의날, 엄혹한 안보 참사\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5felpWQ056SEVpOEpoejR1QUd2WGg5anNRS0RQYUVyRVl3aTl4bVRBUWQ3ay1lSk9iajhhVUVUTzhPVnpTckNOM0t6SEJMVTFsMmVSSHFOSjRGSVJIWVZkVnZHMmpzV3c?oc=5",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261001104752SNe",
       "source": "연합뉴스TV",
       "published": "2026-10-01T10:47:00+09:00"
     },
     {
       "title": "수도권매립지관리공사, 매립가스 화재·폭발 대비 합동훈련 전개",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FeEMyazdaX2dGTUJuOFFoSjNJLW85RFNsQ1FCR1c2c1Z6a196MjQtM3BWajhpODhZUzJhSnFDRUdCdUtPd2RwRHNJWUlmRWdRcGdzbVdrNkpJeXBOOVMxdnhmbndncUJy?oc=5",
+      "link": "https://www.kmaeil.com/news/articleView.html?idxno=653273",
       "source": "경인매일",
       "published": "2026-10-01T10:46:44+09:00"
     },
@@ -4386,13 +4808,13 @@
     },
     {
       "title": "제주서 70대 운전자 차량 급가속…8명 중경상",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMU1SNmNQbzdneEU0TW0wVkhGTlJFRVoxdVU0d1RTV0dlalU2T0NFeUg0SFZQZzBLWXhyR200bVQ2WnM5a3Q0cEtvcTQ1T0dnU0RUbDNOXzR2bGPSAWBBVV95cUxNcDBoSU5SNWlvQkUzVnRxZWdSYVpJaVNwb2Z4eElKNG1ER0NKdmVjM1NUU0lSMHZSV01aa3g4TVBaSXM4QS1adm1EbFdmcDBwYUZOOFZrNVBEWUhlTUE5Vy0?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20261001079500056",
       "source": "연합뉴스",
       "published": "2026-10-01T10:44:12+09:00"
     },
     {
       "title": "장동혁 \"지뢰 참사, 문재인·이재명 정권 합작품\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ycGZiRUI2TlNpdzNINHVaT2xWTnNYbWZpTW1VcGE3RVhYR28zdnlSdlBVU3lFc1R6WFo5S1g3X2pWUTZlVzlLbDVvZFltYlBhRjBvUTVlSkRlLWpPWkF3X0VSSzBJMHE4TTRr?oc=5",
+      "link": "https://www.pressian.com/pages/articles/2026100110433830689",
       "source": "프레시안",
       "published": "2026-10-01T10:43:38+09:00"
     },
@@ -4404,7 +4826,7 @@
     },
     {
       "title": "장동혁 \"지뢰 참사, 문재인·이재명 정권 합작품\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lbTY5YWZJbWpETndKX2d4RXB3OG9ZRHhNeVJrOUFqSWo5SFhUUlZuWE13RVJVTjFhdVlWOWVBMENjcjJqY1dYVGcyYkJhU3BVQk5pR1VpRklITjFyczFyaTZKdUZZQlFXNWtob1phM1k5SWpwcGE2NNIBeEFVX3lxTE5tQTBSdkJDeVlEei1wSWJ5UzBZZGlaWjFDQlRrTjFPcTFISG0tZEZzbWRlazFzT29hMzJBNkE1TVljSFdFVHJJZDNwSnd1bFNBWk10aTBob2dOQjZuUndpQ05Kd3hvcks1SFdaT21yelFRdUZVc2lQRQ?oc=5",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6855154_36911.html",
       "source": "MBC 뉴스",
       "published": "2026-10-01T10:40:35+09:00"
     },
@@ -4424,37 +4846,37 @@
     },
     {
       "title": "무안공항 참사 유가족 “민주당, 재개항에만 관심 갖지 말라… 국감서 유해 방치 밝혀야” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFdGLUlLc1dzeFRvaGNOYVJZbktoaHo3VlV2ekV3Z1oyU3dVUGp2Tmp6TTFxTXFYZHBJckt4MmtJVlpBcmZNMGJFTmoxX2htX2JjcVlKZGRTZUV3bnNfWWpJd2FlNnl1dUJCNmNMT21STVFla3pFZ2VGRlo4NUh6M0hwa2tvaEF6NnfSAZ4BQVVfeXFMT2lkTEpTbHd2SVBpRXBZbFdJZ2hFdDVGZnlWYzgtUGhMLW5JaU9kSnoycUpxY0RidDdYdHlOcnpueWtnbmFGNTlkdkVWbFBYM3hHcUxIYlpRV2t0cFVxTzlZTUltc2xsLWpjbUdfU0JOZFJFeVoxWm9VNEVCVV82R1lPRFVFQ3Zrenptblgtc0V4RVdwWnlVNkM0QWx3X3c?oc=5",
+      "link": "https://biz.chosun.com/topics/topics_social/2026/10/01/CP3JMKL5O5H3HJNJTWDRAQBXAY/",
       "source": "Chosunbiz",
       "published": "2026-10-01T10:38:00+09:00"
     },
     {
       "title": "부기장이 기장 찔러 비행기 추락 시도…피투성이 기장과 승객이 참사 막았다",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mTU9IU1JJd2FEaXNHb2paNFNiVmk4SzQ2bzB5QXhCTUlCYTRvaG9wcEc3aTNsc2xVUHFBX2hBSzZ4UlpXcGhaZ3YxQzdkLXNUWEpPeWVTU2JOeVZiQmxZUnhn0gFnQVVfeXFMTWdBZXJDX3hUOUktVEk0WmREazFYSXBqTTV1MUpBaUMyVjZSNXcteWlrWUtwTlRhdkJteEswUVNfaV9jb1pXUnh5V2VPMlJmOFRzTTRIanUxSU5rMzN1Q29lbXRIWkNRMA?oc=5",
+      "link": "https://www.news1.kr/world/middleeast-africa/6307078",
       "source": "뉴스1",
       "published": "2026-10-01T10:32:08+09:00"
     },
     {
       "title": "가족 슬픔에 교통사고까지…'공포 마케팅' 보험광고, 5년간 경고는 1건",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nRDJKZnVCX0dFZzhNUmFyLUlua0R1VWVTT2tTX0RCNy1jR19UZ2xVQWlfX0lVQmVwWFh1bzExZVZhWEw2RjYyXzFmNzM3MzVOSW56U2pST1k5OU5KYjNZT1RXbTRyY3JMMk9J0gFwQVVfeXFMTnlKX3BVam84a09kTF9MSGNQYkpPaGltamVZUlQtNmtLc0VnQVF3RHpsM045amlZTi0zRTRKS25LUnJHMWtCb3NXalE0SG9Wd3p2bkJIYmxsQ3N0ZU9DcklUWlIzSUxpTTkyS19mZ3F3aw?oc=5",
+      "link": "https://www.mt.co.kr/finance/2026/10/01/2026100109042525170",
       "source": "머니투데이",
       "published": "2026-10-01T10:31:23+09:00"
     },
     {
       "title": "보이스피싱 줄고 '신종 스캠' 증가… 데이터유니버스, 금융사기 예방 캠페인 진행",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XZFhkZFdPQ2JyRDZyU1MxdlVUZXpvQTBjRGk1T2VwYnFoUkp1VW14SHdjOU5wYjlfVzZiM21sOEJvZnJDbkFsN09VcFg0UzQyUFl5VWkxUHdLRm1tSzFKUg?oc=5",
+      "link": "https://www.asiae.co.kr/article/2026100110302369466",
       "source": "아시아경제",
       "published": "2026-10-01T10:30:23+09:00"
     },
     {
       "title": "[송범석 칼럼] 음주운전 구제 - 신혼여행을 앞두고",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85LVhqTG1vSXV0VFR1YzRDYnBlR1NqUUNaRC10bW5OcHNaejdMWkMtdmU1RTFTY0h3bVIybF9tbFBvSXB0UUF2ekdGNVB2a2cxZUk4UUs2MTAySGZEd0RuNzJURzBkLU1qWS10NTZtcWJ2VDBh?oc=5",
+      "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=45215",
       "source": "파이낸셜리뷰",
       "published": "2026-10-01T10:28:37+09:00"
     },
     {
       "title": "파주 자유로서 작업차량 추돌…잡목 제거 근로자 1명 숨져",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00TVh4OUhBYm9pbjBGZm1lV0xKS2lWV2dhY0xFd29vSFNWcFpyUWN4NFh0emJRMmhaZDFGUVJkRjJMMDF1MEZBQTJtVWU3M1RyUVNYNS1yQm9Oekk?oc=5",
+      "link": "https://www.kyeonggi.com/article/20261001580047",
       "source": "경기일보",
       "published": "2026-10-01T10:28:14+09:00"
     },
@@ -4466,7 +4888,7 @@
     },
     {
       "title": "검찰, 국민의힘에 고발된 ‘이진숙 체포 경찰·검사·판사‘ 불기소",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43OFFJSUV0LTlSbFNwajN1T3lWVElDRW9TX3U4U0h5MlUwWXlVR3hrcmIyMGladTlEOEtRRnNqX3VoajNScm5nQy1zRDlFanZaUFlaY1huNnVubWc?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675409",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T10:27:00+09:00"
     },
@@ -4478,31 +4900,31 @@
     },
     {
       "title": "여자친구 폭행·흉기 위협하고 경찰까지 때린 10대 구속 송치",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSjhFSC05em0ydTcxcmNDaDhuNGotd0pGRzd3Q0pJZTBEMHU4NDg5RnQ4QS1kQlVma2lpVnd6M3hxdUVWdXZGU1RsaXFBNnoyenlDVF9nbTNfZUE?oc=5",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8675402",
       "source": "news.kbs.co.kr",
       "published": "2026-10-01T10:25:00+09:00"
     },
     {
       "title": "국민의힘 \"지뢰 참사, 文 정권 GP 철거와 李 정권 수수방관 합작품\"",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00THJVODEyQ2lyc1h0bkVPUTM0dEZ5Qml1TUNQVjBJZ0czdjdVNTdhV0VJbVB3amE2ZktnRjV3bTlWbUJqcVVRdXhYeEtvQ1V0Y1RRa2ZkTGwweE9zaE9rOG9Tc1U?oc=5",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2001574",
       "source": "m-i.kr",
       "published": "2026-10-01T10:24:42+09:00"
     },
     {
       "title": "국민의힘 \"지뢰 참사, 文 정권 GP 철거와 李 정권 수수방관 합작품\"",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00THJVODEyQ2lyc1h0bkVPUTM0dEZ5Qml1TUNQVjBJZ0czdjdVNTdhV0VJbVB3amE2ZktnRjV3bTlWbUJqcVVRdXhYeEtvQ1V0Y1RRa2ZkTGwweE9zaE9rOG9Tc1U?oc=5",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2001574",
       "source": "매일일보",
       "published": "2026-10-01T10:24:42+09:00"
     },
     {
       "title": "울산 정가 음주운전 파문 확산…민주당, 시당 논평 이어 기자회견으로 공세",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oblhZNjZiUW5rTWZ2Ymw5SU42TjZuMkNHY2RUYURJUFBGOWc0bFB5TGhDSS03WHlTVWNmSlp4U21RMUtUT3Zrd1FQWTZNaVlNYWR3Y21XbkFXYlJ6TkZndXpfZjl3UjFOYkViVDBB?oc=5",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=144722",
       "source": "투어코리아",
       "published": "2026-10-01T10:24:39+09:00"
     },
     {
       "title": "김준현도 다이어트 주사 맞았다 \"우유 한 컵에 식욕 실종\" 충격 ('데이앤나잇')",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80NEU2T3VKVFhKbU9RVzN6elNQX01rZi1YMjZ0QlRhV3ZCTklPdHB6Y3pzbWl2dzhQMzBsTFlGYm04Y2VSNlE?oc=5",
+      "link": "https://v.daum.net/v/KPjZJrb0yh",
       "source": "v.daum.net",
       "published": "2026-10-01T10:20:13+09:00"
     },
@@ -4720,6 +5142,12 @@
       "published": "2026-10-01T09:28:52+09:00"
     },
     {
+      "title": "대구경찰청, 유관기관 손잡고 어르신 교통사고 예방 총력",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96TnljeDZzMVdKOEF1M054d2sxazUtMDhSU3o2cFJVOE5kcW1JVmpMSlB1bzY3U2xtaW04d0JBWjBfbWlKRUFwU2RHTHBWUC1aVlZOalJQQW91UDg2TGhXUXpYLWtXSW1jSEkw?oc=5",
+      "source": "news.bbsi.co.kr",
+      "published": "2026-10-01T09:28:52+09:00"
+    },
+    {
       "title": "고속도로 사고 감지는 빨라졌는데 출동은 늦어져…2차 사고 30%↑",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0teHlFb0Q2RUFXaTJBVE03V0Z0bjFlcm1uT3Atc0xPVTB6LUZVZGtLWl9LM0lscHhwM0dVbEtPRnFsYWZmWkpYNXB6U1g4Q1JqRE8zTzc5WHh2Z9IBWEFVX3lxTFA5bmNYYkRHNDRtNkVlTWRwdXcxUklzUjdBTVktTFFwVGRNMmJuYVF6bTFvNUVqYXZfRVNBbzZPaFVJcEZFY0Y4SV9rcmNtWHFTMV9aLVljTEU?oc=5",
       "source": "아주경제",
@@ -4735,6 +5163,12 @@
       "title": "대구경찰청, 유관기관과 고령자 교통사고 예방 업무협약 체결",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWbjhyVjkyenNKWDB4bnNMb3NTUTc3bnN4YTAwNmkyNXZoYW9kY3V0WmJWaFNoWjczVHU5ZWVPOTlLNWZHZlpGOFI0bU9EbXJEcVBmVWlOWWcxUnZTdEZvYUtHa2VYRThYSEZxR1B2U3BDMWFyOXZ4Qk9B?oc=5",
       "source": "로이슈",
+      "published": "2026-10-01T09:19:44+09:00"
+    },
+    {
+      "title": "대구경찰청, 유관기관과 고령자 교통사고 예방 업무협약 체결",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWbjhyVjkyenNKWDB4bnNMb3NTUTc3bnN4YTAwNmkyNXZoYW9kY3V0WmJWaFNoWjczVHU5ZWVPOTlLNWZHZlpGOFI0bU9EbXJEcVBmVWlOWWcxUnZTdEZvYUtHa2VYRThYSEZxR1B2U3BDMWFyOXZ4Qk9B?oc=5",
+      "source": "lawissue.co.kr",
       "published": "2026-10-01T09:19:44+09:00"
     },
     {
