@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T18:35:59.974940+09:00",
+  "generated_at": "2026-10-22T19:00:16.107283+09:00",
   "topic": {
     "id": "realestate",
     "label": "부동산",
@@ -37,20 +37,20 @@
       "source": "뉴스1",
       "published": "2026-10-22T14:00:00+09:00",
       "latest": "2026-10-22T17:59:30+09:00",
-      "mention_count": 19,
+      "mention_count": 23,
       "sources": [
         "뉴스1",
         "포쓰저널",
         "이투데이",
+        "머니투데이",
+        "아주경제",
         "아이뉴스24",
         "연합인포맥스",
         "뉴시스",
         "KBS 뉴스",
+        "조선일보",
         "핀포인트뉴스",
-        "더파워",
-        "https://www.2news.co.kr/",
-        "연합뉴스TV",
-        "국민일보"
+        "더파워"
       ],
       "summary": "경기 0.21%, 6주째 서울 웃돌아…분당·안양 동안, 올해 16%↑ 서울 강북 0.26% vs 강남 0.02% 온도차…서초는 낙폭 커져 서울 아파트값이 89주 연속 오름세를 이어갔다. 반도체 산업 호황과 재건축 기대감 등에 힘입어 경기 남부 주요 지역은 강세를 보인…"
     },
@@ -1079,9 +1079,21 @@
       ]
     }
   ],
-  "total_articles": 686,
-  "total_issues": 359,
+  "total_articles": 696,
+  "total_issues": 363,
   "raw": [
+    {
+      "title": "4.2조원 인도 최대 IPO '지오'…기관 이어 개인도 가세",
+      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=48412",
+      "source": "뉴스톱",
+      "published": "2026-10-22T18:45:45+09:00"
+    },
+    {
+      "title": "충북 아파트값 상승세 이어져",
+      "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106524",
+      "source": "충청매일",
+      "published": "2026-10-22T18:35:35+09:00"
+    },
     {
       "title": "거래 절벽에도 오르는 서울 아파트값…1년 새 15.5% 뛰었다",
       "link": "https://m.joseilbo.com/news/view.htm?newsid=577973&class2=&class=3",
@@ -1117,6 +1129,12 @@
       "link": "https://www.ytn.co.kr/_ln/0134_202610221802175826",
       "source": "YTN",
       "published": "2026-10-22T18:02:00+09:00"
+    },
+    {
+      "title": "이형일, 내년까지 수도권 공적주택 10만호 입주 전망...부동산시장 안정 기대",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=316871",
+      "source": "https://www.ppss.kr/",
+      "published": "2026-10-22T18:01:35+09:00"
     },
     {
       "title": "[이슈체크] 청약 경쟁률 높은데 또 분양?…반복 모집의 속사정",
@@ -1233,10 +1251,22 @@
       "published": "2026-10-22T17:14:39+09:00"
     },
     {
+      "title": "\"3년이나 기다렸는데\"…사전청약자들 줄줄이 포기한 이유가",
+      "link": "https://www.hankyung.com/article/2026102293131",
+      "source": "한국경제",
+      "published": "2026-10-22T17:14:39+09:00"
+    },
+    {
       "title": "서울 원룸 月 71만원…한 달 새 5.2% 올라",
       "link": "https://www.hankyung.com/article/2026102293111",
       "source": "한국경제",
       "published": "2026-10-22T17:13:42+09:00"
+    },
+    {
+      "title": "한성대입구역 인근 1070가구 재개발",
+      "link": "https://www.hankyung.com/article/2026102293141",
+      "source": "한국경제",
+      "published": "2026-10-22T17:12:39+09:00"
     },
     {
       "title": "낙폭 커지는 영종구 아파트값... 신설 구 중 나홀로 하락세",
@@ -1697,6 +1727,12 @@
       "published": "2026-10-22T14:51:57+09:00"
     },
     {
+      "title": "서울 아파트값 89주째 상승…강남3구 내리는데 강북권은 ‘강세’",
+      "link": "https://www.dailian.co.kr/news/view/1704798/%EC%84%9C%EC%9A%B8-%EC%95%84%ED%8C%8C%ED%8A%B8%EA%B0%92-89%EC%A3%BC%EC%A7%B8-%EC%83%81%EC%8A%B9%EA%B0%95%EB%82%A83%EA%B5%AC-2026",
+      "source": "데일리안",
+      "published": "2026-10-22T14:48:00+09:00"
+    },
+    {
       "title": "청주 '가경 아이파크' 1순위 121대 1…'신분평 에피트' 27일 특공",
       "link": "https://www.news1.kr/realestate/general/6328689",
       "source": "뉴스1",
@@ -1848,6 +1884,12 @@
       "link": "https://kbthink.com/news-list/view.html?newsId=20261022141046742",
       "source": "KB Think",
       "published": "2026-10-22T14:10:46+09:00"
+    },
+    {
+      "title": "서울 아파트값 89주 연속 상승… 강남 3구만 내리고 경기권 강세 이어져",
+      "link": "https://www.chosun.com/economy/real_estate/2026/10/22/ZGZUUGHUY5HVHI7ZDQCUZD6ZYE/",
+      "source": "조선일보",
+      "published": "2026-10-22T14:10:00+09:00"
     },
     {
       "title": "해외 도주 전세사기범, 대마 유통하며 8년 도망다니다 송환",
@@ -2008,6 +2050,18 @@
       "published": "2026-10-22T14:00:00+09:00"
     },
     {
+      "title": "서울 아파트값, 89주 연속 상승…강남 약세·외곽 강세 계속",
+      "link": "https://www.mt.co.kr/amp/estate/2026/10/22/2026102211082238982",
+      "source": "머니투데이",
+      "published": "2026-10-22T14:00:00+09:00"
+    },
+    {
+      "title": "서울 아파트값 89주 연속 상승…강남3구 하락 속 강북·외곽 강세",
+      "link": "https://www.ajunews.com/view/20261022111953787",
+      "source": "아주경제",
+      "published": "2026-10-22T14:00:00+09:00"
+    },
+    {
       "title": "서울 아파트 실거래가 1년 새 15.5% 상승",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3442322",
       "source": "천지일보",
@@ -2154,6 +2208,12 @@
     },
     {
       "title": "분당 재건축 3차구역 2만5000가구 내년 5월 선정",
+      "link": "https://www.housingherald.co.kr/news/articleView.html?idxno=63234",
+      "source": "하우징헤럴드",
+      "published": "2026-10-22T12:40:50+09:00"
+    },
+    {
+      "title": "분당 재건축 3차구역 2만5000가구 내년 9월 선정",
       "link": "https://www.housingherald.co.kr/news/articleView.html?idxno=63234",
       "source": "하우징헤럴드",
       "published": "2026-10-22T12:40:50+09:00"
