@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T07:15:54.799120+09:00",
+  "generated_at": "2026-10-23T08:11:34.929625+09:00",
   "topic": {
     "id": "realestate",
     "label": "부동산",
@@ -37,20 +37,20 @@
       "source": "BBS불교방송",
       "published": "2026-10-22T14:00:00+09:00",
       "latest": "2026-10-22T22:57:00+09:00",
-      "mention_count": 21,
+      "mention_count": 22,
       "sources": [
         "BBS불교방송",
         "뉴스핌",
         "뉴스1",
         "파이낸셜뉴스",
         "이투데이",
+        "머니투데이",
         "아이뉴스24",
         "한국경제",
         "연합인포맥스",
         "KBS 뉴스",
         "연합뉴스TV",
-        "에너지경제신문",
-        "지데일리"
+        "에너지경제신문"
       ],
       "summary": "전국 아파트값이 상승세를 이어간 가운데 서울은 강북권을 중심으로 오름세를 보였지만 강남과 서초구는 11주 연속 하락했습니다.한국부동산원이 발표한 10월 셋째 주 주간 아파트가격 동향에 따르면 전국 아파트 매매가격은 전주보다 0.08% 상승했습니다. 전세가격도 0.11%…"
     },
@@ -60,10 +60,11 @@
       "source": "머니투데이",
       "published": "2026-10-22T11:15:00+09:00",
       "latest": "2026-10-22T21:15:22+09:00",
-      "mention_count": 17,
+      "mention_count": 18,
       "sources": [
         "머니투데이",
         "이투데이",
+        "아시아경제",
         "시사일보",
         "세정포커스",
         "강남내일신문",
@@ -72,8 +73,7 @@
         "Queen 이코노미퀸",
         "데일리안",
         "매일일보",
-        "산경일보",
-        "저스트 이코노믹스"
+        "산경일보"
       ],
       "summary": "서울시가 강남구 수서택지개발지구 내 4개 아파트 단지의 재건축을 앞당기기 위해 합동 현장 자문에 나섰다. 서울시는 지난 20일 수서 동익·신동아·삼익·한아름 아파트를 대상으로 '현장 맞춤형 신속통합기획 자문'을 진행했다고 22일 밝혔다."
     },
@@ -152,6 +152,24 @@
       "name": "정책·규제",
       "articles": [
         {
+          "title": "도봉 재건축·재개발 15곳 한자리…“규제 풀어달라”",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=02735526645615544&mediaCodeNo=257",
+          "source": "이데일리",
+          "published": "2026-10-22T08:15:37+09:00",
+          "latest": "2026-10-23T07:58:05+09:00",
+          "mention_count": 7,
+          "sources": [
+            "이데일리",
+            "산경일보",
+            "뉴시스",
+            "잡포스트",
+            "동북일보",
+            "서울일보",
+            "문화일보"
+          ],
+          "summary": "서울 도봉구 재건축·재개발 사업장 대표들이 창동·상계택지개발지구 지구단위계획의 신속한 추진과 군 대공방어진지 관련 조건 완화 등을 구에 요청했다. 김동욱 도봉구청장이 15일 도봉구청 간송홀에서 지역 내 15개 재건축·재개발 대표자들과 이야기를 나누고 있다. (사진=도.…"
+        },
+        {
           "title": "서울 집값 89주 연속 상승... 경기 병점·의왕·군포 등 비 규제지역도 올라",
           "link": "https://www.hankookilbo.com/news/article/A2026102213250001634",
           "source": "한국일보",
@@ -166,22 +184,6 @@
             "데일리안"
           ],
           "summary": "① 서울 아파트값은 89주 연속 올랐고 10월 셋째 주 상승률은 0.13으로 낮아졌습니다. ② 세제개편 예고와 금리 상승 영향으로 강남3구는 하락세가 이어졌고 용산구는 소폭 상승으로 돌아섰습니다. ③ 경기 남부는 반도체 경기 영향과 비규제지역 대출 여건으로 병점과 군포…"
-        },
-        {
-          "title": "도봉 재건축·재개발 15곳 한자리…“규제 풀어달라”",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=02735526645615544&mediaCodeNo=257",
-          "source": "이데일리",
-          "published": "2026-10-22T08:15:37+09:00",
-          "latest": "2026-10-23T02:37:51+09:00",
-          "mention_count": 5,
-          "sources": [
-            "이데일리",
-            "산경일보",
-            "뉴시스",
-            "잡포스트",
-            "동북일보"
-          ],
-          "summary": "서울 도봉구 재건축·재개발 사업장 대표들이 창동·상계택지개발지구 지구단위계획의 신속한 추진과 군 대공방어진지 관련 조건 완화 등을 구에 요청했다. 김동욱 도봉구청장이 15일 도봉구청 간송홀에서 지역 내 15개 재건축·재개발 대표자들과 이야기를 나누고 있다. (사진=도.…"
         },
         {
           "title": "日자민, 대도시 아파트값 폭등에 '단기 매매 양도세 중과' 검토",
@@ -269,7 +271,8 @@
           "mention_count": 1,
           "sources": [
             "동아일보"
-          ]
+          ],
+          "summary": "반도체 호황에 따른 삼성전자의 사내대출 지원에 성과급 지급 기대가 더해지면서 이른바 ‘반도체 벨트’인 경기 남부 집값 상승세가 가팔라지고 있다. 사업장 인근인 화성시 동탄구, 수원시 영통구의 집값이 오른 데 이어 매수세가 주변으로 번지고 있는 것이다. 보유 주택을 팔…"
         },
         {
           "title": "“전세 살 돈으로 서초에 내 집 마련”… 8억 원대 파격 공급 눈길",
@@ -280,7 +283,8 @@
           "mention_count": 1,
           "sources": [
             "동아일보"
-          ]
+          ],
+          "summary": "서울 아파트값과 전세가가 동반 상승하는 가운데 대출 문턱까지 높아지며 내 집 마련을 미루던 실수요자들과 소액 투자자들의 시선이 서초구 방배동으로 쏠리고 있다. 서울 내 소형 주거 상품의 공급 가뭄 속에서 방배동 초역세권 입지를 자랑하는 ‘디엠그레이스서초’가 파격적인 …"
         },
         {
           "title": "국회 국토위 종합감사…부동산 불법 사찰 의혹 등 공방 예상",
@@ -296,14 +300,15 @@
         },
         {
           "title": "‘월세 시대’가 1인 가구·전세 사기 때문? 현 정부 출범 1년 만에 비율 7%p 급등",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV3o4eVpnb1hHcFQyNmNORVVxZWJoUEtka05ycDlEdi02V3NuSmtWVWlGakpTbUpjNTJ0UGlXZFhTRFVhZlZ4SXBnaXpjdjFaY3ZwUnBPR05jVWJkTWpjdGp2TU5CNk5rdWpldHU1M0NBM3FQaHhQRVNHZ2Y0cVlFakNHX1E5cjN1?oc=5",
+          "link": "https://www.chosun.com/economy/real_estate/2026/10/23/ILOL2NRUFJBN3LPZ3UXU5KPZ6E/",
           "source": "조선일보",
           "published": "2026-10-23T00:32:00+09:00",
           "latest": "2026-10-23T00:32:00+09:00",
           "mention_count": 1,
           "sources": [
             "조선일보"
-          ]
+          ],
+          "summary": "서울 아파트 월세 거래 비중이 올해 51%로 치솟으며 사상 최고치를 경신함. 정부는 이를 구조적 변화로 진단하고 공급 확대를 대책으로 내놨으나, 시장에서는 실거주 강제 규제로 인한 전세 매물 부족이 월세 급증의 실질적 원인이라고 분석함."
         },
         {
           "title": "배준영 \"전세의 씨가 마른다\"…이형일 \"감소는 장기 추세, 공급 늘려야\"",
@@ -523,7 +528,8 @@
             "동아일보",
             "JTBC",
             "국민일보"
-          ]
+          ],
+          "summary": "태국에서 불법 체류하며 친형과 고향 선배를 통해 국내에 대마를 유통한 40대 남성이 경찰에 붙잡혔다.이 남성은 전세사기 범행 후 해외로 달아나 약 8년간 태국과 라오스를 오가며 도피 생활을 해 온 것으로 드러났다.서울경찰청 광역수사단 마약범죄수사대는 22일 마약류 관…"
         },
         {
           "title": "서울 아파트 신규전세 34% 급감… 전세난 가속화",
@@ -636,6 +642,20 @@
             "동아일보"
           ],
           "summary": "청주 가경 아이파크 청약이 높은 경쟁률로 흥행하며 그 열기가 신분평 에피트 더웨이시티로 이어질지 관심이 모인다. 가경 아이파크 청약 탈락자도 신분평 에피트 더웨이시티 청약이 가능하다는 점도 큰 장점으로 꼽힌다. 신분평 에피트 더웨이시티 조감도. (사진=HL디앤아이한..…"
+        },
+        {
+          "title": "용산 산호아파트 재건축, 35층→47층 변경 추진",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=02679766645615872&mediaCodeNo=257",
+          "source": "m.edaily.co.kr",
+          "published": "2026-10-23T07:24:50+09:00",
+          "latest": "2026-10-23T07:51:03+09:00",
+          "mention_count": 3,
+          "sources": [
+            "m.edaily.co.kr",
+            "아시아경제",
+            "여성종합뉴스"
+          ],
+          "summary": "서울 용산구 산호아파트가 기존 최고 35층에서 47층으로 높이는 재건축 정비계획 변경을 추진한다. 사진=용산구23일 용산구는 원효로4가 118-16번지 일대 산호아파트의 재건축 정비구역 및 정비계획 변경안에 대해 이날부터 다음 달 23일까지 주민공람을 실시한다고 밝혔.…"
         },
         {
           "title": "이찬진 \"미래에셋 스페이스X 청약 현장검사 오늘 종료…제재 절차 진행\"",
@@ -759,6 +779,19 @@
           "summary": "수서 가람아파트 재건축에 사업비 6541억원이 투입된다. 삼성물산 현대건설 대우건설 등 대형사가 수주전을 펼친다. 가람아파트 조합은 최고 25층 818가구를 신축한다. |스마트투데이=김종현 기자| 추산 총사업비 6541억원의 서울 강남구 수서택지개발지구 내..."
         },
         {
+          "title": "중동 은하마을 통합재건축 정비업체·설계 등 용역업체 11종 선정",
+          "link": "https://www.housingherald.co.kr/news/articleView.html?idxno=63233",
+          "source": "하우징헤럴드",
+          "published": "2026-10-22T10:10:06+09:00",
+          "latest": "2026-10-22T10:56:38+09:00",
+          "mention_count": 2,
+          "sources": [
+            "하우징헤럴드",
+            "한국주택경제신문"
+          ],
+          "summary": "중동 은하마을 통합재건축정비사업 용역업체 11종 선정"
+        },
+        {
           "title": "'로또 청약'도 서울 안에서 온도차…경쟁률 최대 305배",
           "link": "https://www.news1.kr/realestate/general/6327468",
           "source": "뉴스1",
@@ -770,32 +803,6 @@
             "Queen 이코노미퀸"
           ],
           "summary": "'아크로 드 서초' 1099대 1…'더 리치먼드 미아' 3.6대 1 21개 단지 중 6곳 1순위 마감 실패…입지·시세차익 기대에 희비 서울 아파트 가격 상승으로 시세차익을 기대할 수 있는 이른바 '로또 청약'에 관심이 쏠리고 있지만, 단지별 경쟁률은 최대 305배까지…"
-        },
-        {
-          "title": "‘AI 인프라 운영 플랫폼’ 래블업, 일반청약 돌입[오늘청약]",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=02532166645615544&mediaCodeNo=257",
-          "source": "이데일리",
-          "published": "2026-10-22T07:05:03+09:00",
-          "latest": "2026-10-22T10:31:37+09:00",
-          "mention_count": 2,
-          "sources": [
-            "이데일리",
-            "CBC뉴스"
-          ],
-          "summary": "인공지능(AI) 인프라 운영 플랫폼 전문기업 래블업이 오늘(22일)부터 이틀간 일반투자자 대상 공모주 청약을 진행한다. 래블업은 지난 13~19일 국내외 기관투자자를 대상으로 진행한 수요예측에서 284.53대 1의 경쟁률을 기록했다. 총 1129개 기관이 참여했으며..…"
-        },
-        {
-          "title": "\"지방에 재개발·재건축 물량 쏟아진다\"...연내 14곳서 8832가구 일반분양",
-          "link": "https://www.fnnews.com/news/202610220928435852",
-          "source": "파이낸셜뉴스",
-          "published": "2026-10-22T09:56:39+09:00",
-          "latest": "2026-10-22T10:01:53+09:00",
-          "mention_count": 2,
-          "sources": [
-            "파이낸셜뉴스",
-            "한국경제"
-          ],
-          "summary": "연말까지 지방 재개발·재건축 정비사업 14곳에서 8800여가구가 공급된다.오는 11월 분양 예정으로 지하 2층∼지상 최고 27층, 6개동, 총 591가구 중 전용 59·84㎡ 251가구가 일반분양된다.경북 구미시에서는 금호건설이 오는 11월 형곡동 141-11번지 일원…"
         }
       ]
     },
@@ -914,6 +921,18 @@
           "summary": "한국은행이 기준금리를 연 3%로 유지했다. 기준금리 동결과 별개로 시중은행 대출문턱이 높게 유지되고 다음달 추가 인상 가능성까지 열려 있어 당분간 부동산 시장의 관망세가 이어질 전망이다. 22일 한은 금통위는 금통위원 7명 만장일치 의견으로 기준금리를 현 수준인 연 3…"
         },
         {
+          "title": "\"반포에서도 사겠다는 사람이 없어요\"…대형 아파트의 굴욕 [시장톡]",
+          "link": "https://www.hankyung.com/article/2026102171946",
+          "source": "한국경제",
+          "published": "2026-10-23T06:30:04+09:00",
+          "latest": "2026-10-23T06:30:04+09:00",
+          "mention_count": 1,
+          "sources": [
+            "한국경제"
+          ],
+          "summary": "\"반포에서도 사겠다는 사람이 없어요\"…대형 아파트의 굴욕 [시장톡], \"세금 폭탄 피하자\"&hellip;서울 대형 아파트 거래 30% '뚝' 대출 규제&middot;세금 부담에 대형 평형 외면하는 수요자들 올해 서울 대형 아파트 거래 30% 급감&hellip;서초구는…"
+        },
+        {
           "title": "10억짜리 아파트가 1년 만에 1.5억원 넘게 올랐다",
           "link": "https://www.sidae.com/article/2026102209500770840",
           "source": "동행미디어 시대",
@@ -983,30 +1002,92 @@
             "www.newfilenews.com"
           ],
           "summary": "창원특례시가 추진하던 ‘재건축 정비구역 직권 해제 조례’ 개정안은 봉암연립 재건축 정비구역을 대상으로 한 특정 구역 표적 개정이라는 비판을 받으며 논란이 일었다. 창원시는 최근 봉암연립재건축 정비구역의 직권해제 논란과 관련해 정비구역 해제에 따른"
-        },
-        {
-          "title": "경기도, ‘경기 안심 부동산’ 확산 나서…시·군 담당자 100여 명 사전교육",
-          "link": "https://www.eanews.kr/news/1019711",
-          "source": "얼리어답터뉴스",
-          "published": "2026-10-22T20:51:26+09:00",
-          "latest": "2026-10-22T20:51:26+09:00",
-          "mention_count": 1,
-          "sources": [
-            "얼리어답터뉴스"
-          ],
-          "summary": "경기도가 전세사기 예방 서비스인 ‘경기 안심 부동산’의 이용 확산을 위해 시·군 부동산 업무 담당자를 대상으로 사전교육을 실시했다. 경기도, ‘경기 안심 부동산’ 확산 위해 시군 담당자 사전 교육경기도는 지난 21일 경기신용보증재단 3층 강당에서 도내 시·군·구 부동산…"
         }
       ]
     }
   ],
-  "total_articles": 429,
-  "total_issues": 222,
+  "total_articles": 446,
+  "total_issues": 233,
   "raw": [
+    {
+      "title": "전세난·아파트 급등에 매매로...경기 남부 오피스텔도 상승 조짐[집슐랭]",
+      "link": "https://www.sedaily.com/article/20105145",
+      "source": "서울경제",
+      "published": "2026-10-23T08:06:26+09:00"
+    },
+    {
+      "title": "삼성물산과 OMA 협업으로 본격화되는 여의도 시범아파트 재건축 - SPI",
+      "link": "https://seoulpi.io/cityfolio/article/00609963010393153536",
+      "source": "SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스",
+      "published": "2026-10-23T08:00:03+09:00"
+    },
+    {
+      "title": "전세사기 막던 스타트업의 변신…'부동산 AI 에이전트' 도전장",
+      "link": "https://www.unicornfactory.co.kr/article/2026101915245118485",
+      "source": "유니콘팩토리",
+      "published": "2026-10-23T08:00:00+09:00"
+    },
+    {
+      "title": "도봉구, 지역 내 15개 재건축·재개발 대표와 정비사업 간담회",
+      "link": "https://www.munhwa.com/article/11625623",
+      "source": "문화일보",
+      "published": "2026-10-23T07:58:05+09:00"
+    },
+    {
+      "title": "용산구 산호아파트 재건축, 최고 35층→47층 변경 추진…666세대 조성",
+      "link": "https://womannews.net/detail.php?number=457690&thread=22r04r02",
+      "source": "여성종합뉴스",
+      "published": "2026-10-23T07:51:03+09:00"
+    },
+    {
+      "title": "용산 산호아파트 재건축, 35층→47층으로 높인다",
+      "link": "https://www.asiae.co.kr/article/2026102307483347868",
+      "source": "아시아경제",
+      "published": "2026-10-23T07:48:34+09:00"
+    },
+    {
+      "title": "시흥 재건축·재개발 아카데미 기초과정 31명 수료",
+      "link": "https://www.shjn.co.kr/news/articleView.html?idxno=89837",
+      "source": "시흥저널",
+      "published": "2026-10-23T07:43:23+09:00"
+    },
+    {
+      "title": "“밀리면 또 1년”…분당 재건축 순번에 추진위 ‘촉각’",
+      "link": "https://www.dailian.co.kr/news/view/1704923/%E2%80%9C%EB%B0%80%EB%A6%AC%EB%A9%B4-%EB%98%90-1%EB%85%84%E2%80%9D%EB%B6%84%EB%8B%B9-%EC%9E%AC%EA%B1%B4%EC%B6%95-%EC%88%9C%EB%B2%88-2026",
+      "source": "데일리안",
+      "published": "2026-10-23T07:26:00+09:00"
+    },
+    {
+      "title": "용산 산호아파트 재건축, 35층→47층 변경 추진",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02679766645615872&mediaCodeNo=257",
+      "source": "m.edaily.co.kr",
+      "published": "2026-10-23T07:24:50+09:00",
+      "summary": "서울 용산구 산호아파트가 기존 최고 35층에서 47층으로 높이는 재건축 정비계획 변경을 추진한다. 사진=용산구23일 용산구는 원효로4가 118-16번지 일대 산호아파트의 재건축 정비구역 및 정비계획 변경안에 대해 이날부터 다음 달 23일까지 주민공람을 실시한다고 밝혔.…"
+    },
+    {
+      "title": "마뗑킴, 모회사 삼킨다…권오일 회장의 '패션 국' 재건축",
+      "link": "https://www.asiae.co.kr/article/2026102014554302439",
+      "source": "아시아경제",
+      "published": "2026-10-23T07:06:00+09:00"
+    },
     {
       "title": "\"주택 공급 전격전 펼쳐라\" 강조한 李대통령…'원형지 분양' 먹힐까",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440721",
       "source": "연합인포맥스",
       "published": "2026-10-23T07:00:11+09:00"
+    },
+    {
+      "title": "도봉구, 지역 내 15개 재건축·재개발 대표와 정비사업 간담회",
+      "link": "http://www.seoulilbo.com/news/articleView.html?idxno=859982",
+      "source": "서울일보",
+      "published": "2026-10-23T06:57:56+09:00"
+    },
+    {
+      "title": "\"반포에서도 사겠다는 사람이 없어요\"…대형 아파트의 굴욕 [시장톡]",
+      "link": "https://www.hankyung.com/article/2026102171946",
+      "source": "한국경제",
+      "published": "2026-10-23T06:30:04+09:00",
+      "summary": "\"반포에서도 사겠다는 사람이 없어요\"…대형 아파트의 굴욕 [시장톡], \"세금 폭탄 피하자\"&hellip;서울 대형 아파트 거래 30% '뚝' 대출 규제&middot;세금 부담에 대형 평형 외면하는 수요자들 올해 서울 대형 아파트 거래 30% 급감&hellip;서초구는…"
     },
     {
       "title": "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승",
@@ -1016,19 +1097,25 @@
     },
     {
       "title": "[주간IPO] 10월 다섯째 주, 공모청약 없음…옵토닉스·동원파츠·넥스아이 등 수요예측",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9STTJ0THBEZGRYOVhLaHYwOWJwVzJqYVpyUl9HSFNRd3B6YzRHdjdkWnRseEtQN1NPRGNPTTZUdVhUQ0xnXzhZRXFfLWVDY0F3Zk8td190eXVKanZWeHk3eEcyQ1lGTjl0Vm1RZlVlSThZamc?oc=5",
+      "link": "https://www.consumernews.co.kr/news/articleView.html?idxno=766444",
       "source": "소비자가 만드는 신문",
       "published": "2026-10-23T06:09:00+09:00"
     },
     {
       "title": "오늘 오세훈 2심 판결…서울 재건축·재개발 구역도 ‘긴장’",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcWlmUXhSRHVOWnNfWkh1NjNpZ1BUOFUwc1JmWGh2UjNtVVdzQy1sbDY0VEdKdzI2Umh2dDJGZ0JrYU81WHhib1ozaDNLN2JVR2NWbTRDRzJYRFNUVml6ZzlYdWNuR3R4U1BSYUFTM1ptbmZnZmN5b2hHTUJrV1RhMw?oc=5",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02299286645615872&mediaCodeNo=257",
       "source": "이데일리",
       "published": "2026-10-23T06:08:02+09:00"
     },
     {
+      "title": "부천 선도지구도 재건축 속도… 은하마을, 첫 설계자 선정 입찰",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221439093190742",
+      "source": "대한경제",
+      "published": "2026-10-23T06:00:38+09:00"
+    },
+    {
       "title": "[오늘의 청약 일정] '계양신도시 카이브 유보라' 견본주택 개관 등",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBheXI0eHZPYk1IU1R0azViMVhuRHJKTERIV2NVZGpXTmoxMlVJQkRNZ2Q4OHFYZllCQ1dzLUlHeldUa3p4bTM4M0xfS2lqQzFpak5laTQ4Z19DSUlvOWtZNjMxLUZ0cnJiZ004NHR3?oc=5",
+      "link": "https://www.etoday.co.kr/news/view/2636904?trc=main_list_news",
       "source": "이투데이",
       "published": "2026-10-23T06:00:00+09:00"
     },
@@ -1041,7 +1128,7 @@
     },
     {
       "title": "\"집값 안 오르면 전세가 유리\"…전문가 “무리한 내 집 마련, 후회할 수도\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96bHJPMXZMZDR1aEpDUll1UEVRdU5xX2NKaXFxMllLbTNRTDNHZjB5WWhoajVJYktOaUtBLWcwNnp4VEtOX0cwQXZJMTVIVmNnaFNGcUhTYVN2VTNzSTh0R9IBeEFVX3lxTE9LemdYdHZKTHZkWi1rR1JRX2hJd3NWalhYX0FRQWE5a2F5SGRuWEZVYzF1bnZCUmFnSUI1OW44UHFwRzdwVWtJbkNjX09VUV9xbnR2U0RqYnlwTG1udlJMWjZHSmxjX0tlWmpQcmZKQlkyZHdtLTM1aw?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261022_0003837076",
       "source": "뉴시스",
       "published": "2026-10-23T05:40:00+09:00"
     },
@@ -1053,7 +1140,7 @@
     },
     {
       "title": "네이버 관계사 대만 라인뱅크, AI 액티브 ETF 24시간 청약 돌풍",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QRTBtSGYtMGZ3YXpUbFRlSmhIWGFIYmtBcW5XYXNvbmJQQTIxMEE3WnBFd0YxTE1rSEMzN01sNXRpRWxmM1hfYV9WZ3g1bzQ0b2VMdDR2U1VpUXUySUtpay0tRTJjTnZpal80?oc=5",
+      "link": "https://www.creditnews.kr/news/articleView.html?idxno=31902",
       "source": "한국신용신문",
       "published": "2026-10-23T05:35:00+09:00"
     },
@@ -1065,7 +1152,7 @@
     },
     {
       "title": "전세난 시작도 안했다?...\"고점 찍고 더 오를 수도\" 암울한 전망",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pM25jOXczNlRjb19RalkwNC1mVzVNTVViSm9zUjhYaS10SktfVzhsVkJnOTIteV9uWDV1emhWR3NJTkFyem1HOEI0b0drWVhGd2kyVHJIZzRxV0taRG4xV3l5eDNndFg0RXZCVjhiV0dGLTJVVlA00gF8QVVfeXFMTVhJMHh5MVZlTl9EYmR6UmgtOTU0a0l0eGRPU0dHeGVXR1lDY3lwelNIX1RXNTFtREU3ZHQzUC1TQWhsWmVBdVJrck9yN1lZel9kWWhfRzdJWk12aVdmS1hQYjNGNDJzaGVGaWV4RzN1UnZoY0VRWlpPRy1hQg?oc=5",
+      "link": "https://www.mt.co.kr/index.php/estate/2026/10/23/2026102023421223856",
       "source": "머니투데이",
       "published": "2026-10-23T05:15:00+09:00"
     },
@@ -1091,13 +1178,13 @@
     },
     {
       "title": "입주 줄고 이주 몰린다…정비사업 '18만' 가구 전세 블랙홀",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52UEtid0NnU3pjR3cxeVVwZWNhNkgwLTZIN2k0VzRMelJYX0pkMlZ2SHkwUzg0RmRYZVJEWjYxYWRJd18zX0wwOGdyVk5MNk9HVVpDRzRlN2tpenh0ZEpvVmJlbktadkRBbEHSAW9BVV95cUxOZ3IweWRvcGpyZGFxd1p5UzRCcmttVmNDZW5Ed083cFpYSVVEWWpKWDhEbTViaHRuZTVRajc4N2g1Q3daQUJfOTVPcUhZbXJSUjFWcjRLdDkxTGlpZzVHZktZWE1wYjVmbzY3TmUzcjA?oc=5",
+      "link": "https://www.mt.co.kr/estate/2026/10/23/2026102114345183026",
       "source": "머니투데이",
       "published": "2026-10-23T05:00:00+09:00"
     },
     {
       "title": "전세살이 설움 터졌다...\"한방에 2억 올려달래요\" \"월세도 낸다\"",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85T2t1Y3ZjbEFyZDlHcVlMQWJDeDlJaGY3cEpOQWNNaW1ocFUxX1JGdmJYN2FuTFNSSGhuMXFQdDY5SDI2enJ3ZURnbzMwZnlnQktBc281bmZIYjl2MHgwZjBicGFFVk1wbjBET20yZWtnQVYyRkRv0gF8QVVfeXFMTnl2UFhiWUpwclpzRGJ4NFVnSlJfNk5KUzQ3dlZfc256aWxxcWwzQ3g5aXRoTE9XUkpqMzRQOXdWdk5rZUNZVjdQUkt4Q201bWpBWEtYdnI3OGJpcnVmeDdwQXNfUkxROWZDZmRXNDRKd29XSXo0Q0laRzJDag?oc=5",
+      "link": "https://www.mt.co.kr/index.php/estate/2026/10/23/2026102016445065255",
       "source": "머니투데이",
       "published": "2026-10-23T04:45:00+09:00"
     },
@@ -1105,13 +1192,15 @@
       "title": "사내대출-성과급에 ‘반도체 벨트’ 집값 상승, 경기 남부로 확산",
       "link": "https://www.donga.com/news/Society/article/all/20261023/134893540/2",
       "source": "동아일보",
-      "published": "2026-10-23T04:30:00+09:00"
+      "published": "2026-10-23T04:30:00+09:00",
+      "summary": "반도체 호황에 따른 삼성전자의 사내대출 지원에 성과급 지급 기대가 더해지면서 이른바 ‘반도체 벨트’인 경기 남부 집값 상승세가 가팔라지고 있다. 사업장 인근인 화성시 동탄구, 수원시 영통구의 집값이 오른 데 이어 매수세가 주변으로 번지고 있는 것이다. 보유 주택을 팔…"
     },
     {
       "title": "“전세 살 돈으로 서초에 내 집 마련”… 8억 원대 파격 공급 눈길",
       "link": "https://www.donga.com/news/Economy/article/all/20261022/134884947/2",
       "source": "동아일보",
-      "published": "2026-10-23T04:30:00+09:00"
+      "published": "2026-10-23T04:30:00+09:00",
+      "summary": "서울 아파트값과 전세가가 동반 상승하는 가운데 대출 문턱까지 높아지며 내 집 마련을 미루던 실수요자들과 소액 투자자들의 시선이 서초구 방배동으로 쏠리고 있다. 서울 내 소형 주거 상품의 공급 가뭄 속에서 방배동 초역세권 입지를 자랑하는 ‘디엠그레이스서초’가 파격적인 …"
     },
     {
       "title": "\"공무원 1만명 더 온다\" 세종에 살 집은?...전세부터 달린다",
@@ -1121,7 +1210,7 @@
     },
     {
       "title": "성남시, 청년 전세사기 막는다...신구대서 ‘주거 안심 상담’",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TeThFcFlqcG5LblJNdHJmZlN2bDJ0dGtvMW9KLTFidVM4SldLUUE1WUlkR0dyemRWNHZOaFpYTUk1eHBWTjBHd0V3eWNPMHdWY0tZNXdXS0k3cjlmSE5fSnBTWU1aT0hYQ0FpRXkwVXTSAXRBVV95cUxQYnRqVzUtVHdTajNuSTl0a0JJd1QyN2RXU3ZxR0ZNQUxvaGtrRUgtNXloNTFwNi1FQ3EzWm9XMUlTM3h5enh4WHVfOXRyMm1Lc0laS2lTV1g2S0xCaXZpU2p3RHhaazNUNjQ0ZUJZTXJnekp0WQ?oc=5",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323318",
       "source": "포인트데일리",
       "published": "2026-10-23T03:50:00+09:00"
     },
@@ -1133,16 +1222,23 @@
       "summary": "오늘(23일) 국회 국토교통위원회는 국토교통부와 행정중심복합도시건설청, 새만금개발청 등을 상대로 종합..."
     },
     {
+      "title": "전세사기 피해자 728명 추가 인정…총 5천355명",
+      "link": "https://stock.mk.co.kr/news/view/229564",
+      "source": "매일경제 마켓",
+      "published": "2026-10-23T02:38:23+09:00"
+    },
+    {
       "title": "도봉구, 지역 내 15개 재건축·재개발 대표와 정비사업 간담회",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IcmE5UTBtOF92YkJiMFhhZ0M0MFhUV0JpMGtpTVE2RU14SkhiVGUxX3RSOV91c3R0RkY1RVlxZVhFZTVOcnVDcVAwUmpJRHhCZ083M3ZxaTJUWFlEc1o5dUZ4U25mUjBSZWxFTVhHcw?oc=5",
+      "link": "https://www.dongbukilbo.com/etnews/?fn=v&no=42483&cid=21010100",
       "source": "동북일보",
       "published": "2026-10-23T02:37:51+09:00"
     },
     {
       "title": "‘월세 시대’가 1인 가구·전세 사기 때문? 현 정부 출범 1년 만에 비율 7%p 급등",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV3o4eVpnb1hHcFQyNmNORVVxZWJoUEtka05ycDlEdi02V3NuSmtWVWlGakpTbUpjNTJ0UGlXZFhTRFVhZlZ4SXBnaXpjdjFaY3ZwUnBPR05jVWJkTWpjdGp2TU5CNk5rdWpldHU1M0NBM3FQaHhQRVNHZ2Y0cVlFakNHX1E5cjN1?oc=5",
+      "link": "https://www.chosun.com/economy/real_estate/2026/10/23/ILOL2NRUFJBN3LPZ3UXU5KPZ6E/",
       "source": "조선일보",
-      "published": "2026-10-23T00:32:00+09:00"
+      "published": "2026-10-23T00:32:00+09:00",
+      "summary": "서울 아파트 월세 거래 비중이 올해 51%로 치솟으며 사상 최고치를 경신함. 정부는 이를 구조적 변화로 진단하고 공급 확대를 대책으로 내놨으나, 시장에서는 실거주 강제 규제로 인한 전세 매물 부족이 월세 급증의 실질적 원인이라고 분석함."
     },
     {
       "title": "세입자는 전세, 집주인은 월세… 전월세 안심신탁[부동산 빨간펜]",
@@ -1158,7 +1254,7 @@
     },
     {
       "title": "[사설] 급격한 월세화가 1인가구·전세사기꾼 탓이라는 국토장관",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QOGJER1hYTjU1ZHk0X0pJQ1RUVld3YXk4NFBzcExqWWhlcXlTZVhVVzA5LV9ycVlvVERpU0tEWTVaQW9QdkFfb0xrWTlpWDYzeC1uZmRTSW04dmhIei1wSllVYUIxMVA3amVkd0Z30gFzQVVfeXFMTjJWNGlGeWkydzU1UFREcTFsVUZ5aDNia2pfRzRIaHVNNjBHbWFnRUhQWkd0RHNlZnlNd3pDVkFPVU9GMFFzdEg4VDNCdUhDYm0zbG9vT05JbE1xUHd4cVJsMTg5NEVHWlpFWFc4ZHFLLUZmWQ?oc=5",
+      "link": "https://www.hankookilbo.com/news/article/A2026102214050001436",
       "source": "한국일보",
       "published": "2026-10-23T00:10:00+09:00"
     },
@@ -1171,13 +1267,13 @@
     },
     {
       "title": "[청약 경쟁률 추락] \"서울만 95대 1 북적, 부산은 첫 미달\"…전국 청약 경쟁률 6개월째 내리막",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PY3ZVaDlEYThNSDFMUjdxQUZVWUFOMHRkYkZVQ203VEl0QWdwQ01udUVPbmROQVZ1MkxKLUdoOWJyb2FqazN2dWYwYk5EMlNmYzBESWtYaWR6aWJjMmtvV25OYU5QNGRM?oc=5",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=618157",
       "source": "CBC뉴스",
       "published": "2026-10-23T00:00:00+09:00"
     },
     {
       "title": "이찬진 \"스페이스X 미청약 보상에 공감…제재 절차 진행\"",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KTldadG5KM3NqdlEyM3l4Z1REdkwzR19XN0Y2NWF2STVsOWdSVGJqQmtUbWh3TS1Ca0lodkdpRFFzMExnOFBERlJwejhzT21mYThWOEZMM0RrdWxOc2tZ?oc=5",
+      "link": "https://www.news1.kr/finance/general-stock/6329197",
       "source": "뉴스1",
       "published": "2026-10-22T23:51:58+09:00"
     },
@@ -1348,13 +1444,13 @@
     },
     {
       "title": "고덕 수자인 풍경채, 청약 마감 후 잔여호실 선착순 분양 돌입",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vZU1yMTlhTFJnNGpsMjZOclhvc1lQcjU3cmhUUlI2RVVia25ZSVJKRURaLTFnRHNRZDNWaW8tS3hncGI4cmVIc1h3?oc=5",
+      "link": "https://www.eanews.kr/news/1020533",
       "source": "얼리어답터뉴스",
       "published": "2026-10-22T20:27:00+09:00"
     },
     {
       "title": "인텔리빅스, 일반청약 경쟁률 1410.9대 1 기록…30일 코스닥 상장",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JR0hWd2E0anNxQ3pXN0ZLZGU4ZkpsOUxSVmdjT2twUm9nOG9HVXdWQUttWWRtTlhseFZxTHFWaTBta3ZrTG8wQ0M2d0lYN1NpTGplZ3Nra09RSDJLX3hMXzZDUlNOSGx6?oc=5",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=312302",
       "source": "FETV",
       "published": "2026-10-22T20:26:38+09:00"
     },
@@ -1397,7 +1493,7 @@
     },
     {
       "title": "고양시 공인중개사, AI로 거래 위험 확인해 전세사기 예방 지원",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zNDNCQ3NNaVBGSDgyVjgxSUdBQURJdmJXd0FLd25Iem5fRUtUbDRFRXN4b0NkMHlPb05pcjg5RFFabk9YME5zZnEzV1pSVU92bTBhLWRVR2c4ZUgxRXNUY0lqVWpVdjZYU2w4?oc=5",
+      "link": "http://www.ksw-news.com/news/articleView.html?idxno=3051129",
       "source": "한국사회복지저널",
       "published": "2026-10-22T19:29:01+09:00"
     },
@@ -1592,7 +1688,7 @@
     },
     {
       "title": "대구 아파트 매매 다시 보합…전세 0.04% 상승세 유지",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByd3IyYkpaek5GNVhDNE1rY3lEMWNqRk9fSlJjTGxVQWlLcDBtRzBZZnpLMC0tanhoUzlqQjdBd1ZOc1p6OGpNVjQzWUc4ZzFjNGx2aWJCekRNc0J1amRPdFMyUFpRdGEzbmZOOVRVdk4?oc=5",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=241069",
       "source": "SK브로드밴드 회사소개",
       "published": "2026-10-22T17:27:59+09:00"
     },
@@ -1805,7 +1901,7 @@
     },
     {
       "title": "강남 수서 재건축 2600여세대 '속도'...서울시·강남구 현장 자문 마무리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ob0t4bGF4eDV5UGs2WlVTU1BqdncyZXhvYzVQb2syRGpYaDBNaDZ5LTh5LV83X3laZ3BvT25yblNfMlNCaHBINUF1bUFxNWVlcDREUzV5MVh2WklOVnRQa0RPdDQ?oc=5",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=316824",
       "source": "https://www.ppss.kr/",
       "published": "2026-10-22T16:19:36+09:00"
     },
@@ -2235,7 +2331,7 @@
     },
     {
       "title": "상계한신 1·2차 1140세대로 재건축…미아동엔 1577세대",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aQ1BxcWk4YWFoZzFwdXc0RWRmWWgyMWRqNVo3YVJ0OGpleXdYdTg2eE5JV3U3TmV6ZHdXQVVuWnNQQ0xNWUFwbHJ4azdmUEtfd0lxQ3ZVZEhGLV9kbFJaN0puTjFpdGdjakV5YzFB?oc=5",
+      "link": "http://www.seouleconews.com/news/articleView.html?idxno=94524",
       "source": "서울이코노미뉴스",
       "published": "2026-10-22T14:25:39+09:00"
     },
@@ -2260,7 +2356,7 @@
     },
     {
       "title": "청강주공 재건축사업 추진위원회 협력업체(도시계획, PM) 선정 입찰공고",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12eDM0TDE1UG8zcVhja0UyZnJSa0FJeW5SSFV6M19LUE02akNwMUdHbXE0a0RwS0JJaGdXejI0VmIwTnoxd1ZjeDQ3RkVBdjNZWmdqQ0NnLVJSYU1rOXZuYUdkMGVYR1Ft?oc=5",
+      "link": "https://www.arunews.com/news/articleView.html?idxno=68516",
       "source": "한국주택경제신문",
       "published": "2026-10-22T14:20:25+09:00"
     },
@@ -2285,7 +2381,7 @@
     },
     {
       "title": "선부연립1구역 재건축조합 석면해체공사 감리업체 선정 입찰공고",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UbHNpQ2xSczlMb3NQSGpSdFhhOTlNR2hDX2NLMzN0OEptc2ROUEQtRWU4RXo4M0FCaEhnQTNFMmh3ZnFNMzRxc1FncTVtZ3VGSzM1aFM4SmJCLWdCbjBtRlJDVExRN1lW?oc=5",
+      "link": "https://www.arunews.com/news/articleView.html?idxno=68515",
       "source": "한국주택경제신문",
       "published": "2026-10-22T14:17:31+09:00"
     },
@@ -2464,6 +2560,12 @@
       "summary": "서울 매매 0.13%·전세 0.16% 동반 상승 일부 단지선 전세보증금 상승액이 집값 상승액 웃돌아 “매물 부족에 전세 유지·매수 모두 부담”"
     },
     {
+      "title": "서울 아파트값, 89주 연속 상승…강남 약세·외곽 강세 계속",
+      "link": "https://www.mt.co.kr/estate/2026/10/22/2026102211082238982",
+      "source": "머니투데이",
+      "published": "2026-10-22T14:00:00+09:00"
+    },
+    {
       "title": "[안보와 민생 둘러싼 정면충돌]장동혁 대표,“안보·증시·부동산 모두 위기”…이재명 정부 정면 비판하며 국정조사·특검 촉구",
       "link": "https://www.jeonguknews.co.kr/news/articleView.html?idxno=87628",
       "source": "전국뉴스",
@@ -2520,13 +2622,13 @@
     },
     {
       "title": "서울시, 수서택지 4개 단지 통합 행정지원… 재건축 속도전 예고",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0alRWWHp0bmk2ZmYyUkNWYmpsVl95VXFPajN0LWptZXdEeGRrRFRoNnQ0RFlHS0JTWWNqWUc2TXc2eGNuamNNYUNidDZxdVdpVkFfMkp1c2ZVa25jelJBaG11OE5pR0Zt?oc=5",
+      "link": "https://www.arunews.com/news/articleView.html?idxno=68511",
       "source": "한국주택경제신문",
       "published": "2026-10-22T13:32:32+09:00"
     },
     {
       "title": "성남시, 대학생 대상 전세사기 예방·임대차 분쟁 무료 상담 진행",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BczVsZWdsUERJQTNPU3o1bTZTcV9ZdnV3bnpNd0RVRHUyVF9VWWE1VUlPcktUanpoZDBPLUNFU1RiRGs1cnRsWnVMR2R6Z1o0Y092Y3RjcU93VVJEeFd3X01sYWw4ZmFw?oc=5",
+      "link": "https://www.kmaeil.com/news/articleView.html?idxno=655322",
       "source": "경인매일",
       "published": "2026-10-22T13:29:31+09:00"
     },
@@ -2580,7 +2682,7 @@
     },
     {
       "title": "강남구, 수서 4개 노후 아파트 재건축 속도 낸다",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUdlBSSW4zc1AyYUJmN1dxaG5uNTZmeGJkMkJfQlUtRkk4Wm4temc3Q0hIZ1dTUDJnS241TTVYcVVpRGN2cmxhd0c5dFNXS0dNNGViZUdISEdRaW01WE1lTFlBa2dYa2JxRGxOcmUyRGPSAXRBVV95cUxQZGcxXy1DSUJWTTMxR2VFbW1PX2dyNTVPYXFkZ0NGUHpZcUpuNnJGcVNaWTdLQ285TlU5a0ltZHpTNkhqNHhGWHlMQXB0WFJXWG45NU5YMmlrUkhrRHpIb2tUeWEwRDJzMUhYWGZlYjV6YzNfTw?oc=5",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483302",
       "source": "이뉴스투데이",
       "published": "2026-10-22T12:45:00+09:00"
     },
@@ -2740,6 +2842,12 @@
       "published": "2026-10-22T11:15:00+09:00"
     },
     {
+      "title": "서울시, 수서택지 4개 단지 재건축 '현장 합동 신속통합자문' 실시",
+      "link": "https://www.asiae.co.kr/article/2026102208580552579",
+      "source": "아시아경제",
+      "published": "2026-10-22T11:15:00+09:00"
+    },
+    {
       "title": "이형일 \"아파트 인허가·착공 증가세…부동산 시장 점점 안정될 것\"",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440540",
       "source": "연합인포맥스",
@@ -2753,7 +2861,7 @@
     },
     {
       "title": "전국 1순위 청약 경쟁률 6개월 연속 하락…부산 첫 ‘1대 1’ 밑으로 추락",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JamlrTGxGdVRCSDlBVEpoLW5CaVRseHFrN1B3cHh6c3I3enRsUnJVTVJBRWFRREFmekU1NEJJRGQ0VnU0ZHRMMXhGRnV0WmhJejAyOG5BLWs?oc=5",
+      "link": "https://www.mk.co.kr/news/realestate/12182664",
       "source": "매일경제",
       "published": "2026-10-22T11:07:21+09:00"
     },
@@ -2984,6 +3092,13 @@
       "published": "2026-10-22T10:16:49+09:00"
     },
     {
+      "title": "중동 은하마을 통합재건축 정비업체·설계 등 용역업체 11종 선정",
+      "link": "https://www.housingherald.co.kr/news/articleView.html?idxno=63233",
+      "source": "하우징헤럴드",
+      "published": "2026-10-22T10:10:06+09:00",
+      "summary": "중동 은하마을 통합재건축정비사업 용역업체 11종 선정"
+    },
+    {
       "title": "9월 전국 1순위 청약 경쟁률 5.15대 1…39개월 만에 최저",
       "link": "https://www.news1.kr/realestate/general/6328219",
       "source": "뉴스1",
@@ -3017,7 +3132,8 @@
       "title": "전세사기 후 해외 달아나 8년간 도피행각…대마 유통하다 검거",
       "link": "https://www.donga.com/news/Society/article/all/20261022/134887798/1",
       "source": "동아일보",
-      "published": "2026-10-22T10:02:54+09:00"
+      "published": "2026-10-22T10:02:54+09:00",
+      "summary": "태국에서 불법 체류하며 친형과 고향 선배를 통해 국내에 대마를 유통한 40대 남성이 경찰에 붙잡혔다.이 남성은 전세사기 범행 후 해외로 달아나 약 8년간 태국과 라오스를 오가며 도피 생활을 해 온 것으로 드러났다.서울경찰청 광역수사단 마약범죄수사대는 22일 마약류 관…"
     },
     {
       "title": "연내 재건축·재개발로 지방 8832가구 일반분양",
@@ -3027,7 +3143,7 @@
     },
     {
       "title": "전세의 월세화…홍지선 1인가구 증가·전세사기 여파",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pSlBDMWxCZTBYaFVzZ2FJMmhuTTF1NDlTZ3JjZHJrc1hXcFh5Nm01RE1LRUtVWGRWMjlxeHJBb3BKNkZ1OVZmX0lEX0J3MENTalpHOVBrTW1Jd9IBWEFVX3lxTE1RZUhLZGZwVElvVVU0dVdPbFFDd1pjZEdfQXZaZGZyRll2LUl1Nm9CYjBRRlNBbWpQNXhoLUI3Vi1rOU1TZktQZnlSZWctUnoyb1VtYmtIbFU?oc=5",
+      "link": "https://www.ajunews.com/view/20261022095914298",
       "source": "아주경제",
       "published": "2026-10-22T10:01:46+09:00"
     },
@@ -3039,7 +3155,7 @@
     },
     {
       "title": "상계한신 1·2차 1천140세대로 재건축…미아동엔 1천577세대",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KSUk2V095TWVKOFRjLWFVU1N4V0pseUFMeUtNR1pqYTEwTFdyME1xMzRDN2pQODllWmhZd3VDYXZkdExhbGdpVG51Z3hsY1ZUM2U3U1lwUW1hZzk4T3JhZ9IBYEFVX3lxTE1KSUk2V095TWVKOFRjLWFVU1N4V0pseUFMeUtNR1pqYTEwTFdyME1xMzRDN2pQODllWmhZd3VDYXZkdExhbGdpVG51Z3hsY1ZUM2U3U1lwUW1hZzk4T3JhZw?oc=5",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261022051600004",
       "source": "연합뉴스",
       "published": "2026-10-22T10:00:01+09:00"
     },
@@ -3101,7 +3217,7 @@
     },
     {
       "title": "국토장관 “전세의 월세화, 1인 가구 증가·전세사기 여파”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1udEpJVEZCZ29HcE5hMmxjVFp4alV3eEkxMzBwTVFnLWV4M3JWbC1TZlp2T3FqQk1RUUpjNE45OEtQZmtJckE0YU5iZ0oxUXdvRDhBcElSMGRTWjdHX2V2MHpR?oc=5",
+      "link": "https://www.koreadaily.com/article/20261021175042323",
       "source": "미주중앙일보",
       "published": "2026-10-22T09:50:00+09:00"
     },
