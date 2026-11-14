@@ -1,59 +1,81 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T07:56:25.824069+09:00",
+  "generated_at": "2026-11-15T08:48:28.122498+09:00",
   "topic": {
     "id": "police",
     "label": "경찰",
     "emoji": "🚔",
     "title": "경찰관련 기사 스크랩"
   },
-  "weather": null,
+  "weather": {
+    "location": "서울",
+    "days": [
+      {
+        "date": "2026-11-15",
+        "min": 7,
+        "max": 16,
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-11-16",
+        "min": 6,
+        "max": 16,
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-11-17",
+        "min": 9,
+        "max": 14,
+        "emoji": "🌧️"
+      }
+    ]
+  },
   "top_issues": [
     {
-      "title": "[속보] 고경표, 음주운전으로 청소차 들이받아..면허취소 수준",
-      "link": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MQ2DEMZZGRQTSYRXMNTDIMDGMQ/",
-      "source": "조선일보",
-      "published": "2026-11-14T09:23:00+09:00",
-      "latest": "2026-11-15T06:54:00+09:00",
-      "mention_count": 22,
+      "title": "고경표, 음주운전 사고…청소차 들이받아",
+      "link": "https://www.mk.co.kr/news/society/12208807",
+      "source": "매일경제",
+      "published": "2026-11-14T09:47:42+09:00",
+      "latest": "2026-11-15T08:41:32+09:00",
+      "mention_count": 41,
       "sources": [
-        "조선일보",
-        "헤럴드경제",
         "매일경제",
-        "문화일보",
         "서울신문",
-        "연합뉴스TV",
-        "뉴시스",
-        "파이낸셜뉴스",
-        "연합뉴스",
-        "MBC 뉴스",
-        "한국일보",
-        "아시아경제"
-      ],
-      "summary": "배우 고경표가 14일 새벽 서울 마포구에서 음주 운전 중 청소차를 들이받는 사고를 냈습니다. 경찰 측정 결과 혈중알코올농도가 면허 취소 수준임이 확인되었으며, 경찰은 현재 정확한 사고 경위를 조사하고 있습니다."
-    },
-    {
-      "title": "고경표, 음주운전 교통사고…\"피해 회복에 책임 다할 것\"",
-      "link": "https://www.dispatch.co.kr/2350734",
-      "source": "디스패치",
-      "published": "2026-11-14T10:09:00+09:00",
-      "latest": "2026-11-14T19:46:09+09:00",
-      "mention_count": 13,
-      "sources": [
         "디스패치",
         "SPOTV NEWS",
+        "파이낸셜뉴스",
         "JTBC",
+        "연합뉴스",
+        "MBC 뉴스",
         "ZUM 뉴스",
-        "맥스무비",
-        "스포츠조선",
-        "전자신문",
-        "머니투데이",
-        "국민일보",
-        "OSEN",
-        "한국경제",
-        "헤럴드경제"
+        "아시아경제",
+        "YTN",
+        "채널A"
       ],
-      "summary": "배우 고경표가 음주운전 사고를 냈다. 혈중알코올농도는 면허 취소 수준으로 확인... [더보기]"
+      "summary": "배우 고경표가 음주운전을 하다 교통사고를 내 경찰 조사를 받고 있다. 14일 연합뉴스에 따르면 고경표는 이날 오전 3시 30분께 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 도로를 달리던 청소차와 충돌했다. 사고 직후 현장에 출동한 경찰이 음주 측정을 진행한 결…"
+    },
+    {
+      "title": "[단독] 배우 고경표 음주사고…면허취소 만취상태",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261114090256cw8",
+      "source": "연합뉴스TV",
+      "published": "2026-11-14T09:20:00+09:00",
+      "latest": "2026-11-14T23:04:22+09:00",
+      "mention_count": 13,
+      "sources": [
+        "연합뉴스TV",
+        "조선일보",
+        "스포츠경향",
+        "헤럴드경제",
+        "문화일보",
+        "한국경제",
+        "뉴시스",
+        "한국일보",
+        "뉴스핌",
+        "JTBC",
+        "위키리크스한국",
+        "아시아투데이"
+      ],
+      "summary": "배우 고경표씨가 만취 상태로 음주사고를 내 경찰 조사 중입니다. 경찰 등에 따르면 고씨는 오늘(14일) 오전 3시 반 쯤 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈습니다. 음주측정 결과 고씨의 혈중알코올농도는 면허 취소 수치가 나왔"
     },
     {
       "title": "‘음주 운전’ 고경표에 방송가도 비상···‘놀뭐’ 측 “최대한 편집”",
@@ -64,13 +86,13 @@
       "mention_count": 10,
       "sources": [
         "경향신문",
-        "매일경제",
         "진일보 | 전남일보",
         "뉴스핌",
         "연합뉴스TV",
         "OSEN",
         "Chosunbiz",
         "SPOTV NEWS",
+        "스타뉴스",
         "파이낸셜뉴스",
         "일간스포츠"
       ],
@@ -98,23 +120,24 @@
       "summary": "경남 거제시 장목면 이수도 인근 해상에서 어선 선장이 실종돼 해경이 수색에 나섰다.창원해양경찰서는 14일 오전 9시50분께 이수도 동방 3해리(5.6㎞) 해상에서 조업 중이던 어선 선장 A(60대)씨가 보이지 않는다는 신고를 받고 수색 작업을 벌이고 있다고 밝혔다.A씨…"
     },
     {
-      "title": "고경표 사고 내자 환경미화원 뒤쫓았다…음주운전 CCTV 공개",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mUF9TMWlRQTZLY1BFUlRWWE95elprSHl3bWF4LW1lQWJrdERMcTJORnNwZnM5VlNQMExFRlczMUNCVFdpSXlvaHFMdlNTRlJnRENYc2VZOEM?oc=5",
-      "source": "매일경제",
-      "published": "2026-11-14T15:06:43+09:00",
-      "latest": "2026-11-15T06:55:12+09:00",
+      "title": "부안 갯벌서 남성 변사체 발견…전날 신고된 실종자와 일치 여부 확인 중",
+      "link": "https://www.pressian.com/pages/articles/2026111411203338504",
+      "source": "프레시안",
+      "published": "2026-11-14T11:23:56+09:00",
+      "latest": "2026-11-14T18:32:21+09:00",
       "mention_count": 9,
       "sources": [
-        "매일경제",
+        "프레시안",
+        "연합뉴스",
+        "노컷뉴스",
+        "뉴스1",
+        "동아일보",
         "뉴시스",
-        "문화일보",
-        "스포츠경향",
-        "채널A",
-        "한국경제",
-        "SPOTV NEWS",
-        "머니투데이",
-        "부산일보"
-      ]
+        "폴리스TV",
+        "연합뉴스TV",
+        "OBC 뉴스"
+      ],
+      "summary": "전북 부안의 한 갯벌에서 남성 시신이 발견돼 해경이 조사에 나섰다. 14일 부안해양경찰서에 따르면 이날 오전 9시 39분께 부안군 진서면 청자로 아쿠아팜 앞 갯벌에서 남성이 숨진 채 발견됐다는 신고가 접수됐다. 앞서 전날 오후 6시께 부안경찰서에 실종신고가 접수됐..."
     }
   ],
   "sections": [
@@ -153,52 +176,19 @@
       "name": "수사·사건",
       "articles": [
         {
-          "title": "‘놀면 뭐하니?’ 오늘 방송인데 날벼락…고경표 음주운전에 “불편함 없도록 편집” [공식]",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6bG9qRUhidi1wS0lhVzdUa3U2VHlocGFob29Na2tLM2stWHZIVnZ1M0oteHZKTC1ZTDVrMlBhZHktblpFMnVHRjc5dmxocHVyNWdJZG1jSWdjY01xV2NlOVJMNTdvdw?oc=5",
-          "source": "매일경제",
-          "published": "2026-11-14T10:29:06+09:00",
-          "latest": "2026-11-14T20:54:39+09:00",
-          "mention_count": 6,
+          "title": "“음주운전 안 돼요” 만취 운전 고경표, 과거 발언 재조명",
+          "link": "https://www.munhwa.com/article/11631283",
+          "source": "문화일보",
+          "published": "2026-11-14T17:23:11+09:00",
+          "latest": "2026-11-15T07:35:54+09:00",
+          "mention_count": 4,
           "sources": [
-            "매일경제",
-            "뉴시스",
-            "연합뉴스TV",
-            "스타뉴스",
-            "동아일보",
-            "머니투데이"
-          ]
-        },
-        {
-          "title": "“음주운전도 안 되고요” 외친 홍보대사 고경표 만취 사고…티빙 ‘대탈출’ 공개 18일 앞 비상",
-          "link": "https://newsfield.net/%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%8F%84-%EC%95%88-%EB%90%98%EA%B3%A0%EC%9A%94-%EC%99%B8%EC%B9%9C-%ED%99%8D%EB%B3%B4%EB%8C%80%EC%82%AC-%EA%B3%A0%EA%B2%BD%ED%91%9C-%EB%A7%8C%EC%B7%A8-%EC%82%AC/",
-          "source": "뉴스필드",
-          "published": "2026-11-14T14:06:09+09:00",
-          "latest": "2026-11-14T17:51:49+09:00",
-          "mention_count": 6,
-          "sources": [
-            "뉴스필드",
-            "뉴시스",
-            "채널A",
-            "미주중앙일보",
+            "문화일보",
             "중앙일보",
-            "노컷뉴스"
-          ],
-          "summary": "그가 고정 출연하는 티빙 오리지널 예능 '대탈출: 도시괴담'은 공개를 18일 앞두고 있다. 3954만개 계정의 개인정보 유출 사고를 아직 수습 중인 티빙에 간판 예능의 출연자 문제까지 겹쳤다."
-        },
-        {
-          "title": "고경표 음주운전 후폭풍…예능가 출연분 줄줄이 편집 돌입",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VbHBKLUZNMGJCRnZ2SnZnWTRZc0V3cTBOMG54alN1bmhKTk9hTFVOTVhaUjZ5ZFoyZGFCSlo4OHRGMHl2NlFDTWtPYnhhTlVXTEN6dy1FaFJuMnBnb3hJb29R?oc=5",
-          "source": "경기신문",
-          "published": "2026-11-14T14:21:19+09:00",
-          "latest": "2026-11-14T18:11:51+09:00",
-          "mention_count": 5,
-          "sources": [
-            "경기신문",
             "헤럴드경제",
-            "www.hidomin.com",
-            "아시아경제",
-            "경기일보"
-          ]
+            "머니투데이"
+          ],
+          "summary": "배우 고경표(36)가 혈중알코올농도 면허 취소 수준으로 운전하다 청소차를 들이받는 사고를 내면서 과거 교통사고 예방 홍보대사로 활동할 당시 음주운전을 경고했던 발언이 다시 주목받고 있다. 14일 도로교통공단에 따르면 고 씨는 지난 2023년 3월 13일 공단의 교통사고"
         },
         {
           "title": "음주운전하다 환경미화원 치어 숨지게 한 50대 여성 긴급체포",
@@ -216,18 +206,18 @@
           "summary": "술을 마신 채 약 30㎞를 운전하다 도로에서 작업 중이던 환경미화원을 치어 숨지게 한 뒤 달아난 50대 여성이 경찰에 붙잡혔다. 14일 경기 광명경찰서에 따르면 특정범죄가중처벌법상 도주치사 및 위험운전치사 등 혐의로 50대 여성 A씨를 긴급체포해 조사하고 있다. A씨는"
         },
         {
-          "title": "'음주운전' 고경표, 술버릇 발언 재조명 \"무생물한테 사고치는 스타일\"",
-          "link": "https://www.newsis.com/view/NISX20261114_0003868053",
-          "source": "뉴시스",
-          "published": "2026-11-14T12:03:37+09:00",
-          "latest": "2026-11-15T00:09:26+09:00",
+          "title": "'음주운전' 고경표, 경찰 다가오자 '어떤 물건' 숨겼다..또 다른 CCTV 공개",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019863",
+          "source": "SPOTV NEWS",
+          "published": "2026-11-14T21:40:59+09:00",
+          "latest": "2026-11-15T08:17:18+09:00",
           "mention_count": 3,
           "sources": [
-            "뉴시스",
-            "문화일보",
-            "헤럴드경제"
+            "SPOTV NEWS",
+            "스포츠조선",
+            "매일경제"
           ],
-          "summary": "배우 고경표가 음주운전 사고로 물의를 빚으면서 과거 공개했던 주량과 음주 습관이 재조명되고 있다.고경표는 14일 오전 3시30분께 서울 마포구 동교동 일대에서 자신의 승용차를 몰던 중 청소차와 충돌했다. 현장에서 실시한 음주측정 결과 혈중알코올농도는 운전면허 취소 기준…"
+          "summary": "고경표의 음주운전 사고 당시 또 다른 CCTV(폐쇄회로) TV 영상이 공개됐다. MBC '뉴스데스크'는 14일 저녁, 배우 고경표의 음주운전 사고 소식을 보도하며 기존에 공개된 영상에 더해, 다른 각도에서 촬영된 CCTV를 공개했다."
         },
         {
           "title": "고경표, 도로교통공단 홍보대사 시절 영상 소환···“여러분 음주운전 안 되요”",
@@ -244,6 +234,20 @@
           "summary": "14일 새벽 만취상태에서 청소차를 들이받은 배우 고경표가 과거 교통사고 예방 홍보대사로 활동하며 음주운전 근절을 강조했던 이력이 재조명되고 있다. 고경표는 2023년 3월13일 도로교통공단의 교통사고 예방 홍보대사로 위촉됐다. 당시 고경표는 “교통사고로부터 안전한 대한…"
         },
         {
+          "title": "[종합] “음주운전 안 된다”더니…고경표, ‘tvN의 아들’에서 tvN 최대 악재로 몰락",
+          "link": "https://sports.khan.co.kr/article/202611141429003",
+          "source": "스포츠경향",
+          "published": "2026-11-14T14:29:00+09:00",
+          "latest": "2026-11-14T17:51:49+09:00",
+          "mention_count": 3,
+          "sources": [
+            "스포츠경향",
+            "문화일보",
+            "노컷뉴스"
+          ],
+          "summary": "배우 고경표가 십수 년간 쌓아온 신뢰를 한순간에 잃었다. 14일 고경표가 이날 새벽 3시 30분쯤 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈다는 소식이 전해졌다. 음주 측정..."
+        },
+        {
           "title": "112에 \"장동혁 대표 암살하겠다\" 문자메시지 보낸 20대 입건",
           "link": "https://www.busan.com/view/busan/view.php?code=2026111409524781044",
           "source": "부산일보",
@@ -258,16 +262,30 @@
           "summary": "경찰. 연합뉴스 국민의힘 장동혁 대표를 암살하겠다는 내용의 협박 문자를 보낸 20대가 경찰에 현행범으로 체포됐다.충남 태안경찰서는..."
         },
         {
-          "title": "고경표 음주운전에 이재명 대통령 뜬금 소환…디시 갤러리 공식(?) 입장문 [시사뒷담]",
-          "link": "https://www.imaeil.com/page/view/2026111418262290362",
-          "source": "매일신문",
-          "published": "2026-11-14T18:26:41+09:00",
-          "latest": "2026-11-14T19:57:25+09:00",
+          "title": "‘음주운전’ 고경표, ‘놀면 뭐하니?’ 사실상 통편집…개인샷 없었다",
+          "link": "https://www.donga.com/news/Entertainment/article/all/20261114/135024510/1",
+          "source": "동아일보",
+          "published": "2026-11-14T20:33:16+09:00",
+          "latest": "2026-11-14T20:54:39+09:00",
           "mention_count": 2,
           "sources": [
-            "매일신문",
-            "문화일보"
-          ]
+            "동아일보",
+            "머니투데이"
+          ],
+          "summary": "음주 운전 교통사고를 낸 배우 고경표가 MBC 예능 ‘놀면 뭐하니?’에서 사실상 통편집됐다.14일 오후 방송된 ‘놀면 뭐하니?’에서는 ‘95 서울가요제’ 합격자들이 한자리에 모인 모습이 그려졌다.이날 고경표도 합격자로 녹화에 참여했지만, 이날 방송에서는 전체 출연진을…"
+        },
+        {
+          "title": "“고경표 지워라”…만취 음주운전에 예능 3개 줄줄이 편집",
+          "link": "https://www.kyeonggi.com/article/20261114580119",
+          "source": "경기일보",
+          "published": "2026-11-14T18:11:51+09:00",
+          "latest": "2026-11-14T19:01:05+09:00",
+          "mention_count": 2,
+          "sources": [
+            "경기일보",
+            "매일경제"
+          ],
+          "summary": "배우 고경표가 만취 상태로 운전하다 청소차를 들이받는 사고를 내면서 방송가에 비상이 걸렸다. 14일 방송계에 따르면 MBC '놀면 뭐하니?'와 tvN '식스센스: B사이드', '놀라운 토요일' 제작진은 이날 고경표의 음주운전 사고가 알려진 직후 잇따라 출연 분량을 축소"
         },
         {
           "title": "원주 아파트 11층서 불…경찰, 방화 혐의로 40대 입건",
@@ -283,20 +301,8 @@
           "summary": "14일 오전 9시 48분께 강원 원주시 명륜동 한 아파트 11층에서 불이 났다."
         },
         {
-          "title": "놀뭐·보검매직컬2·대탈출 어쩌나…고경표 음주운전에 예능 ‘직격탄’",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HdXpNOGxITnB2RE9YdGR4WGpJZmY0MTVza1Y0SXU1WllkVlp6cWp1TnoxWVc2RGhGeXIwcENaakhJMGt1Z3ZDQUdlUUVvTmIxVHl0Sg?oc=5",
-          "source": "매일경제",
-          "published": "2026-11-14T13:15:11+09:00",
-          "latest": "2026-11-14T16:39:49+09:00",
-          "mention_count": 2,
-          "sources": [
-            "매일경제",
-            "뉴시스"
-          ]
-        },
-        {
           "title": "장수서 음주운전 모닝 전도…70대 등 3명 부상",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdVZpelRJWjhibS15dlhTQ29hamNmTG9LMzNqWURneGN0aUlXMlNsQmgtcnJMWE5FUUtsV3ZvUERPd2hGRVIzWXAtY1UzZkpmMndQWnMwSVdyZTJjZXJIRXVUWWk1ZlZpZlE?oc=5",
+          "link": "https://www.theonetv.kr/news/articleView.html?idxno=255177",
           "source": "OBC 뉴스",
           "published": "2026-11-14T16:14:26+09:00",
           "latest": "2026-11-14T16:39:24+09:00",
@@ -304,11 +310,12 @@
           "sources": [
             "OBC 뉴스",
             "헤럴드경제"
-          ]
+          ],
+          "summary": "전북 장수군에서 술을 마신 50대 운전자가 몰던 경차가 도로에서 옆으로 넘어져 70대 동승자 등 3명이 다쳤습니다. 경찰 조사 결과 운전자의 혈중알코올농도는 면허취소 기준을 넘었던 것으로 확인됐습니다.14일 경찰과 전북특별자치도소방본부에 따르면 이날 오전 10시 3"
         },
         {
           "title": "양평경찰서, 보이스피싱 예방 축협직원에 감사장 수여",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NejNKLXN1WllaWVBPUFZVSjEwQU5ibTVxZzhPQW9YQkJsczZPaFJlSXlURWtqVWxSazFZWE80aWhycFRSaVF3NWZpNk9uT1VrOEJIVXE2dklxeGYtdXJsSkRR?oc=5",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=919424",
           "source": "경기신문",
           "published": "2026-11-14T08:10:09+09:00",
           "latest": "2026-11-14T10:18:58+09:00",
@@ -316,7 +323,44 @@
           "sources": [
             "경기신문",
             "양평시민의소리"
-          ]
+          ],
+          "summary": "양평경찰서는 12일 오후 4시에 보이스피싱 피해를 막은 용문면 축협 직원 A씨에게 감사장을 전달했다. 지난 9일 용문면 축협을 방문한 70대 어르신이 3000만 원을 인출하려는 과정에서 인출 목적을 명확히 밝히지 않고 휴대전화 확인에도 경계하는 모습을 보이자, 이를 수…"
+        },
+        {
+          "title": "그룹아이비, 싱가포르 경찰청 암호화폐 사기 예방 작전 '오퍼레이션 스피어' 참여",
+          "link": "https://www.denews.co.kr/news/articleView.html?idxno=43095",
+          "source": "디지털경제뉴스",
+          "published": "2026-11-15T08:45:18+09:00",
+          "latest": "2026-11-15T08:45:18+09:00",
+          "mention_count": 1,
+          "sources": [
+            "디지털경제뉴스"
+          ],
+          "summary": "그룹아이비는 싱가포르 경찰청(SPF) 사이버사령부가 주도하는 암호화폐 사기 예방 작전 '오퍼레이션 스피어'에 참여했다고 밝혔다.오퍼"
+        },
+        {
+          "title": "노래방서 행패 부리고 출동한 경찰 폭행한 40대, 벌금형",
+          "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261115.99099004251",
+          "source": "국제신문",
+          "published": "2026-11-15T08:33:00+09:00",
+          "latest": "2026-11-15T08:33:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "국제신문"
+          ],
+          "summary": "�뷡�濡�� ���ֿ� ���и� �θ���, �⵿�� �������� ������ ����(�����������)�� ��ҵ� 40�뿡�� �������� �����ƴ�. â������ ����6�ܵ� ���� �����ǻ��.."
+        },
+        {
+          "title": "[범죄읽는 과학] ③ \"우발적 살인\" 장윤기 거짓말 잡아낸 정밀심리분석",
+          "link": "https://www.yna.co.kr/view/AKR20261113164400004",
+          "source": "연합뉴스",
+          "published": "2026-11-15T08:00:00+09:00",
+          "latest": "2026-11-15T08:00:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "연합뉴스"
+          ],
+          "summary": "광주 도심에서 여고생을 잔혹하게 살해한 장윤기 사건의 쟁점은 성범죄 목적이 있었는지였다."
         },
         {
           "title": "신변보호 중 '살인·가정폭력 끝' 참극…대구경찰 대응력도 '도마'",
@@ -329,30 +373,6 @@
             "뉴스1"
           ],
           "summary": "\"스토킹 범죄 등에 수사 역량·책임 강화 필요\" 대구에서 스토킹 피해자에 대한 경찰의 안전 조치에도 살인 사건이 일어나고, 장기간 이어진 가정폭력이 살인으로 이어지는 등 강력범죄가 잇따르면서 경찰의 범죄 예방과 …"
-        },
-        {
-          "title": "홍보대사 위촉식 참석한 스타들|고경표, \"음주운전 안 된다\" 외치더니 만취 추돌 배신…홍보대사 이력 '역풍' [TEN이슈]",
-          "link": "https://news.zum.com/photo/39117282/108879500",
-          "source": "ZUM 뉴스",
-          "published": "2026-11-15T06:59:04+09:00",
-          "latest": "2026-11-15T06:59:04+09:00",
-          "mention_count": 1,
-          "sources": [
-            "ZUM 뉴스"
-          ],
-          "summary": "고경표가 음주운전 사고로 물의를 빚은 가운데, 교통사고 예방 홍보대사 당시 했던 발언이 재조명되고 있다./사진=텐아시아DB 만취 상태로 운전하다 청소차를 들이받은 배우 고경표가 불과 3년 전 도로교통공단 `교통사고 예방 홍보대사`로 활동했던 이력이 재조명되며 거센 비판…"
-        },
-        {
-          "title": "\"100살 은행나무 독살 했다\"…경찰, 재물손괴 혐의 미술관장 송치",
-          "link": "https://news.jtbc.co.kr/shorts/ND10780087",
-          "source": "JTBC",
-          "published": "2026-11-15T06:23:48+09:00",
-          "latest": "2026-11-15T06:23:48+09:00",
-          "mention_count": 1,
-          "sources": [
-            "JTBC"
-          ],
-          "summary": "\"100살 은행나무 독살 했다\"…경찰, 재물손괴 혐의 미술관장 송치"
         }
       ]
     },
@@ -360,31 +380,11 @@
       "name": "사건사고·안전",
       "articles": [
         {
-          "title": "부안 갯벌서 남성 변사체 발견…전날 신고된 실종자와 일치 여부 확인 중",
-          "link": "https://www.pressian.com/pages/articles/2026111411203338504",
-          "source": "프레시안",
-          "published": "2026-11-14T11:23:56+09:00",
-          "latest": "2026-11-14T18:32:21+09:00",
-          "mention_count": 9,
-          "sources": [
-            "프레시안",
-            "연합뉴스",
-            "노컷뉴스",
-            "뉴스1",
-            "동아일보",
-            "뉴시스",
-            "폴리스TV",
-            "연합뉴스TV",
-            "OBC 뉴스"
-          ],
-          "summary": "전북 부안의 한 갯벌에서 남성 시신이 발견돼 해경이 조사에 나섰다. 14일 부안해양경찰서에 따르면 이날 오전 9시 39분께 부안군 진서면 청자로 아쿠아팜 앞 갯벌에서 남성이 숨진 채 발견됐다는 신고가 접수됐다. 앞서 전날 오후 6시께 부안경찰서에 실종신고가 접수됐..."
-        },
-        {
           "title": "빗길 제주 곳곳서 교통사고 잇따라…6명 부상",
           "link": "https://www.newsis.com/view/NISX20261114_0003867980",
           "source": "뉴시스",
           "published": "2026-11-14T09:02:17+09:00",
-          "latest": "2026-11-14T18:36:18+09:00",
+          "latest": "2026-11-15T08:25:08+09:00",
           "mention_count": 4,
           "sources": [
             "뉴시스",
@@ -399,28 +399,14 @@
           "link": "https://isplus.com/article/view/isp202611140027",
           "source": "일간스포츠",
           "published": "2026-11-14T11:00:00+09:00",
-          "latest": "2026-11-14T17:12:52+09:00",
-          "mention_count": 4,
+          "latest": "2026-11-14T15:22:20+09:00",
+          "mention_count": 3,
           "sources": [
             "일간스포츠",
             "생생비즈플러스",
-            "서울신문",
-            "이슈인팩트"
+            "서울신문"
           ],
           "summary": "배우 고경표가 만취 상태로 운전대를 잡았다가 사고를 내 경찰에 적발되면서 큰 충격을 안기고 있다.고경표는 14일 오전 3시 30분께 서울 마포구 동교동..."
-        },
-        {
-          "title": "고경표, 새벽 만취 교통사고…소속사 즉각 시인 \"경찰 조사 마치고 귀가, 깊이 반성\"",
-          "link": "https://www.imaeil.com/page/view/2026111409225242563",
-          "source": "매일신문",
-          "published": "2026-11-14T09:59:23+09:00",
-          "latest": "2026-11-14T13:21:00+09:00",
-          "mention_count": 3,
-          "sources": [
-            "매일신문",
-            "매일경제",
-            "YTN"
-          ]
         },
         {
           "title": "완도해경, 짙은 안개에 방향 잃은 어선 2척 잇따라 구조",
@@ -475,16 +461,28 @@
           "summary": "캠코(한국자산관리공사)는 12일 박성현 상임감사가 제주시 건입동의 해양경찰청 제주관사 건설현장 동절기 특별 안전점검을 진행했다고 밝혔다."
         },
         {
-          "title": "배우 고경표, 새벽 3시 '만취 음주사고'…박보검까지 '날벼락'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PT0hiSTFiSFY0VWFWSW9Ma19ha2xqLUhieUVkR2xrMGlBa0dWa0NFaXJOTllPZlJsTXlVa3FQMC0xSGoxaVRxTWpmYTI5aUo0S0pjNzJtVk94Zw?oc=5",
-          "source": "한국경제",
-          "published": "2026-11-14T09:54:47+09:00",
-          "latest": "2026-11-14T11:11:23+09:00",
+          "title": "고경표, 새벽 만취 교통사고…소속사 즉각 시인 \"경찰 조사 마치고 귀가, 깊이 반성\"",
+          "link": "https://www.imaeil.com/page/view/2026111409225242563",
+          "source": "매일신문",
+          "published": "2026-11-14T09:59:23+09:00",
+          "latest": "2026-11-14T13:21:00+09:00",
           "mention_count": 2,
           "sources": [
-            "한국경제",
-            "국민일보"
+            "매일신문",
+            "YTN"
           ]
+        },
+        {
+          "title": "가천대 연구팀, 2차 교통사고 예방 시스템 개발",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325971",
+          "source": "포인트데일리",
+          "published": "2026-11-15T08:36:59+09:00",
+          "latest": "2026-11-15T08:36:59+09:00",
+          "mention_count": 1,
+          "sources": [
+            "포인트데일리"
+          ],
+          "summary": "가천대학교(총장 이길여) 연구팀이 2차 교통사고를 예방하기 위한 지능형 안전 시스템을 개발하고 실제 도로에서 실증을 완료했다.가천대는 도시계획학과 교통안전연구실 장일준 교수팀이 한국전자기술연구원 장수현 박사팀과 공동으로 ‘전방사고 알림 가로등 시스템’을 개발하고, 성능…"
         },
         {
           "title": "영월 주택서 화목난로 폭발 추정 사고…7명 부상",
@@ -557,6 +555,18 @@
             "SPOTV NEWS"
           ],
           "summary": "잠실 라이벌간 트레이드로 LG 유니폼을 입고 FA 계약까지 맺었던 함덕주가 내년 시즌을 다른 팀에서 맞이하게 됐다. 3+1년 계약에서 +1년이 선수 옵션이었는데, LG 잔류 대신 옵트아웃 선언을 결정했다."
+        },
+        {
+          "title": "쑤안랍 면 경찰: 이틀 동안 실종됐던 남성을 신속하게 발견하고 구조 활동을 펼쳤습니다.",
+          "link": "https://www.vietnam.vn/ko/cong-an-xa-xuan-lap-kip-thoi-phat-hien-giup-do-nguoi-dan-ong-di-lac-sau-2-ngay-lang-thang",
+          "source": "Vietnam.vn",
+          "published": "2026-11-14T23:43:32+09:00",
+          "latest": "2026-11-14T23:43:32+09:00",
+          "mention_count": 1,
+          "sources": [
+            "Vietnam.vn"
+          ],
+          "summary": "계절이 바뀌면서 밤은 점점 추워집니다. 많은 가정이 하루 일과를 마치고 집으로 돌아와 휴식을 취하는 동안, 인적이 드문 도로에서는 탄화성 쑤언랍 면 경찰 특수팀이 지역의 안전과 질서를 유지하기 위해 부지런히 순찰 임무를 수행하고 있습니다."
         }
       ]
     },
@@ -623,31 +633,31 @@
         },
         {
           "title": "배우 고경표, 만취 운전하다 청소차 충돌…“잘못 인정, 깊이 반성”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CS2VwU2RZY1ZLemt4UjJaRm8zaW9WdHBWc083aHNMUXZNSzJTWkxZY0xwZTZSY2FManRvNWdQSDh4SzRmRk1QZXlHYWk4WklKMUlpbWtaT0JMdUE?oc=5",
+          "link": "https://www.kwnews.co.kr/article/20261114500021",
           "source": "강원일보",
           "published": "2026-11-14T10:25:54+09:00",
-          "latest": "2026-11-14T19:07:06+09:00",
+          "latest": "2026-11-14T18:40:00+09:00",
           "mention_count": 5,
           "sources": [
             "강원일보",
             "Chosunbiz",
+            "맥스무비",
             "강원도민일보",
-            "채널A",
-            "포커스타임즈"
-          ]
+            "채널A"
+          ],
+          "summary": "배우 고경표씨가 만취 상태로 운전하다 청소차를 들이받는 사고를 내 경찰 조사를 받고 있다. 고씨는 소속사를 통해 음주운전 사실을 인정하고 피해자와 팬들에게 사과했다. 14일 서울 마포경찰서에 따르면 고씨는 도로교통법상 음주운전 혐의로 조사를 받고 있다. 고씨는 이날 오"
         },
         {
-          "title": "'만취 운전' 고경표 \"깊이 반성\"...놀면뭐하니·보검매직컬2 '비상'",
-          "link": "https://www.mt.co.kr/entertainment/2026/11/14/2026111410031586565",
-          "source": "머니투데이",
-          "published": "2026-11-14T10:19:07+09:00",
-          "latest": "2026-11-14T11:17:34+09:00",
-          "mention_count": 2,
+          "title": "부산 자치경찰 동행 대상, 부산진구 등 3곳 선정",
+          "link": "https://www.bplusnews.com/news/articleView.html?idxno=13904",
+          "source": "https://www.bplusnews.com/",
+          "published": "2026-11-15T08:00:00+09:00",
+          "latest": "2026-11-15T08:00:00+09:00",
+          "mention_count": 1,
           "sources": [
-            "머니투데이",
-            "뉴시스"
+            "https://www.bplusnews.com/"
           ],
-          "summary": "배우 고경표(36)가 만취 상태로 운전하다 교통사고를 낸 사실을 인정하고 사과했다. 14일 스타뉴스에 따르면 고경표의 소속사 씨엘엔컴퍼니는 이날 공식 입장을 통해 \"먼저 고경표 배우의 음주운전 사고로 피해를 입으신 분들께 깊이 사과드린다\"며 \"고경표 배우를 믿고 응원해…"
+          "summary": "부산시 자치경찰위원회가 지역 맞춤형 협력 치안에 기여한 부산진구, 중구정신건강센터,신음현 부산재향경우회 관리부장을 자치경찰 동행 대상 수상자로 선정했습니다. 시민이 체감하는 안전은 거창한 구호보다 생활 가까이에 있는 작은 변화에서 시작됩니다. 골목길 비상벨, 통학로 점…"
         },
         {
           "title": "인천 숭의동서 차량이 건물 돌진…경찰, 약물운전 조사",
@@ -663,14 +673,15 @@
         },
         {
           "title": "범죄자도 아닌데 계좌 묶여…\"직원 월급도 못줄 판\" 패닉 [사장님 고충백서]",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4VWYxQ2lTZXpCZzU1ZXN4UFVCQmFDb2FoN1BoQ3dEQUlSalh6S3h1TFJVd184cjEyYU40YmkyQWZ1Y3ppdjBqYnlyU1hHN2Fjd01fdzNhM01lQQ?oc=5",
+          "link": "https://www.hankyung.com/article/202611146105i",
           "source": "한국경제",
           "published": "2026-11-15T06:00:01+09:00",
           "latest": "2026-11-15T06:00:01+09:00",
           "mention_count": 1,
           "sources": [
             "한국경제"
-          ]
+          ],
+          "summary": "범죄자도 아닌데 계좌 묶여…\"직원 월급도 못줄 판\" 패닉 [사장님 고충백서], 5년 머물던 고시원 입실자가 보이스피싱 연루 월세 받았을 뿐인데...사장도 '통장 거래제한' 사장 명의 다른 계좌들도 '온라인 거래 중단' 직원 월급도 현금으로 뽑아 지급해야할 판 온라인 전…"
         },
         {
           "title": "한 번 소년범은 평생 범죄자?…그들의 뇌에선 무슨 일이",
@@ -788,20 +799,86 @@
           "mention_count": 1,
           "sources": [
             "지데일리"
-          ]
+          ],
+          "summary": "태안 격렬비열도 인근서 조업 중 밍크고래 사체 발견길이 4.3m·무게 약 1t 암컷 고래 그물에 혼획해경 조사 결과 작살 등 불법 포획 의심 흔적 없어고래 혼획·사체 발견 시 즉시 해양경찰 신고 당부"
         }
       ]
     }
   ],
-  "total_articles": 253,
+  "total_articles": 272,
   "total_issues": 121,
   "raw": [
+    {
+      "title": "그룹아이비, 싱가포르 경찰청 암호화폐 사기 예방 작전 '오퍼레이션 스피어' 참여",
+      "link": "https://www.denews.co.kr/news/articleView.html?idxno=43095",
+      "source": "디지털경제뉴스",
+      "published": "2026-11-15T08:45:18+09:00",
+      "summary": "그룹아이비는 싱가포르 경찰청(SPF) 사이버사령부가 주도하는 암호화폐 사기 예방 작전 '오퍼레이션 스피어'에 참여했다고 밝혔다.오퍼"
+    },
+    {
+      "title": "고경표 음주운전 사고 CCTV 공개…청소차 충돌 뒤 현장 모습 담겨",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625282",
+      "source": "메디컬투데이",
+      "published": "2026-11-15T08:41:32+09:00"
+    },
+    {
+      "title": "“술빵 5개 먹어” 고경표, 음주운전 사고 후 해맑은 홍보 영상 삭제…방송가 ‘고경표 지우기’ 돌입",
+      "link": "https://sports.khan.co.kr/article/202611150837003",
+      "source": "스포츠경향",
+      "published": "2026-11-15T08:37:00+09:00"
+    },
+    {
+      "title": "가천대 연구팀, 2차 교통사고 예방 시스템 개발",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325971",
+      "source": "포인트데일리",
+      "published": "2026-11-15T08:36:59+09:00",
+      "summary": "가천대학교(총장 이길여) 연구팀이 2차 교통사고를 예방하기 위한 지능형 안전 시스템을 개발하고 실제 도로에서 실증을 완료했다.가천대는 도시계획학과 교통안전연구실 장일준 교수팀이 한국전자기술연구원 장수현 박사팀과 공동으로 ‘전방사고 알림 가로등 시스템’을 개발하고, 성능…"
+    },
+    {
+      "title": "노래방서 행패 부리고 출동한 경찰 폭행한 40대, 벌금형",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261115.99099004251",
+      "source": "국제신문",
+      "published": "2026-11-15T08:33:00+09:00",
+      "summary": "�뷡�濡�� ���ֿ� ���и� �θ���, �⵿�� �������� ������ ����(�����������)�� ��ҵ� 40�뿡�� �������� �����ƴ�. â������ ����6�ܵ� ���� �����ǻ��.."
+    },
+    {
+      "title": "빗길 미끄러짐 등 제주서 저녁 시간대 교통사고 3건 잇따라",
+      "link": "https://www.newsis.com/view/NISX20261115_0003868319",
+      "source": "뉴시스",
+      "published": "2026-11-15T08:25:08+09:00"
+    },
+    {
+      "title": "경찰 다가오자 외투에 물건 ‘쏙’…음주운전 고경표, CCTV 포착",
+      "link": "https://www.mk.co.kr/news/society/12209068",
+      "source": "매일경제",
+      "published": "2026-11-15T08:17:18+09:00"
+    },
+    {
+      "title": "부산 자치경찰 동행 대상, 부산진구 등 3곳 선정",
+      "link": "https://www.bplusnews.com/news/articleView.html?idxno=13904",
+      "source": "https://www.bplusnews.com/",
+      "published": "2026-11-15T08:00:00+09:00",
+      "summary": "부산시 자치경찰위원회가 지역 맞춤형 협력 치안에 기여한 부산진구, 중구정신건강센터,신음현 부산재향경우회 관리부장을 자치경찰 동행 대상 수상자로 선정했습니다. 시민이 체감하는 안전은 거창한 구호보다 생활 가까이에 있는 작은 변화에서 시작됩니다. 골목길 비상벨, 통학로 점…"
+    },
+    {
+      "title": "[범죄읽는 과학] ③ \"우발적 살인\" 장윤기 거짓말 잡아낸 정밀심리분석",
+      "link": "https://www.yna.co.kr/view/AKR20261113164400004",
+      "source": "연합뉴스",
+      "published": "2026-11-15T08:00:00+09:00",
+      "summary": "광주 도심에서 여고생을 잔혹하게 살해한 장윤기 사건의 쟁점은 성범죄 목적이 있었는지였다."
+    },
     {
       "title": "영월 주택서 화목난로 폭발 추정 사고…7명 부상",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846237&plink=RSSLINK&cooper=GSTAND",
       "source": "news.sbs.co.kr",
       "published": "2026-11-15T07:39:39+09:00",
       "summary": "이 사고로 주택에 있던 12명 가운데 4명이 중상을 입고 3명이 경상을 입어 인근 병원으로 옮겨졌습니다. 화재로 주택 내부 일부가 타는 피해도 발생했습니다."
+    },
+    {
+      "title": "\"해방촌서 고경표 만났다\" 음주운전 후 공개된 SNS 영상 '재조명'",
+      "link": "https://www.mt.co.kr/society/2026/11/15/2026111507101954461",
+      "source": "머니투데이",
+      "published": "2026-11-15T07:35:54+09:00"
     },
     {
       "title": "‘음주운전’ 고경표, ‘놀뭐’ 편집→‘보검매직컬2’ SNS 삭제…방송가 ‘손절’ 엔딩 [왓IS]검",
@@ -822,6 +899,12 @@
       "source": "뉴스1",
       "published": "2026-11-15T07:05:02+09:00",
       "summary": "\"스토킹 범죄 등에 수사 역량·책임 강화 필요\" 대구에서 스토킹 피해자에 대한 경찰의 안전 조치에도 살인 사건이 일어나고, 장기간 이어진 가정폭력이 살인으로 이어지는 등 강력범죄가 잇따르면서 경찰의 범죄 예방과 …"
+    },
+    {
+      "title": "‘음주운전 방지 장치’ 의무화 첫발… 300만원 비용의 장벽",
+      "link": "http://weekly.chosun.com/news/articleView.html?idxno=57088",
+      "source": "주간조선",
+      "published": "2026-11-15T07:00:00+09:00"
     },
     {
       "title": "홍보대사 위촉식 참석한 스타들|고경표, \"음주운전 안 된다\" 외치더니 만취 추돌 배신…홍보대사 이력 '역풍' [TEN이슈]",
@@ -857,9 +940,10 @@
     },
     {
       "title": "범죄자도 아닌데 계좌 묶여…\"직원 월급도 못줄 판\" 패닉 [사장님 고충백서]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4VWYxQ2lTZXpCZzU1ZXN4UFVCQmFDb2FoN1BoQ3dEQUlSalh6S3h1TFJVd184cjEyYU40YmkyQWZ1Y3ppdjBqYnlyU1hHN2Fjd01fdzNhM01lQQ?oc=5",
+      "link": "https://www.hankyung.com/article/202611146105i",
       "source": "한국경제",
-      "published": "2026-11-15T06:00:01+09:00"
+      "published": "2026-11-15T06:00:01+09:00",
+      "summary": "범죄자도 아닌데 계좌 묶여…\"직원 월급도 못줄 판\" 패닉 [사장님 고충백서], 5년 머물던 고시원 입실자가 보이스피싱 연루 월세 받았을 뿐인데...사장도 '통장 거래제한' 사장 명의 다른 계좌들도 '온라인 거래 중단' 직원 월급도 현금으로 뽑아 지급해야할 판 온라인 전…"
     },
     {
       "title": "김종철 청문회 D-3…재개발 투기 의혹·수사개혁 검증대",
@@ -921,14 +1005,20 @@
       "summary": "고경표는 음주운전 사고 이후 '놀면 뭐하니?'에서 출연 분량이 전면 삭제되었다. 그가 출연하는 다른 프로그램들도 방송 내용을 급히 조정했다."
     },
     {
+      "title": "“음주운전 안 됩니다” 외쳤던 고경표…만취 사고 CCTV 보니",
+      "link": "http://weekly.chosun.com/news/articleView.html?idxno=57128",
+      "source": "주간조선",
+      "published": "2026-11-15T00:30:00+09:00"
+    },
+    {
       "title": "'음주운전' 고경표, '놀뭐' 통편집·'식스센스' 줄편집…방송가 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84dFFub3VvOEN6WFFvLWZnRUhFTTY0Q2R1cGlGNUpwWGQ4RnEwYlhTcDZlYXYySktPeU9LajVZSXNwU2MwOWZMR1IyMnVVenZWcTI3Z05XNnNnUQ?oc=5",
+      "link": "https://www.fnnews.com/news/202611150008440458",
       "source": "파이낸셜뉴스",
       "published": "2026-11-15T00:10:51+09:00"
     },
     {
       "title": "‘음주운전’ 고경표, 지난해 무속인 소름 끼치는 사주 재조명",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCbndkXy01dy0xeEc5amNMb3pDd0dFdU5wR3htRTNTWVFmYUxuYnFyMDNyLXNLcW0tZEtwTEdOSG9SYlJCMXY1a1ZCbjhVZE1kMWVNQkl3?oc=5",
+      "link": "https://biz.heraldcorp.com/article/10937240",
       "source": "헤럴드경제",
       "published": "2026-11-15T00:09:26+09:00"
     },
@@ -949,7 +1039,8 @@
       "title": "쑤안랍 면 경찰: 이틀 동안 실종됐던 남성을 신속하게 발견하고 구조 활동을 펼쳤습니다.",
       "link": "https://www.vietnam.vn/ko/cong-an-xa-xuan-lap-kip-thoi-phat-hien-giup-do-nguoi-dan-ong-di-lac-sau-2-ngay-lang-thang",
       "source": "Vietnam.vn",
-      "published": "2026-11-14T23:43:32+09:00"
+      "published": "2026-11-14T23:43:32+09:00",
+      "summary": "계절이 바뀌면서 밤은 점점 추워집니다. 많은 가정이 하루 일과를 마치고 집으로 돌아와 휴식을 취하는 동안, 인적이 드문 도로에서는 탄화성 쑤언랍 면 경찰 특수팀이 지역의 안전과 질서를 유지하기 위해 부지런히 순찰 임무를 수행하고 있습니다."
     },
     {
       "title": "‘나의 이방인’ 여객기 참사로 세상을 떠난 딸…엄마에게 주어진 단 7일",
@@ -965,7 +1056,7 @@
     },
     {
       "title": "환경미화원들 다급히 뛰어가더니…고경표 음주운전 CCTV 공개",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2OGNFS3JuQ094MTFLT1BSZVprTlFxWVRVbU9YTm12R0dZNnRpaHNQWERRR01HSlk0U24tbjRMQjJLUVRDd0l0dFk4V1F2Z0hpVkU0SzVKVTFjUVpzSWY1SmhReEMzbVBGd0RCZlp2RE5wbjc1Qy1uZNIBfkFVX3lxTE1qeWZXMmZJV3JVRS1KZnBuUmhLNDZjdVhZeW42MTY5ZnNDX1I0UzBpMS1DdWpyMXdCWkJGalpFY213NGhub2xsdWpmbkNDYUFpV0FpNmhsT3ZPQ1I0R0RXLS00ZGNGWEdsT29DX2JyYUxVSGlQNC1wQW1tcjNjZw?oc=5",
+      "link": "https://www.mt.co.kr/index.php/society/2026/11/14/2026111422364834088",
       "source": "머니투데이",
       "published": "2026-11-14T23:04:22+09:00"
     },
@@ -1003,15 +1094,16 @@
     },
     {
       "title": "고경표, 경찰 다가오자 외투 속에 '쏙'…음주운전 직후 수상한 CCTV 포착",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjNaSGhtNkEwWnZac2N2VjBVbC1UWkdWcC1WTmFWa2xtc2t0aGNFQlJKRk1hYTh5MGpLNHhjd2FXNEg4ZWxkMmVqSGZBNktBOWdyMWRSV0czUlB2cmR4amlzalZUdXJtMXVLUlJjZ2diUXgzU0YzcUZ3TjdQM3JRbUVMc1M?oc=5",
+      "link": "https://www.sportschosun.com/entertainment/2026-11-14/202611140100096500009021",
       "source": "스포츠조선",
       "published": "2026-11-14T21:51:27+09:00"
     },
     {
       "title": "'음주운전' 고경표, 경찰 다가오자 '어떤 물건' 숨겼다..또 다른 CCTV 공개",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4MHhDQ3NXbWxtX1psVk5zbXJ5QklQOGdYWm52blJ3M2Vfd09Kd3FFVUVEMEc5Yy1CaG5wWG1EUXh2UE9sNUdKVHRtRU5vNC1rLU1lbEpMLTk1R2owQ1AxcGloY2dITHlOYXZoajdUWTg?oc=5",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019863",
       "source": "SPOTV NEWS",
-      "published": "2026-11-14T21:40:59+09:00"
+      "published": "2026-11-14T21:40:59+09:00",
+      "summary": "고경표의 음주운전 사고 당시 또 다른 CCTV(폐쇄회로) TV 영상이 공개됐다. MBC '뉴스데스크'는 14일 저녁, 배우 고경표의 음주운전 사고 소식을 보도하며 기존에 공개된 영상에 더해, 다른 각도에서 촬영된 CCTV를 공개했다."
     },
     {
       "title": "전북청장, ‘2026 군산불꽃축제’ 현장점검, 빈틈없는 안전관리 총력",
@@ -1059,6 +1151,12 @@
       "summary": "대전둔산경찰서(서장 김용원)는 11월 13일 오후 2시부터 3시까지 대전 서구 둔산동 큰마을네거리 일원에서 이륜차 및 승용차 이용 시민을 대상으로 「다함께 착착착!(착한운전)」 교통안전 캠페인을 실시하였다.이번 캠페인은 교통법규 준수와 안전운전의 중요성을 알리고, 시민…"
     },
     {
+      "title": "[단독] 배우 고경표, ’면허 취소수준’ 음주운전…청소차 추돌",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202611142105443Tj",
+      "source": "연합뉴스TV",
+      "published": "2026-11-14T21:05:00+09:00"
+    },
+    {
       "title": "세종경찰, 외국인 범죄예방 위해 유관기관·단체와 머리 맞대",
       "link": "https://www.newsdaily.kr/news/articleView.html?idxno=262963",
       "source": "뉴스데일리",
@@ -1073,7 +1171,7 @@
     },
     {
       "title": "'음주운전 나락' 고경표, '놀면 뭐하니?'서 통편집 굴욕",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16d1hwQnl0ZHFuVzFXZFBOTHNBMVJPU2YwbGVYOFZaTTM1U09DMmVMVl9wZkFLanlyYmZkZC1xczV6Qnh3V3FnOUc0eXozM0Fxbjlqd2R1bDNfUmJnUkFRYUFsazRxQmszLWdUOTE5OHdDUzh2RFNwedIBfkFVX3lxTE00ZXd6YmxLNV95bGVvTUFWWDR1VlY2eGlVdzBfUmlOVFpKMjg0NWZQdWl6WkZDLXBVZXBJbHJIdEZNamxxbXBZR2Y1VGEzdEN2TXk0QUFxWTNoX21fYllpVW5haTFIWnFQSlVhQjlNVjRqU2x6YjY2UDhvSzN5QQ?oc=5",
+      "link": "https://www.mt.co.kr/index.php/society/2026/11/14/2026111420190067304",
       "source": "머니투데이",
       "published": "2026-11-14T20:54:39+09:00"
     },
@@ -1082,6 +1180,12 @@
       "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090739",
       "source": "경북일보",
       "published": "2026-11-14T20:53:27+09:00"
+    },
+    {
+      "title": "‘음주운전’ 고경표, 결국 ‘놀뭐’ 삭제됐다…전체 풀샷서 잠깐 등장",
+      "link": "https://biz.heraldcorp.com/article/10937153",
+      "source": "헤럴드경제",
+      "published": "2026-11-14T20:51:38+09:00"
     },
     {
       "title": "‘네팔 참사는 뒷전’ 분노…UN 기후총회 테이블엔 ‘AI·에너지’",
@@ -1093,7 +1197,8 @@
       "title": "‘음주운전’ 고경표, ‘놀면 뭐하니?’ 사실상 통편집…개인샷 없었다",
       "link": "https://www.donga.com/news/Entertainment/article/all/20261114/135024510/1",
       "source": "동아일보",
-      "published": "2026-11-14T20:33:16+09:00"
+      "published": "2026-11-14T20:33:16+09:00",
+      "summary": "음주 운전 교통사고를 낸 배우 고경표가 MBC 예능 ‘놀면 뭐하니?’에서 사실상 통편집됐다.14일 오후 방송된 ‘놀면 뭐하니?’에서는 ‘95 서울가요제’ 합격자들이 한자리에 모인 모습이 그려졌다.이날 고경표도 합격자로 녹화에 참여했지만, 이날 방송에서는 전체 출연진을…"
     },
     {
       "title": "하의실종 패션에 도쿄돔 후끈! 韓·대만 미녀 치어리더 군단의 아찔한 응원 대결…日 언론도 감탄",
@@ -1117,19 +1222,19 @@
     },
     {
       "title": "'음주운전 나락' 고경표, 결국 '놀뭐' 삭제 엔딩[스타이슈]",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZdU8weThrVjBidElGanF3WEFJRWlCNHhhcUVRTTFRMDBMZzFWSER2SW5xTW9hNXI3RERHOGFZaTJ4MGpSZjVNN0w1VVBXandFT3VTejR6UFhXN0E1RGRiWlF3V0lCRHZHZXV5Z09OaVV2c0U?oc=5",
+      "link": "https://www.starnewskorea.com/star/2026/11/14/2026111420141859700",
       "source": "스타뉴스",
       "published": "2026-11-14T20:18:55+09:00"
     },
     {
       "title": "\"음주운전 말라\"던 고경표, 만취해 청소차 '쾅'",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxcEpLTnFMMFduNUJtbXBVcUJiU1E3WG1PbEpyRlVQYUt0ZUlOdHZWYVRrWDJjRXZRY2J1SXRCWEFVaE9HT21GTkxzNnhuT3ItcVdWM1ZWZnV5d1RleGZQdzZpakdYdzJrY3fSAWZBVV95cUxOQUpZckpKTndMZndmT1FzbTB6U3lCajFPOXpLM3E5ZGdZdThRcnFoanhLRngtS1d3bFFwS3puQzhYNGIwcjFFRnNfdVlXWkh5RzJzcEhQU295YkFncXJUVzZHT0NJVEE?oc=5",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846004",
       "source": "SBS 뉴스",
       "published": "2026-11-14T20:13:10+09:00"
     },
     {
       "title": "'음주운전' 고경표, '놀뭐' 통편집..제작진, 당일 편집 불똥 '민폐'[이슈S]",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9teEJEWEk5MnJwSUJidlA3ZlNpeTJxSUhDdU1XdG5GM1loVHM5THd4UjFLVjNaQ2p6aFpKZjdYTXh2M0Y2WWFpQ3NGdnVqSkVPb3lRNkFnSWR6UEtHOW50aURNNWNNQVdfclcxSjM2Tm8?oc=5",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019856",
       "source": "SPOTV NEWS",
       "published": "2026-11-14T20:11:20+09:00"
     },
@@ -1141,7 +1246,7 @@
     },
     {
       "title": "'음주운전' 고경표, '놀뭐' 제작진 긴급편집→분량 大실종",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmhHQWVpcFlfT1NZblBwUUpLWm1NSlAxQUtDX1ZVSlhnSFdUeVo3cjd2UUhDSEFzZXBYdy14Y0o3UEZhenpfTG9QMUVxVk9uRm9FaXl0VGhKQTJ2MVNCWVByRDZ2aUd3cFhMMVRSS3Vvd19TYWdXTmhrRTF0NFFaS0Q4ZFp1c2x1SDFXSlJqWW1zM03SAacBQVVfeXFMUEVNWlJJMGRzVGUzQVZkRElJeEFybl9GQW9nYUl0WGdBUUtlUDM1M2NueUIwTnJvSHFuSXUtRXE1a0tZcFF6TFd2U1dqNHJvNGF6S2lhVXZvZWpGTWpzNENDcmRNQnpyUlNHTEpfUzlzZ0hNcS1lUzIta3NucEx3d1FJYVJvR0JZcXF5aFhFRG53ZGZ4cHNVelhTMW5tUXJfc3dHc0tEM2M?oc=5",
+      "link": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/GM2DIMLBGFRTAM3DGBSTSNDEMQ/",
       "source": "Chosunbiz",
       "published": "2026-11-14T20:03:00+09:00"
     },
@@ -1233,7 +1338,7 @@
     },
     {
       "title": "고경표 음주운전에 예능 5개 ‘날벼락’…방송가 통편집 ‘손절’ [종합]",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XeWdldlZiRWxKNTFLX2Q0LThDZmZCYWpMOHlVSzlZdTR4U3pKSmtEWUZral9hSW5lTTVfSHFJU1R1UXoyZXFENlZDUVZraWhlV2NWRW40MlNpWHAwVHI3akJtQXYwUQ?oc=5",
+      "link": "https://www.mk.co.kr/news/broadcasting-service/12208993",
       "source": "매일경제",
       "published": "2026-11-14T19:01:05+09:00"
     },
@@ -1296,7 +1401,8 @@
       "title": "그물 끌어올리다 당황…길이 4.3m·무게 1t 밍크고래 발견 > 뉴스",
       "link": "http://www.gdaily.kr/bbs/board.php?bo_table=news&wr_id=22857",
       "source": "지데일리",
-      "published": "2026-11-14T18:37:00+09:00"
+      "published": "2026-11-14T18:37:00+09:00",
+      "summary": "태안 격렬비열도 인근서 조업 중 밍크고래 사체 발견길이 4.3m·무게 약 1t 암컷 고래 그물에 혼획해경 조사 결과 작살 등 불법 포획 의심 흔적 없어고래 혼획·사체 발견 시 즉시 해양경찰 신고 당부"
     },
     {
       "title": "강원 동해안서 교통사고 3건 잇따라…15명 병원 이송",
@@ -1318,7 +1424,7 @@
     },
     {
       "title": "음주운전 뺑소니로 환경미화원 숨지게 한 50대 여성 검거",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lbHVaSC1TVktkdlF1Ukg3SVNacWtUemEzWEJ4OTYwV0VQd096R3I4TGFQWDFVd0VhS0xtZFhBcDNlWUFKWU9xX2hUMVZ4S2lLSmlObTBSTW4?oc=5",
+      "link": "https://www.kmib.co.kr/article/20261114500093",
       "source": "국민일보",
       "published": "2026-11-14T18:28:13+09:00"
     },
@@ -1344,11 +1450,12 @@
       "title": "“고경표 지워라”…만취 음주운전에 예능 3개 줄줄이 편집",
       "link": "https://www.kyeonggi.com/article/20261114580119",
       "source": "경기일보",
-      "published": "2026-11-14T18:11:51+09:00"
+      "published": "2026-11-14T18:11:51+09:00",
+      "summary": "배우 고경표가 만취 상태로 운전하다 청소차를 들이받는 사고를 내면서 방송가에 비상이 걸렸다. 14일 방송계에 따르면 MBC '놀면 뭐하니?'와 tvN '식스센스: B사이드', '놀라운 토요일' 제작진은 이날 고경표의 음주운전 사고가 알려진 직후 잇따라 출연 분량을 축소"
     },
     {
       "title": "환경미화원, 급히 뒤쫓았다…고경표 음주운전 당시 CCTV 공개 [현장영상]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qMEtIZUZGQzNaWnZYMjZFdmhFalcxbHYtMGFWeVZRWlpDNU1KeGtheVlRMmY0SnFTMEZjcmV0YWtsNU15ZW5NenhmNVVCajlIVXNPOEJXbmsyMVF2R0HSAWNBVV95cUxQQ3kwelJZWHQzNV9aTHg3X2hmVVlyQXZNUUZtdmZyYU56TDFENHpzYm5FTUhoY2RlZUp3UmJoMWZaN3NhQ3hDMVdGWFMtTU9PT0pja3ZVSEQ3WVA5Z3ZEZkhROGM?oc=5",
+      "link": "https://ichannela.com/news/detail/000000559973.do",
       "source": "채널A",
       "published": "2026-11-14T17:56:00+09:00"
     },
@@ -1366,7 +1473,7 @@
     },
     {
       "title": "사고사실 몰랐나, 사고 처리 미흡했나…음주운전 고경표, CCTV 공개에 커지는 논란",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uVDFmOGwwOEM1LUFpc0JjUTYyYWFoZm5KRzdBT0xXRUltRWk3YTFlUk0wbVVTa2t4OThqcktXbjNQN3N4WndhcjVWeVRfZXhVdmJsOW5VZ3RCVUp2NVHSAWNBVV95cUxQMVlLaTh0bWZLZTNGQkdiSGVmQ0tfeEVNSHowRHZ3Ml9nZGRYVVZ0RnRVNENmQjVETjAtXzdubVRTQlVqZlBidWp3eEFoT3lHN3J2VW1JaTdMU3FRZ1JPNld0cnM?oc=5",
+      "link": "https://sports.khan.co.kr/article/202611141739003",
       "source": "스포츠경향",
       "published": "2026-11-14T17:39:00+09:00"
     },
@@ -1384,7 +1491,7 @@
     },
     {
       "title": "음주운전 재범 막고 피해자 보호 강화… ‘유연수법’ 입법 서명운동 나선다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYm9FckRhRTI1cnRkQ1pqakNwWGpCYUVTbDFzT2FnMmFoMTEwUFRSQmFOMmFzelRIbTZMMUZneHV0eEVWWTY5SDlXbENkOHpTRjF1V3lEMUxvNmRWN2QtT0ZrR3dBQ20t?oc=5",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=243153",
       "source": "한국NGO신문",
       "published": "2026-11-14T17:38:00+09:00"
     },
@@ -1421,9 +1528,10 @@
     },
     {
       "title": "“음주운전 안 돼요” 만취 운전 고경표, 과거 발언 재조명",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16UnZzRWVURGlvWVUza1ZpbnhWakVSZGxYVmZOYloxYVRpN2sxSlRvYVM5OWtOaUpGVnBwdHBSSmUteWtBaXpzblRyYllkdE5C?oc=5",
+      "link": "https://www.munhwa.com/article/11631283",
       "source": "문화일보",
-      "published": "2026-11-14T17:23:11+09:00"
+      "published": "2026-11-14T17:23:11+09:00",
+      "summary": "배우 고경표(36)가 혈중알코올농도 면허 취소 수준으로 운전하다 청소차를 들이받는 사고를 내면서 과거 교통사고 예방 홍보대사로 활동할 당시 음주운전을 경고했던 발언이 다시 주목받고 있다. 14일 도로교통공단에 따르면 고 씨는 지난 2023년 3월 13일 공단의 교통사고"
     },
     {
       "title": "고경표 음주운전 여파에 방송가 ’비상’…출연 예능 줄편집",
@@ -1474,6 +1582,12 @@
       "published": "2026-11-14T16:50:34+09:00"
     },
     {
+      "title": "‘음주운전’ 고경표…사고 직후 CCTV 장면 포착",
+      "link": "https://news.jtbc.co.kr/article/NB12328097",
+      "source": "JTBC",
+      "published": "2026-11-14T16:45:50+09:00"
+    },
+    {
       "title": "‘만취 사고’ 고경표, 3년 전 “음주운전 안돼요”…홍보대사였다",
       "link": "https://www.joongang.co.kr/article/25478627",
       "source": "중앙일보",
@@ -1487,7 +1601,7 @@
     },
     {
       "title": "“음주운전 안 된다”던 고경표, 만취 사고 순간 CCTV 공개",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5QUlUODg0OVRYZl9qUnNoMmx6SlhaY19wVDhFWHgyRXRzSFZFS3NPdlR3TlZCc0s0anFLbWsxUzh2NjV5OTh1TGl1NVBDaW9f?oc=5",
+      "link": "https://www.munhwa.com/article/11631280",
       "source": "문화일보",
       "published": "2026-11-14T16:43:00+09:00"
     },
@@ -1499,19 +1613,19 @@
     },
     {
       "title": "고경표 음주운전에 '대탈출'도 분량 조정…\"한계있지만 재편집\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ib09tTTBxQ0NUUU9fcHJSTkh4eHlsWlhKVXJsNnllVmFtWnp0Y0dBcjFfV0tDYm1pdEowajM4UHQwVklDd3ZGdjFJWFNja1ZTNFVVTVVlcUVKWmp1TGoxVtIBeEFVX3lxTE5ENnJneFh5b1NodjYyR0E1TkY0UUJyckZWdEdwd1M2NjdjS1Uwb0s1ZXNHVlIteEUwRDJXSnFSOE5kb2ZOWVJ1RUcyZU9zNkkwZzdWZnlMcGc0WEdXMVJXcXB3T25GSXRTVTJja2tsYWRhcUtua3JBNg?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261114_0003868123",
       "source": "뉴시스",
       "published": "2026-11-14T16:39:49+09:00"
     },
     {
       "title": "전북 장수서 모닝 차량 전도…운전자 음주운전 적발·3명 부상 [세상&]",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKaVRzS0liNThkSWJIT3JsYkhRX3FhQ2lCdlM5VXZRVzhDNDhXMlpFY3F6VFNsazdwVFplTTRHRzByaUtSUUxIMnZ4dFI5NkFxa1FaQXBn?oc=5",
+      "link": "https://biz.heraldcorp.com/article/10937068",
       "source": "헤럴드경제",
       "published": "2026-11-14T16:39:24+09:00"
     },
     {
       "title": "고경표 음주운전 불똥… 출연 예능 '놀뭐'·'식스센스'·'대탈출' 편집 비상",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nU2wxUjFUODlLejFhUWRuMWlLRWtoVnQwSlltUnZYUTlMRFhCNVdnWlM2VDBwNm8wczF0MGRGUE9RWGw3LWxvYXoxNlA5VHpPTUJvX1p2ekpCMjJCX0xUdXQyVmU2QjRfNHc?oc=5",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=729307",
       "source": "www.hidomin.com",
       "published": "2026-11-14T16:34:55+09:00"
     },
@@ -1522,8 +1636,14 @@
       "published": "2026-11-14T16:32:00+09:00"
     },
     {
+      "title": "현금 대신 스피커…경찰 기지로 보이스피싱 수거책 잡았다",
+      "link": "https://www.edaily.co.kr/News/Read?newsId=02755206645645720&mediaCodeNo=257",
+      "source": "이데일리",
+      "published": "2026-11-14T16:30:22+09:00"
+    },
+    {
       "title": "고경표 음주사고 직후 CCTV 공개…환경미화원 황급히 뒤쫓았다",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XLWpibUJoaXJwb29oeGpYYnROVEVTVkZBaDlSWkpCalB5Y2hKdmF6cm5YUXlXOEdoRUJIeXBMTlpSNGtkX2tfOWhueWxZV1U5Mmw0SUxCWDBkYXF1N21sV9IBeEFVX3lxTE96VzNkMlk0aVBXdjVGOVBkZllYUlZsUm40YVVnM3RKZjZGZzlQUG9yb0F5bWE4c2hZSG16SjU3d0kyZXQ5a3ljOXZIUnZrdy1ETGQ2ZlNRT3Z6OGZaS0dPYVdoUl9uc1VOb3BKZmhXbjBtR3V5WFlqUQ?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261114_0003868145",
       "source": "뉴시스",
       "published": "2026-11-14T16:26:59+09:00"
     },
@@ -1535,9 +1655,10 @@
     },
     {
       "title": "장수서 음주운전 모닝 전도…70대 등 3명 부상",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdVZpelRJWjhibS15dlhTQ29hamNmTG9LMzNqWURneGN0aUlXMlNsQmgtcnJMWE5FUUtsV3ZvUERPd2hGRVIzWXAtY1UzZkpmMndQWnMwSVdyZTJjZXJIRXVUWWk1ZlZpZlE?oc=5",
+      "link": "https://www.theonetv.kr/news/articleView.html?idxno=255177",
       "source": "OBC 뉴스",
-      "published": "2026-11-14T16:14:26+09:00"
+      "published": "2026-11-14T16:14:26+09:00",
+      "summary": "전북 장수군에서 술을 마신 50대 운전자가 몰던 경차가 도로에서 옆으로 넘어져 70대 동승자 등 3명이 다쳤습니다. 경찰 조사 결과 운전자의 혈중알코올농도는 면허취소 기준을 넘었던 것으로 확인됐습니다.14일 경찰과 전북특별자치도소방본부에 따르면 이날 오전 10시 3"
     },
     {
       "title": "배우 고경표, 만취 운전하다 청소차 충돌… “깊이 반성”",
@@ -1547,7 +1668,7 @@
     },
     {
       "title": "\"삼촌 이름 강인 아니야\"…음주운전 두 번에 개명까지 고민",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTWEzWGRsWGdTNW5UUkhQczF1ZlZyaXk5aGpkaXdqWTdVejAxZVYzcUI0OUtVOEhYVmlDWENxNW56al9aTDNhcUloaHRDaEdtd2xydFNrQXFQOHQ4Q1ZVVlJtS0NNZklGMjZfSEFLTnktMXPSAXhBVV95cUxNemxhWndsTTB1X3RYWFBKWXVDRXpNWklZYVZ1Zm1HUmx0N2RhUURYMjl3d2huUVFLSEZlRkpaZUxwbTNodnNNQnE0bjY2U0VCVldncXJodHI0TDJTZDdzSTBKamc4OXFvbnJTMG83ekppUHJ4b2Z1YnQ?oc=5",
+      "link": "https://www.mt.co.kr/entertainment/2026/11/14/2026111415303636941",
       "source": "머니투데이",
       "published": "2026-11-14T16:09:47+09:00"
     },
@@ -1589,7 +1710,7 @@
     },
     {
       "title": "배우 고경표 음주운전 사고에 방송가 비상…‘놀뭐’·‘식스센스’ 출연분 편집",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xV0tWU1NseTNnLU5YN2FzdzFFZFBGUTVHQVAzUEpIakM1U2FpVVY0TTU4MXNjbDJseV9KeC04VmM1WjhlZHZDdmR4Vl82eGNHVlJyQTFld0RPTTd4RDRQMkY5RE5JTVpRYXJVZ0JuUQ?oc=5",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000082645",
       "source": "진일보 | 전남일보",
       "published": "2026-11-14T15:16:15+09:00"
     },
@@ -1620,7 +1741,7 @@
     },
     {
       "title": "강인, 음주운전·폭행 시비 논란 언급 \"잘못된 것…미친 애였다\"",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54TnZmcTRySDZoMzg5RlBFMVZrNHpOUTZEYzhQWjRRY040NVRLX0xmYjFBUm5laThJOUtZbExENkxLblRvb3ViNGk1WVRTbVlBTFFoOFVFNkxNS0NQRzRYWkIyZHY?oc=5",
+      "link": "https://www.news1.kr/entertain/celebrity-topic/6354057",
       "source": "뉴스1",
       "published": "2026-11-14T15:11:07+09:00"
     },
@@ -1633,7 +1754,7 @@
     },
     {
       "title": "고경표 사고 내자 환경미화원 뒤쫓았다…음주운전 CCTV 공개",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mUF9TMWlRQTZLY1BFUlRWWE95elprSHl3bWF4LW1lQWJrdERMcTJORnNwZnM5VlNQMExFRlczMUNCVFdpSXlvaHFMdlNTRlJnRENYc2VZOEM?oc=5",
+      "link": "https://www.mk.co.kr/news/hot-issues/12208868",
       "source": "매일경제",
       "published": "2026-11-14T15:06:43+09:00"
     },
@@ -1657,7 +1778,7 @@
     },
     {
       "title": "“최대한 덜어내겠다”…고경표 음주운전에 ‘대탈출’도 긴급 재편집 [공식]",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nSC16TFFvTUx1U2JIQjFHTl9QdzQwOV80d19ReExDLTF5MGxXYXpoWTdmWkgxel9FNHFLYXdPcDJqdjU0MjRiLVNhTTUxN2F1ZWJmUlhldHFHWENMTWVGWXplMnJmUQ?oc=5",
+      "link": "https://www.mk.co.kr/news/broadcasting-service/12208865",
       "source": "매일경제",
       "published": "2026-11-14T14:50:55+09:00"
     },
@@ -1669,7 +1790,7 @@
     },
     {
       "title": "‘고경표 음주운전’에 유재석·박보검도 불똥…예능 종횡무진 중 터진 악재에 줄편집",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zc3BHWDBCb19qbnhiMWxKemhsRkZKQ0Fsb0I3N0F1ZzFDeUUxbjUtR2pWQWJrZEMxVDFtZjd2RjFhWWIwQmxRd3hxbjdDRElWSlNjY2V3?oc=5",
+      "link": "https://biz.heraldcorp.com/article/10937019",
       "source": "헤럴드경제",
       "published": "2026-11-14T14:43:58+09:00"
     },
@@ -1694,9 +1815,10 @@
     },
     {
       "title": "[종합] “음주운전 안 된다”더니…고경표, ‘tvN의 아들’에서 tvN 최대 악재로 몰락",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FSFBuTFp0V01tZGV1NUtUbmp6cFFabEFKZ3NVLUhRRXEzVFZDUE5vX0JYUzRydGNPeHpweXZ2U1BrTFZNS1JLUXA5RldKTUlLdzh5dEpaVWxKS05xVnfSAWNBVV95cUxOWGotY2hYMmRTRXhOenhKd3MyZFF3aFNSa3NQampkblhodENnQzZYZ1hDZG5LNkVtSEdUeEJ3b3IwSkE4OTZsYkhUSGlxaml4RmtCM1FEaUxVWURWMUdDbFB4dkk?oc=5",
+      "link": "https://sports.khan.co.kr/article/202611141429003",
       "source": "스포츠경향",
-      "published": "2026-11-14T14:29:00+09:00"
+      "published": "2026-11-14T14:29:00+09:00",
+      "summary": "배우 고경표가 십수 년간 쌓아온 신뢰를 한순간에 잃었다. 14일 고경표가 이날 새벽 3시 30분쯤 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈다는 소식이 전해졌다. 음주 측정..."
     },
     {
       "title": "\"장동혁 암살하겠다\" 협박미수 20대 경찰 조사",
@@ -1724,7 +1846,7 @@
     },
     {
       "title": "고경표 음주운전 후폭풍…예능가 출연분 줄줄이 편집 돌입",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VbHBKLUZNMGJCRnZ2SnZnWTRZc0V3cTBOMG54alN1bmhKTk9hTFVOTVhaUjZ5ZFoyZGFCSlo4OHRGMHl2NlFDTWtPYnhhTlVXTEN6dy1FaFJuMnBnb3hJb29R?oc=5",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=919498",
       "source": "경기신문",
       "published": "2026-11-14T14:21:19+09:00"
     },
@@ -1870,7 +1992,7 @@
     },
     {
       "title": "놀뭐·보검매직컬2·대탈출 어쩌나…고경표 음주운전에 예능 ‘직격탄’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HdXpNOGxITnB2RE9YdGR4WGpJZmY0MTVza1Y0SXU1WllkVlp6cWp1TnoxWVc2RGhGeXIwcENaakhJMGt1Z3ZDQUdlUUVvTmIxVHl0Sg?oc=5",
+      "link": "https://www.mk.co.kr/news/culture/12208850",
       "source": "매일경제",
       "published": "2026-11-14T13:15:11+09:00"
     },
@@ -1901,7 +2023,7 @@
     },
     {
       "title": "배우 고경표, 음주운전 중 청소차 추돌…“처분 겸허히 받아들일 것”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvVzlWNENtWEhnajgwY1hfSkk0QjFBaHZrQmI3Ulc2V1N1UG9rMGV0dDhXWnRRYWZydGMwZ0tNNW1xT3JRa1pEUUxndjRvQ252bkFrRjdtTGo5aDQwa19wYlJ2S19lVUtBWUpZQnJ2QdIBc0FVX3lxTE9mVHdXZHBhMTgtT3ZLQ2ZiRlhPdnhpLV9qY1BKd1lEYWt3WlpUWl85VFpTSVM1enJZanoyWXR6MXQwS1FDY3N3S2NOZlhNMTY0cV82X1FIMHdtUnBOdFhxVzczTGlXY3oxMlZlUEY4aUZISnc?oc=5",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=394014",
       "source": "시사저널",
       "published": "2026-11-14T12:54:05+09:00"
     },
@@ -1925,7 +2047,7 @@
     },
     {
       "title": "고경표, 만취 음주운전 사고…청소차 들이받아 “깊이 반성”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YSlRRU3lsZ3BBcEtVenhPUWpfOUhrZUdtNFpNSGlsTVVvbGpPdFhqLUF5a2xFbTJSQ2w3N3d4azVvWTI0ZDBad3hnQ0ZkMkM3b1hjakFR?oc=5",
+      "link": "https://biz.heraldcorp.com/article/10936984",
       "source": "헤럴드경제",
       "published": "2026-11-14T12:43:26+09:00"
     },
@@ -1971,7 +2093,7 @@
     },
     {
       "title": "배우 고경표, 음주운전 중 청소차 충돌…면허취소 수준",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11WlhfUmtaT2I5ampnNlRIOU51VjQyem0tYm9BbGxJNzRlUC1OaFZybGE0aTBDUG91Vk00VldzajZOenc2MGVVN2U3QUV4dXhIZ0RFenNoUE1NUlRNMTM4RlZLRkRXaVVKWW1hT1BzUHg?oc=5",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194646",
       "source": "위키리크스한국",
       "published": "2026-11-14T12:02:30+09:00"
     },
@@ -1983,13 +2105,13 @@
     },
     {
       "title": "고경표 음주운전 여파…'놀면 뭐하니?' 측 \"최대한 편집\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54UzQ3WmpYeG9XT2V5WGZtWjJodGI5dDFYNEZucTFoQUZPM3FoWnpnTmlUQXBKdnVCajBhcWlxX0QxbWM4TnQ2eWdOOWQ5YzNWTXJ2VU9zdnBFc3BQdlpoNdIBeEFVX3lxTE91bnFyUEZwWnZXU0VDeDZpczFETjFvWWFUVWFWNi1KMUxKbHJfYTRyY3FrMHJ1Q0V3bEhHbE5oQlBKV1Z0LVQwZzhkUWE2M0RJVG1BdldpQzBSRmlPeW1tdEJuUElTS094aVJqd0FqcmticmRveHJ5cg?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261114_0003868056",
       "source": "뉴시스",
       "published": "2026-11-14T11:51:51+09:00"
     },
     {
       "title": "“성매매 영상 유포하겠다” 보이스피싱 자금세탁책 실형",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Edmt5Vy1feWR4dmNQTC1pSzh1Y1lZdWpHTGNTdFJFNHhLZ3EwYkJiSnJCTlk1Nmw1OHFHcE0zLTQyU24wV2xlaVVzcURtWGQ3bWFEbUdrYUVmTUc4a1pOLdIBeEFVX3lxTE9mM2RuOHR2cW1rVFJ4MEZWVDIzS3paM1VySWhqRzZiZFBvYzFRNVZTRWVfRmpnZW0zbzBrNW5vejU3V0l4aEhfY1RrZWdVS29jQ1pmVHlPMV9oNVJQRGZVd1N6N2FHbmYwOTVveTl3WUdMOEF2YlhLNw?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261114_0003868058",
       "source": "뉴시스",
       "published": "2026-11-14T11:40:18+09:00"
     },
@@ -2001,8 +2123,14 @@
       "summary": "전북 부안의 한 갯벌에서 남성 시신이 발견돼 해경이 조사에 나섰다. 14일 부안해양경찰서에 따르면 이날 오전 9시 39분께 부안군 진서면 청자로 아쿠아팜 앞 갯벌에서 남성이 숨진 채 발견됐다는 신고가 접수됐다. 앞서 전날 오후 6시께 부안경찰서에 실종신고가 접수됐..."
     },
     {
+      "title": "배우 고경표 ‘음주 교통사고’…면허 취소 수준",
+      "link": "https://news.jtbc.co.kr/article/NB12328065",
+      "source": "JTBC",
+      "published": "2026-11-14T11:22:04+09:00"
+    },
+    {
       "title": "고경표 음주운전에 예능 비상…'놀뭐'·'대탈출'·'보검 매직컬2' 직격탄",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MTEljUllMbkwxUnJYWG9yUFVNaUNqaWduVlhJeDNMVTd5WXpqSzNPSS0xS2Nmc2c0TDdjYnpVM01uVm1odW9KUzBSaVlGOFF1RjhhNDFsX3Z4YWdyRkNhRNIBeEFVX3lxTFBSbVdXa00zWG11ZVJib3VPbEU3OENmOVRLNklTb24tS0VseDloeFI2bjQtRC10UmlyODA0VVp3SzI4dXFQTnZvTGV0Q0RDWjZRYVRndmppWWgxTHVCY3hURWxIeFF3MXMwMXRZemhlOVNQZTZ2dC1jLQ?oc=5",
+      "link": "https://www.newsis.com/view/NISX20261114_0003868031",
       "source": "뉴시스",
       "published": "2026-11-14T11:17:34+09:00"
     },
@@ -2020,7 +2148,7 @@
     },
     {
       "title": "배우 고경표, 만취 음주운전 사고⋯ “처분 겸허히 받겠다”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pQWlseGRYVWhUTTgxckJVOGRwQ0NSRmU5cF9kYkVSUERuQWdpWFp6dGtSZi10LW92SG1wMkR3RFNVUDM1UXpQSVIxRlVSVEZaSEx1OExaa0s?oc=5",
+      "link": "https://www.kmib.co.kr/article/20261114500030",
       "source": "국민일보",
       "published": "2026-11-14T11:11:23+09:00"
     },
@@ -2063,13 +2191,13 @@
     },
     {
       "title": "[속보] 배우 고경표, 만취 상태 음주운전 중 청소차 들이받아… “깊이 반성”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjdnhHWnFXUjVhblM1M0tOYmZ0ZGIyWDJwVndfdmoyWERRbEdBVl9YTjVCY2lVRGFTVlAxcUlnYTJ1QlBWSnJ1cWFrZ1BIdFlHblRETXBmZHpUOUhVR0lsb0NXQ2pxbjB2UXlxcG5Qb3YtbEZk?oc=5",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026111410381100364",
       "source": "부산일보",
       "published": "2026-11-14T10:39:45+09:00"
     },
     {
       "title": "배우 고경표, 음주운전 사고…청소차 들이받아",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ldkR1ZnFwUXFvV2d1b3pZU2F2S0RCUUwyS3dsS21qZFNkdFQza2FfYXRDbHZDa05jNzlhU05hbGN2OHFzOHRmYTdjRWhuRmhVYzI1WDJsYlliZEdkQVHSAWNBVV95cUxPT1FzQ0MwUU85d1c2eENHYjVMMTNhLVhJejR1ZWpOVVptM2lJQ09HSk44aHFjRndiYUgzOHBCNGxzRnF2aDdsZWhRMHZaY0Nja294RVY5aVlyZmRkQVN0WTY2SFU?oc=5",
+      "link": "https://ichannela.com/news/detail/000000559940.do",
       "source": "채널A",
       "published": "2026-11-14T10:38:00+09:00"
     },
@@ -2093,19 +2221,19 @@
     },
     {
       "title": "배우 고경표 만취 음주운전...청소차 들이받아",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xYWl4VnhfN1k2UWxGSDRvc2lzanRDVWh0SEpMdTZoSmVlVlJxLUNKcndzLUJ0VEpkbGxhMVFtVEl6YV9YVDk1cGhkRkVuSVo2LXY4WUNtSUNFMWZSRVE?oc=5",
+      "link": "https://www.ytn.co.kr/_ln/0103_202611141034202386",
       "source": "YTN",
       "published": "2026-11-14T10:34:00+09:00"
     },
     {
       "title": "'새벽 만취 음주운전' 고경표, 청소차 들이받아…\"면허취소 수준\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPQnFFMU1UTHZsaTRnaXUzcTRJWXFwNzJ5MUpxSXJmTGlObzdvckdtelJJaWd3UXBGd00tbTJxc2xKdWhHd1daRXRaQlo1NHNWQmtNUkZROHNNeVg5V3p5Qg?oc=5",
+      "link": "https://www.asiae.co.kr/article/2026111410322276300",
       "source": "아시아경제",
       "published": "2026-11-14T10:32:22+09:00"
     },
     {
       "title": "‘놀면 뭐하니?’ 오늘 방송인데 날벼락…고경표 음주운전에 “불편함 없도록 편집” [공식]",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6bG9qRUhidi1wS0lhVzdUa3U2VHlocGFob29Na2tLM2stWHZIVnZ1M0oteHZKTC1ZTDVrMlBhZHktblpFMnVHRjc5dmxocHVyNWdJZG1jSWdjY01xV2NlOVJMNTdvdw?oc=5",
+      "link": "https://www.mk.co.kr/news/broadcasting-service/12208820",
       "source": "매일경제",
       "published": "2026-11-14T10:29:06+09:00"
     },
@@ -2123,9 +2251,10 @@
     },
     {
       "title": "배우 고경표, 만취 운전하다 청소차 충돌…“잘못 인정, 깊이 반성”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CS2VwU2RZY1ZLemt4UjJaRm8zaW9WdHBWc083aHNMUXZNSzJTWkxZY0xwZTZSY2FManRvNWdQSDh4SzRmRk1QZXlHYWk4WklKMUlpbWtaT0JMdUE?oc=5",
+      "link": "https://www.kwnews.co.kr/article/20261114500021",
       "source": "강원일보",
-      "published": "2026-11-14T10:25:54+09:00"
+      "published": "2026-11-14T10:25:54+09:00",
+      "summary": "배우 고경표씨가 만취 상태로 운전하다 청소차를 들이받는 사고를 내 경찰 조사를 받고 있다. 고씨는 소속사를 통해 음주운전 사실을 인정하고 피해자와 팬들에게 사과했다. 14일 서울 마포경찰서에 따르면 고씨는 도로교통법상 음주운전 혐의로 조사를 받고 있다. 고씨는 이날 오"
     },
     {
       "title": "경찰, ‘이재명 대통령 무고 의혹’ 박상용 검사 사건 공수처로 이첩",
@@ -2160,7 +2289,7 @@
     },
     {
       "title": "양평축협 용문지점 보이스피싱 막아...양평경찰서 감사장 전달",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YaWwwWGZDb0FYdkgyMzBOSlMtVG5Nb1gyRTFOeWU4TFN2ZGJpbmIwVTUxX0RjdGYwQXFZY2ltRjVveFNlN2piVHRyd2FrbEFyeG9DblFPTEFEa2ZYMlB3ZFpacnBka00?oc=5",
+      "link": "https://www.ypsori.com/news/articleView.html?idxno=40156",
       "source": "양평시민의소리",
       "published": "2026-11-14T10:18:58+09:00"
     },
@@ -2172,7 +2301,7 @@
     },
     {
       "title": "배우 고경표 음주운전 중 청소차 들이받아…면허취소 수준",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PckZWc0RXdWtXcEI5ZjdzTloxWVdhRGdXODlMdWlPX2VzbnlydC12SHBzXzl4LVhSdjRpNWN3VzlUVE9EVGNRX08zZm5VZEoxdW52ajlrb19ZLWvSAWBBVV95cUxNVHFKQTJ3cWZSOXdfc0NibFhsOHJsYzd0Um5SdkxvLTdmZjl5T3dyZDlNanVKZFdUUVRwYU56d0xuNUd0UmFvRWYzTWRISHFHaWJ6ZnlpbDFTeFpRNmx6QmY?oc=5",
+      "link": "https://www.yna.co.kr/view/AKR20261114025000004",
       "source": "연합뉴스",
       "published": "2026-11-14T10:15:24+09:00"
     },
@@ -2190,13 +2319,13 @@
     },
     {
       "title": "고경표, 새벽 만취 음주운전 청소차 들이받아…소속사 \"심각성 무겁게 받아들여\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LSmpyMmZZRml5WHVuSmxQOUR4aUstLW04enBxTmRIZjNnZUcyRHJOaFc0dm5odmZqcXdwRmU2Zk5KRXRnT0tjaHhpYk1JWEpjdmhhOWlvcXNuUQ?oc=5",
+      "link": "https://www.fnnews.com/news/202611141001165611",
       "source": "파이낸셜뉴스",
       "published": "2026-11-14T10:13:40+09:00"
     },
     {
       "title": "고경표, 음주운전 공식 사과 \"잘못 인정하고 반성...책임다할 것\"[전문]",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QeVJIRjdnb3B4WmN1Mkwxd3lDUTBPSnljV056NlRLRldWTGJHb0ZrWEhzMXZQQjRsSkNpRG5SSDdtbXRaUG5tMl9teUE1aVExMnI4dV8wdzJ5dVR4Z1Y3Zlc3YTE0R1pZMEVRV0FzQjg?oc=5",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019773",
       "source": "SPOTV NEWS",
       "published": "2026-11-14T10:11:49+09:00"
     },
@@ -2227,7 +2356,7 @@
     },
     {
       "title": "고경표, 새벽 음주운전 사고에 고개 숙였다…“깊이 반성”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94ekZmS1ZETlBrNkRMZjIxcEZtOWU5Vm8wYjlFRUExbjF4Tl9UT2h0Tjh1ejdxbHNobjZJOWxtb1JPNnFZMHh4Y0ZwbFZRdEV3aWE0SQ?oc=5",
+      "link": "https://www.mk.co.kr/news/society/12208813",
       "source": "매일경제",
       "published": "2026-11-14T10:06:51+09:00"
     },
@@ -2246,7 +2375,7 @@
     },
     {
       "title": "배우 고경표, 새벽 3시 '만취 음주사고'…박보검까지 '날벼락'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PT0hiSTFiSFY0VWFWSW9Ma19ha2xqLUhieUVkR2xrMGlBa0dWa0NFaXJOTllPZlJsTXlVa3FQMC0xSGoxaVRxTWpmYTI5aUo0S0pjNzJtVk94Zw?oc=5",
+      "link": "https://www.hankyung.com/article/2026111463217",
       "source": "한국경제",
       "published": "2026-11-14T09:54:47+09:00"
     },
@@ -2270,9 +2399,10 @@
     },
     {
       "title": "고경표, 음주운전 사고…청소차 들이받아",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4RHp2VW5qVjlvdGltLW9ZeDNvanJtdGRFTkVfeEFlVnYyVWR1RWdSdVV5c3FnVzIzTUllMVdsLXVIT1c5WmFHNzlUNzBWcG5kYVVKMA?oc=5",
+      "link": "https://www.mk.co.kr/news/society/12208807",
       "source": "매일경제",
-      "published": "2026-11-14T09:47:42+09:00"
+      "published": "2026-11-14T09:47:42+09:00",
+      "summary": "배우 고경표가 음주운전을 하다 교통사고를 내 경찰 조사를 받고 있다. 14일 연합뉴스에 따르면 고경표는 이날 오전 3시 30분께 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 도로를 달리던 청소차와 충돌했다. 사고 직후 현장에 출동한 경찰이 음주 측정을 진행한 결…"
     },
     {
       "title": "배우 고경표, 만취 운전 중 교통사고…청소차 들이받아",
@@ -2293,11 +2423,24 @@
       "published": "2026-11-14T09:33:28+09:00"
     },
     {
+      "title": "[속보] 고경표, 만취 음주운전 교통사고 적발…면허 취소 수준",
+      "link": "https://sports.khan.co.kr/article/202611140933003",
+      "source": "스포츠경향",
+      "published": "2026-11-14T09:33:00+09:00"
+    },
+    {
       "title": "[속보] 고경표, 음주운전으로 청소차 들이받아..면허취소 수준",
       "link": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MQ2DEMZZGRQTSYRXMNTDIMDGMQ/",
       "source": "조선일보",
       "published": "2026-11-14T09:23:00+09:00",
       "summary": "배우 고경표가 14일 새벽 서울 마포구에서 음주 운전 중 청소차를 들이받는 사고를 냈습니다. 경찰 측정 결과 혈중알코올농도가 면허 취소 수준임이 확인되었으며, 경찰은 현재 정확한 사고 경위를 조사하고 있습니다."
+    },
+    {
+      "title": "[단독] 배우 고경표 음주사고…면허취소 만취상태",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261114090256cw8",
+      "source": "연합뉴스TV",
+      "published": "2026-11-14T09:20:00+09:00",
+      "summary": "배우 고경표씨가 만취 상태로 음주사고를 내 경찰 조사 중입니다. 경찰 등에 따르면 고씨는 오늘(14일) 오전 3시 반 쯤 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈습니다. 음주측정 결과 고씨의 혈중알코올농도는 면허 취소 수치가 나왔"
     },
     {
       "title": "빗길 제주 곳곳서 교통사고 잇따라…6명 부상",
@@ -2340,9 +2483,10 @@
     },
     {
       "title": "양평경찰서, 보이스피싱 예방 축협직원에 감사장 수여",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NejNKLXN1WllaWVBPUFZVSjEwQU5ibTVxZzhPQW9YQkJsczZPaFJlSXlURWtqVWxSazFZWE80aWhycFRSaVF3NWZpNk9uT1VrOEJIVXE2dklxeGYtdXJsSkRR?oc=5",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=919424",
       "source": "경기신문",
-      "published": "2026-11-14T08:10:09+09:00"
+      "published": "2026-11-14T08:10:09+09:00",
+      "summary": "양평경찰서는 12일 오후 4시에 보이스피싱 피해를 막은 용문면 축협 직원 A씨에게 감사장을 전달했다. 지난 9일 용문면 축협을 방문한 70대 어르신이 3000만 원을 인출하려는 과정에서 인출 목적을 명확히 밝히지 않고 휴대전화 확인에도 경계하는 모습을 보이자, 이를 수…"
     },
     {
       "title": "“사고 나도 원인 모르고, 쓰레기 쌓여도 대책 없어…서울시설공단 도로관리 총체적 부실",

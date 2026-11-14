@@ -1,13 +1,35 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T07:56:25.824069+09:00",
+  "generated_at": "2026-11-15T08:48:28.122498+09:00",
   "topic": {
     "id": "stock",
     "label": "주식",
     "emoji": "📈",
     "title": "주식·증시 기사 스크랩"
   },
-  "weather": null,
+  "weather": {
+    "location": "서울",
+    "days": [
+      {
+        "date": "2026-11-15",
+        "min": 7,
+        "max": 16,
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-11-16",
+        "min": 6,
+        "max": 16,
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-11-17",
+        "min": 9,
+        "max": 14,
+        "emoji": "🌧️"
+      }
+    ]
+  },
   "top_issues": [
     {
       "title": "뉴욕증시, 엔비디아發 반도체주 급락…나스닥 0.91% 하락",
@@ -62,6 +84,20 @@
       "summary": "구다이글로벌 CI. [사진=구다이글로벌][디지털데일리 유채리 기자] ‘조선미녀’와 ‘스킨1004’ 등을 보유한 구다이글로벌이 코스피 상장을 위한 심사 절차에 들어갔다. 13일 한국..."
     },
     {
+      "title": "'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시",
+      "link": "https://www.yna.co.kr/view/AKR20261113177200008",
+      "source": "연합뉴스",
+      "published": "2026-11-15T06:00:05+09:00",
+      "latest": "2026-11-15T08:30:00+09:00",
+      "mention_count": 3,
+      "sources": [
+        "연합뉴스",
+        "매일경제 마켓",
+        "디지털투데이"
+      ],
+      "summary": "인공지능(AI) 투자 둔화 우려가 가시기도 전에 젠슨 황 전 엔비디아 최고경영자(CEO)의 불륜과 해임이란 대..."
+    },
+    {
       "title": "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등",
       "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040901",
       "source": "기호일보",
@@ -74,20 +110,6 @@
         "데일리25"
       ],
       "summary": "2026년 11월 둘째 주 글로벌 금융시장은 한국과 미국 증시가 동반 반등한 가운데 국채금리와 달러가 큰 폭으로 상승하는 엇갈린 흐름을 나타냈다. 국내 증시는 전"
-    },
-    {
-      "title": "장동혁 \"李, 주가조작범 잡았다고 자랑…조작탈옥범에 도피처 없어\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2313508",
-      "source": "대전일보",
-      "published": "2026-11-14T12:06:00+09:00",
-      "latest": "2026-11-14T18:42:53+09:00",
-      "mention_count": 3,
-      "sources": [
-        "대전일보",
-        "경기일보",
-        "천지일보"
-      ],
-      "summary": "장동혁 국민의힘 대표는 범LG가(家) 3세 구본현 씨의 검거 소식을 두고 이재명 대통령이"
     }
   ],
   "sections": [
@@ -109,17 +131,18 @@
           "summary": "한국 화장품 산업이 미국 등 각지에 진출하는 이른바 K-뷰티 바람이 불고 있는 가운데, 월스트리트에서는 한국 뷰티 기업에 집중 투자하는 상장지수펀드(ETF)가 새"
         },
         {
-          "title": "'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시",
-          "link": "https://www.yna.co.kr/view/AKR20261113177200008",
-          "source": "연합뉴스",
-          "published": "2026-11-15T06:00:05+09:00",
-          "latest": "2026-11-15T07:00:00+09:00",
-          "mention_count": 2,
+          "title": "유가 하락이 증시 반등 기회될까…문제는 내년 하반기[주末머니]",
+          "link": "https://core.asiae.co.kr/article/2026111214381621860",
+          "source": "아시아경제",
+          "published": "2026-11-14T15:12:00+09:00",
+          "latest": "2026-11-14T17:38:40+09:00",
+          "mention_count": 3,
           "sources": [
-            "연합뉴스",
-            "매일경제 마켓"
+            "아시아경제",
+            "뉴시스",
+            "파이낸셜뉴스"
           ],
-          "summary": "인공지능(AI) 투자 둔화 우려가 가시기도 전에 젠슨 황 전 엔비디아 최고경영자(CEO)의 불륜과 해임이란 대..."
+          "summary": "내년 상반기에는 인플레이션이 지금보다 개선되면서 증시 반등 기대감이 커질 것이라는 전망이 나왔다. 14일 KB증권은 '2027년 전망' 보고서를 통해 최근 국제유가가 하락하면서 내년 상반기 인플레이션 상황이 현재보다 개선될 가능성이 높은 것으로 진단했다. 보고서는 최근…"
         },
         {
           "title": "‘젠슨 황’ 사임에 코스피도 안갯속…엔비디아 실적, 반등 가를까[선데이 머니카페]",
@@ -186,19 +209,6 @@
           "summary": "엔비디아 주가가 6주 연속 하락하며 시총이 3조 9000억달러로 감소했습니다. 경영 공백 우려가 커지는 가운데 HSBC는 투자의견을 하향했습니다. 반도체주 전반이 동반 약세를 보인 가운데 오는 17일 발표될 3분기 실적이 향후 시장 향방을 결정할 중요한 변수로 떠올랐습…"
         },
         {
-          "title": "유가 하락이 증시 반등 기회될까…문제는 내년 하반기[주末머니]",
-          "link": "https://core.asiae.co.kr/article/2026111214381621860",
-          "source": "아시아경제",
-          "published": "2026-11-14T15:12:00+09:00",
-          "latest": "2026-11-14T17:38:40+09:00",
-          "mention_count": 2,
-          "sources": [
-            "아시아경제",
-            "파이낸셜뉴스"
-          ],
-          "summary": "내년 상반기에는 인플레이션이 지금보다 개선되면서 증시 반등 기대감이 커질 것이라는 전망이 나왔다. 14일 KB증권은 '2027년 전망' 보고서를 통해 최근 국제유가가 하락하면서 내년 상반기 인플레이션 상황이 현재보다 개선될 가능성이 높은 것으로 진단했다. 보고서는 최근…"
-        },
-        {
           "title": "野, 李대통령 증시 관련 발언에 “오르면 치적, 폭락하면 팔자?”",
           "link": "https://www.sisajournal.com/news/articleView.html?idxno=394015",
           "source": "시사저널",
@@ -210,6 +220,54 @@
             "뉴데일리"
           ],
           "summary": "국민의힘은 최근 이재명 대통령의 최근 증시 상황 관련 발언들을 두고 “주가가 오르면 대통령의 치적이고, 폭락하면 개미투자자의 팔자인가”라며 맹공했다.박성훈 국민의"
+        },
+        {
+          "title": "급락 후 급등장 신호 나왔다...제일 많이 올라갈 종목 코스닥에 있다",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444793",
+          "source": "연합인포맥스",
+          "published": "2026-11-15T08:38:46+09:00",
+          "latest": "2026-11-15T08:38:46+09:00",
+          "mention_count": 1,
+          "sources": [
+            "연합인포맥스"
+          ],
+          "summary": "급락 후 급등장 신호 나왔다...제일 많이 올라갈 종목 코스닥에 있다"
+        },
+        {
+          "title": "증시 급락에 퇴직연금도 '휘청'…DC형 수익률 53%서 14%대로",
+          "link": "https://www.kyeonggi.com/article/20261115580013",
+          "source": "경기일보",
+          "published": "2026-11-15T08:36:30+09:00",
+          "latest": "2026-11-15T08:36:30+09:00",
+          "mention_count": 1,
+          "sources": [
+            "경기일보"
+          ],
+          "summary": "올해 하반기 국내 증시가 급락하면서 퇴직연금 수익률도 크게 떨어진 것으로 나타났다. 특히 가입자가 직접 투자상품을 선택하는 확정기여형(DC형)과 개인형 퇴직연금(IRP)의 수익률 하락이 두드러졌다. 상반기 주식시장 상승세에 힘입어 개인 운용형 퇴직연금의 비중이 커진 상"
+        },
+        {
+          "title": "코스피 4.56% 반등에도 불안한 증시…엔비디아發 AI 리스크 확산",
+          "link": "https://www.sankyungtoday.com/news/articleView.html?idxno=64253",
+          "source": "산경투데이",
+          "published": "2026-11-15T08:27:10+09:00",
+          "latest": "2026-11-15T08:27:10+09:00",
+          "mention_count": 1,
+          "sources": [
+            "산경투데이"
+          ],
+          "summary": "국내 주식시장이 지난주 급락 충격을 일부 만회하며 반등에 성공했지만, 인공지능(AI) 산업을 둘러싼 불확실성이 확대되면서 상승세를 이어가지 못했다.미국 중간선거 이후 불거진 AI 산업 규제 우려에 이어 젠슨 황 전 엔비디아 최고경영자(CEO)의 사임까지 겹"
+        },
+        {
+          "title": "급락 딛고 반등한 코스피…엔비디아 실적이 다음 주 증시 가른다",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083201",
+          "source": "신아일보",
+          "published": "2026-11-15T07:00:00+09:00",
+          "latest": "2026-11-15T07:00:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "신아일보"
+          ],
+          "summary": "급락 이후 반등한 코스피가 다음 주 엔비디아 실적 발표를 계기로 상승세를 이어갈 수 있을지 주목된다.엔비디아가 AI(인공지능) 반도체 수요를 실적으로 입증하면 국"
         },
         {
           "title": "9385서 4911까지 출렁인 코스피…내년 반등 변수는",
@@ -245,47 +303,63 @@
           "sources": [
             "매일경제 마켓"
           ]
-        },
-        {
-          "title": "\"日 최대 대어 출격\"… 베인·GIC 품은 'WHI 홀딩스', 내달 15일 도쿄증시 상장",
-          "link": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111423040121000c8c1c064d_1",
-          "source": "글로벌이코노믹",
-          "published": "2026-11-15T06:25:00+09:00",
-          "latest": "2026-11-15T06:25:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "글로벌이코노믹"
-          ],
-          "summary": "미국 사모펀드(PEF) 운용사 베인캐피탈(Bain Capital)과 싱가포르국부펀드(GIC)가 공동 보유한 일본 대표 인적자원(HR) 관리 소프트웨어 기업 WHI 홀딩스(WHI Holdings)가 오는 12월 15일 도쿄증권거래소(TSE) 프라임 시장에 전격 상장한다.…"
-        },
-        {
-          "title": "나스닥 23시간 거래 D-3주…\"美투자 확대\" \"국내 영향 제한적\"",
-          "link": "https://stock.mk.co.kr/news/view/1198984",
-          "source": "매일경제 마켓",
-          "published": "2026-11-15T06:25:00+09:00",
-          "latest": "2026-11-15T06:25:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "매일경제 마켓"
-          ]
-        },
-        {
-          "title": "\"바겐세일, 지금이 기회\" 반도체 소부장 51% 불기둥...계속 될까?[김근희의 증시 랩업]",
-          "link": "https://www.mt.co.kr/stock/2026/11/14/2026111316402977802",
-          "source": "머니투데이",
-          "published": "2026-11-15T06:16:12+09:00",
-          "latest": "2026-11-15T06:16:12+09:00",
-          "mention_count": 1,
-          "sources": [
-            "머니투데이"
-          ],
-          "summary": "삼성전자와 SK하이닉스 등 반도체 대장주는 물론 반도체 소부장(소재·부품·장비)주들이 높은 상승률을 보였다. 미국 중간 선거 이후 민주당의 AI 데이터센터 규제 강화에 하락했던 반도체주는 이 기간 저가 매수세와 코어 위브의 실적 덕분에 상승했다."
         }
       ]
     },
     {
       "name": "종목·기업",
       "articles": [
+        {
+          "title": "장동혁 \"李, 주가조작범 잡았다고 자랑…조작탈옥범에 도피처 없어\"",
+          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2313508",
+          "source": "대전일보",
+          "published": "2026-11-14T12:06:00+09:00",
+          "latest": "2026-11-14T18:42:53+09:00",
+          "mention_count": 3,
+          "sources": [
+            "대전일보",
+            "경기일보",
+            "천지일보"
+          ],
+          "summary": "장동혁 국민의힘 대표는 범LG가(家) 3세 구본현 씨의 검거 소식을 두고 이재명 대통령이"
+        },
+        {
+          "title": "변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망]",
+          "link": "https://www.hankyung.com/article/2026111355876",
+          "source": "한국경제",
+          "published": "2026-11-15T08:00:08+09:00",
+          "latest": "2026-11-15T08:17:04+09:00",
+          "mention_count": 2,
+          "sources": [
+            "한국경제",
+            "진일보 | 전남일보"
+          ],
+          "summary": "변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망], NH證 \"코스피 5200~6000\" 제시 엔비디아 실적&middot;美FOMC 의사록 주목"
+        },
+        {
+          "title": "'보호예수 풀리면 주가 하락?'···오버행 제대로 읽는 법",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026111315563463265",
+          "source": "뉴스웨이",
+          "published": "2026-11-15T08:07:30+09:00",
+          "latest": "2026-11-15T08:07:30+09:00",
+          "mention_count": 1,
+          "sources": [
+            "뉴스웨이"
+          ],
+          "summary": "이달 중 52개사의 상장주식 의무보유가 해제되어 주식시장에 영향을 미칠 가능성이 있다. 의무보유 해제는 주식을 팔 수 있는 제한이 사라진다는 의미로, 오버행과는 달리 실제 매도 가능성을 내포한다. 해제 물량과 평소 거래 규모에 따라 주가에 미치는 영향이 달라질 수 있으…"
+        },
+        {
+          "title": "[공모주달력]청약자금 19조원 몰린 4곳…상장 첫날도 웃을까",
+          "link": "https://news.bizwatch.co.kr/article/market/2026/11/13/0024",
+          "source": "비즈워치",
+          "published": "2026-11-15T08:00:02+09:00",
+          "latest": "2026-11-15T08:00:02+09:00",
+          "mention_count": 1,
+          "sources": [
+            "비즈워치"
+          ],
+          "summary": "일반청약에서 증거금 19조원 가까이 모은 기업 네 곳이 11월 셋째 주(16~20일) 코스닥에 상장해요. 16일 영광와이케이엠씨를 시작으로 옵토닉스와 에이엘로봇이 차례로 입성해요. 네 곳 중 가장 많은 증거금인..."
+        },
         {
           "title": "부자들 집 꾸미기 올라탄 美 고급가구 아하우스…주가3배",
           "link": "https://www.mt.co.kr/index.php/stock/2026/11/15/2026111502374075894",
@@ -347,6 +421,17 @@
           "summary": "바이오, 반도체, AI, 로봇 등 연구개발과 설비투자에 막대한 자금이 소요되는 첨단 기술 기업이 자본시장에서 성장 자금을 조달하기 위해 가장 선호하는 방법은 단연 ‘기술특례상장 제도’다. 혁신 성장을 돕는 동시에 시장 신뢰를 지켜야 하는 제도이기도 하다."
         },
         {
+          "title": "앤트로픽 상장에 SK 최태원 겹호재, SK텔레콤 지분가치 재평가에 SK하이닉스 메모리 수혜까지",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451845",
+          "source": "비즈니스포스트",
+          "published": "2026-11-15T06:00:00+09:00",
+          "latest": "2026-11-15T06:00:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "비즈니스포스트"
+          ]
+        },
+        {
           "title": "\"17만원인데, 30만원은 간다며 사라?\"…증권사 목표주가, 웬만하면 '주가 2배' [주주클럽]",
           "link": "https://busan.fnnews.com/news/202611130838466256",
           "source": "부산파이낸셜뉴스",
@@ -404,72 +489,24 @@
             "코스인코리아닷컴"
           ],
           "summary": "11월 둘째 주(11월 9~13일) 주 초반 국내 증시가 급반등했지만 주 후반 다시 흔들렸다. 화장품업종은 제조사의 실적 호조 발표로 주가 강세를 보였다. 주가지수는 외국인 매도 부담 속에도 상승했다가 주 후반 차익 실현으로 13일은 하락으로 돌아섰다. 주간등락률(11…"
-        },
-        {
-          "title": "[탐사보도 뉴스프리즘] '美블루웨이브'에 AI 투자 먹구름…삼전닉스 주가는 연일 널뛰기",
-          "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1439425",
-          "source": "연합뉴스 한민족센터",
-          "published": "2026-11-14T22:00:34+09:00",
-          "latest": "2026-11-14T22:00:34+09:00",
-          "mention_count": 1,
-          "sources": [
-            "연합뉴스 한민족센터"
-          ],
-          "summary": "연합뉴스 한민족센터는 동포 관련 뉴스와 정보를 통해 동포사회의 목소리를 반영합니다."
-        },
-        {
-          "title": "[AI 승부처] 앤스로픽 상장 첫날 시총 1.25조~1.5조 달러 확률 45%…하루 새 6%p↑",
-          "link": "https://www.coinreaders.com/270266",
-          "source": "코인리더스",
-          "published": "2026-11-14T19:05:52+09:00",
-          "latest": "2026-11-14T19:05:52+09:00",
-          "mention_count": 1,
-          "sources": [
-            "코인리더스"
-          ],
-          "summary": "오늘의 확률 온도계앤스로픽의 상장 첫날 종가 기준 시가총액이 1조 2,500억 달러에서 1조 5,000억 달러 사이일까현재 확률 45% · 전일 대비 +6%p거래자들이"
-        },
-        {
-          "title": "'100억 수주'… 하이리움산업, 상장 예심 앞두고 외형 입증 : 네이버 블로그",
-          "link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224477075637&redirect=Dlog",
-          "source": "Naver Blog",
-          "published": "2026-11-14T19:05:08+09:00",
-          "latest": "2026-11-14T19:05:08+09:00",
-          "mention_count": 1,
-          "sources": [
-            "Naver Blog"
-          ],
-          "summary": "보령·당진 수소 출하설비 수주…기술특례 상장 준비, 내년 매출 최대 300억 전망 코스닥 기술특례상장 재도..."
-        },
-        {
-          "title": "젠슨황 깐부 잃은 네이버…이틀새 주가 -11% ‘와르르’ [투자360]",
-          "link": "https://biz.heraldcorp.com/article/10936916",
-          "source": "헤럴드경제",
-          "published": "2026-11-14T18:40:00+09:00",
-          "latest": "2026-11-14T18:40:00+09:00",
-          "mention_count": 1,
-          "sources": [
-            "헤럴드경제"
-          ],
-          "summary": "네이버 주가가 3대 주주인 엔비디아의 젠슨 황 최고경영자(CEO) 사임 파장과 3분기 영업이익 급감이라는 겹악재가 맞물려 최근 2거래일간 11.4% 급감하며, 시가총액이 26조"
-        },
-        {
-          "title": "아마존(AMZN), 앤트로픽 상장 앞두고 AWS 39% 성장…선행 PER 25배",
-          "link": "https://www.coinreaders.com/270254",
-          "source": "코인리더스",
-          "published": "2026-11-14T17:04:55+09:00",
-          "latest": "2026-11-14T17:04:55+09:00",
-          "mention_count": 1,
-          "sources": [
-            "코인리더스"
-          ],
-          "summary": "클로드(Claude) 개발사 앤트로픽이 19일 상장한다. 공모가 상단 기준 몸값은 1조 4,000억 달러(약 1,917조 원)에 이를 수 있다. 최대 클라우드 공급사인 아마존"
         }
       ]
     },
     {
       "name": "정책·금리",
       "articles": [
+        {
+          "title": "[머니 확률표] 월러 '50bp 인상 검토' 발언…연준 12월 빅스텝 확률 9%",
+          "link": "https://www.coinreaders.com/270342",
+          "source": "코인리더스",
+          "published": "2026-11-15T08:04:32+09:00",
+          "latest": "2026-11-15T08:04:32+09:00",
+          "mention_count": 1,
+          "sources": [
+            "코인리더스"
+          ],
+          "summary": "오늘의 확률 온도계연준이 2026년 12월 FOMC에서 기준금리를 50bp 이상 인상할까?현재 확률 9% · 전일 대비 +1%p12월 50bp 인상은 10% 안팎의 소수 시나리오폴리"
+        },
         {
           "title": "[머니 확률표] 美 5년물 금리 5.25% 도달 확률 16%…하루 새 5%p 상승",
           "link": "https://www.coinreaders.com/270220",
@@ -488,6 +525,31 @@
       "name": "기타",
       "articles": [
         {
+          "title": "'9천피'에 발행된 ELS, 내달부터 만기 도래…원금 손실 우려",
+          "link": "https://www.yna.co.kr/view/AKR20261114023300008",
+          "source": "연합뉴스",
+          "published": "2026-11-15T06:15:11+09:00",
+          "latest": "2026-11-15T06:15:11+09:00",
+          "mention_count": 2,
+          "sources": [
+            "연합뉴스",
+            "매일경제 마켓"
+          ],
+          "summary": "지난 6월 고수익률을 앞세워 출시됐던 1년 이하 주가연계증권(ELS) 만기가 내달부터 도래하면서 원금 손실 우..."
+        },
+        {
+          "title": "목표가 괴리율 50% 넘는 종목 195개…고점 매수 부추기는 '장밋빛 리포트'[뒷북치는 증권가②]",
+          "link": "https://www.newsis.com/view/NISX20261113_0003867656",
+          "source": "뉴시스",
+          "published": "2026-11-15T08:00:00+09:00",
+          "latest": "2026-11-15T08:00:00+09:00",
+          "mention_count": 1,
+          "sources": [
+            "뉴시스"
+          ],
+          "summary": "국내 증권사들이 주가 급락 이후 뒤늦게 목표주가를 무더기 하향하고 있지만 실제 주가와의 격차는 여전히 큰 것으로 나타났다. 증권사들이 주가 하락에 뒤늦게 대응하면서 투자 판단의 기준이 돼야 할 리포트가 오히려 개인투자자들의 혼란을 키우고 있다는 지적이다.15일 금융투자…"
+        },
+        {
           "title": "미국 주식 오전 11시부터 거래…투자금 이동엔 시장 흐름 변수 : 금융",
           "link": "https://news.jkn.co.kr/post/1094426",
           "source": "재경일보",
@@ -498,18 +560,6 @@
             "재경일보"
           ],
           "summary": "나스닥이 오는 12월 6일부터 하루 23시간·주 5일 거래체계로 전환할 예정이어서 미국 주식 투자 확대와 국내 증시 수급 변화에 관심이 커지고 있다. 거래 편의성은 높아지지만, 전문가들은 거래시간 연장만으로 국내 자금이 미국으로 대거 이동할 가능성은 크지 않다고 봤다."
-        },
-        {
-          "title": "'9천피'에 발행된 ELS, 내달부터 만기 도래…원금 손실 우려",
-          "link": "https://www.yna.co.kr/view/AKR20261114023300008",
-          "source": "연합뉴스",
-          "published": "2026-11-15T06:15:11+09:00",
-          "latest": "2026-11-15T06:15:11+09:00",
-          "mention_count": 1,
-          "sources": [
-            "연합뉴스"
-          ],
-          "summary": "지난 6월 고수익률을 앞세워 출시됐던 1년 이하 주가연계증권(ELS) 만기가 내달부터 도래하면서 원금 손실 우..."
         },
         {
           "title": "'빚투' 자금 30%가 삼전·닉스에 집중…변동성 더 키웠다",
@@ -619,9 +669,77 @@
       ]
     }
   ],
-  "total_articles": 117,
-  "total_issues": 85,
+  "total_articles": 132,
+  "total_issues": 96,
   "raw": [
+    {
+      "title": "급락 후 급등장 신호 나왔다...제일 많이 올라갈 종목 코스닥에 있다",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444793",
+      "source": "연합인포맥스",
+      "published": "2026-11-15T08:38:46+09:00",
+      "summary": "급락 후 급등장 신호 나왔다...제일 많이 올라갈 종목 코스닥에 있다"
+    },
+    {
+      "title": "증시 급락에 퇴직연금도 '휘청'…DC형 수익률 53%서 14%대로",
+      "link": "https://www.kyeonggi.com/article/20261115580013",
+      "source": "경기일보",
+      "published": "2026-11-15T08:36:30+09:00",
+      "summary": "올해 하반기 국내 증시가 급락하면서 퇴직연금 수익률도 크게 떨어진 것으로 나타났다. 특히 가입자가 직접 투자상품을 선택하는 확정기여형(DC형)과 개인형 퇴직연금(IRP)의 수익률 하락이 두드러졌다. 상반기 주식시장 상승세에 힘입어 개인 운용형 퇴직연금의 비중이 커진 상"
+    },
+    {
+      "title": "[증시전망] 젠슨 황 없는 엔비디아 실적은...앤트로픽 IPO도 주목",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715538",
+      "source": "디지털투데이",
+      "published": "2026-11-15T08:30:00+09:00"
+    },
+    {
+      "title": "코스피 4.56% 반등에도 불안한 증시…엔비디아發 AI 리스크 확산",
+      "link": "https://www.sankyungtoday.com/news/articleView.html?idxno=64253",
+      "source": "산경투데이",
+      "published": "2026-11-15T08:27:10+09:00",
+      "summary": "국내 주식시장이 지난주 급락 충격을 일부 만회하며 반등에 성공했지만, 인공지능(AI) 산업을 둘러싼 불확실성이 확대되면서 상승세를 이어가지 못했다.미국 중간선거 이후 불거진 AI 산업 규제 우려에 이어 젠슨 황 전 엔비디아 최고경영자(CEO)의 사임까지 겹"
+    },
+    {
+      "title": "젠슨 황 퇴진 후폭풍에 증시 출렁…엔비디아 실적이 분수령",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000082723",
+      "source": "진일보 | 전남일보",
+      "published": "2026-11-15T08:17:04+09:00"
+    },
+    {
+      "title": "'보호예수 풀리면 주가 하락?'···오버행 제대로 읽는 법",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026111315563463265",
+      "source": "뉴스웨이",
+      "published": "2026-11-15T08:07:30+09:00",
+      "summary": "이달 중 52개사의 상장주식 의무보유가 해제되어 주식시장에 영향을 미칠 가능성이 있다. 의무보유 해제는 주식을 팔 수 있는 제한이 사라진다는 의미로, 오버행과는 달리 실제 매도 가능성을 내포한다. 해제 물량과 평소 거래 규모에 따라 주가에 미치는 영향이 달라질 수 있으…"
+    },
+    {
+      "title": "[머니 확률표] 월러 '50bp 인상 검토' 발언…연준 12월 빅스텝 확률 9%",
+      "link": "https://www.coinreaders.com/270342",
+      "source": "코인리더스",
+      "published": "2026-11-15T08:04:32+09:00",
+      "summary": "오늘의 확률 온도계연준이 2026년 12월 FOMC에서 기준금리를 50bp 이상 인상할까?현재 확률 9% · 전일 대비 +1%p12월 50bp 인상은 10% 안팎의 소수 시나리오폴리"
+    },
+    {
+      "title": "변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망]",
+      "link": "https://www.hankyung.com/article/2026111355876",
+      "source": "한국경제",
+      "published": "2026-11-15T08:00:08+09:00",
+      "summary": "변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망], NH證 \"코스피 5200~6000\" 제시 엔비디아 실적&middot;美FOMC 의사록 주목"
+    },
+    {
+      "title": "[공모주달력]청약자금 19조원 몰린 4곳…상장 첫날도 웃을까",
+      "link": "https://news.bizwatch.co.kr/article/market/2026/11/13/0024",
+      "source": "비즈워치",
+      "published": "2026-11-15T08:00:02+09:00",
+      "summary": "일반청약에서 증거금 19조원 가까이 모은 기업 네 곳이 11월 셋째 주(16~20일) 코스닥에 상장해요. 16일 영광와이케이엠씨를 시작으로 옵토닉스와 에이엘로봇이 차례로 입성해요. 네 곳 중 가장 많은 증거금인..."
+    },
+    {
+      "title": "목표가 괴리율 50% 넘는 종목 195개…고점 매수 부추기는 '장밋빛 리포트'[뒷북치는 증권가②]",
+      "link": "https://www.newsis.com/view/NISX20261113_0003867656",
+      "source": "뉴시스",
+      "published": "2026-11-15T08:00:00+09:00",
+      "summary": "국내 증권사들이 주가 급락 이후 뒤늦게 목표주가를 무더기 하향하고 있지만 실제 주가와의 격차는 여전히 큰 것으로 나타났다. 증권사들이 주가 하락에 뒤늦게 대응하면서 투자 판단의 기준이 돼야 할 리포트가 오히려 개인투자자들의 혼란을 키우고 있다는 지적이다.15일 금융투자…"
+    },
     {
       "title": "부자들 집 꾸미기 올라탄 美 고급가구 아하우스…주가3배",
       "link": "https://www.mt.co.kr/index.php/stock/2026/11/15/2026111502374075894",
@@ -647,6 +765,13 @@
       "link": "https://www.newsis.com/view/NISX20261113_0003867514",
       "source": "뉴시스",
       "published": "2026-11-15T07:00:00+09:00"
+    },
+    {
+      "title": "급락 딛고 반등한 코스피…엔비디아 실적이 다음 주 증시 가른다",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083201",
+      "source": "신아일보",
+      "published": "2026-11-15T07:00:00+09:00",
+      "summary": "급락 이후 반등한 코스피가 다음 주 엔비디아 실적 발표를 계기로 상승세를 이어갈 수 있을지 주목된다.엔비디아가 AI(인공지능) 반도체 수요를 실적으로 입증하면 국"
     },
     {
       "title": "미국 주식 오전 11시부터 거래…투자금 이동엔 시장 흐름 변수 : 금융",
@@ -715,6 +840,12 @@
       "source": "연합뉴스",
       "published": "2026-11-15T06:15:11+09:00",
       "summary": "지난 6월 고수익률을 앞세워 출시됐던 1년 이하 주가연계증권(ELS) 만기가 내달부터 도래하면서 원금 손실 우..."
+    },
+    {
+      "title": "'9천피'에 발행된 ELS, 내달부터 만기 도래…원금 손실 우려",
+      "link": "https://stock.mk.co.kr/news/view/1198978",
+      "source": "매일경제 마켓",
+      "published": "2026-11-15T06:15:11+09:00"
     },
     {
       "title": "[주간증시전망] AI 투자 시험대… 코스피 5천선 사수 관건",
@@ -791,6 +922,12 @@
       "source": "Chosunbiz",
       "published": "2026-11-15T06:00:00+09:00",
       "summary": "바이오, 반도체, AI, 로봇 등 연구개발과 설비투자에 막대한 자금이 소요되는 첨단 기술 기업이 자본시장에서 성장 자금을 조달하기 위해 가장 선호하는 방법은 단연 ‘기술특례상장 제도’다. 혁신 성장을 돕는 동시에 시장 신뢰를 지켜야 하는 제도이기도 하다."
+    },
+    {
+      "title": "앤트로픽 상장에 SK 최태원 겹호재, SK텔레콤 지분가치 재평가에 SK하이닉스 메모리 수혜까지",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451845",
+      "source": "비즈니스포스트",
+      "published": "2026-11-15T06:00:00+09:00"
     },
     {
       "title": "미국 증시 매도세는 끝났는가? S&P 500과 반도체주의 2027년 전망이 엇갈리며 월가 AI 버블 논쟁",
@@ -1009,6 +1146,12 @@
       "published": "2026-11-14T17:38:40+09:00"
     },
     {
+      "title": "\"내년 봄 증시 다시 오른다\"…스테이블코인 유동성·유가 하락에 증시 반등 전망",
+      "link": "https://www.newsis.com/view/NISX20261114_0003867994",
+      "source": "뉴시스",
+      "published": "2026-11-14T17:38:00+09:00"
+    },
+    {
       "title": "아마존(AMZN), 앤트로픽 상장 앞두고 AWS 39% 성장…선행 PER 25배",
       "link": "https://www.coinreaders.com/270254",
       "source": "코인리더스",
@@ -1163,6 +1306,12 @@
       "source": "대전일보",
       "published": "2026-11-14T12:06:00+09:00",
       "summary": "장동혁 국민의힘 대표는 범LG가(家) 3세 구본현 씨의 검거 소식을 두고 이재명 대통령이"
+    },
+    {
+      "title": "‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1287255.html",
+      "source": "한겨레",
+      "published": "2026-11-14T12:01:00+09:00"
     },
     {
       "title": "‘허위 공시 주가조작’ LG가 3세 구본현, 국외 도피 8년 만에 국내 송환·구속",
@@ -1373,8 +1522,8 @@
         "link": "https://www.kitco.com/news/article/2026-11-13/wall-street-bears-abound-after-inflation-sours-fed-outlook-main-street",
         "source": "Kitco",
         "published": "2026-11-14T08:00:05+09:00",
-        "latest": "2026-11-15T07:19:32+09:00",
-        "mention_count": 26,
+        "latest": "2026-11-15T08:31:00+09:00",
+        "mention_count": 27,
         "sources": [
           "Kitco",
           "Yahoo Finance",
@@ -1383,11 +1532,11 @@
           "Bloomberg.com",
           "Reuters",
           "Moomoo",
+          "Barron's",
           "FXEmpire",
           "Quantisnow",
           "InsuranceNewsNet",
-          "BeInCrypto",
-          "Traders Union"
+          "BeInCrypto"
         ],
         "title_en": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz"
       },
@@ -1397,7 +1546,7 @@
         "source": "Yahoo Finance",
         "published": "2026-11-14T08:00:00+09:00",
         "latest": "2026-11-15T07:20:46+09:00",
-        "mention_count": 16,
+        "mention_count": 17,
         "sources": [
           "Yahoo Finance",
           "CNBC",
@@ -1406,11 +1555,11 @@
           "TradingView",
           "mykxlg.com",
           "FXEmpire",
+          "Cryptopolitan",
           "MarketBeat",
           "BigGo Finance",
           "Morningstar",
-          "ChartMill",
-          "Seeking Alpha"
+          "ChartMill"
         ],
         "title_en": "Organigram Provides NASDAQ Listing Update"
       },
@@ -1419,10 +1568,11 @@
         "link": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/",
         "source": "The Motley Fool",
         "published": "2026-11-14T15:18:15+09:00",
-        "latest": "2026-11-15T07:25:17+09:00",
-        "mention_count": 8,
+        "latest": "2026-11-15T07:58:00+09:00",
+        "mention_count": 9,
         "sources": [
           "The Motley Fool",
+          "JHNewsAndGuide.com",
           "Yahoo Finance",
           "Seeking Alpha",
           "24/7 Wall St.",
@@ -1438,8 +1588,8 @@
         "link": "https://www.wsj.com/politics/policy/inside-stephen-millers-frenetic-first-week-as-white-house-chief-of-staff-b89cedb7",
         "source": "WSJ",
         "published": "2026-11-14T11:00:00+09:00",
-        "latest": "2026-11-15T06:52:01+09:00",
-        "mention_count": 8,
+        "latest": "2026-11-15T08:00:24+09:00",
+        "mention_count": 7,
         "sources": [
           "WSJ",
           "Investing.com",
@@ -1447,48 +1597,32 @@
           "morning-times.com",
           "Ottumwa Courier",
           "WTOP News",
-          "MarketWatch",
-          "CNBC"
+          "MarketWatch"
         ],
         "title_en": "Inside Stephen Miller’s Frenetic First Week as White House Chief of Staff"
       },
       {
-        "title": "독점 | 민주당, 머스크에게 우크라이나 Starlink 액세스에 대한 기록 보존 명령",
-        "link": "https://www.wsj.com/politics/policy/democrats-order-musk-to-preserve-records-over-ukraine-starlink-access-0e33db6a",
-        "source": "WSJ",
-        "published": "2026-11-14T08:33:00+09:00",
-        "latest": "2026-11-15T06:20:03+09:00",
-        "mention_count": 5,
+        "title": "Xencor (NASDAQ:XNCR): 강한 추세, 약한 설정",
+        "link": "https://www.chartmill.com/news/XNCR/Chartmill-58692-Xencor-NASDAQXNCR-Strong-Trend-Weak-Setup",
+        "source": "ChartMill",
+        "published": "2026-11-14T20:00:52+09:00",
+        "latest": "2026-11-15T02:38:12+09:00",
+        "mention_count": 6,
         "sources": [
-          "WSJ",
-          "The Lufkin Daily News",
-          "صحيفة مال",
+          "ChartMill",
+          "Foreign Policy Journal",
+          "huntingdondailynews.com",
           "CNBC",
-          "Investing.com"
+          "Anchorage Daily News",
+          "Seeking Alpha"
         ],
-        "title_en": "Exclusive | Democrats Order Musk to Preserve Records Over Ukraine Starlink Access"
+        "title_en": "Xencor (NASDAQ:XNCR): Strong Trend, Weak Setup"
       }
     ],
     "sections": [
       {
         "name": "시황",
         "articles": [
-          {
-            "title": "Xencor (NASDAQ:XNCR): 강한 추세, 약한 설정",
-            "link": "https://www.chartmill.com/news/XNCR/Chartmill-58692-Xencor-NASDAQXNCR-Strong-Trend-Weak-Setup",
-            "source": "ChartMill",
-            "published": "2026-11-14T20:00:52+09:00",
-            "latest": "2026-11-15T02:38:12+09:00",
-            "mention_count": 5,
-            "sources": [
-              "ChartMill",
-              "Foreign Policy Journal",
-              "huntingdondailynews.com",
-              "CNBC",
-              "Seeking Alpha"
-            ],
-            "title_en": "Xencor (NASDAQ:XNCR): Strong Trend, Weak Setup"
-          },
           {
             "title": "버크셔는 4분기 랠리가 19%에 도달하며 사상 최고치를 경신했습니다.",
             "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
@@ -1509,7 +1643,7 @@
             "link": "https://app.dealroom.co/news/note/blue-lagoon-raises-115m-in-nasdaq-iceland-ipo",
             "source": "Dealroom",
             "published": "2026-11-14T21:49:09+09:00",
-            "latest": "2026-11-15T06:58:00+09:00",
+            "latest": "2026-11-15T08:41:00+09:00",
             "mention_count": 3,
             "sources": [
               "Dealroom",
@@ -1538,9 +1672,10 @@
             "source": "CryptoRank",
             "published": "2026-11-15T02:23:02+09:00",
             "latest": "2026-11-15T06:08:02+09:00",
-            "mention_count": 2,
+            "mention_count": 3,
             "sources": [
               "CryptoRank",
+              "The New York Times",
               "Cryptonews.net"
             ],
             "title_en": "Wall Street’s 24/7 Trading Push Faces Settlement Hurdle"
@@ -1664,7 +1799,7 @@
             "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
             "source": "CNBC",
             "published": "2026-11-14T16:08:45+09:00",
-            "latest": "2026-11-15T06:31:00+09:00",
+            "latest": "2026-11-15T07:08:39+09:00",
             "mention_count": 3,
             "sources": [
               "CNBC",
@@ -1672,6 +1807,18 @@
               "MarketWatch"
             ],
             "title_en": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one"
+          },
+          {
+            "title": "wec 에너지 그룹 부사장 Kelsey는 216만 달러의 주식을 매각합니다.",
+            "link": "https://www.investing.com/news/insider-trading-news/wec-energy-group-executive-vp-kelsey-sells-216m-in-shares-93CH-5027574",
+            "source": "Investing.com",
+            "published": "2026-11-15T08:31:04+09:00",
+            "latest": "2026-11-15T08:31:04+09:00",
+            "mention_count": 1,
+            "sources": [
+              "Investing.com"
+            ],
+            "title_en": "wec energy group executive vp Kelsey sells $2.16M in shares"
           },
           {
             "title": "DraftKings 이사 Gregory Wendt가 98,800달러의 주식을 매입합니다.",
@@ -1691,19 +1838,52 @@
         "name": "기타",
         "articles": [
           {
+            "title": "52개의 헤지 펀드가 이 반도체 주식을 지원합니다 – 문제는 무엇입니까?",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/52-hedge-funds-back-semiconductor-152858112.html",
+            "source": "Yahoo Finance",
+            "published": "2026-11-15T00:28:58+09:00",
+            "latest": "2026-11-15T08:34:00+09:00",
+            "mention_count": 5,
+            "sources": [
+              "Yahoo Finance",
+              "WSJ",
+              "Decrypt",
+              "CNBC",
+              "MarketWatch"
+            ],
+            "title_en": "52 Hedge Funds Back This Semiconductor Stock – What’s the Catch?"
+          },
+          {
             "title": "JPMorgan의 인기 ETF는 월 퇴직 소득으로 4,000달러 이상을 벌 수 있는 경로를 제공합니다.",
             "link": "https://fox11online.com/money/investing/jpmorgan-jepq-monthly-retirement-income",
             "source": "WLUK",
             "published": "2026-11-14T22:06:23+09:00",
-            "latest": "2026-11-15T03:30:00+09:00",
-            "mention_count": 4,
+            "latest": "2026-11-15T08:03:46+09:00",
+            "mention_count": 5,
             "sources": [
               "WLUK",
               "The Motley Fool",
               "The Globe and Mail",
-              "MarketWatch"
+              "MarketWatch",
+              "Yahoo Finance"
             ],
             "title_en": "JPMorgan's Popular ETF Offers a Path to Earn Over $4,000 in Monthly Retirement Income"
+          },
+          {
+            "title": "독점 | 민주당, 머스크에게 우크라이나 Starlink 액세스에 대한 기록 보존 명령",
+            "link": "https://www.wsj.com/politics/policy/democrats-order-musk-to-preserve-records-over-ukraine-starlink-access-0e33db6a",
+            "source": "WSJ",
+            "published": "2026-11-14T08:33:00+09:00",
+            "latest": "2026-11-15T06:20:03+09:00",
+            "mention_count": 5,
+            "sources": [
+              "WSJ",
+              "The Lufkin Daily News",
+              "صحيفة مال",
+              "CNBC",
+              "Investing.com"
+            ],
+            "title_en": "Exclusive | Democrats Order Musk to Preserve Records Over Ukraine Starlink Access"
           },
           {
             "title": "도널드 트럼프(Donald Trump)와 젠슨 황(Jensen Huang)이 강력한 동맹을 맺은 방법",
@@ -1749,6 +1929,19 @@
             "title_en": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage"
           },
           {
+            "title": "지상 정지가 발생했을 때 나는 공중에 있었습니다. 84세인 나의 어머니는 운이 좋지 않았습니다.",
+            "link": "https://www.wsj.com/lifestyle/travel/i-was-in-the-air-when-the-groundstop-hit-my-84-year-old-mother-wasnt-so-lucky-3ddbe394",
+            "source": "WSJ",
+            "published": "2026-11-14T21:50:00+09:00",
+            "latest": "2026-11-15T08:10:34+09:00",
+            "mention_count": 2,
+            "sources": [
+              "WSJ",
+              "Yahoo Finance"
+            ],
+            "title_en": "I Was in the Air When the Ground Stop Hit. My 84-Year-Old Mother Wasn’t So Lucky."
+          },
+          {
             "title": "MercadoLibre 대 Uber Technologies: 2027년에는 어느 소비자 네트워크 주식이 더 나은 구매인가요?",
             "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-vs-uber-technologies-consumer-153202896.html",
             "source": "Yahoo Finance",
@@ -1773,6 +1966,18 @@
               "Briefs Finance"
             ],
             "title_en": "Marvell (MRVL): A Top 10 High P/E Stock Under the 200-Day SMA"
+          },
+          {
+            "title": "Donegal Mutual Insurance Co, Donegal Group 주식 424,497달러 매입",
+            "link": "https://www.investing.com/news/insider-trading-news/donegal-mutual-insurance-co-buys-424497-in-donegal-group-stock-93CH-5027567",
+            "source": "Investing.com",
+            "published": "2026-11-15T08:16:17+09:00",
+            "latest": "2026-11-15T08:16:17+09:00",
+            "mention_count": 1,
+            "sources": [
+              "Investing.com"
+            ],
+            "title_en": "Donegal Mutual Insurance Co buys $424,497 in Donegal Group stock"
           },
           {
             "title": "미국은 세계 석유에서 쿠바를 차단했습니다. 이제는 미국산 연료로 운행됩니다.",
@@ -1833,49 +2038,90 @@
               "Yahoo Finance"
             ],
             "title_en": "Sandisk’s Stock Split Takes Effect Nov. 19. Should You Buy It Now?"
-          },
-          {
-            "title": "머스크는 엔비디아가 젠슨 황 없이 '중요한' 거래를 잃을 것이라고 말했습니다.",
-            "link": "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369",
-            "source": "Investing.com",
-            "published": "2026-11-14T23:54:22+09:00",
-            "latest": "2026-11-14T23:54:22+09:00",
-            "mention_count": 1,
-            "sources": [
-              "Investing.com"
-            ],
-            "title_en": "Musk says Nvidia will lose ’critical’ deals without Jensen Huang"
-          },
-          {
-            "title": "MSC, 독일 조선업체 Meyer Werft의 지분 80% 인수 계약에 가까워졌다고 Spiegel이 보도했습니다.",
-            "link": "https://www.investing.com/news/stock-market-news/msc-nears-deal-for-80-stake-in-german-shipbuilder-meyer-werft-spiegel-reports-5027358",
-            "source": "Investing.com",
-            "published": "2026-11-14T23:18:34+09:00",
-            "latest": "2026-11-14T23:18:34+09:00",
-            "mention_count": 1,
-            "sources": [
-              "Investing.com"
-            ],
-            "title_en": "MSC nears deal for 80% stake in German shipbuilder Meyer Werft, Spiegel reports"
-          },
-          {
-            "title": "지상 정지가 발생했을 때 나는 공중에 있었습니다. 84세인 나의 어머니는 운이 좋지 않았습니다.",
-            "link": "https://www.wsj.com/lifestyle/travel/i-was-in-the-air-when-the-groundstop-hit-my-84-year-old-mother-wasnt-so-lucky-3ddbe394",
-            "source": "WSJ",
-            "published": "2026-11-14T21:50:00+09:00",
-            "latest": "2026-11-14T21:50:00+09:00",
-            "mention_count": 1,
-            "sources": [
-              "WSJ"
-            ],
-            "title_en": "I Was in the Air When the Ground Stop Hit. My 84-Year-Old Mother Wasn’t So Lucky."
           }
         ]
       }
     ],
-    "total_articles": 220,
-    "total_issues": 34,
+    "total_articles": 239,
+    "total_issues": 37,
     "raw": [
+      {
+        "title": "Google Cloud의 EPYC 칩 거래 및 AI 순풍으로 고급 마이크로 장치(NASDAQ: AMD)가 주간 최고 이익 30% 달성",
+        "link": "https://www.foreignpolicyjournal.com/2026/11/14/google-clouds-epyc-chip-deal-and-ai-tailwinds-push-advanced-micro-devices-nasdaq-amd-to-30-weekly-peak-gain/",
+        "source": "Foreign Policy Journal",
+        "published": "2026-11-15T08:41:00+09:00",
+        "title_en": "Google Cloud's EPYC Chip Deal And AI Tailwinds Push Advanced Micro Devices (NASDAQ: AMD) To 30% Weekly Peak Gain"
+      },
+      {
+        "title": "SpaceX는 우주 산업의 거대한 이정표인 Starship 로켓을 성공적으로 포착했습니다.",
+        "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+        "source": "MarketWatch",
+        "published": "2026-11-15T08:34:00+09:00",
+        "title_en": "SpaceX successfully catches Starship rocket in huge milestone for the space industry"
+      },
+      {
+        "title": "wec 에너지 그룹 부사장 Kelsey는 216만 달러의 주식을 매각합니다.",
+        "link": "https://www.investing.com/news/insider-trading-news/wec-energy-group-executive-vp-kelsey-sells-216m-in-shares-93CH-5027574",
+        "source": "Investing.com",
+        "published": "2026-11-15T08:31:04+09:00",
+        "title_en": "wec energy group executive vp Kelsey sells $2.16M in shares"
+      },
+      {
+        "title": "이란의 '현상 유지'가 계속되면서 연준의 인플레이션과의 전쟁은 영원히 전쟁으로 변할 위험이 있습니다.",
+        "link": "https://fortune.com/2026/11/14/federal-reserve-inflation-forever-war-iran-oil-prices-diesel-fed-rate-hikes/",
+        "source": "Fortune",
+        "published": "2026-11-15T08:31:00+09:00",
+        "title_en": "The Fed’s battle against inflation risks turning into a forever war as Iran 'status quo' drags on"
+      },
+      {
+        "title": "Drilling Tools International Corporation 2026 Q3 - 결과 - 수익 발표 프레젠테이션",
+        "link": "https://seekingalpha.com/article/4968238-drilling-tools-international-corporation-2026-q3-results-earnings-call-presentation?source=generic_rss",
+        "source": "Seeking Alpha",
+        "published": "2026-11-15T08:17:42+09:00",
+        "title_en": "Drilling Tools International Corporation 2026 Q3 - Results - Earnings Call Presentation"
+      },
+      {
+        "title": "Donegal Mutual Insurance Co, Donegal Group 주식 424,497달러 매입",
+        "link": "https://www.investing.com/news/insider-trading-news/donegal-mutual-insurance-co-buys-424497-in-donegal-group-stock-93CH-5027567",
+        "source": "Investing.com",
+        "published": "2026-11-15T08:16:17+09:00",
+        "title_en": "Donegal Mutual Insurance Co buys $424,497 in Donegal Group stock"
+      },
+      {
+        "title": "도네갈 그룹 sr. 부사장 Altshuler는 114,043달러의 주식을 판매합니다.",
+        "link": "https://www.investing.com/news/insider-trading-news/donegal-group-sr-vp-altshuler-sells-114043-in-stock-93CH-5027566",
+        "source": "Investing.com",
+        "published": "2026-11-15T08:15:59+09:00",
+        "title_en": "Donegal Group sr. vp Altshuler sells $114,043 in stock"
+      },
+      {
+        "title": "P E가 26세 미만인 금 주식 3개",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/3-gold-stocks-p-e-231034342.html",
+        "source": "Yahoo Finance",
+        "published": "2026-11-15T08:10:34+09:00",
+        "title_en": "3 Gold Stocks With P E Under 26"
+      },
+      {
+        "title": "그는 자신의 200,000달러 S&P 500 401(k)가 AI 위험을 확산시킨다고 생각합니다. 두 개의 알파벳 주식 클래스가 한 회사에 $10,380를 투자했습니다. 20% 하락하면 $2,076의 비용이 발생할 수 있습니다.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/thinks-200-000-p-500-230346273.html",
+        "source": "Yahoo Finance",
+        "published": "2026-11-15T08:03:46+09:00",
+        "title_en": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076"
+      },
+      {
+        "title": "이란 해군 \"호르무즈 기뢰 공격 후 유조선 3척에 불 붙었다\"",
+        "link": "https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556",
+        "source": "Investing.com",
+        "published": "2026-11-15T08:00:24+09:00",
+        "title_en": "Iran’s navy says three tankers on fire after hitting mines in Hormuz"
+      },
+      {
+        "title": "SpaceX, 조기 좌절 후 우주선 포착",
+        "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b",
+        "source": "WSJ",
+        "published": "2026-11-15T07:58:00+09:00",
+        "title_en": "SpaceX Catches Starship After Early Setback"
+      },
       {
         "title": "DraftKings 이사 Gregory Wendt가 98,800달러의 주식을 매입합니다.",
         "link": "https://www.investing.com/news/insider-trading-news/draftkings-director-gregory-wendt-buys-98800-in-shares-93CH-5027554",
@@ -1959,6 +2205,13 @@
         "source": "Yahoo Finance",
         "published": "2026-11-15T07:08:59+09:00",
         "title_en": "Top 3 Canadian Undervalued Stocks To Watch In November 2026"
+      },
+      {
+        "title": "EnGene Therapeutics (ENGN) 주식은 LEGEND 데이터에 대한 분석가의 견해 이후 공정 가치 상승을 얻습니다.",
+        "link": "https://finance.yahoo.com/healthcare/articles/engene-therapeutics-engn-stock-gets-220839469.html",
+        "source": "Yahoo Finance",
+        "published": "2026-11-15T07:08:39+09:00",
+        "title_en": "EnGene Therapeutics (ENGN) Stock Gets Fair Value Boost After Analyst Views On LEGEND Data"
       },
       {
         "title": "FAA가 전국적인 정전에서 L3Harris의 역할을 조사함에 따라 미국 비행 중단이 지속됩니다.",
@@ -2206,6 +2459,13 @@
         "title_en": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
       },
       {
+        "title": "CoreWeave의 수익 이후 주목해야 할 5가지 AI 인프라 주식",
+        "link": "https://finance.yahoo.com/technology/ai/articles/5-ai-infrastructure-stocks-watch-192326731.html",
+        "source": "Yahoo Finance",
+        "published": "2026-11-15T04:23:26+09:00",
+        "title_en": "5 AI Infrastructure Stocks to Watch After CoreWeave’s Earnings"
+      },
+      {
         "title": "Sandisk의 주식분할은 11월 19일부터 적용됩니다. 지금 구매해야 할까요?",
         "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-split-takes-effect-190502856.html",
         "source": "Yahoo Finance",
@@ -2423,6 +2683,13 @@
         "title_en": "Solana falls as Federal Reserve rate hike signals weigh on crypto risk appetite"
       },
       {
+        "title": "월스트리트가 Anthropic의 I.P.O를 제안합니다.",
+        "link": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+        "source": "The New York Times",
+        "published": "2026-11-15T02:25:00+09:00",
+        "title_en": "Wall Street Makes Its Pitch for Anthropic’s I.P.O."
+      },
+      {
         "title": "월스트리트의 24/7 거래 푸시가 결제 장애물에 직면",
         "link": "https://cryptorank.io/news/feed/2b12a-wall-street-24-7-trading-settlement-hurdle",
         "source": "CryptoRank",
@@ -2442,6 +2709,13 @@
         "source": "Seeking Alpha",
         "published": "2026-11-15T02:14:17+09:00",
         "title_en": "Super Micro Computer: Explosive Growth, But Broken Cash Conversion (NASDAQ:SMCI)"
+      },
+      {
+        "title": "격동의 며칠을 보낸 후 월스트리트가 승리의 주를 향해 나아가면서 주식이 흔들리고 있습니다.",
+        "link": "https://www.adn.com/business-economy/2026/11/13/stocks-sway-as-wall-street-heads-for-winning-week-after-several-turbulent-days/",
+        "source": "Anchorage Daily News",
+        "published": "2026-11-15T02:08:13+09:00",
+        "title_en": "Stocks sway as Wall Street heads for winning week after several turbulent days"
       },
       {
         "title": "S&P 500은 18개월 동안 10% 하락 없이 지냈습니다. 이렇게 오랜 연승을 이어간 후 내년이 어떻게 지나갔는지 살펴보겠습니다.",
@@ -2589,6 +2863,13 @@
         "source": "Benzinga",
         "published": "2026-11-15T00:30:05+09:00",
         "title_en": "Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build"
+      },
+      {
+        "title": "52개의 헤지 펀드가 이 반도체 주식을 지원합니다 – 문제는 무엇입니까?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/52-hedge-funds-back-semiconductor-152858112.html",
+        "source": "Yahoo Finance",
+        "published": "2026-11-15T00:28:58+09:00",
+        "title_en": "52 Hedge Funds Back This Semiconductor Stock – What’s the Catch?"
       },
       {
         "title": "Marvell(MRVL): 200일 SMA 하에서 상위 10개 고PER 주식",
@@ -3186,6 +3467,13 @@
         "title_en": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one"
       },
       {
+        "title": "주식은 하락했지만 월스트리트는 며칠간 격동의 날을 보낸 후 승리를 거두었습니다.",
+        "link": "https://www.jhnewsandguide.com/jackson_hole_daily/state_and_regional/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/article_5a24b380-d50f-50a0-880b-9df5b2e7c7f7.html",
+        "source": "JHNewsAndGuide.com",
+        "published": "2026-11-14T16:00:00+09:00",
+        "title_en": "Stocks fall but Wall Street notches a winning week after several turbulent days"
+      },
+      {
         "title": "Anthropic은 11월 18일 나스닥에 상장하며 최대 가치는 약 1조 4천억 달러에 이릅니다. 한국 AI ETF, 주식 추가 경쟁",
         "link": "https://finance.biggo.com/news/8d402b66-80e6-4dfe-88f1-f285624c313d",
         "source": "BigGo Finance",
@@ -3221,11 +3509,25 @@
         "title_en": "Advanced Micro Devices (NASDAQ:AMD) Shares Cross Below 50 Day Moving Average on Insider Selling"
       },
       {
+        "title": "SBF는 AI 거대 기업이 나스닥 IPO를 준비하면서 370억 달러의 인류 횡재를 놓쳤습니다.",
+        "link": "https://www.cryptopolitan.com/sbf-misses-37b-anthropic-windfall/",
+        "source": "Cryptopolitan",
+        "published": "2026-11-14T14:07:03+09:00",
+        "title_en": "SBF misses $37B Anthropic windfall as AI giant prepares for Nasdaq IPO"
+      },
+      {
         "title": "NASDAQ 지수, SP500, Dow Jones 예측 - AMD가 9% 급락하면서 NASDAQ이 후퇴함",
         "link": "https://www.fxempire.com/forecasts/article/nasdaq-index-sp500-dow-jones-forecasts-nasdaq-retreats-as-amd-dives-9-1644623",
         "source": "FXEmpire",
         "published": "2026-11-14T12:21:00+09:00",
         "title_en": "NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Retreats As AMD Dives 9%"
+      },
+      {
+        "title": "주식 시장은 Nvidia보다 더 큽니다. 하지만 인류학은 어떻습니까?",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-111326/card/the-stock-market-is-bigger-than-nvidia-but-what-about-anthropic--5w3Zocjtk6HAhHVRg7sR?modCode=hp_LEDE_C_LC_1",
+        "source": "Barron's",
+        "published": "2026-11-14T12:02:00+09:00",
+        "title_en": "The Stock Market Is Bigger Than Nvidia. But What About Anthropic?"
       },
       {
         "title": "에세이 | 그리스가 파산으로부터 배운 것과 유럽의 다른 국가들은 아직 배우지 못한 것",
