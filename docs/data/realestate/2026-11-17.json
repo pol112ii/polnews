@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T20:05:06.091516+09:00",
+  "generated_at": "2026-11-17T20:40:20.618976+09:00",
   "topic": {
     "id": "realestate",
     "label": "부동산",
@@ -105,7 +105,7 @@
       "source": "머니투데이",
       "published": "2026-11-17T11:15:00+09:00",
       "latest": "2026-11-17T17:11:47+09:00",
-      "mention_count": 16,
+      "mention_count": 17,
       "sources": [
         "머니투데이",
         "BBS불교방송",
@@ -1057,6 +1057,20 @@
           "summary": "법무법인 율촌이 미국 부동산 투자 전문기업 코리니(KORINY)와 손잡고 국내 기업과 고액자산가를 대상으로 미국 부."
         },
         {
+          "title": "부동산원, 공시 업무에 AI 에이전트 도입…자료 검색·문서 작성 줄인다",
+          "link": "https://www.fnnews.com/news/202611171101469576",
+          "source": "파이낸셜뉴스",
+          "published": "2026-11-17T11:13:00+09:00",
+          "latest": "2026-11-17T18:56:52+09:00",
+          "mention_count": 3,
+          "sources": [
+            "파이낸셜뉴스",
+            "진일보 | 전남일보",
+            "아이뉴스24"
+          ],
+          "summary": "한국부동산원이 부동산 가격 공시를 시작으로 경영정보·통계 등 업무에 AI 에이전트를 도입한다.17일 한국부동산원은 기관 내부 데이터와 거대언어모델을 연계한 'AI 에이전트 플랫폼'을 구축했다고 밝혔다."
+        },
+        {
           "title": "월급쟁이부자들, 부동산 중개 ‘구해줘내집’ 종료… 희망퇴직 시행",
           "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/17/HB5DWWDMBNFK7LXO3QPWXQFBFE/",
           "source": "Chosunbiz",
@@ -1069,20 +1083,6 @@
             "파이낸셜뉴스"
           ],
           "summary": "월급쟁이부자들, 부동산 중개 구해줘내집 종료 희망퇴직 시행"
-        },
-        {
-          "title": "부동산원, 공시 업무에 AI 에이전트 도입…자료 검색·문서 작성 줄인다",
-          "link": "https://www.fnnews.com/news/202611171101469576",
-          "source": "파이낸셜뉴스",
-          "published": "2026-11-17T11:13:00+09:00",
-          "latest": "2026-11-17T16:48:46+09:00",
-          "mention_count": 3,
-          "sources": [
-            "파이낸셜뉴스",
-            "진일보 | 전남일보",
-            "아이뉴스24"
-          ],
-          "summary": "한국부동산원이 부동산 가격 공시를 시작으로 경영정보·통계 등 업무에 AI 에이전트를 도입한다.17일 한국부동산원은 기관 내부 데이터와 거대언어모델을 연계한 'AI 에이전트 플랫폼'을 구축했다고 밝혔다."
         },
         {
           "title": "미래에셋증권 평촌WM, VIP 고객 세미나…부동산·세무·ETF 전망",
@@ -1101,14 +1101,26 @@
       ]
     }
   ],
-  "total_articles": 740,
-  "total_issues": 322,
+  "total_articles": 745,
+  "total_issues": 325,
   "raw": [
+    {
+      "title": "[정준호의 부동산과 사회경제]전세의 월세화 확산…어떤 ‘임대차 질서’ 만들 것인가",
+      "link": "https://www.khan.co.kr/article/202611172018005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "경향신문",
+      "published": "2026-11-17T20:18:00+09:00"
+    },
     {
       "title": "한국부동산원, 10월 전국 집값 0.28% 올라…서울·경기 오름세 지속에 전·월세도 동반 상승",
       "link": "https://www.ksmnews.co.kr/news/view.php?idx=630034",
       "source": "경상매일신문",
       "published": "2026-11-17T19:55:33+09:00"
+    },
+    {
+      "title": "세종은 매수심리·충북은 매매압력 ‘껑충’…충청 부동산 회복 신호",
+      "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240442",
+      "source": "충청투데이",
+      "published": "2026-11-17T19:30:00+09:00"
     },
     {
       "title": "거래 줄고 매물 늘고…서울 아파트값 하락장 신호탄일까?",
@@ -1122,6 +1134,12 @@
       "source": "Vietnam.vn",
       "published": "2026-11-17T18:56:57+09:00",
       "summary": "국회 상임위원회는 토지법(개정) 및 부동산거래법(개정) 초안에 대한 설명, 수용 및 수정에 관한 의견을 제시했습니다."
+    },
+    {
+      "title": "부동산원, 가격공시·문서 작성에 AI 에이전트 도입",
+      "link": "https://www.fnnews.com/news/202611171856518661",
+      "source": "파이낸셜뉴스",
+      "published": "2026-11-17T18:56:52+09:00"
     },
     {
       "title": "김창수 대표, 서울 강남서 AI 마케팅 강의 진행…부동산 중개업 디지털 활용 주목",
@@ -1668,6 +1686,12 @@
       "link": "https://www.seoulfn.com/news/articleView.html?idxno=643054",
       "source": "서울파이낸스",
       "published": "2026-11-17T14:08:39+09:00"
+    },
+    {
+      "title": "서울시, 연말연초 청년 전월세 계약 지원…전세사기 예방상담 운영",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2378728",
+      "source": "웹이코노미",
+      "published": "2026-11-17T14:07:17+09:00"
     },
     {
       "title": "대우건설, 신월시영 재건축 수주 위해 美 저디와 협업",
@@ -3078,6 +3102,12 @@
       "link": "https://www.mt.co.kr/stock/2026/11/17/2026111708493631842",
       "source": "머니투데이",
       "published": "2026-11-17T08:51:31+09:00"
+    },
+    {
+      "title": "배당 성장이 멈춘 리츠, 실물자산에서 금융상품이 되다",
+      "link": "https://story.pay.naver.com/content/3799_30_C10",
+      "source": "네이버페이 머니스토리",
+      "published": "2026-11-17T08:41:18+09:00"
     },
     {
       "title": "월급쟁이부자들, 부동산 중개 ‘구해줘내집’ 종료… 희망퇴직 시행",
